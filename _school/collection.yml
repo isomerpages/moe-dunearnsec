@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - Teaching Staff.md
       - Administrative Staff.md
       - School Achievements.md
       - School Calendar.md
