@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents Support Group/.keep
-      - Parents Support Group.md
       - Parents Support Group (Facebook).md
       - Alumni.md
       - Alumni Facebook Page.md
