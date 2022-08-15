@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents Support Group/Parents Support Group.md
       - Parents Support Group/.keep
       - Parents Support Group (Facebook).md
       - Alumni.md
