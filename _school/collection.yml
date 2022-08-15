@@ -2,4 +2,5 @@ collections:
   school:
     output: true
     order:
+      - Feedback.md
       - FAQs.md
