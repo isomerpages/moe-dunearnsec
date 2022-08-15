@@ -46,3 +46,25 @@ description: ""
 <p>Three teams of fifteen students from Dunearn Science Ambassador Programme (SAP) and Health Ambassador Programme (HAP) participated in the Interschool Food Science Competition held at Republic Polytechnic on 28 Aug 2019.</p>
 <p>During this competition, the teams are required to create a healthy nutritious food product and packaging for picky eaters from age 4 to 7. More than 20 teams from several STEM ALP schools took part in this competition. The teams spent a period of two months to develop and finalised their ideas and products.</p>
 <p>We are proud to announce that the team comprising&nbsp;<strong>Jonathan Wong, Joan Yam, Nur Hannis, Rinis Boo</strong>&nbsp;and&nbsp;<strong>Nur Haryany</strong>&nbsp;emerged as Second Runner Up for the competition. Congratulations and well done team!</p>
+<img src="/images/alp8.png">
+<p style="text-align: center;"><em>SAP Team 1 and their products</em></p>
+<img src="/images/alp9.png">
+<p style="text-align: center;"><em>SAP Team 2 and their products</em></p>
+<img src="/images/alp10.png">
+<p style="text-align: center;"><em>Health Ambassadors Team and their products</em></p>
+<img src="/images/alp11.png">
+<p style="text-align: center;"><em>Presentation to the Judges</em></p>
+<img style="width: 75%;" src="/images/alp12.png">
+<p style="text-align: center;"><strong>Congratulations to SAP team 1!</strong></p>
+<h4>Dunearn Emerged Champion for the Shell STEM Young Innovation Challenge</h4>
+<img src="/images/alp13.jpg">
+<p>Two teams of ten students from Dunearn Science Ambassador Programme (SAP) participated in the Shell STEM Young Innovation Challenge at Republic Polytechnic on 21st Jul 2016. The teams took part in the Health &amp; Food Analytics Category and the challenge was to create a healthy convenience food product and packaging for the elderly. More than 20 teams from several STEM ALP schools took part in the Challenge.</p>
+<p>The teams spent a period of two months to develop their product and we are proud that the team comprising Cheah Siew Mun, Ho Jia Hui, Huang Wei Wen, Jolie Er and Stephen Png emerged Champion for the category. The team will showcase their product and receive the award during the Awards Ceremony at the HDB Hub on 24 Aug 2016.</p>
+<img src="/images/alp14.jpg">
+<h4>Reflections from students:</h4>
+<p><em>The challenge was stimulating as we had to take into account the many health risks and special diets of the elderly to come up with a new and creative convenience food and drink. It gave us a great opportunity to learn more about nutrition and the food industry and made me more aware of the importance of nutrition and health. I also learnt that developing and marketing a food product is a long process and many evaluations have to be carried before the product is eventually released to the market</em>.<br /><em>~ Jolie Er<br /><br />The&nbsp;<strong>STEM SHELL</strong>&nbsp;challenge taught me a lot about how the food industry works. It gave me an opportunity to dive into business and experience the processes involved in marketing a food product. We were very proud to be able to express our creativity and execute our ideas into a real prototype, and to eventually showcase our final product to the judges. Overall, it was a very enriching experience.<br />~ Cheah Siew Mun</em><br /><br />Following the achievement of the Champion award at the Shell STEM Youth Innovation Challenge 2016, the team of five students from the Science Ambassadors Programme presented at the MOE ExCEL Fest 2017, where they shared with the MOE community how the concepts learnt in ALP led to the creation of an innovative product - healthy barley fried rice</p>
+<h4>Feedback from Our Students</h4>
+<p><em>Participating in the MOE ExCEL Fest 2017 was a true privilege for me as I had never thought that I'll be given such an opportunity. The experience really opened my eyes to the interesting world of food science and technology.</em><br /><em>~ Cheah Siew Mun (Sec 3 Opal)<br /><br />It was a great learning experience to be at MOE ExCEL Fest 2017. We had to share information and knowledge that we've learnt to the visitors and this experience really helped to improve my presentation skills. I also had fun with my fellow teammates who managed the booth with me. It was truly a memorable experience.<br />~ Ho Jia Hui (Sec 3 Opal)</em></p>
+<h4>Dunearn's ALP story is featured on schoolbag.sg!</h4>
+<p><strong>Food For Thought</strong></p>
+<p>01 NOV 2016 <a href="https://www.schoolbag.sg/story/food-for-thought">https://www.schoolbag.sg/story/food-for-thought</a></p>
