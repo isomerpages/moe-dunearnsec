@@ -2,4 +2,5 @@ collections:
   school-programs:
     output: true
     order:
+      - Food Science and Technology (Applied Learning Programme – ALP).md
       - Personal Learning Device Program (PDLP).md
