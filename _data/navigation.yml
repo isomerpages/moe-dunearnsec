@@ -1,6 +1,33 @@
 logo: /images/logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: School
+    url: /school/our-history
+    sublinks:
+      - title: Our History
+        url: /school/our-history
+      - title: Dunearn Logo
+        url: /school/dunearn-logo
+      - title: About Us
+        url: /school/about-us
+      - title: Principal's Message
+        url: /school/principals-message
+      - title: School Advisory Committee
+        url: /school/school-advisory-committee
+      - title: School Management Committee
+        url: /school/school-management-committee
+      - title: Teaching Staff
+        url: /school/teaching-staff
+      - title: Administrative Staff
+        url: /school/administrative-staff
+      - title: School Achievements
+        url: /school/school-achievements
+      - title: School Calendar
+        url: /school/school-calendar
+      - title: Contact Us
+        url: /school/contact-us
+      - title: School Safety
+        url: /school/school-safety
+      - title: Feedback
+        url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
+      - title: FAQs
+        url: /school/faqs
