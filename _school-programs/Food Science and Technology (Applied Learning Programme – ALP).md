@@ -31,3 +31,18 @@ description: ""
 <p>Two teams of nine Dunearnites participated in the interschool Nutri-Booster Health and Food Science Competition organised by Science Centre and Republic Polytechnic on 20 Aug 2021.</p>
 <p>During this competition, the teams attended seven modules of online course on healthy food and making of dietary supplements using capsule machine. The teams used the knowledge gained from the online modules and Lower Secondary ALP Food Science modules to plan and create a main dish to satisfy the nutritional needs of busy young adults aged 18 &ndash; 35 years old. Over a period of two months, the teams developed and finalised their ideas, and also created a dietary supplement to complement the main dish.</p>
 <p>We are proud that the DSS Team 2 emerged as First Runner-Up for the competition! Congratulations and well done team!</p>
+<img src="/images/alp6.png">
+<p><strong><u>Reflections from participants:</u></strong></p>
+<p><em>&ldquo;We learned time management skills and the benefits of different food ingredients. Thank you to all the teachers for giving us this opportunity and thank you to all team members who gave their full effort throughout this competition! &ldquo; -- Kerlin</em></p>
+<p><em>&ldquo;Through this competition, I have learnt how to plan meals based on individual preferences and needs. I throughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable!&rdquo; -- Cheryl</em></p>
+<p><em>&ldquo;The overall experience was interesting and I had a lot of fun learning through the process.&rdquo; &ndash; Chloe</em></p>
+<h4>Youth Science Ambassador Programme (YSAP) Graduation Ceremony 2021</h4>
+<p>On 5 February 2021, students from the Youth Science Ambassador Programme (YSAP) celebrated their graduation from the programme with Singapore Science Centre and received their certificates. These students had contributed 50 hours to the programme in the form of community events and Science skills workshops.&nbsp;</p>
+<img src="/images/alp7.jpg">
+<p style="text-align: center;"><em>Presentation of the Amazon Future Engineer Bursary Award by the Guest of Honour</em></p>
+<p>One of the YSAP students, Ashlynn from Sec 3, also received the Amazon Future Engineer Bursary Award which is presented only to the top 10% of the cohort to show recognition to their outstanding performance during the programme.</p>
+<p>We congratulate the students on their achievements!</p>
+<h4>Dunearnites won 2nd Runner Up in Interschool Food Science Competition</h4>
+<p>Three teams of fifteen students from Dunearn Science Ambassador Programme (SAP) and Health Ambassador Programme (HAP) participated in the Interschool Food Science Competition held at Republic Polytechnic on 28 Aug 2019.</p>
+<p>During this competition, the teams are required to create a healthy nutritious food product and packaging for picky eaters from age 4 to 7. More than 20 teams from several STEM ALP schools took part in this competition. The teams spent a period of two months to develop and finalised their ideas and products.</p>
+<p>We are proud to announce that the team comprising&nbsp;<strong>Jonathan Wong, Joan Yam, Nur Hannis, Rinis Boo</strong>&nbsp;and&nbsp;<strong>Nur Haryany</strong>&nbsp;emerged as Second Runner Up for the competition. Congratulations and well done team!</p>
