@@ -1,4 +1,5 @@
 collections:
   school-programs:
     output: true
-    order: []
+    order:
+      - Personal Learning Device Program (PDLP).md
