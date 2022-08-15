@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Alumni Facebook Page.md
       - Voices of Dunearn.md
       - Parenting & Family Life/.keep
       - Parents Gateway.md
