@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Voices of Dunearn.md
       - Parenting & Family Life/.keep
       - Parents Gateway.md
