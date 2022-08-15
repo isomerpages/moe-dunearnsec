@@ -31,15 +31,6 @@ links:
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
         url: /school/faqs
-  - title: Speech Day 2022
-    url: /speech-day-2022
-  - title: Dunearn Stories
-    url: /dunearn-stories/inspiring-dunearnites-2015
-    sublinks:
-      - title: Inspiring Dunearnites (2015)
-        url: /dunearn-stories/inspiring-dunearnites-2015
-      - title: Creative Dunearnites (2015)
-        url: /dunearn-stories/creative-dunearnites-2015
   - title: School Programs
     url: /school-programs/community-youth-leadership-llp
     sublinks:
@@ -51,3 +42,12 @@ links:
         url: /school-programs/food-science-and-technology-applied-learning-programme-alp
       - title: PDLP
         url: /school-programs/personal-learning-device-program-pdlp
+  - title: Dunearn Stories
+    url: /dunearn-stories/inspiring-dunearnites-2015
+    sublinks:
+      - title: Inspiring Dunearnites (2015)
+        url: /dunearn-stories/inspiring-dunearnites-2015
+      - title: Creative Dunearnites (2015)
+        url: /dunearn-stories/creative-dunearnites-2015
+  - title: Speech Day 2022
+    url: /speech-day-2022
