@@ -34,3 +34,13 @@ description: ""
 <img style="width: 65%;" src="/images/llp4.jpg" align = "left" /><br><br><br><br><br><br>
 <p><strong>Alignment to School Values, 21 Century Competencies and Skills</strong></p>
 <p>The following table describes the mapping between the leadership domains to the school values, 21CC and attitudes, behaviour, competencies and skills.&nbsp;</p>
+<img src="/images/llp5.jpg">
+<h4>Programmes And Activities</h4>
+<p><strong>Cohort Leadership Training&nbsp;</strong>- Students from the different levels will undergo a cohort leadership workshop to equip them with the skills and knowledge for the four leadership domains.</p>
+<img src="/images/llp6.jpg">
+<p><strong>Student Leadership Development</strong>&nbsp;&ndash; Leadership training for different student segments (e.g. student council, class committee) are also conducted periodically throughout the year. Leaders are inducted to their new roles through the provision of platforms and opportunities to plan and execute the activities. The &ldquo;Leadership Challenge Model&rdquo; is used as an overarching frame to align the objective of the different domains to the leadership tiers. An online leadership module is also available to supplement students with the knowledge to lead the student body.&nbsp;</p>
+<img src="/images/llp7.jpg">
+<p><strong>Appointment and Recognition</strong>&nbsp;- Students nominated for leadership appointments (e.g. Student council, Class Chairpersons, CCA leaders) are officially appointed and recognized during the student leadership investiture. The ceremony also officiates the leadership role students undertake and the handing and taking over of higher responsibilities.</p>
+<img src="/images/llp8.jpg">
+<p><strong>Values in Action</strong>&nbsp;&ndash; As community youth leaders, Dunearnites would have the opportunity to plan and participate in activities that contributes to the school, local and overseas community. Participation in Values in Action (VIA) projects such as service-learning encourages the student to take ownership and identify the community issues they are concerned about, and initiate action among peers to make a difference and improve the lives of others.&nbsp;</p>
+<img src="/images/llp9.jpg">
