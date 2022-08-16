@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
       - CCA Information.md
       - Rules and Regulations.md
