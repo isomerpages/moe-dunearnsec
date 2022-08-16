@@ -31,6 +31,17 @@ links:
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
         url: /school/faqs
+  - title: CCAs
+    url: /ccas/uniformed-groups
+    sublinks:
+      - title: Uniformed Groups
+        url: /ccas/uniformed-groups
+      - title: Sports & Games
+        url: /ccas/sports-n-games
+      - title: Performing Arts
+        url: /ccas/performing-arts
+      - title: Clubs
+        url: /ccas/clubs
   - title: School Programs
     url: /school-programs/community-youth-leadership-llp
     sublinks:
