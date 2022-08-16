@@ -223,3 +223,113 @@ description: ""
 </tbody>
 </table>
 <h4>Key Programmes and Processes</h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">S/N</th>
+<th style="text-align: center;">Key Result Area</th>
+<th style="text-align: center;">Key Programmes and Processes</th>
+<th style="text-align: center;">Alignment to Mission</th>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Intervention and<br />Partnership</td>
+<td>
+<ul>
+<li>Needs assessment &ndash; moral, socio-emotional, cognitive, physical, financial</li>
+<li>Financial Assistance Scheme (FAS) e.g., MOE FAS, School Advisory Committee FAS, School Pocket Money, NEU PC Plus Programme, EyeWear@ South West, and referrals to external organizations</li>
+<li>Student health update through Student Medical Records and Annual Health Check</li>
+<li>Support and follow-up action for vulnerable (at risk) students or students with socio-emotional / mental health / special / medical needs</li>
+<ul>
+<li>Meeting with parents</li>
+<li>Counselling (school / external agencies)</li>
+<li>House visits</li>
+<li>After School Engagement (ASE)</li>
+<li>Customized / intervention programmes</li>
+<li>Collaboration with Student Management Committee</li>
+<li>Access Arrangement</li>
+</ul>
+<li>Cohort programmes</li>
+<li>Post-exam activities</li>
+<li>Assembly talks</li>
+<li>Meet-the-Parents talks</li>
+<li>Mobilization of CARE officers during emergency</li>
+</ul>
+</td>
+<td>Removing all barriers<br />to learning</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Curriculum</td>
+<td>
+<ul>
+<li>CCE Lessons</li>
+<li>CCE Guidance Modules (include Sexuality Education, Cyberwellness and Education &amp; Career Guidance) during VE periods</li>
+<li>Dunearn Character Development Profile (DCDP)</li>
+<li>Values talk</li>
+<li>Awards and Recognition</li>
+<ul>
+<li>Best class competition</li>
+<li>Student of the Term</li>
+<li>Edusave Character Award (ECHA)</li>
+</ul>
+<li>Student Suggestion Scheme</li>
+<li>Farewell assembly</li>
+</ul>
+</td>
+<td>Building strong character and citizenship</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>National Education (NE)</td>
+<td>
+<ul>
+<li>NE curriculum packages</li>
+<li>NE core events</li>
+<ul>
+<li>Total Defence Day (TDD)</li>
+<li>International Friendship Day (IFD)</li>
+<li>Racial Harmony Day (RHD)</li>
+<li>National Day (ND)</li>
+</ul>
+<li>Cohort citizenship programmes</li>
+<li>NE Quiz</li>
+<li>Citizenship Survey</li>
+</ul>
+</td>
+<td>Building strong character and citizenship</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Values in Action<br />(VIA)<br /><br />(Led by Student Leadership committee]</td>
+<td>
+<ul>
+<li>Sec 1: School-based VIA</li>
+<li>Sec 2: Local community VIA</li>
+<li>Sec 3: Local community VIA</li>
+<li>Sec 4/5: Student-initiated local community VIA</li>
+<li>Co-Curricular Activities (CCA)</li>
+</ul>
+</td>
+<td>Building strong character and citizenship</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Education and<br />Career Guidance<br />(ECG)<br /><br />[Led by ECG<br />committee]</td>
+<td>
+<ul>
+<li>CCE Guidance Modules during VE periods</li>
+<li>Open house visits (poly / JC) for Sec 4 and 5&nbsp;</li>
+<li>Higher Institution and Career Week</li>
+<li>ITE talks / visits / Experience ITE programme for Normal Stream students</li>
+<li>Cohort programmes and talks</li>
+<li>Work attachment</li>
+<li>Elective Modules for Normal Stream students</li>
+<li>ECG Counselling</li>
+</ul>
+</td>
+<td>Providing clear education and career<br />guidance</td>
+</tr>
+</tbody>
+</table>
+<h4>Character Education&nbsp;</h4>
