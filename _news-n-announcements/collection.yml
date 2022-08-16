@@ -2,6 +2,7 @@ collections:
   news-n-announcements:
     output: true
     order:
+      - Vote for Dunearn in the 16th Yoripe Sandwich Making Competition 2021!.md
       - Higher Institution Open House 2022.md
       - Sec 2,4,5 Mid Year Exam Schedules.md
       - 2022 Direct School Admission (DSA).md
