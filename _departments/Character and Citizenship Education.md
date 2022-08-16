@@ -349,3 +349,4 @@ description: ""
 </ul>
 <h4>Kolb&rsquo;s Experiential Learning Model</h4>
 <p>The main school-wide CCE pedogogical approach used to facilitate students&rsquo; character and citizenship development and reflection is the Experiential Learning Approach, based on Kolb&rsquo;s Experiential Learning Model. Students will reflect on their experience, learn from it, and apply the lessons in everyday life.</p>
+<img src="/images/cce3.jpg">
