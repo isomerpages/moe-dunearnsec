@@ -8,18 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/banners.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Dunearn Links
+          description: ""
+          url: ""
+        - title: Speech Day 2022
+          description: ""
+          url: /speech-day-2022
   - infobar:
       title: Infobar title
       subtitle: Subtitle
