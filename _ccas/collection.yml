@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corp.md
       - Uniformed Groups/St John Brigade.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/Uniformed Groups.md
