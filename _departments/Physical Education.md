@@ -3,9 +3,9 @@ title: Physical Education
 permalink: /departments/physical-education
 description: ""
 ---
-<h4><strong>Objectives</strong></h4>
+<h4>Objectives</h4>
 <p>The PE department aims to provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments. Our approach will be through Physical activities, Dunearnites Learn and Achieve for Years to come (P.L.A.Y).</p>
-<h4><strong>Staffing</strong></h4>
+<h4>Staffing</h4>
 <table border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -45,7 +45,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Key Programmes (Indoor and Outdoor)</strong></h4>
+<h4>Key Programmes (Indoor and Outdoor)</h4>
 <ul>
 <li>BLOOM (Balanced Lifestyle: Organ of the Month) Programme for Holistic Health Framework in DSS, monthly for the whole school</li>
 <li>Annual Cross Country - Yearly run for the whole school</li>
