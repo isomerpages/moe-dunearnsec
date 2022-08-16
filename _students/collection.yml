@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - ITE Admission COP 2020.md
       - Travel Declaration (Students).md
       - Direct School Admission.md
       - Student Learning Space.md
