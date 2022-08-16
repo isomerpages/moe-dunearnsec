@@ -24,9 +24,7 @@ description: ""
 </ul>
 </th>
 <th style="text-align: left;">
-<p>- A1 to C6</p>
-<p>- A1 to D7</p>
-<p>- A1 to D7</p>
+<p>- A1 to C6<br>- A1 to D7<br>- A1 to D7</p>
 </th>
 </tr>
 </tbody>
