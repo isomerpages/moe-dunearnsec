@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department.md
       - Craft & Technology Department.md
       - Physical Education.md
       - Character and Citizenship Education.md
