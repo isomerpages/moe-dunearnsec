@@ -21,5 +21,5 @@ third_nav_title: Parenting & Family Life
 <li>Decrease in parenting stress&nbsp;</li>
 </ul>
 <p><strong>WHAT SCHOOL LEADERS SAY<br /></strong>&ldquo;Triple P Level 2 seminars teach very &lsquo;down to earth&rsquo; and &lsquo;doable&rsquo; stuff that parents can try out. I&rsquo;ve personally tried out some of the strategies with my own children and found them workable. The tip sheets come in handy too."- Principal, St Theresa&rsquo;s Convent</p>
-<p><strong>HOW DO I SIGN UP TO FIND OUT MORE<br /></strong>Fill in the form at https://go.fycs.org/PSPEnquiryForm or scan the QR code to let us know your interest. You may also email us at parenting@fycs.org</p>
+<p><strong>HOW DO I SIGN UP TO FIND OUT MORE<br /></strong>Fill in the form at <a href="https://go.fycs.org/PSPEnquiryForm"> https://go.fycs.org/PSPEnquiryForm</a> or scan the QR code to let us know your interest. You may also email us at <a href="mailto:parenting@fycs.org">parenting@fycs.org</a></p>
 <p><strong>FOR MORE INFORMATION ABOUT TRIPLE P<br /></strong>Go to https://www.youtube.com/watch?v=Fo8XE2yQStg or <a href="https://www.family-central.sg/news-articles/help-my-child-just-wont-listen/">Link</a>&nbsp;</p>
