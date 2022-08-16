@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - PDLP Briefing Slides For Parents.md
       - Acer PDLP eShop.md
       - WESTstories – Dunearn.md
       - School Calendar.md
