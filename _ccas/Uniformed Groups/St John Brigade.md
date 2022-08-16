@@ -4,6 +4,9 @@ permalink: /ccas/uniformed-groups/st-john-brigade
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<img src="/images/sjab1.jpg">
+<img src="/images/sjab2.jpg">
+<img src="/images/sjab3.jpg">
 <h4>CCA Objectives</h4>
 <p>&lsquo;Tough Times Don&rsquo;t Last, Tough Man Do.&rsquo; A quote SJB members carry with them. SJB develops our&nbsp;cadets to become effective and efficient first-aiders and role model so that they can contribute to the&nbsp;school and to the local communities. The training activities are planned for cadets to enjoy while&nbsp;learning new things such as Foot Drills, First Aids &amp; ETC... Courses on the other hands aims to&nbsp;equip cadets with the necessary skills to prepare them beyond their secondary education.</p>
 <h4>Teachers-in-Charge</h4>
