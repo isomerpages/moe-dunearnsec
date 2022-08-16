@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - MOE Haze Management.md
       - Dunearn Gmail.md
       - Dunearn Gmail Help.md
       - ECG Booking.md
