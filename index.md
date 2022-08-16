@@ -15,10 +15,8 @@ sections:
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: Latest News & Announcements
+      subtitle: Dunearn Secondary School
+      button: More
 ---
