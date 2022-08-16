@@ -4,6 +4,7 @@ permalink: /dss-pages/news-n-announcements/youth-science-ambassador-programme-ys
 description: ""
 ---
 <p>On 5 February 2021, students from the Youth Science Ambassador Programme (YSAP) celebrated their graduation from the programme with Singapore Science Centre and received their certificates. These students had contributed 50 hours to the programme in the form of community events and Science skills workshops.</p>
+<img src="/images/ysap.jpg">
 <p style="text-align: center;"><em>Presentation of the Amazon Future Engineer Bursary Award by the Guest of Honour</em></p>
 <p>One of the YSAP students, Ashlynn from Sec 3, also received the Amazon Future Engineer Bursary Award which is presented only to the top 10% of the cohort to show recognition to their outstanding performance during the programme.</p>
 <p>We congratulate the students on their achievements!</p>
