@@ -55,3 +55,171 @@ description: ""
 <p>Undergirding all our actions are our core beliefs.<br />Our Calling: Belief in Oneself - Every Teacher a CCE Teacher; to Lead, Care and Inspire. Our Future: Belief in Being Part of Something Larger - Student and National Outcomes; Shaping Success of Singapore.<br />Our Culture: Belief in One's Students. Belief in One Another - Culture of Care.</p>
 <p>Last but not least, the triangular support structure represents the close partnership we want to establish with the key stakeholders - the parents and community - to ensure the well-being of every child in this school, thereby having a Student-centric, Values-Driven education.</p>
 <p>The figures below show how we design our CCE programmes and processes to achieve the level outcomes.</p>
+<img src="/images/cce2.jpg">
+<h4>Staffing</h4>
+<p><strong>CCE Committee</strong></p>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="30%"><strong>Name</strong></td>
+<td width="30%"><strong>Designation</strong></td>
+<td width="40%"><strong>Email</strong></td>
+</tr>
+<tr>
+<td>Mr Ow Gan Pin</td>
+<td>HOD CCE</td>
+<td><a href="mailto:ow_gan_pin@moe.edu.sg" target="">ow_gan_pin@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mrs Hazel Lee</td>
+<td>HOD N Course</td>
+<td><a href="mailto:hazel_hong_wen_lee@moe.edu.sg" target="">hazel_hong_wen_lee@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Tang Chee Kuan</td>
+<td>Year Head (Lower Sec)</td>
+<td><a href="mailto:tang_chee_kuan@moe.edu.sg" target="">tang_chee_kuan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Fitriah</td>
+<td>Allied Educator / Counselling</td>
+<td><a href="mailto:fitriah_abdul_ghani@moe.edu.sg" target="">fitriah_abdul_ghani@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Png KeatSiong</td>
+<td>Allied Educator&nbsp;/&nbsp;Counselling</td>
+<td>p_ng_keat_siong@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Lim Sai Joo</td>
+<td>Allied Educator / Learning&nbsp;&amp; Behavioural Support</td>
+<td><a href="mailto:lim_sai_joo@moe.edu.sg" target="">lim_sai_joo@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Tey Giin Yang&nbsp;</td>
+<td>Allied Educator&nbsp;/ Learning and Behavioural Support&nbsp;</td>
+<td><a href="mailto:tey_giin_yang@moe.edu.sg">tey_giin_yang@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Rashedah Khan</td>
+<td>Student Welfare Officer</td>
+<td><a href="mailto:rashedah_khan_pate_khan@moe.edu.sg" target="">rashedah_khan_pate_khan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Ahmad Idris</td>
+<td>Allied Educator / Teaching &amp;&nbsp;Learning</td>
+<td><a href="mailto:ahmad_idris_ismail@moe.edu.sg" target="">ahmad_idris_ismail@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Norlizah</td>
+<td>Administration Manager</td>
+<td><a href="mailto:norlizah_yamaludin@moe.edu.sg" target="">norlizah_yamaludin@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Lailtha</td>
+<td>Senior Teacher</td>
+<td><a href="mailto:lailtha_savathan@moe.edu.sg" target="">lailtha_savathan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mdm Zaharah</td>
+<td>Senior Teacher</td>
+<td><a href="mailto:zaharah_abdul_hamid@moe.edu.sg" target="">zaharah_abdul_hamid@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Dewi Marlina</td>
+<td>SH CCE (internal)</td>
+<td><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" target="">dewi_marlina_putri_chumali@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Ang Wee Kiat</td>
+<td>AYH Upper Sec (internal)</td>
+<td><a href="mailto:ang_wee_kiat@moe.edu.sg" target="">ang_wee_kiat@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Nazrul Hadi</td>
+<td>AYH Lower Sec (internal)</td>
+<td><a href="mailto:nazrul_hadi_jamali@moe.edu.sg" target="">nazrul_hadi_jamali@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Alvin Ho</td>
+<td>SH PE</td>
+<td><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" target="">ho_wei_kwok_alvin@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Hanani Jaafar</td>
+<td>Teacher</td>
+<td><a href="mailto:nur_hanani_jaafar@moe.edu.sg" target="">nur_hanani_jaafar@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Siti Arnie</td>
+<td>Teacher</td>
+<td><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" target="">siti_arnie_mohd_affandi@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Chen Zhi Yong</td>
+<td>Teacher</td>
+<td><a href="mailto:zhiyong_chen@moe.edu.sg">zhiyong_chen@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Tricia Anne&nbsp;Lee&nbsp;</td>
+<td>Teacher&nbsp;</td>
+<td><a href="mailto:lee_mei_qing@moe.edu.sg" target="">lee_mei_qing@moe.edu.sg</a>&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Leung Sin Yung</td>
+<td>Teacher</td>
+<td>leung_sin_yung@moe.edu.sg&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Nicole Kwek</td>
+<td>Teacher</td>
+<td>nicole_kwek_xin_yi@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ECG Committee</strong></p>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="30%"><strong>Name</strong></td>
+<td width="30%"><strong>Designation</strong></td>
+<td width="40%"><strong>Email</strong></td>
+</tr>
+<tr>
+<td>Mrs Hazel Lee&nbsp;</td>
+<td>HOD N Course</td>
+<td>hazel_hong_wen_ee@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Dewi Marlina</td>
+<td>SH CCE</td>
+<td>dewi_marlina_putri_chumali@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Ng Mei Ferng</td>
+<td>Teacher</td>
+<td><a href="mailto:ng_mei_ferng@moe.edu.sg" target="">ng_mei_ferng@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Nur Diana Jailani</td>
+<td>Teacher</td>
+<td><a href="mailto:nur_diana_jailani@moe.edu.sg" target="">nur_diana_jailani@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Farah Dilla</td>
+<td>Allied Educator / Teaching &amp;&nbsp;Learning</td>
+<td><a href="mailto:farah_dilla_sulaiman@moe.edu.sg" target="">farah_dilla_sulaiman@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Louis Chin</td>
+<td>Teacher</td>
+<td><a href="mailto:louis_chin_cheong_long@moe.edu.sg" target="">louis_chin_cheong_long@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Petrina Tjioe Lie Pheng&nbsp;</td>
+<td>ECG Counsellor</td>
+<td><a href="mailto:tjioe_lie_pheng@schools.gov.sg" target="">tjioe_lie_pheng@schools.gov.sg</a></td>
+</tr>
+</tbody>
+</table>
+<h4>Key Programmes and Processes</h4>
