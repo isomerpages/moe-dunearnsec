@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Dunearn Links
           description: ""
-          url: ""
+          url: /dss-pages/school-calendar
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
