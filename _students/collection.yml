@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Homework Guidelines.md
       - Poly Admission COP 2020.md
       - JC Admission COP 2020.md
       - ITE Admission COP 2020.md
