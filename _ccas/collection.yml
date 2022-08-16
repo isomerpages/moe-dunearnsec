@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Malay Dance Club.md
       - Performing Arts/Performing Arts.md
       - Performing Arts/.keep
       - Clubs/.keep
