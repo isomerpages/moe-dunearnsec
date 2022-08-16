@@ -31,6 +31,27 @@ links:
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
         url: /school/faqs
+  - title: Departments
+    url: /departments/english-n-literature-department
+    sublinks:
+      - title: English and Literature
+        url: /departments/english-n-literature-department
+      - title: Mathematics
+        url: /departments/mathematics-department
+      - title: Mother Tongue
+        url: /departments/mother-tongue-department
+      - title: Humanities
+        url: /departments/humanities-department
+      - title: Science
+        url: /departments/science-department
+      - title: Craft & Technology
+        url: /departments/craft-n-technology-department
+      - title: Physical Education
+        url: /departments/physical-education
+      - title: Character & Citizenship
+        url: /departments/character-and-citizenship-education
+      - title: Infocomm Technology
+        url: /departments/infocomm-technology
   - title: Partners
     url: /partners/principals-letters-to-parents
     sublinks:
