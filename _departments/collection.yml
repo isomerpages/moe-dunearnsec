@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
+      - Science/Science Department.md
       - Science/Dunearn Science Ambassador Programme (SAP) (Talent Development
         Programme).md
-      - Science/Science Department.md
-      - Science/.keep
       - Craft & Technology Department.md
       - Physical Education.md
       - Character and Citizenship Education.md
