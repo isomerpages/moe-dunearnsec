@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - Staff Links.md
       - Forms and Documents.md
       - Sexuality Education.md
       - Sports Safety.md
