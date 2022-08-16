@@ -333,3 +333,19 @@ description: ""
 </tbody>
 </table>
 <h4>Character Education&nbsp;</h4>
+<p>CCE lessons are taught by Form Teachers, including Sexuality Education (SEd), Education &amp; Career Guidance (ECG) and Cyber Wellness.</p>
+<p>CCE has also been infused into classroom lessons across a variety of subjects. Measures are also undertaken to provide greater support for teachers, such as the expansion of the range of CCE resources available and the provision of training on pedaqogical approaches and classroom strategies regarding the teaching and learning of values.</p>
+<p>Values in Action (VIA) Programme is designed to be differentiated with the Sec 1 students doing activities related to school community; Sec 2, appreciating the elderly; Sec 3, serving needy families; Sec 4/5, role-modeling service in the community (student-initiated). Some of the ongoing partners the school works with include SWCDC, Bukit Batok Home for the Aged, REACH Youth Powerhouse, South View Primary School, Dover Hospice, Bishan Home for the Intellectually Disabled, ACRES and World Vision.</p>
+<p>To develop self-discipline, CCE committee works closely with the Student Management committee to identify and develop key SEL competencies in our pupils. The Pupil-Teacher Relational Time (PTRT) is one of the strategies the school has adopted to prevent misbehaviour. The PTRT is a structured programme where both the pupils and their Form teachers could meet on a one-on-one basis to talk and discuss issues. Through the conversations, teachers will be able to better understand their pupils and their challenges and hence, providing timely intervention. Concurrent with the PTRT, the school has a school-wide Values Talk session every Monday morning that is aligned to the school&rsquo;s core values and &ldquo;Value of the Month&rdquo;.<br />*<em>VT sessions are restructured as Form Teacher Time (FTT) in view of Covid-19</em></p>
+<h4>Citizenship Education</h4>
+<p>Developing a strong national identity among students has always been the focus of our National Education (NE) Programmes. The school&rsquo;s NE framework is implemented through the infusion of NE into the curriculum and the commemoration of major events like Total Defence Day, Racial Harmony Day, International Friendship Day and National Day. Below are some examples of ongoing programs and events that were organised:</p>
+<ul>
+<li>NE Core Events</li>
+<li>Cohort Citizenship Programmes</li>
+<li>Publicity of students&rsquo; work (via noticeboard, website)</li>
+<li>Compulsory NE Quiz for the graduating classes (4E and 4N)</li>
+<li>Biennial Citizenship Survey for selected Sec 2 and Sec 4 students</li>
+<li>Other activities by departments/CCAs e.g., MT Cultural camp, Maths Trail, ALP, Environmental activities, CCA VIA etc.</li>
+</ul>
+<h4>Kolb&rsquo;s Experiential Learning Model</h4>
+<p>The main school-wide CCE pedogogical approach used to facilitate students&rsquo; character and citizenship development and reflection is the Experiential Learning Approach, based on Kolb&rsquo;s Experiential Learning Model. Students will reflect on their experience, learn from it, and apply the lessons in everyday life.</p>
