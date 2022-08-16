@@ -31,3 +31,26 @@ description: ""
 <li><strong>Champion for Shell STEM Young Innovators Challenge 2016</strong>&nbsp;- Two teams of ten students from Dunearn Science Ambassador Programme (SAP) participated in the Shell STEM Young Innovation Challenge at Republic Polytechnic on 21st July 2016. The team comprising Cheah Siew Mun, Ho Jia Hui, Huang Wei Wen, Jolie Er and Stephen Png emerged Champion for the Food Science &amp; Analytics category. The team subsequently went on to present their work during the MOE Excel Fest 2017.&nbsp;</li>
 <li><strong>Most Innovative Award for Nanyang Poly Science &amp; Technology Challenge 2017</strong>&nbsp;&ndash; 21 SAP students took part in a total of 6 categories. The team comprising Ho Jia Hui, Wen Ming, Asyiqin and Heng Xun clinched the Most Innovative Award for the category of Projectile Launcher.</li>
 </ul>
+<img src="/images/dsap2.jpeg">
+<img src="/images/dsap3.jpeg">
+<img src="/images/dsap4.jpeg">
+<p style="text-align: center;"><strong>SAP students emerged 2nd runner-up for the Picky Palette Food Science Competition 2019</strong></p>
+<img src="/images/dsap5.png">
+<p style="text-align: center;"><strong>SAP students emerged Champion for the Shell STEM Youth Innovation Challenge 2016</strong></p>
+<img src="/images/dsap6.jpg">
+<p style="text-align: center;"><strong>SAP students who graduated from the Youth Science Ambassadors Programme 2019</strong></p>
+<img src="/images/dsap7.png">
+<p style="text-align: center;"><strong>SAP students receiving their Champion trophy for the PICO Mouse Race 2017</strong></p>
+<img style="width: 50%;" src="/images/dsap8.png" />
+<p style="text-align: center;"><strong>Team that won the Most Innovative Project Launcher Award in the Nanyang Poly Science &amp; Technology Challenge 2017, together with their creation</strong></p>
+<h4>Students Reflections on their experiences in SAP</h4>
+<p><em>I had learnt a lot about science and its theories. I am passionate about this programme because it is very interesting and it relates to our everyday&nbsp;life. Through this programme, I learnt that science is a tool I can use to understand the world&nbsp;around me. It provides logic and sense. I also realised that the more we know about science,&nbsp;the more we would be curious and we can start to do research related to science to satisfy&nbsp;our curiosity and improve our knowledge on it. Therefore, I find this programme very helpful&nbsp;and it was filled with new experiences. - Tan Yi Xi, Kerrie</em></p>
+<p><em>Through this competition, I have learnt how to plan meals based on individual preferences and needs. I thoroughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable! - Cheryl</em></p>
+<p><em>The overall experience was interesting and I had a lot of fun learning through the process. - Chloe</em></p>
+<h4>Students Reflections on their experiences in SAP</h4>
+<p><em>I had learnt a lot about science and its theories. I am passionate about this programme because it is very interesting and it relates to our everyday life. Through this programme, I learnt that science is a tool I can use to understand the world around me. It provides logic and sense. I also realised that the more we know about science, the more we would be curious and we can start to do research related to science to satisfy our curiosity and improve our knowledge on it. Therefore, I find this programme very helpful and it was filled with new experiences.</em></p>
+<p style="text-align: right;"><em>- Tan Yi Xi, Kerrie</em></p>
+<p><em>Through this competition, I have learnt how to plan meals based on individual preferences and needs. I thoroughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable!</em></p>
+<p style="text-align: right;"><em>- Cheryl</em></p>
+<p><em>The overall experience was interesting and I had a lot of fun learning through the process.</em></p>
+<p style="text-align: right;"><em>- Chloe</em></p>
