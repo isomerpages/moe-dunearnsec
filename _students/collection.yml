@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Rules and Regulations.md
       - The School Tie.md
       - JC, MI, Poly, ITE Admission.md
       - Sexuality Education.md
