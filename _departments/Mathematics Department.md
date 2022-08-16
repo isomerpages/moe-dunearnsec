@@ -20,12 +20,12 @@ description: ""
 </tr>
 <tr>
 <td>Mrs Seah Gek Hoon (SH Mathematics)</td>
-<td>&nbsp;E Math / A Math</td>
+<td>E Math / A Math</td>
 <td>chua_gek_hoon@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Mr Mohamad Khaidir HOD Student Management)</td>
-<td>&nbsp;E Math</td>
+<td>E Math</td>
 <td><a href="mailto:mohamad_khaidir_abdul_rahm@moe.edu.sg">mohamad_khaidir_abdul_rahm@moe.edu.sg</a></td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms Aloor Rittu</td>
-<td>E Math&nbsp;</td>
+<td>E Math</td>
 <td>aloor_rittu_pius@moe.edu.sg</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Chua Keng Yeow</td>
-<td>E Math&nbsp;</td>
+<td>E Math</td>
 <td>chua_keng_yeow@moe.edu.sg</td>
 </tr>
 </tbody>
