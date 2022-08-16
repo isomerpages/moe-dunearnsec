@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/.keep
       - Clubs/Audio Visual Aid Club.md
       - Clubs/Infocomm Club (Cyber Wellness).md
       - Clubs/Photography Club.md
