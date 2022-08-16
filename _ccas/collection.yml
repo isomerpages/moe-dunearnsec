@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Performing Arts/.keep
+      - Clubs/.keep
+      - Clubs/Clubs.md
       - Clubs/Audio Visual Aid Club.md
       - Clubs/Infocomm Club (Cyber Wellness).md
       - Clubs/Photography Club.md
       - Clubs/Library Club.md
       - Clubs/Entrepreneurship Club.md
-      - Clubs/Clubs.md
-      - Clubs/.keep
