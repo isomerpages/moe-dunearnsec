@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Character and Citizenship Education.md
       - Infocomm Technology.md
