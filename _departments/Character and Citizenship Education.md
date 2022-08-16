@@ -350,3 +350,35 @@ description: ""
 <h4>Kolb&rsquo;s Experiential Learning Model</h4>
 <p>The main school-wide CCE pedogogical approach used to facilitate students&rsquo; character and citizenship development and reflection is the Experiential Learning Approach, based on Kolb&rsquo;s Experiential Learning Model. Students will reflect on their experience, learn from it, and apply the lessons in everyday life.</p>
 <img src="/images/cce3.jpg">
+<h4>Values Talk*</h4>
+<p>Values Talk (VT) are sharing sessions conducted every Monday morning. . The objective of VT is to inculcate and reinforce positive values, attitudes, behaviour and competencies. The sessions are conducted for all students by staff, students themselves, and external partners. The topics are aligned to the &ldquo;Value of the Month&rdquo;, which stems from the school 6 core values of R3ICH: respect, responsibility, resilience, integrity, care and harmony. At the end of each VT session, students are given the opportunity to reflect meaningfully on the key learning through an online reflection platform.<em><br />*VT sessions are restructured as Form Teacher Time (FTT) in view of Covid-19</em></p>
+<h4>Dunearn Character Development Profile (DCDP): Formative Assessment of Character Development</h4>
+<p><strong>What is it?</strong></p>
+<ul>
+<li>A rubrics tool aligned with MOE 21st&nbsp;Century Competencies (21st&nbsp;CC) framework, school core values and Dunearn Character &amp; Citizenship Education (CCE) programmes.</li>
+<li>A total of six Criteria (R3ICH) and 15 Standards/Benchmarks describing the desired values, attitudes, behaviour, social &amp; emotional learning (SEL) skills and 21st&nbsp;CC. R3ICH stands for 6 core values of Respect, Responsibility, Resilience, Integrity, Care (Compassion) &amp; Harmony.</li>
+<li>It is designed with references to:</li>
+<ul>
+<li>MOE Character and Citizenship Education (CCE) Toolkit</li>
+<li>MOE 21st&nbsp;CC Framework, Standards and Benchmarks</li>
+<li>MOE SEL Goals, Standards and Benchmarks</li>
+</ul>
+</ul>
+<p><strong>Why do we do so?<br /></strong>Purpose:</p>
+<ul>
+<li>To help students develop their character progressively from lower to upper secondary and to take ownership for it.</li>
+<li>To help teachers work together with students and their parents on character development and hence strengthen the relationships.</li>
+</ul>
+<p>End goals:&nbsp;</p>
+<ul>
+<li>Culture of Care</li>
+<li>Positive Teacher-Student, Teacher-Parent, Parent-Child Relationships</li>
+<li>Desired Outcomes of Education</li>
+</ul>
+<p><strong>How do we do so?</strong></p>
+<ul>
+<li>Values form the essence of one's character. Values and character may be assessed using proxy indicators such as attitude, behaviour, SEL skills and 21st&nbsp;CC i.e., R3ICH = f(Attitude, Behaviour, SEL, 21st CC).</li>
+<li>The overall assessment is based on both student's self-assessment and formative assessment by the Form Teachers.</li>
+<li>Teacher's assessment is based on observation and understanding of students' attitudes, behaviour and competencies through formal and informal interactions e.g., classroom time, one-to-one session, service learning activities, after school programmes etc. Feedback may also be obtained from other stakeholders.</li>
+</ul>
+<img src="/images/cce4.jpg">
