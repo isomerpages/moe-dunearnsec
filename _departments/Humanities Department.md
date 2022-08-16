@@ -10,30 +10,30 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p><strong>Name</strong></p>
+<strong>Name</strong>
 </td>
 <td>
-<p><strong>Designation</strong></p>
+<strong>Designation</strong>
 </td>
 <td>
-<p><strong>Subject</strong></p>
+<strong>Subject</strong>
 </td>
 <td>
-<p><strong>Email</strong></p>
+<strong>Email</strong>
 </td>
 </tr>
 <tr>
 <td>
-<p>Mr Mohammad Hisham</p>
+Mr Mohammad Hisham
 </td>
 <td>
-<p>HOD Humanities</p>
+HOD Humanities
 </td>
 <td>
-<p>Upper Sec Elective History / Social Studies</p>
+Upper Sec Elective History / Social Studies
 </td>
 <td>
-<p><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg">mohammad_hisham_b_amat@moe.edu.sg</a></p>
+<a href="mailto:mohammad_hisham_b_amat@moe.edu.sg">mohammad_hisham_b_amat@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -44,16 +44,16 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Lailtha Savathan</p>
+Ms Lailtha Savathan
 </td>
 <td>
-<p>ST&nbsp;Geography</p>
+ST&nbsp;Geography
 </td>
 <td>
-<p>Lower Sec Geography, Upper Sec Elective Geography</p>
+Lower Sec Geography, Upper Sec Elective Geography
 </td>
 <td>
-<p><a href="mailto:lailtha_savathan@moe.edu.sg">lailtha_savathan@moe.edu.sg</a></p>
+<a href="mailto:lailtha_savathan@moe.edu.sg">lailtha_savathan@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -64,16 +64,16 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mrs Hazel Lee</p>
+Mrs Hazel Lee
 </td>
 <td>
-<p>HOD N Course</p>
+HOD N Course
 </td>
 <td>
-<p>Lower and Upper Sec History, Elements of Business Skills</p>
+Lower and Upper Sec History, Elements of Business Skills
 </td>
 <td>
-<p><a href="mailto:hazel_hong_wen_ee@moe.edu.sg">hazel_hong_wen_ee@moe.edu.sg</a></p>
+<a href="mailto:hazel_hong_wen_ee@moe.edu.sg">hazel_hong_wen_ee@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -84,30 +84,30 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Leong Sweet Lee</p>
+Ms Leong Sweet Lee
 </td>
 <td>
-<p>SH ICT</p>
+SH ICT
 </td>
 <td>
-<p>Elements of Business Skills (EBS)</p>
+Elements of Business Skills (EBS)
 </td>
 <td>
-<p><a href="mailto:leong_sweet_lee@moe.edu.sg">leong_sweet_lee@moe.edu.sg</a></p>
+<a href="mailto:leong_sweet_lee@moe.edu.sg">leong_sweet_lee@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
 <td>
-<p>Ms Dewi Marlina</p>
+Ms Dewi Marlina
 </td>
 <td>
-<p>SH CCE (Internal)</p>
+SH CCE (Internal)
 </td>
 <td>
-<p>Lower Sec Geography, Upper Sec Elective Geography, Upper Sec Social Studies</p>
+Lower Sec Geography, Upper Sec Elective Geography, Upper Sec Social Studies
 </td>
 <td>
-<p><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg">dewi_marlina_putri_chumali@moe.edu.sg</a></p>
+<a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg">dewi_marlina_putri_chumali@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
@@ -118,41 +118,41 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Soon Suan Boon</p>
+Mr Soon Suan Boon
 </td>
 <td>
-<p>Teacher</p>
+Teacher
 </td>
 <td>
-<p>Upper Sec Elective Geography, Lower Sec Geography</p>
+Upper Sec Elective Geography, Lower Sec Geography
 </td>
 <td>
-<p><a href="mailto:soon_suan_boon@moe.edu.sg">soon_suan_boon@moe.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Lo Tin Chee Alex</p>
-</td>
-<td>
-<p>Teacher</p>
-</td>
-<td>
-<p>Lower Sec Geography, Upper Sec Elective and Full Geography, Upper Sec Social Studies</p>
-</td>
-<td>
-<p><a href="mailto:lo_tin_chee@moe.edu.sg">lo_tin_chee@moe.edu.sg</a></p>
+<a href="mailto:soon_suan_boon@moe.edu.sg">soon_suan_boon@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
 <td>
-<p>Mr Sohail Basiron</p>
+Mr Lo Tin Chee Alex
 </td>
 <td>
-<p>Teacher</p>
+Teacher
 </td>
 <td>
-<p>Upper Sec Elective Geography, Lower Sec Geography</p>
+Lower Sec Geography, Upper Sec Elective and Full Geography, Upper Sec Social Studies
+</td>
+<td>
+<a href="mailto:lo_tin_chee@moe.edu.sg">lo_tin_chee@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td>
+Mr Sohail Basiron
+</td>
+<td>
+Teacher
+</td>
+<td>
+Upper Sec Elective Geography, Lower Sec Geography
 </td>
 <td><a href="mailto:sohail_basiron@moe.edu.sg">sohail_basiron@moe.edu.sg</a></td>
 </tr>
@@ -164,12 +164,12 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Tey Giin Yang</p>
+Mr Tey Giin Yang
 </td>
 <td>Allied Educator</td>
 <td>Social Studies(NT), Elements of Business Skills (EBS)</td>
 <td>
-<p><a href="mailto:tey_giin_yang@moe.edu.sg">tey_giin_yang@moe.edu.sg</a></p>
+<a href="mailto:tey_giin_yang@moe.edu.sg">tey_giin_yang@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
