@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/.keep
       - Performing Arts/Band.md
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Modern Dance.md
