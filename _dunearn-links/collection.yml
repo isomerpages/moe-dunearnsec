@@ -2,5 +2,5 @@ collections:
   dunearn-links:
     output: true
     order:
-      - WESTstories.md
+      - WESTstories – Dunearn.md
       - School Calendar.md
