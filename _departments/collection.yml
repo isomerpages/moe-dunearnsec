@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Science Department.md
       - Craft & Technology Department.md
       - Physical Education.md
