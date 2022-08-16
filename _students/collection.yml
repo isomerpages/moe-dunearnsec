@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Student Learning Space.md
       - SLS password reset.md
       - Home Based Learning.md
