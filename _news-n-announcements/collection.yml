@@ -1,4 +1,5 @@
 collections:
   news-n-announcements:
     output: true
-    order: []
+    order:
+      - 2022 Direct School Admission (DSA).md
