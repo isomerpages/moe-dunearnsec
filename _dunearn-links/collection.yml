@@ -1,4 +1,5 @@
 collections:
   dunearn-links:
     output: true
-    order: []
+    order:
+      - School Calendar.md
