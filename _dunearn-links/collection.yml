@@ -2,5 +2,6 @@ collections:
   dunearn-links:
     output: true
     order:
+      - Acer PDLP eShop.md
       - WESTstories – Dunearn.md
       - School Calendar.md
