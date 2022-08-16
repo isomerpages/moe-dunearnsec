@@ -4,12 +4,10 @@ title: Dunearn Secondary School
 description: Brief site description here
 image: /images/logo2.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/banners.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,5 +27,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
