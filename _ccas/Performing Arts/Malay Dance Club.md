@@ -4,6 +4,7 @@ permalink: /ccas/performing-arts/malay-dance-club
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAfwWZAnGpkg3rlkNeRzvsCbwhsLwpfY2jKtQuj4fIi_ZYCJBC4vMfnYn49C6QnR3DmpEGmXytwwkU/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p>Malay Dance Club aims to develop pupils&rsquo; abilities and potential in language through cultural&nbsp;activities as well as to provide a platform for them to cultivate a strong passion and a deep appreciation for&nbsp;the culture and to showcase their talents. It is also an avenue for students to hone their language&nbsp;abilities. The Malay Dance Club paves the way for students to develop their talents in various niche&nbsp;areas &mdash; dance, drama debate and poetry recitation. Through the participation in these activities, members&nbsp;also get opportunities to acquire leadership positions. Malay Dance Club also creates an environment for all students to learn the importance if teamwork by providing platforms for stronger friendship to form among members of different levels. Lastly, Malay Dance Club encourages its members&nbsp;to internalise the culture, develop talents and make great memories with each other.</p>
 <h4>Teachers-In-Charge</h4>
 <ul>
