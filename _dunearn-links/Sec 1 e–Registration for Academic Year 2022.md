@@ -80,9 +80,7 @@ description: ""
 </ul>
 <ul>
 <li>Purchase from school bookshop in the first week of Jan 2022 during Sec One Orientation Programme (SOOP) week. (Recommended)</li>
-</ul>
-<ul>
-<li>&nbsp;The book lists can be found&nbsp;<a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-documents-and-forms/">here</a>.&nbsp;</li>
+<li>The book lists can be found <a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-documents-and-forms/">here</a>.&nbsp;</li>
 </ul>
 <p><strong>Application for Transfer into Dunearn Secondary School</strong></p>
 <p>For students who wish to transfer into Dunearn Secondary School, please proceed to fill in and submit the application form&nbsp;<a href="https://form.gov.sg/#!/5fe187aec3fca30012366b5d">here</a>.&nbsp;</p>
