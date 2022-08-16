@@ -36,6 +36,10 @@ third_nav_title: Performing Arts
 <li>Phenomenon Two &ndash; Esplanade Library</li>
 </ul>
 <h4>Photos</h4>
+<img src="/images/md1.jpg">
+<img src="/images/md2.jpg">
+<img src="/images/md3.jpg">
+<img src="/images/md4.jpg">
 <img src="/images/md5.jpeg">
 <img src="/images/md6.jpeg">
 <img src="/images/md7.jpeg">
