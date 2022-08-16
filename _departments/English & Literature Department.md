@@ -31,14 +31,14 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>Mrs Hazel Lee</td>
-<td>HOD N Course</td>
-<td><a href="mailto:hazel_hong_wen_ee@moe.edu.sg%3C/a%3E" target="">hazel_hong_wen_ee@moe.edu.sg</a></td>
+<td><p>Mrs Hazel Lee</p></td>
+<td><p>HOD N Course</p></td>
+<td><p><a href="mailto:hazel_hong_wen_ee@moe.edu.sg%3C/a%3E" target="">hazel_hong_wen_ee@moe.edu.sg</a></p></td>
 </tr>
 <tr>
-<td>Ms Angela Ng Shi Qi</td>
-<td>SH English and Literature (Internal)</td>
-<td><a href="mailto:angela_ng_shi_qi@moe.edu.sg%3C/a%3E" target="">angela_ng_shi_qi@moe.edu.sg</a></td>
+<td><p>Ms Angela Ng Shi Qi</p></td>
+<td><p>SH English and Literature (Internal)</p></td>
+<td><p><a href="mailto:angela_ng_shi_qi@moe.edu.sg%3C/a%3E" target="">angela_ng_shi_qi@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td>
@@ -63,7 +63,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>Mr John Praveen</td>
+<td><p>Mr John Praveen</p></td>
 <td>
 <p>Teacher</p>
 </td>
@@ -92,9 +92,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>Ms Tan Pui Leng Beatrice</td>
-<td>Teacher</td>
-<td><a href="mailto:beatrice_tan_pui_leng@moe.edu.sg%3C/a%3E" target="">beatrice_tan_pui_leng@moe.edu.sg</a></td>
+<td><p>Ms Tan Pui Leng Beatrice</p></td>
+<td><p>Teacher</p></td>
+<td><p><a href="mailto:beatrice_tan_pui_leng@moe.edu.sg%3C/a%3E" target="">beatrice_tan_pui_leng@moe.edu.sg</a></p></td>
 </tr>
 </tbody>
 </table>
