@@ -2,5 +2,6 @@ collections:
   news-n-announcements:
     output: true
     order:
+      - Higher Institution Open House 2022.md
       - Sec 2,4,5 Mid Year Exam Schedules.md
       - 2022 Direct School Admission (DSA).md
