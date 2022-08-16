@@ -4,6 +4,13 @@ permalink: /ccas/performing-arts/drama
 description: ""
 third_nav_title: Performing Arts
 ---
+<img src="/images/d1.jpg"><br>
+<img src="/images/d2.png"><br>
+<img src="/images/d3.jpeg">
+<img src="/images/d4.jpeg">
+<img src="/images/d5.jpeg">
+<img src="/images/d6.jpeg">
+<img src="/images/d7.jpeg">
 <h4>CCA Objectives</h4>
 <p>The Drama Club is a dynamic and vibrant club. Members hone their acting skills and build&nbsp;confidence performing in front of crowds, an important 21st century skill. Drama Club members&nbsp;learn acting, stagecraft and devise plays. We also go on regular theatre outings to keep ahead of&nbsp;the latest developments in the arts scene in Singapore.</p>
 <h4>Teachers-in-Charge</h4>
