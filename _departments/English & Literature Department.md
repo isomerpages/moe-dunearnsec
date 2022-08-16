@@ -67,7 +67,7 @@ description: ""
 <td>
 <p>Teacher</p>
 </td>
-<td>john_praveen@moe.edu.sg</td>
+<td><p><a href="mailto:john_praveen@moe.edu.sg%3C/a%3E" target="">john_praveen@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td>
