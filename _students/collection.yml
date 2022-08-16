@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Travel Declaration (Students).md
       - Direct School Admission.md
       - Student Learning Space.md
       - SLS password reset.md
