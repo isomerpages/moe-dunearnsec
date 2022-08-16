@@ -11,32 +11,32 @@ description: ""
 <tbody>
 <tr style="height: 96px;">
 <td style="height: 96px;">
-<p>Ms Sharon Tai</p>
-<p>Head of Department, Mother Tongue Languages</p>
+<div>Ms Sharon Tai</div>
+<div>Head of Department, Mother Tongue Languages</div>
 </td>
 <td style="height: 96px;">戴丽娟老师</td>
 <td style="height: 96px;"><a href="mailto:tai_li_jen_sharon@moe.edu.sg" target="">tai_li_jen_sharon@moe.edu.sg</a></td>
 </tr>
 <tr style="height: 36px;">
 <td style="height: 36px;">
-<p>Ms Ng Ying Fang</p>
-<p>Subject Head, Chinese Language</p>
+<div>Ms Ng Ying Fang</div>
+<div>Subject Head, Chinese Language</div>
 </td>
 <td style="height: 36px;">黄盈芳老师</td>
 <td style="height: 36px;"><a href="mailto:ng_ying_fang@moe.edu.sg" target="">ng_ying_fang@moe.edu.sg</a></td>
 </tr>
 <tr style="height: 36px;">
 <td style="height: 36px;">
-<p>Mr Supandi Bin Djoeraemi</p>
-<p>Senior Teacher, Malay Language</p>
+<div>Mr Supandi Bin Djoeraemi</div>
+<div>Senior Teacher, Malay Language</div>
 </td>
 <td style="height: 36px;">&nbsp;</td>
 <td style="height: 36px;"><a href="mailto:supandi_b_djoeraemi@moe.edu.sg" target="">supandi_b_djoeraemi@moe.edu.sg</a></td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px;">
-<p>Mdm Chen Meifan</p>
-<p>Chinese Language B Centre Coordinator</p>
+<div>Mdm Chen Meifan</div>
+<div>Chinese Language B Centre Coordinator</div>
 </td>
 <td style="height: 78px;"><span lang="ZH-CN"><span style="font-size: small;">陈美凡老师</span></span></td>
 <td style="height: 78px;"><a href="mailto:chen_meifan@moe.edu.sg" target="">chen_meifan@moe.edu.sg</a></td>
