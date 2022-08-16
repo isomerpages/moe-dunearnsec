@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - JC, MI, Poly, ITE Admission.md
       - Sexuality Education.md
       - Sports Safety.md
       - Financial Assistance Scheme.md
