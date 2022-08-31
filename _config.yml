@@ -1,14 +1,14 @@
 title: Dunearn Secondary School
-url: ""
+url: https://dunearnsec.moe.edu.sg
 favicon: /images/logo2.jpeg
 colors:
   primary-color: "#1d00a7"
   secondary-color: "#f2c300"
   media-colors:
     - title: media-color-one
-      color: "#ff2c2c"
+      color: "#4a90e2"
     - title: media-color-two
-      color: "#fd2118"
+      color: "#0c2fc6"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
