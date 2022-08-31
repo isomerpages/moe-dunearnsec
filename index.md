@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
       key_highlights:
         - title: Dunearn Links
           description: ""
@@ -18,7 +17,6 @@ sections:
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
-      title: Dunearn Secondary School
   - resources:
       subtitle: Latest News & Announcements
       button: More
