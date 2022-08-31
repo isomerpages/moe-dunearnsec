@@ -7,7 +7,7 @@ permalink: /
 notification: test notification
 sections:
   - hero:
-      background: /images/banners.jpg
+      background: /images/banner.gif
       key_highlights:
         - title: Dunearn Links
           description: ""
