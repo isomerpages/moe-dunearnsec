@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Dunearn Links
-          description: ""
-          url: /dss-pages/school-calendar
         - title: Dunearn Stories
           description: ""
           url: /dunearn-stories/inspiring-dunearnites-2015
-        - title: Speech Day 2022
+        - title: Dunearn Links
+          description: ""
+          url: /dss-pages/school-calendar
+        - title: test
           description: ""
           url: /speech-day-2022
       background: /images/test1.jpg
