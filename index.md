@@ -17,6 +17,7 @@ sections:
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
+      background: /images/test1.jpg
   - resources:
       subtitle: Latest News & Announcements
       button: More
