@@ -4,7 +4,7 @@ title: Dunearn Secondary School
 description: Brief site description here
 image: /images/logo2.jpeg
 permalink: /
-notification: test notification
+notification: ""
 sections:
   - hero:
       background: /images/banner.gif
@@ -18,9 +18,6 @@ sections:
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
-        - title: test highlight
-          description: Key Highlight description
-          url: ""
       title: test hero
       subtitle: test hero subtitle
   - resources:
