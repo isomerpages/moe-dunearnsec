@@ -21,7 +21,8 @@ sections:
         - title: test
           description: Key Highlight description
           url: ""
-      title: test
+      title: test hero
+      subtitle: test hero subtitle
   - resources:
       title: Latest News & Announcements
       subtitle: Dunearn Secondary School
