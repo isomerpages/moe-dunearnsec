@@ -21,15 +21,18 @@ sections:
   - resources:
       subtitle: Latest News & Announcements
       button: More
+  - infopic:
+      title: "Infopic Testing "
+      subtitle: Infopic Subtitle
+      description: "Infopic description lorem ipsum  lorem ipsum  lorem ipsum  lorem
+        ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem
+        ipsum  lorem ipsum  "
+      button: Button Text
+      alt: Image alt text
+      image: /images/dsap5.png
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
