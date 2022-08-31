@@ -24,7 +24,6 @@ sections:
       title: test hero
       subtitle: test hero subtitle
   - resources:
-      title: Latest News & Announcements
-      subtitle: Dunearn Secondary School
+      subtitle: Latest News & Announcements
       button: More
 ---
