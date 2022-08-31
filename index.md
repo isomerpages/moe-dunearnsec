@@ -4,7 +4,7 @@ title: Dunearn Secondary School
 description: Brief site description here
 image: /images/logo2.jpeg
 permalink: /
-notification: ""
+notification: test notification
 sections:
   - hero:
       background: /images/banners.jpg
@@ -21,6 +21,7 @@ sections:
         - title: test
           description: Key Highlight description
           url: ""
+      title: test
   - resources:
       title: Latest News & Announcements
       subtitle: Dunearn Secondary School
