@@ -18,8 +18,7 @@ sections:
         - title: Speech Day 2022
           description: ""
           url: /speech-day-2022
-      title: test hero
-      subtitle: test hero subtitle
+      title: Dunearn Secondary School
   - resources:
       subtitle: Latest News & Announcements
       button: More
