@@ -4,7 +4,7 @@ title: Dunearn Secondary School
 description: Brief site description here
 image: /images/logo2.jpeg
 permalink: /
-notification: ""
+notification: Note note note note note
 sections:
   - hero:
       key_highlights:
@@ -19,9 +19,6 @@ sections:
           url: /speech-day-2022
       background: /images/test1.jpg
       title: "Dunearn Secondary School "
-  - resources:
-      subtitle: Latest Announcements
-      button: More
   - infopic:
       title: "Infopic Testing "
       subtitle: Infopic Subtitle
@@ -31,6 +28,9 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/dsap5.png
+  - resources:
+      subtitle: Latest Announcements
+      button: More
   - infobar:
       subtitle: Infobar Subtitle
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
