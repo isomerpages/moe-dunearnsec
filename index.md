@@ -9,13 +9,13 @@ sections:
   - hero:
       key_highlights:
         - title: Dunearn Stories
-          description: ""
+          description: Lorem ipsum dolor sit amet, co
           url: /dunearn-stories/inspiring-dunearnites-2015
         - title: Dunearn Links
-          description: ""
+          description: Lorem ipsum dolor sit amet, c
           url: /dss-pages/school-calendar
         - title: test
-          description: ""
+          description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
       background: /images/test1.jpg
   - resources:
