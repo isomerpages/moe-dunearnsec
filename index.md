@@ -17,7 +17,6 @@ sections:
         - title: test
           description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
-      title: "Dunearn Secondary School "
   - infopic:
       title: "Infopic Testing "
       subtitle: Infopic Subtitle
