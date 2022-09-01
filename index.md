@@ -32,8 +32,9 @@ sections:
       alt: Image alt text
       image: /images/dsap5.png
   - infobar:
-      title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+        scelerisque nulla tortor, sit amet consectetur urna posuere quis.
+        Suspendisse lacus odioit. M
       button: Button Text
 ---
