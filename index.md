@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Dunearn Stories
-          description: Lorem ipsum dolor sit amet, co
-          url: /dunearn-stories/inspiring-dunearnites-2015
-        - title: Dunearn Links
+        - title: Food Science Technology
           description: Lorem ipsum dolor sit amet, c
-          url: /dss-pages/school-calendar
+          url: /school-programs/food-science-and-technology-applied-learning-programme-alp
+        - title: Community Youth Leadership
+          description: Lorem ipsum dolor sit amet, co
+          url: /school-programs/community-youth-leadership-llp
         - title: test
           description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
