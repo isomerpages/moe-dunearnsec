@@ -31,6 +31,17 @@ links:
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
         url: /school/faqs
+  - title: School Programs
+    url: /school-programs/community-youth-leadership-llp
+    sublinks:
+      - title: Community Youth Leadership
+        url: /school-programs/community-youth-leadership-llp
+      - title: " Cyber Wellness in Dunearn"
+        url: /school-programs/cyber-wellness-in-dunearn
+      - title: Food Science and Technology
+        url: /school-programs/food-science-and-technology-applied-learning-programme-alp
+      - title: PDLP
+        url: /school-programs/personal-learning-device-program-pdlp
   - title: Departments
     url: /departments/english-n-literature-department
     sublinks:
@@ -123,16 +134,5 @@ links:
         url: /ccas/performing-arts
       - title: Clubs
         url: /ccas/clubs
-  - title: School Programs
-    url: /school-programs/community-youth-leadership-llp
-    sublinks:
-      - title: Community Youth Leadership
-        url: /school-programs/community-youth-leadership-llp
-      - title: " Cyber Wellness in Dunearn"
-        url: /school-programs/cyber-wellness-in-dunearn
-      - title: Food Science and Technology
-        url: /school-programs/food-science-and-technology-applied-learning-programme-alp
-      - title: PDLP
-        url: /school-programs/personal-learning-device-program-pdlp
   - title: Dunearn Stories
     collection: dunearn-stories
