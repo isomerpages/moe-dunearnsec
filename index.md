@@ -17,6 +17,7 @@ sections:
         - title: test
           description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
+      background: /images/testbanner.jpg
   - infopic:
       title: "Infopic Testing "
       subtitle: Infopic Subtitle
