@@ -18,15 +18,6 @@ sections:
           description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
       background: /images/testbanner.jpg
-  - infopic:
-      title: "Infopic Testing "
-      subtitle: Infopic Subtitle
-      description: "Infopic description lorem ipsum  lorem ipsum  lorem ipsum  lorem
-        ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem ipsum  lorem
-        ipsum  lorem ipsum  "
-      button: Button Text
-      alt: Image alt text
-      image: /images/dsap5.png
   - resources:
       subtitle: Latest Announcements
       button: More
