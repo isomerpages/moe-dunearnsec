@@ -21,10 +21,4 @@ sections:
   - resources:
       subtitle: Latest Announcements
       button: More
-  - infobar:
-      subtitle: Infobar Subtitle
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-        scelerisque nulla tortor, sit amet consectetur urna posuere quis.
-        Suspendisse lacus odioit. M
-      button: Button Text
 ---
