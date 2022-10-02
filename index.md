@@ -17,7 +17,7 @@ sections:
         - title: test
           description: Lorem ipsum dolor sit amet, c
           url: /speech-day-2022
-      background: /images/testbanner.jpg
+      background: /images/banner1.jpg
   - resources:
       subtitle: Latest Announcements
       button: More
