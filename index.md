@@ -9,14 +9,11 @@ sections:
   - hero:
       key_highlights:
         - title: Food Science Technology
-          description: Lorem ipsum dolor sit amet, c
+          description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
         - title: Community Youth Leadership
-          description: Lorem ipsum dolor sit amet, co
+          description: ""
           url: /school-programs/community-youth-leadership-llp
-        - title: test
-          description: Lorem ipsum dolor sit amet, c
-          url: /speech-day-2022
       background: /images/banner1.jpg
   - resources:
       subtitle: Latest Announcements
