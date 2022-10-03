@@ -3,10 +3,10 @@ url: https://dunearnsec.moe.edu.sg
 favicon: /images/school logo_transparent100.png
 colors:
   primary-color: "#061788"
-  secondary-color: "#0321c3"
+  secondary-color: "#03156b"
   media-colors:
     - title: media-color-one
-      color: "#04256f"
+      color: "#d2c80f"
     - title: media-color-two
       color: "#a69006"
     - title: media-color-three
