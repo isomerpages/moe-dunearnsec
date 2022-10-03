@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - polycop.md
       - jccop.md
       - The School Tie.md
       - ICT and PDLP Support.md
