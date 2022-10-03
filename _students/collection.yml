@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - The School Tie.md
       - ICT and PDLP Support.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
