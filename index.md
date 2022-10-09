@@ -14,7 +14,7 @@ sections:
         - title: Community Youth Leadership
           description: ""
           url: /school-programs/community-youth-leadership-llp
-      background: /images/banner3.jpg
+      background: /images/000Artboard 1.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
