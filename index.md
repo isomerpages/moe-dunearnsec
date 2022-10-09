@@ -15,12 +15,6 @@ sections:
           description: ""
           url: /school-programs/community-youth-leadership-llp
       background: /images/000Artboard 1.jpg
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       subtitle: Latest Announcements
       button: More
