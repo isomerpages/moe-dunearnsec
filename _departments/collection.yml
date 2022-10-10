@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology.md
       - Science/.keep
       - Science/Science Department.md
       - Science/Dunearn Science Ambassador Programme (SAP) (Talent Development
