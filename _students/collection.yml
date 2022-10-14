@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Napfa Standards.md
       - ICT and PDLP Support.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
