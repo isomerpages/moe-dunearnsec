@@ -13,14 +13,17 @@ description: ""
 <td>HOD PE/ CCA</td>
 <td>keith_koh@moe.edu.sg</td>
 </tr>
+	<td>Mr Alvin Ho</td>
+<td>SH PE</td>
+<td><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" target="">ho_wei_kwok_alvin@moe.edu.sg</a></td>
 <tr>
 <td>Mr John Tan Yeong Kuen</td>
-<td>HOD Student Management (internal)</td>
+<td>SH Student Management</td>
 <td><a href="mailto:tan_yeong_kuen_john@moe.edu.sg" target="">tan_yeong_kuen_john@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Soon Suan Boon</td>
-<td>PE Teacher / Level Discipline Master</td>
+<td>PE Teacher</td>
 <td><a href="mailto:soon_suan_boon@moe.edu.sg" target="">soon_suan_boon@moe.edu.sg</a></td>
 </tr>
 <tr>
