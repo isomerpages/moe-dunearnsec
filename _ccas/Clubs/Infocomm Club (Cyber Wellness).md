@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club (Cyber Wellness)
-permalink: /ccas/clubs/infocomm-club-cyber-wellness
+permalink: /ccas/clubs/infocomm-club-cyber-wellness/
 description: ""
 third_nav_title: Clubs
 ---
@@ -16,7 +16,6 @@ third_nav_title: Clubs
 <ul>
 <li>Ms Nur Fatimah (Overall I/C)</li>
 <li>Ms Nurrulhuda</li>
-<li>Ms Siti Khadijah (ICT Trainer)</li>
 </ul>
 <h4>Positions held by EXCO members:</h4>
 <table>
