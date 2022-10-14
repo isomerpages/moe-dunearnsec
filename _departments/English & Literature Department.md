@@ -1,6 +1,6 @@
 ---
 title: English & Literature Department
-permalink: /departments/english-n-literature-department
+permalink: /departments/english-n-literature-department/
 description: ""
 ---
 <h4>Objectives</h4>
@@ -89,13 +89,12 @@ description: ""
 </td>
 <td>
 <p><a href="mailto:naznin_rehana_begum@moe.edu.sg%3C/a%3E" target="">naznin_rehana_begum@moe.edu.sg</a></p>
+</tr>
 </td>
 </tr>
-<tr>
-<td><p>Ms Tan Pui Leng Beatrice</p></td>
-<td><p>Teacher</p></td>
-<td><p><a href="mailto:beatrice_tan_pui_leng@moe.edu.sg%3C/a%3E" target="">beatrice_tan_pui_leng@moe.edu.sg</a></p></td>
 </tr>
+</td>
+</td>
 </tbody>
 </table>
 <p><strong>Reading Programme<br /></strong>One period is allocated in the EL curriculum time per week for reading alone. Here, students are exposed to a plethora of non-fiction texts via thoughtfully selected magazines. As media literacy is a vital skill in a fast-evolving world, photos and advertisements quickly lend themselves to robust discussions in the classroom.</p>
