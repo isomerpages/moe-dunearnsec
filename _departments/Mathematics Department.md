@@ -78,7 +78,11 @@ description: ""
 <td>Mdm Low Chui Ling</td>
 <td>E Math</td>
 <td>low_chui_ling@moe.edu.sg</td>
-<tr>
+</tr>
+<td>Ms Fiona Ng</td>
+<td>E Math</td>
+<td>ng_shu_hua_fiona@moe.edu.sg</td>
+</tr>
 <td>Mr Soh Cek Sin</td>
 <td>E Math</td>
 <td>soh_cek_sin@moe.edu.sg</td>
