@@ -1,6 +1,6 @@
 ---
 title: Teaching Staff
-permalink: /school/teaching-staff
+permalink: /school/teaching-staff/
 description: ""
 ---
 <table>
@@ -49,14 +49,12 @@ description: ""
 <tr>
 <td style="text-align: center;">1A</td>
 <td style="text-align: center;">&nbsp;Ms Francina Ranjitha</td>
-<td style="text-align: center;">Ms Farah Dilla&nbsp;</td>
+<td style="text-align: center;">Mdm Siti Raudhah&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">1D</td>
-<td style="text-align: center;">Ms Beatrice Tan</td>
-<td style="text-align: center;">Ms Charmaine Goh</td>
 <td style="text-align: center;">Ms Low Chui Ling</td>
-</tr>
+<td style="text-align: center;">Ms Charmaine Goh</td>
 <tr>
 <td style="text-align: center;">2O</td>
 <td style="text-align: center;">Ms Tay An Na</td>
@@ -81,7 +79,7 @@ description: ""
 <tr>
 <td style="text-align: center;">2P</td>
 <td style="text-align: center;">Ms Siti Arnie</td>
-<td style="text-align: center;">Mr Yap Heong Teck</td>
+<td style="text-align: center;">Ms Fiona Ng</td>
 </tr>
 <tr>
 <td style="text-align: center;">2D</td>
@@ -109,7 +107,7 @@ description: ""
 <tr>
 <td style="text-align: center;">&nbsp;3S</td>
 <td style="text-align: center;">Ms Sandy Tan&nbsp;</td>
-<td style="text-align: center;">&nbsp;Ms Lwa Heng Qian</td>
+<td style="text-align: center;">&nbsp;Mr Soh Cek Sin</td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;3T</td>
@@ -181,13 +179,12 @@ description: ""
 <td colspan="4">Ms Faith Khoo</td>
 </tr>
 <tr>
-<td colspan="4">Mdm Siti Raudhah</td>
+
 </tr>
 <tr>
 <td colspan="4">Mdm Toh Li Yuh</td>
 </tr>
 <tr>
-<td colspan="4">Mdm Zaharah Abdul Hamid&nbsp;</td>
 </tr>
 <tr>
 <td colspan="4">&nbsp;<br /><strong>FAJT/ CAJT</strong></td>
@@ -214,13 +211,13 @@ description: ""
 <td colspan="4">Mr Kenneth Ng (FAJT)</td>
 </tr>
 <tr>
-<td colspan="4">Mdm Niki Lim (FAJT)</td>
+
 </tr>
 <tr>
 <td colspan="4">Mdm Sarimah Suratman (FAJT)</td>
 </tr>
 <tr>
-<td colspan="4">Mr Hamsani Raoh (FAJT)</td>
+
 </tr>
 <tr>
 <td colspan="4"><br /><strong>School Counsellors, Student Welfare Officers, AED LBS</strong></td>
@@ -236,36 +233,4 @@ description: ""
 </tr>
 <tr>
 <td colspan="4">Mdm Lim Sai Joo (AED LBS)</td>
-</tr>
 <tr>
-<td colspan="4">Mr Adam Mas Senin (AED LBS)</td>
-</tr>
-<tr>
-<td colspan="4">Mr Ahmad Idris (AED LBS)</td>
-</tr>
-<tr>
-<td colspan="4">&nbsp;<br /><strong>Practicum Trainees, Teaching Interns, Relief Teachers</strong></td>
-</tr>
-<tr>
-<td colspan="4">Ms Sok Cek Sin (Practicum Trainee)</td>
-</tr>
-<tr>
-<td colspan="4">Mr Tan Jie Xuan (Practicum Trainee)</td>
-</tr>
-<tr>
-<td colspan="4">Mdm Li Yanmei (Practicum Trainee)</td>
-</tr>
-<tr>
-<td colspan="4">Ms Sophia Chee (Practicum Trainee)</td>
-</tr>
-<tr>
-<td colspan="4">Ms Fiona Ng (Practicum Trainee)</td>
-</tr>
-<tr>
-<td colspan="4">Ms Jennifer Goh (Teaching Intern)</td>
-</tr>
-<tr>
-<td colspan="4">Ms Su Kaijun (Relief Teacher)</td>
-</tr>
-</tbody>
-</table>
