@@ -75,12 +75,21 @@ description: ""
 <td>E Math</td>
 <td>tan_fang_hui_sandy@moe.edu.sg</td>
 </tr>
-		<td>Mdm Low Chui Ling</td>
+<td>Mdm Low Chui Ling</td>
 <td>E Math</td>
 <td>low_chui_ling@moe.edu.sg</td>
 <tr>
+<td>Mr Soh Cek Sin</td>
+<td>E Math</td>
+<td>soh_cek_sin@moe.edu.sg</td>
 </tr>
+<td>Mdm Rena Ou</td>
+<td>E Math</td>
+<td>ou_bin_bin_rena@moe.edu.sg</td>
 <tr>
+<td>Mr Ng Yong Kang</td>
+<td>E Math</td>
+<td>ng_yong_kang@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
