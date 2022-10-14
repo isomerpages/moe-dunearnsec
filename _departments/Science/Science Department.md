@@ -1,10 +1,9 @@
 ---
 title: Science Department
-permalink: /departments/science-department
+permalink: /departments/science-department/
 description: ""
 third_nav_title: Science
 ---
-
 <h4>Departmental Mission</h4>
 <p>The Science Department aims to provide quality Science Education in a caring and stimulating&nbsp;environment and to create opportunities for the development of every pupil's potential.</p>
 <h4>Staffing</h4>
@@ -41,9 +40,7 @@ third_nav_title: Science
 <td>tan_fang_hui_sandy@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Ms Lee Yi Qiao</td>
-<td>Physics</td>
-<td><a href="mailto:lee_yi_qiao@moe.edu.sg">lee_yi_qiao@moe.edu.sg</a></td>
+
 </tr>
 <tr>
 <td>Mr Erwin Soo (HOD ICT)</td>
@@ -106,10 +103,10 @@ third_nav_title: Science
 <td>tan_whye_lin_yvonne@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Ms Lee Yi Qiao</td>
-<td>Physics</td>
-<td>lee_yi_qiao@moe.edu.sg</td>
 </tr>
+<td>Ms Lee Yi Qiao (AYH Upper Sec [Int])</td>
+<td>Physics</td>
+<td><a href="mailto:lee_yi_qiao@moe.edu.sg">lee_yi_qiao@moe.edu.sg</a></td>
 <tr>
 <td>&nbsp;Mr Gary Lee</td>
 <td>Physics</td>
