@@ -1,6 +1,6 @@
 ---
 title: Humanities Department
-permalink: /departments/humanities-department
+permalink: /departments/humanities-department/
 description: ""
 ---
 <h4>Objectives</h4>
@@ -157,19 +157,6 @@ Upper Sec Elective Geography, Lower Sec Geography
 <td><a href="mailto:sohail_basiron@moe.edu.sg">sohail_basiron@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Beatrice Tan&nbsp;</td>
-<td>&nbsp;Teacher</td>
-<td>Lower and Upper Sec History</td>
-<td><a href="mailto:beatrice_tan_pui_leng@moe.edu.sg">beatrice_tan_pui_leng@moe.edu.sg&nbsp;</a></td>
-</tr>
-<tr>
-<td>
-Mr Tey Giin Yang
-</td>
-<td>Allied Educator</td>
-<td>Social Studies(NT), Elements of Business Skills (EBS)</td>
-<td>
-<a href="mailto:tey_giin_yang@moe.edu.sg">tey_giin_yang@moe.edu.sg</a>
 </td>
 </tr>
 <tr>
