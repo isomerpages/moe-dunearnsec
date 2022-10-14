@@ -1,6 +1,6 @@
 ---
 title: Administrative Staff
-permalink: /school/administrative-staff
+permalink: /school/administrative-staff/
 description: ""
 ---
 <table border="1" width="100%" cellspacing="0" cellpadding="0">
@@ -29,7 +29,7 @@ description: ""
 <td>Admin Executive</td>
 </tr>
 <tr>
-<td>Mr Mohd Khalid Ahmad Zahit</td>
+<td>Mr Jason Ye</td>
 <td>ICT Associate</td>
 </tr>
 <tr>
