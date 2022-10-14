@@ -1,6 +1,6 @@
 ---
 title: Mathematics Department
-permalink: /departments/mathematics-department
+permalink: /departments/mathematics-department/
 description: ""
 ---
 <h4>Departmental Mission</h4>
@@ -39,14 +39,14 @@ description: ""
 <td>tan_whye_lin_yvonne@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mdm Selena Chan&nbsp;</td>
-<td>E Math / A Math</td>
-<td>chan_sze_ming_selena@moe.edu.sg</td>
-</tr>
-<tr>
-<td>Ms Lee Yi Qiao</td>
+<td>Ms Lee Yi Qiao (AYH Upper Sec [Int])&nbsp;</td>
 <td>E Math / A Math</td>
 <td>lee_yi_qiao@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Selena Chan</td>
+<td>E Math / A Math</td>
+<td>chan_sze_ming_selena@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Mr Muhd Hazwan&nbsp;</td>
@@ -54,9 +54,6 @@ description: ""
 <td>muhammad_hazwan_b_sapari@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mr Ang Wee Kiat (Asst. Yeah Head Upper Sec, Internal)</td>
-<td>E Math / A Math</td>
-<td>ang_wee_kiat@moe.edu.sg</td>
 </tr>
 <tr>
 <td>Ms Charmaine Goh</td>
@@ -79,14 +76,8 @@ description: ""
 <td>tan_fang_hui_sandy@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mr Chen Zhiyong&nbsp;</td>
-<td>E Math</td>
-<td>zhiyong_chen@moe.edu.sg</td>
 </tr>
 <tr>
-<td>Mr Chua Keng Yeow</td>
-<td>E Math</td>
-<td>chua_keng_yeow@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
