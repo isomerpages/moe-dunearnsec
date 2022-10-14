@@ -57,10 +57,10 @@ Lower Sec Geography, Upper Sec Elective Geography
 </td>
 </tr>
 <tr>
-<td>Mdm Zaharah</td>
-<td>ST History</td>
+<td>Ms Wong Yin Mei</td>
+<td>AYH Lower Sec</td>
 <td>Lower Sec<br />History, Upper&nbsp;<br />Sec History<br />Elective&nbsp;</td>
-<td><a href="mailto:zaharah_abdul_hamid@moe.edu.sg">zaharah_abdul_hamid@moe.edu.sg</a></td>
+<td><a href="mailto:wong_yin_mei@moe.edu.sg">wong_yin_mei@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>
