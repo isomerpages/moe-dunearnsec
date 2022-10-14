@@ -77,6 +77,9 @@ third_nav_title: Science
 <td>Chemistry</td>
 <td><a href="mailto:chau_pearlwe@moe.edu.sg">chau_pearlwe@moe.edu.sg</a></td>
 </tr>
+		<td>Ms Fiona Ng</td>
+<td>Chemistry</td>
+<td>ng_shu_hua_fiona@moe.edu.sg</td>
 <tr>
 <td>Mr Nick Lee Kong Huat (Year Head, Upper Sec)</td>
 <td>Physics</td>
