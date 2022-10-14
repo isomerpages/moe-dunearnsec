@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /departments/physical-education
+permalink: /departments/physical-education/
 description: ""
 ---
 <h4>Objectives</h4>
@@ -28,16 +28,7 @@ description: ""
 <td>PE Teacher&nbsp;</td>
 <td><a href="mailto:sohail_basiron@moe.edu.sg" target="">sohail_basiron@moe.edu.sg</a></td>
 </tr>
-<tr>
-<td>Mr Chua Keng Yeow</td>
-<td>PE Teacher</td>
-<td><a href="mailto:chua_keng_yeow@moe.edu.sg" target="">chua_keng_yeow@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Tey Ginn Yang</td>
-<td>AED</td>
-<td><a href="mailto:tey_giin_yang@moe.edu.sg" target="">tey_giin_yang@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td>Ms Nur Badriah Hairy</td>
 <td>SPE</td>
