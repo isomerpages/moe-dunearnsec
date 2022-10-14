@@ -62,6 +62,10 @@ Lower Sec Geography, Upper Sec Elective Geography
 <td>Lower Sec<br />History, Upper&nbsp;<br />Sec History<br />Elective&nbsp;</td>
 <td><a href="mailto:wong_yin_mei@moe.edu.sg">wong_yin_mei@moe.edu.sg</a></td>
 </tr>
+<td>Mr Siraj Ansari</td>
+<td>SH Special Projects</td>
+<td>Lower Sec<br />History, Upper&nbsp;<br />Sec History<br />Elective&nbsp;</td>
+<td><a href="mailto:siraj_ansari@moe.edu.sg">siraj_ansari@moe.edu.sg</a></td>
 <tr>
 <td>
 Mrs Hazel Lee
