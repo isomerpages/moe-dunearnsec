@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Department
-permalink: /departments/mother-tongue-department
+permalink: /departments/mother-tongue-department/
 description: ""
 ---
 <h4>Objectives</h4>
@@ -56,11 +56,7 @@ description: ""
 <td style="height: 64px;">邓凯华老师</td>
 <td style="height: 64px;"><a href="mailto:deng_kaihua@moe.edu.sg" target="">deng_kaihua@moe.edu.sg</a></td>
 </tr>
-<tr style="height: 64px;">
-<td style="height: 64px;">Mr Yeong Hoi Wai</td>
-<td style="height: 64px;">杨凯威老师</td>
-<td style="height: 64px;"><a href="mailto:yeong_hoi_wai@moe.edu.sg" target="">yeong_hoi_wai@moe.edu.sg</a></td>
-</tr>
+
 <tr style="height: 36px;">
 <td style="height: 36px;">Ms Lim Yin Ru, Esther</td>
 <td style="height: 36px;"><span lang="ZH-CN">林殷如老师</span></td>
