@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /departments/character-and-citizenship-education
+permalink: /departments/character-and-citizenship-education/
 description: ""
 ---
 <h3>OBJECTIVES</h3>
@@ -96,20 +96,12 @@ description: ""
 <td><a href="mailto:lim_sai_joo@moe.edu.sg" target="">lim_sai_joo@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Tey Giin Yang&nbsp;</td>
-<td>Allied Educator&nbsp;/ Learning and Behavioural Support&nbsp;</td>
-<td><a href="mailto:tey_giin_yang@moe.edu.sg">tey_giin_yang@moe.edu.sg</a></td>
-</tr>
 <tr>
 <td>Ms Rashedah Khan</td>
 <td>Student Welfare Officer</td>
 <td><a href="mailto:rashedah_khan_pate_khan@moe.edu.sg" target="">rashedah_khan_pate_khan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Ahmad Idris</td>
-<td>Allied Educator / Teaching &amp;&nbsp;Learning</td>
-<td><a href="mailto:ahmad_idris_ismail@moe.edu.sg" target="">ahmad_idris_ismail@moe.edu.sg</a></td>
-</tr>
 <tr>
 <td>Mdm Norlizah</td>
 <td>Administration Manager</td>
@@ -121,20 +113,14 @@ description: ""
 <td><a href="mailto:lailtha_savathan@moe.edu.sg" target="">lailtha_savathan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mdm Zaharah</td>
-<td>Senior Teacher</td>
-<td><a href="mailto:zaharah_abdul_hamid@moe.edu.sg" target="">zaharah_abdul_hamid@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td>Ms Dewi Marlina</td>
 <td>SH CCE (internal)</td>
 <td><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" target="">dewi_marlina_putri_chumali@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Ang Wee Kiat</td>
-<td>AYH Upper Sec (internal)</td>
-<td><a href="mailto:ang_wee_kiat@moe.edu.sg" target="">ang_wee_kiat@moe.edu.sg</a></td>
-</tr>
+
 <tr>
 <td>Mr Nazrul Hadi</td>
 <td>AYH Lower Sec (internal)</td>
@@ -156,10 +142,6 @@ description: ""
 <td><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" target="">siti_arnie_mohd_affandi@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Chen Zhi Yong</td>
-<td>Teacher</td>
-<td><a href="mailto:zhiyong_chen@moe.edu.sg">zhiyong_chen@moe.edu.sg</a></td>
-</tr>
 <tr>
 <td>Ms Tricia Anne&nbsp;Lee&nbsp;</td>
 <td>Teacher&nbsp;</td>
