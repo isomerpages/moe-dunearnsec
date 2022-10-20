@@ -122,3 +122,6 @@ links:
         url: /ccas/clubs
   - title: Dunearn Stories
     collection: dunearn-stories
+  - title: Dunearn Links
+    url: /permalink
+    sublinks: []
