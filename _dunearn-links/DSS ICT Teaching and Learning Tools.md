@@ -14,7 +14,7 @@ description: ""
 |Graph paper generator |https://incompetech.com/graphpaper/multiwidth/|
 |Graph paper generator|https://www.blocklayer.com/graph-paper.aspx|
 |Wallpapers, Backgrounds|https://unsplash.com/backgrounds|
-|||
+|URL shortener|https://go.gov.sg/#/login|
 |||
 # For Students
 | Resource Name | Usage and URL | 
@@ -22,10 +22,3 @@ description: ""
 |Kahoot Play| Quizzes https://kahoot.it     |
 | Padlet | https://padlet.com|
 |Whiteboard.fi|Online whiteboard https://whiteboard.fi/|
-|||
-|||
-|||
-|||
-|||
-|||
-
