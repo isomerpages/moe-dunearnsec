@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - PDLP Parents Enquiries.md
       - DSS ICT Teaching and Learning Tools.md
       - DSS ICT Helpdesk.md
       - School Calendar.md
