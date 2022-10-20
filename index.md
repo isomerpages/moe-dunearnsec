@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Dunearn Secondary School
-description: Brief site description here
+description: Dunearn Secondary School, MOE
 image: /images/logo2.jpeg
 permalink: /
 notification: ""
@@ -19,3 +19,4 @@ sections:
       subtitle: Latest Announcements
       button: More
 ---
+
