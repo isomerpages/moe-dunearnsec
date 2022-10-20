@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - DSS ICT Helpdesk.md
       - School Calendar.md
       - Staff Links.md
       - Forms and Documents.md
