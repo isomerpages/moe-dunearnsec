@@ -3,7 +3,7 @@ title: DSS ICT Teaching and Learning Tools
 permalink: /dunearn-links/icttools/
 description: ""
 ---
-# For Teachers
+### For Teachers
 
 | Resource Name | Usage and URL | 
 | -------- | -------- | 
@@ -16,7 +16,7 @@ description: ""
 |Wallpapers, Backgrounds|https://unsplash.com/backgrounds|
 |URL shortener|https://go.gov.sg/#/login|
 |||
-# For Students
+### For Students
 | Resource Name | Usage and URL | 
 | -------- | -------- | 
 |Kahoot Play| Quizzes https://kahoot.it     |
