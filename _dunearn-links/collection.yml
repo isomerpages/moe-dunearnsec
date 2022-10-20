@@ -2,7 +2,6 @@ collections:
   dunearn-links:
     output: true
     order:
-      - PDLP Parents Enquiries.md
       - DSS ICT Teaching and Learning Tools.md
       - DSS ICT Helpdesk.md
       - School Calendar.md
@@ -17,5 +16,6 @@ collections:
       - Student Learning Space.md
       - PDLP Procurement Documents.md
       - PDLP Briefing Slides For Parents.md
+      - PDLP Parents Enquiries.md
       - Acer PDLP eShop.md
       - WESTstories – Dunearn.md
