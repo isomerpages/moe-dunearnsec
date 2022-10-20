@@ -2,5 +2,5 @@ collections:
   dunearn-stories:
     output: true
     order:
-      - Inspiring Dunearnites (2015).md
+      - Inspiring Dunearnites.md
       - Creative Dunearnites (2015).md
