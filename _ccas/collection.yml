@@ -1,0 +1,30 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/National Cadet Corp (NCC).md
+      - Uniformed Groups/National Police Cadet Corp.md
+      - Uniformed Groups/St John Brigade.md
+      - Uniformed Groups/Scouts.md
+      - Sports & Games/.keep
+      - Sports & Games/Sports & Games.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Table Tennis.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Band.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Malay Dance Club.md
+      - Clubs/.keep
+      - Clubs/Clubs.md
+      - Clubs/Audio Visual Aid Club.md
+      - Clubs/Infocomm Club (Cyber Wellness).md
+      - Clubs/Photography Club.md
+      - Clubs/Library Club.md
+      - Clubs/Entrepreneurship Club.md

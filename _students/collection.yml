@@ -1,0 +1,16 @@
+collections:
+  students:
+    output: true
+    order:
+      - ICT and PDLP Support.md
+      - Edusave Character Award (ECHA).md
+      - Curriculum Matters.md
+      - CCA Information.md
+      - JC, MI, Poly, ITE Admission.md
+      - Sexuality Education.md
+      - Sports Safety.md
+      - Financial Assistance Scheme.md
+      - Homework Guidelines.md
+      - Direct School Admission.md
+      - Student Learning Space.md
+      - SLS password reset.md

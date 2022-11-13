@@ -1,0 +1,6 @@
+collections:
+  dunearn-stories:
+    output: true
+    order:
+      - Inspiring Dunearnites.md
+      - Creative Dunearnites.md
