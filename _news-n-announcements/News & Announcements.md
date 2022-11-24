@@ -1,11 +1,11 @@
 ---
 title: News & Announcements
-permalink: /dss-pages/news-n-announcements
+permalink: /dss-pages/news-n-announcements/
 description: ""
 ---
 <ul>
 <li><a href="/dss-pages/news-n-announcements/higher-institution-open-house-2022">Higher Institution Open House 2022</a></li>
-<li><a href="/dss-pages/news-n-announcements/sec-1-e-registration-for-academic-year-2022">Sec 1 e-Registration for Academic Year 2022</a></li>
+<li><a href="/dss-pages/news-n-announcements/sec-1-e-registration-for-academic-year-2022">Sec 1 e-Registration for Academic Year 2023</a></li>
 <li><a href="/dss-pages/news-n-announcements/towards-a-zero-waste-nation">Towards A Zero Waste Nation</a></li>
 <li><a href="/dss-pages/news-n-announcements/dunearn-awarded-the-vanda-miss-joaquim-award-2021">Dunearn Awarded the Vanda Miss Joaquim Award 2021</a></li>
 <li><a href="/dss-pages/news-n-announcements/youth-science-ambassador-programme-ysap-graduation-ceremony-2021">Youth Science Ambassador Programme (YSAP) Graduation Ceremony 2021</a></li>
