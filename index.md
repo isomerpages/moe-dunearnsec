@@ -18,5 +18,10 @@ sections:
   - resources:
       subtitle: Latest Announcements
       button: More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
-
