@@ -7,7 +7,7 @@ description: ""
 <p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and the school website.
 <ul>
 <li>Students and parents are&nbsp;<strong><u>not required</u></strong>&nbsp;to physically report to their posted secondary school, on the next working day following the release of S1 Posting Results which is tentatively to be between 21 Dec and 23 Dec 2022. Detailed information regarding Sec 1 stream and class allocation as well as administrative matters will be sent to parents via PG. Parents' response/ acknowledgement to the PG form will serve as proof of registration</u></strong>.</li>
-<li>Please read through the Sec 1 Information for Parents slides&nbsp;<a href="https://drive.google.com/drive/u/1/folders/1JeymcEMXoqW_hMd8TmbKbo14_t4R9nOr">here</a>.&nbsp;</li>
+<li>Parents can access and read through the Sec 1 Information for Parents slides here. (This link will be updated nearing the date of the release of Sec 1 Posting Results.)
 <li>Should parents or students need to go to school physically for the Sec 1 registration, Dunearn Secondary School will put in place strict Safe Management Measures. To ensure the crowd size is manageable, only one parent or guardian will be allowed to accompany each student to attend the Sec 1 registration in person in school.</li>
 </ul>
 <p><strong>Purchase of Books, Stationaries and Uniforms</strong></p>
