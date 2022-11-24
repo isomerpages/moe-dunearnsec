@@ -24,4 +24,5 @@ sections:
       alt: Image alt text
       image: /images/MIK_2173-scaled.jpg
       title: Singapore Green Award 2022
+      url: /news/feature-stories/SGA2022/
 ---
