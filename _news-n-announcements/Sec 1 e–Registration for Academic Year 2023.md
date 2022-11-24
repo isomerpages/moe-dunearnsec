@@ -16,10 +16,9 @@ description: ""
 <li>Online purchase order starting from the date of the release of the Secondary 1 Posting Results. Please click&nbsp;<a href="https://dyeducation.net/">here</a>&nbsp;to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is 668822.&nbsp;</li>
 
 <li>Purchase from the school bookshop in person between 26 Dec and 30 Dec 2022 or in the first week of Jan 2022 during Sec One Orientation Programme (SOOP) week. 
-<li>Click on [Sec 1 Booklist 2023](/files/Sec%201%20Booklist%202023.pdf) for the updated booklist. 
+<li>Click [here](/files/Sec%201%20Booklist%202023.pdf) for the updated Sec 1 booklist. 
 </ul>
 <p><strong>Application for Transfer into Dunearn Secondary School</strong></p>
 <p>Please be informed that any transfer requests following the Sec 1 Posting Results are subject to special considerations and circumstances which will be referred to the Ministry of Education for evaluation and approval. 
 
-For transfer request matters, parents may e-mail the school at dunearn_ss@moe.edu.sg or call the school at 65653692 for more information. 
-	
+For transfer request matters, parents may e-mail the school at dunearn_ss@moe.edu.sg or call the school at 65653692 for more information.
