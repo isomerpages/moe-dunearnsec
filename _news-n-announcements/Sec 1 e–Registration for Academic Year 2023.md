@@ -19,4 +19,7 @@ description: ""
 <li>Click on [Sec 1 Booklist 2023](/files/Sec%201%20Booklist%202023.pdf) for the updated booklist. 
 </ul>
 <p><strong>Application for Transfer into Dunearn Secondary School</strong></p>
-<p>For students who wish to transfer into Dunearn Secondary School, please proceed to fill in and submit the application form&nbsp;<a href="https://form.gov.sg/#!/5fe187aec3fca30012366b5d">here</a>.&nbsp;</p>
+<p>Please be informed that any transfer requests following the Sec 1 Posting Results are subject to special considerations and circumstances which will be referred to the Ministry of Education for evaluation and approval. 
+
+For transfer request matters, parents may e-mail the school at dunearn_ss@moe.edu.sg or call the school at 65653692 for more information. 
+	
