@@ -19,9 +19,8 @@ sections:
       subtitle: Latest Announcements
       button: More
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      description: DSS achieves "Vanda Miss Joaquim Sustained Achievement Award" 2022
       button: Button Text
       alt: Image alt text
+      image: /images/MIK_2173-scaled.jpg
 ---
