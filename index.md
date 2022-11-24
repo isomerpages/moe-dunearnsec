@@ -20,7 +20,7 @@ sections:
       button: More
   - infopic:
       description: DSS achieves "Vanda Miss Joaquim Sustained Achievement Award" 2022
-      button: Button Text
+      button: Read More
       alt: Image alt text
       image: /images/MIK_2173-scaled.jpg
       title: Singapore Green Award 2022
