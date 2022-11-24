@@ -11,76 +11,12 @@ description: ""
 <li>Parents or students may visit the school's General Office in person should they require assistance for urgent queries. Alternatively, parents can e-mail the school at dunearn_ss@moe.edu.sg or call the school at 65653692 for general queries. 
 </ul>
 <p><strong>Purchase of Books, Stationaries and Uniforms</strong></p>
-<p>Parents and students will have the following options to purchase their books and uniforms as part of our Safe Management Measures:</p>
+<p>Parents and students will have the following options to purchase their books and uniforms:
 <ul>
-<li>Online purchase order starting from the date of Secondary 1 Reporting Day. Please click&nbsp;<a href="https://dyeducation.net/">here</a>&nbsp;to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is 668822.&nbsp;</li>
-<li>Purchase from the school bookshop in person should parents and students choose to report physically in school on the date of Secondary 1 Reporting Day.</li>
-<li>Purchase from the school bookshop in person between 27 Dec and 29 Dec based on specified timing and dates according to class allocation as follows. Venues for sales: D-1-1, D-1-2 Classrooms (Blk D, Level 1 Classrooms)</li>
-<li>
-<table>
-<tbody>
-<tr>
-<td width="174">
-<p><strong>Dates of Sales</strong></p>
-</td>
-<td width="180">
-<p><strong>Classes</strong></p>
-</td>
-<td width="162">
-<p><strong>Time</strong></p>
-</td>
-</tr>
-<tr>
-<td width="174">
-<p>23 Dec 2021 (Thu)</p>
-</td>
-<td width="180">
-<p>1Emerald, 1Opal</p>
-</td>
-<td width="162">
-<p>8:30am - 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td width="174">
-<p>27 Dec 2021 (Mon)</p>
-</td>
-<td width="180">
-<p>1Sapphire, 1Topaz</p>
-</td>
-<td width="162">
-<p>8:30am - 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td width="174">
-<p>28 Dec 2021 (Tue)</p>
-</td>
-<td width="180">
-<p>1Ruby, 1Pearl</p>
-</td>
-<td width="162">
-<p>8:30am - 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td width="174">
-<p>29 Dec 2021 (wed)</p>
-</td>
-<td width="180">
-<p>1Diamond, 1Amber</p>
-</td>
-<td width="162">
-<p>8:30am - 3:30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-</ul>
-<ul>
-<li>Purchase from school bookshop in the first week of Jan 2022 during Sec One Orientation Programme (SOOP) week. (Recommended)</li>
-<li>The book lists can be found <a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-documents-and-forms/">here</a>.&nbsp;</li>
+<li>Online purchase order starting from the date of the release of the Secondary 1 Posting Results. Please click&nbsp;<a href="https://dyeducation.net/">here</a>&nbsp;to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is 668822.&nbsp;</li>
+
+<li>Purchase from the school bookshop in person between 26 Dec and 30 Dec 2022 or in the first week of Jan 2022 during Sec One Orientation Programme (SOOP) week. 
+<li>Click on [Sec 1 Booklist 2023](/files/Sec%201%20Booklist%202023.pdf) for the updated booklist. 
 </ul>
 <p><strong>Application for Transfer into Dunearn Secondary School</strong></p>
 <p>For students who wish to transfer into Dunearn Secondary School, please proceed to fill in and submit the application form&nbsp;<a href="https://form.gov.sg/#!/5fe187aec3fca30012366b5d">here</a>.&nbsp;</p>
