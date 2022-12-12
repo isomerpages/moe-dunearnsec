@@ -5,8 +5,7 @@ description: ""
 ---
 <h2>School Admin, Finance Forms</h2>
 <h3>2023 Documents</h3>		
-For stationary and booklists for 2023,  please [CLICK HERE](https://dyeducation.net/) to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is <b>668822</b>. <p>
-Purchase from the school bookshop can be made in person between 26 -  30 Dec 2022 or in the first week of Jan 2023.
+For stationary and booklists for 2023,  please [CLICK HERE](https://dyeducation.net/) to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is <b>668822</b>.  Purchase from the school bookshop can be made in person between 26 -  30 Dec 2022 or in the first week of Jan 2023.
 
 <h3>2022 Documents</h3>	
 
