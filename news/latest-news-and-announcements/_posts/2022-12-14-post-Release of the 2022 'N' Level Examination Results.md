@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p>Dear Parent/Guardian of 4N (2022) students,</p>
+<p>Dear Parent/Guardian of 4NA/NT (2022) students,</p>
 <p>The results of the 2022 GCE N(A) and N(T) Level Examinations will be released on Monday, 19 Dec 2022.</p>
 <p>The form teachers have informed your child/ward of the following:</p>
 <ul>
