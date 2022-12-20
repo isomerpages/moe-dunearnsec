@@ -15,7 +15,7 @@ image: ""
 	
 <li>A welcome handbook containing Sec 1 general information will be sent to Sec 1 parents via PG from the afternoon on 21 Dec 2022, Wednesday.  Parents' acknowledgement to the PG form will serve as proof of registration. Thereafter, information regarding Sec 1 stream and class allocation as well as the Secondary One Orientation Programme (SOOP) form will be sent to parents via PG on 22 Dec 2022, Thursday.</li>
 	
-<li>Parents can also click <a href="https://drive.google.com/file/d/1QkedYgOZJOyD1TH4ARGb957o6VPhDjN-/view?usp=drivesdk">here</a> to access and read through the Sec 1 Handbook General Information for Parents.
+<li>Parents can also click <a href="https://drive.google.com/file/d/17iLL7-N3eQfGTj-_vj2fS6Crzsn4RXpp/view">here</a> to access and read through the Sec 1 Handbook General Information for Parents.
 	
 <li>Parents or students may visit the school's General Office in person should they require assistance for urgent queries. Alternatively, parents can e-mail the school at dunearn_ss@moe.edu.sg or call the school at 65653692 for general queries. 
 <br>
