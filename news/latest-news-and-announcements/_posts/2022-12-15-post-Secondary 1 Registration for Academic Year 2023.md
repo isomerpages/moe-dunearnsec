@@ -29,7 +29,7 @@ image: ""
 <li>Click <a href="https://drive.google.com/file/d/1FfJred5rucl17ergvmMKJT3JULsx1mii/view">here</a> for the updated Sec 1 booklist.
 <br>
 <p><strong>Application for Transfer into Dunearn Secondary School</strong></p>
-<p>Please be informed that any transfer requests following the Sec 1 Posting Results are subject to special considerations and circumstances which will be referred to the Ministry of Education for evaluation and approval. 
+<p>Please be informed that any transfer requests following the Sec 1 Posting Results are subject to special considerations and circumstances which will be referred to the Ministry of Education for evaluation and approval. </p>
 	
 **Transfer Appeal (for non-medical reasons):**
 	
