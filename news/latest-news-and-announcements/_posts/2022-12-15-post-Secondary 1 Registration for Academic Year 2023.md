@@ -24,7 +24,7 @@ image: ""
 <ul>
 <li>Online purchase order starting from 21 Dec 2022. Please click&nbsp;<a href="https://dyeducation.net/">here</a>&nbsp;to access the portal to purchase books, stationaries and uniforms online. The password to access the portal is 668822.&nbsp;</li>
 
-<li>Purchase from the school bookshop in person between 27 Dec and 30 Dec 2023 or in the first week of Jan 2023 during Sec One Orientation Programme (SOOP) week. </li>
+<li>Purchase from the school bookshop in person between 27 Dec and 30 Dec 2022 or in the first week of Jan 2023 during Sec One Orientation Programme (SOOP) week. </li>
 	
 <li>Click <a href="https://drive.google.com/file/d/1FfJred5rucl17ergvmMKJT3JULsx1mii/view">here</a> for the updated Sec 1 booklist.
 <br>
