@@ -11,7 +11,7 @@ image: ""
 <p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and the school website.
 
 <ul>
-<li>Students and parents are&nbsp;<strong><u>not required</u></strong>&nbsp;to physically report to their posted secondary school, on the next working day following the release of S1 Posting Results on 21 Dec 2022. 
+<li>Students and parents are&nbsp;<strong><u>not required</u></strong>&nbsp;to physically report to their posted secondary school, on the next working day following the release of S1 Posting Results on 21 Dec 2022.  
 	
 <li>A welcome handbook containing Sec 1 general information will be sent to Sec 1 parents via PG from the afternoon on 21 Dec 2022, Wednesday.  Parents' acknowledgement to the PG form will serve as proof of registration. Thereafter, information regarding Sec 1 stream and class allocation as well as the Secondary One Orientation Programme (SOOP) form will be sent to parents via PG on 22 Dec 2022, Thursday.</li>
 	
