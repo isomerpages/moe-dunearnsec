@@ -8,7 +8,7 @@ image: ""
 ---
 <p><strong>General Information</strong></p>
 
-<p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and the school website.
+<p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and school website.
 
 <ul>
 <li>Students and parents are&nbsp;<strong><u>not required</u></strong>&nbsp;to physically report to their posted secondary school, on the next working day following the release of S1 Posting Results on 21 Dec 2022.  
