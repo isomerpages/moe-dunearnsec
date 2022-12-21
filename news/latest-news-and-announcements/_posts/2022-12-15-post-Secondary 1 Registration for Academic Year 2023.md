@@ -8,7 +8,7 @@ image: ""
 ---
 <p><strong>General Information</strong></p>
 
-<p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and school website.
+<p>With effect from 2022, the Sec 1 Reporting and Registration exercise will be completed electronically. The main modes of communication channels will be via Parents Gateway (PG) and the school website.
 
 <ul>
 <li>Students and parents are&nbsp;<strong><u>not required</u></strong>&nbsp;to physically report to their posted secondary school, on the next working day following the release of S1 Posting Results on 21 Dec 2022.  
@@ -35,3 +35,4 @@ image: ""
 <p>To submit your transfer appeal for consideration, please click <a href="https://form.gov.sg/63a11ffc234fa00012173033">here</a> to access the online transfer appeal form. Please submit the form by <strong>27 Dec 2022</strong>. Late submissions will not be considered.</p>
 <p><strong>Transfer Appeal (for medical reasons):</strong></p>
 <p>If you wish to submit transfer appeal due to medical reasons, please e-mail the school at <a href="mailto:dunearn_ss@moe.edu.sg">dunearn_ss@moe.edu.sg</a> or call the school at 65653692 for further assistance. Please note that transfer appeal for medical reasons should be submitted to the school by <strong>22 Dec 2022, 12 p.m</strong>. Applications will be reviewed and subject to MOE&rsquo;s considerations and approval .</p>
+	
