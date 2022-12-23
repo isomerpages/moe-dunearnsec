@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /ccas/performing-arts/choir
+permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -27,8 +27,8 @@ third_nav_title: Performing Arts
 </ul>
 <h4>Training Day, Time and Venue</h4>
 <ul>
-<li>Monday : Dance Session&nbsp;1600 to 1800 (School Hall)</li>
-<li>Thursday, Vocal Session 1600 to 1800 (2TP Classroom)</li>
+<li>Tuesday: 3:30 to 5:30 pm (Black Box)</li>
+<li>Thursday: 3:30 to 5:30 pm (Design Studio)</li></li>
 </ul>
 <h4>Highlights</h4>
 <ul>
