@@ -1,6 +1,6 @@
 ---
 title: Malay Dance Club
-permalink: /ccas/performing-arts/malay-dance-club
+permalink: /ccas/performing-arts/malay-dance-club/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -16,7 +16,7 @@ third_nav_title: Performing Arts
 <h4>Trainer/Choreographer</h4>
 <p>Mr Azmi Bin Juhari</p>
 <h4>Training Day, Time and Venue</h4>
-<p>Every Tuesday &amp; Wednesday<br />3.30 &ndash; 5.30pm<br />School Hall</p>
+<p>Every Tuesday and Wednesday<br />3:30 &ndash; 5:30pm<br />School Hall</p>
 <h4>MDC Executive Committee Members</h4>
 <table>
 <tbody>
