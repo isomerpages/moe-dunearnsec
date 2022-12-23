@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship Club
-permalink: /ccas/clubs/entrepreneurship-club
+permalink: /ccas/clubs/entrepreneurship-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -40,7 +40,7 @@ third_nav_title: Clubs
 </tbody>
 </table>
 <h4>Training Day, Time and Venue</h4>
-<p>Wednesdays, 3.30 &ndash; 5.30pm, Com Lab 1</p>
+<p>Wednesdays, 3:30 &ndash; 6:00pm, Com Lab 1</p>
 <h4>Highlights</h4>
 <ul>
 <li>CCA Values-In-Action: Cleaners&rsquo; Appreciation Day</li>
