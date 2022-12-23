@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /ccas/performing-arts/modern-dance
+permalink: /ccas/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -24,7 +24,7 @@ third_nav_title: Performing Arts
 <li><strong>Admin and Publicity Managers</strong> : ANNABEL ANG XIU WEI (4 RUBY), ANUPAMA SUTRADHAR (4 SAPPHIRE), BONG JIA YAN (3 OPAL), YEO JIA QI NATALIE (3 DIAMOND)</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p>Tuesday and Thursday, 3.30pm to 5:30pm, Music Room</p>
+<p>Wednesday (3:30 - 5:30 pm (ISH L1), Thursday, 3.30pm to 5:30pm, Music Room</p>
 <h4>Highlights or Achievements</h4>
 <ul>
 <li>National Day 2018</li>
