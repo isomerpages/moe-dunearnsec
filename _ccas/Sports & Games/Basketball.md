@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /ccas/sports-n-games/basketball
+permalink: /ccas/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -20,11 +20,11 @@ third_nav_title: Sports & Games
 <h4>Training Day, Time and Venue</h4>
 <p><strong>Girls</strong></p>
 <ul>
-<li>Monday 3:30pm to 5:30pm (ISH Level 4)</li>
-<li>Wednesday 3:30pm to 5:30pm (ISH Level 4)</li>
+<li>Tuesday 3:30pm to 5:30pm (ISH Level 1)</li>
+<li>Thursday 3:30pm to 5:30pm (ISH Level 4)</li>
 </ul>
 <p><strong>Boys</strong></p>
 <ul>
 <li>Tuesday 3:30pm to 5:30pm (ISH Level 4)</li>
-<li>Thursday 3:30pm to 5:30pm (ISH Level 4)</li>
+<li>Thursday 3:30pm to 5:30pm (ISH Level 1)</li>
 </ul>
