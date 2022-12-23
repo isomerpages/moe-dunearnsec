@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /ccas/sports-n-games/football
+permalink: /ccas/sports-n-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -16,9 +16,9 @@ third_nav_title: Sports & Games
 <li>Mr Sohail Basiron ( C Boys )</li>
 <li>Mr Chua Keng Yeow</li>
 </ul>
-<h4>Achievements</h4>
+<h4>Training Day, Time and Venue</h4>
 <ul>
-<li>'C' Division &ndash; 3rd Place West Zone Inter School Competition</li>
-<li>'C' Division &ndash; 2nd Place West Zone Inter School Competition (2015)</li>
+<li>Tuesday 3:00 - 5:00 pm (Field)</li>
+<li>Wednesday 3:00 - 5:00 p.m (Field)</li>
 </ul>
 <img src="/images/football.png">
