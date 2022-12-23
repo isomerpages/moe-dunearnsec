@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /ccas/sports-n-games/table-tennis
+permalink: /ccas/sports-n-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -52,7 +52,7 @@ third_nav_title: Sports & Games
 <td style="text-align: center;">School Hall</td>
 </tr>
 <tr>
-<td style="text-align: center;">Wednesdays</td>
+<td style="text-align: center;">Thursdays</td>
 <td style="text-align: center;">3:30pm - 5:30pm</td>
 <td style="text-align: center;">School Hall</td>
 </tr>
