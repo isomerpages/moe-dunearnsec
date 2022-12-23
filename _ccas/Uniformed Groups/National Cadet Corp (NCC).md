@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corp (NCC)
-permalink: /ccas/uniformed-groups/national-cadet-corp-ncc
+permalink: /ccas/uniformed-groups/national-cadet-corp-ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -96,7 +96,7 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <h4>Training Day, Time and Venue</h4>
-<p>Friday, 2:30pm to 5:30pm, School</p>
+<p>Thursday, 3:30pm to 6:00pm, School</p>
 <h4>Key Programmes</h4>
 <p><strong>Core Values</strong></p>
 <p>1) Loyalty To Country<br />2) Uprightness<br />3) Leadership<br />4) Discipline<br />5) Commitment &amp; Responsibility<br />6) Care For Fellow Cadets<br />7) Adventurous Spirit</p>
