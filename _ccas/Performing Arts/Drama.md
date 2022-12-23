@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /ccas/performing-arts/drama
+permalink: /ccas/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -23,10 +23,9 @@ third_nav_title: Performing Arts
 <p>Mr. A. Elyas</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
-<li>Wednesdays&nbsp;3.30pm to 6.00pm</li>
-<li>Fridays&nbsp;12.45pm to 2.45pm</li>
-</ul>
-<p>Venue: Blackbox (BLOCK C, Level 3)</p>
+<li>Wednesdays&nbsp;3:30pm to 5:30pm (Black Box)</li>
+<li>Thursdays&nbsp;3:30pm to 5:30pm (Black Box)</li>
+
 <h4>Committee Members 2017</h4>
 <p>President: Ayuni Khalisah (4 Ruby)<br />Vice Presidents: Evelyn Ng and Lee Su Jin (4 Opal)<br />Junior Vice-Presidents: Isnani Nurmaya and Ria Nasuha (3 Sapphire)</p>
 <h4>Key Programmes</h4>
