@@ -1,6 +1,6 @@
 ---
 title: St John Brigade
-permalink: /ccas/uniformed-groups/st-john-brigade
+permalink: /ccas/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -25,7 +25,7 @@ third_nav_title: Uniformed Groups
 <li>Izboy Danial ( C.S.O Grade 6 )</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p>Friday, 2:30pm to 5:30pm, School Compound</p>
+<p>Thursday, 3:30pm to 6:00pm, School Compound</p>
 <h4>Committee Members (2016/2017)</h4>
 <table>
 <tbody>
