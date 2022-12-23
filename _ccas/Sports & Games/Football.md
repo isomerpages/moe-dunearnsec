@@ -14,7 +14,6 @@ third_nav_title: Sports & Games
 <ul>
 <li>Mr Louis Chin ( B boys )</li>
 <li>Mr Sohail Basiron ( C Boys )</li>
-<li>Mr Chua Keng Yeow</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
 <ul>
