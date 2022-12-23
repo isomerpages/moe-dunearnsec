@@ -1,6 +1,6 @@
 ---
 title: Band
-permalink: /ccas/performing-arts/band
+permalink: /ccas/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -22,8 +22,8 @@ third_nav_title: Performing Arts
 <p>Band Major &amp; Concert Mistress : Ong Yu<br />Drum Major : Teo Ding Zheng<br />EXCO members: Nuramelia Binte Mohamed Azhar, Lee Xin Yan Alicia</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
-<li>Wednesday, 3.30pm to 5.30pm, Music Room</li>
-<li>Friday, 2.30pm to 5.30pm, Music Room</li>
+<li>Tuesday, 3.30pm to 6.00pm, Music Room</li>
+<li>Wednesday, 3.30pm to 6.00pm, Music Room</li>
 </ul>
 <h4>Highlights or Achievements</h4>
 <ul>
