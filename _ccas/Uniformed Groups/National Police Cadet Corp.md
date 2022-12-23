@@ -1,6 +1,6 @@
 ---
 title: National Police Cadet Corp
-permalink: /ccas/uniformed-groups/national-police-cadet-corp
+permalink: /ccas/uniformed-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -24,7 +24,7 @@ third_nav_title: Uniformed Groups
 <li>CI (NPCC) Chua Wen Hong</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p>Friday, 2:30pm to 6pm, School</p>
+<p>Tuesday, 3:30pm to 6pm, School</p>
 <h4>Cadet Leaders Structure 2019</h4>
 <p><strong>Training Department<br /></strong>Training Head:<br />SGT (NPCC) Chong Zi Qin</p>
 <p>Secondary 1 Squad Overall-In-Charge:<br />SGT (NPCC) Loh Si Hui, Jocelyn</p>
