@@ -1,6 +1,6 @@
 ---
 title: Photography Club
-permalink: /ccas/clubs/photography-club
+permalink: /ccas/clubs/photography-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -38,7 +38,7 @@ third_nav_title: Clubs
 </tbody>
 </table>
 <h4>Training Day, Time and Venue</h4>
-<p><strong>Wednesdays, 3:30 &ndash; 5:30pm, Computer Lab 4</strong></p>
+<p><strong>Wednesdays, 3:30 &ndash; 5:30pm, IT Resource Room 1</strong></p>
 <h4>Highlights &amp; Achievements</h4>
 <p><strong>Highlights</strong></p>
 <ul>
