@@ -3,102 +3,204 @@ title: Administrative Staff
 permalink: /school/administrative-staff/
 description: ""
 ---
-<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tbody>
 <tr>
-<td>Mdm Norlizah Yamaludin</td>
-<td>Administration Manager</td>
-<td>norlizah_yamaludin@schools.gov.sg</td>
+<td>
+<p>Mdm Norlizah Yamaludin</p>
+</td>
+<td>
+<p>Administration Manager</p>
+</td>
+<td>
+<p>norlizah_yamaludin@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td>Mr Voon Soon Tuck</td>
-<td>Operations Manager</td>
-<td>voon_soon_tuck@moe.edu.sg</td>
+<td>
+<p>Mr Voon Soon Tuck</p>
+</td>
+<td>
+<p>Operations Manager</p>
+</td>
+<td>
+<p>voon_soon_tuck@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
-<td>Mr Steven Low</td>
-<td>Operations Manager</td>
-<td>low_wai_fatt_steven@schools.gov.sg</td>
+<td>
+<p>Mr Steven Low</p>
+</td>
+<td>
+<p>Operations Manager</p>
+</td>
+<td>
+<p>low_wai_fatt_steven@schools.gov.sg</p>
+</td>
 </tr>
 </tbody>
 </table>
-<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tbody>
 <tr>
-<td>Mdm Juraiza Sapiee</td>
-<td>Admin Executive</td>
+<td>
+<p>Mdm Juraiza Sapiee</p>
+</td>
+<td>
+<p>Admin Executive</p>
+</td>
 </tr>
 <tr>
-<td>Mr Jason Ye</td>
-<td>ICT Associate</td>
+<td>
+<p>Mr Jason Ye</p>
+</td>
+<td>
+<p>ICT Associate</p>
+</td>
 </tr>
 <tr>
-<td>Ms Nur Badriah Hairy</td>
-<td>Admin Executive (CJT)</td>
+<td>
+<p>Ms Nur Badriah Hairy</p>
+</td>
+<td>
+<p>Admin Executive (CJT)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Hasnah Limat</td>
-<td>Corporate Support Officer (CSO)</td>
+<td>
+<p>Mdm Hasnah Limat</p>
+</td>
+<td>
+<p>Corporate Support Officer (CSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Anne Yeap Cheng Leng</td>
-<td>Corporate Support Officer (CSO)</td>
+<td>
+<p>Mdm Anne Yeap Cheng Leng</p>
+</td>
+<td>
+<p>Corporate Support Officer (CSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Selvarani d/o Miandy</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Selvarani d/o Miandy</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Kock Chuay Wai</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mr Kock Chuay Wai</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Ng Lan</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Poh Lian Heok</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Poh Lian Heok</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Lek Siew Li</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Lek Siew Li</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Gayathri Krishnan</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Ms Rita Goh Bee Choo</td>
-<td>Technical Support Officer (TSO)</td>
+<td>
+<p>Mdm Mahamudha Hajamaiden</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Mahamudha Hajamaiden</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Siah Ong Lian</p>
+</td>
+<td>
+<p>Operation Support Officer (OSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Siah Ong Lian</td>
-<td>Operation Support Officer (OSO)</td>
+<td>
+<p>Mdm Norliza Yahya</p>
+</td>
+<td>
+<p>Technical Support Officer (TSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Rohim Saat</td>
-<td>Technical Support Officer (TSO)</td>
+<td>
+<p>Mdm Ho Peck Lin</p>
+</td>
+<td>
+<p>Technical Support Officer (TSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Tan Eng Khwan</td>
-<td>Technical Support Officer (TSO)</td>
+<td>
+<p>Mr Rohim Saat</p>
+</td>
+<td>
+<p>Technical Support Officer (TSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Firdaus Jenal</td>
-<td>Desktop Engineer (DE)</td>
+<td>
+<p>Mr Tan Eng Khwan</p>
+</td>
+<td>
+<p>Technical Support Officer (TSO)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Adiib</td>
-<td>Desktop Engineer (DE)</td>
+<td>
+<p>Mr Firdaus Jenal</p>
+</td>
+<td>
+<p>Desktop Engineer (DE)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Betty Wong</td>
-<td>Kitchen Assistant</td>
+<td>
+<p>Mr Adiib Ayub</p>
+</td>
+<td>
+<p>Desktop Engineer (DE)</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Nurhaniza</td>
-<td>Library Assistant</td>
+<td>
+<p>Mdm Betty Wong</p>
+</td>
+<td>
+<p>Kitchen Assistant</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Mike Lee</p>
+</td>
+<td>
+<p>Library Assistant</p>
+</td>
 </tr>
 </tbody>
 </table>
