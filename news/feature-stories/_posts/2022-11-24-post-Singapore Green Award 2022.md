@@ -6,16 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
-![](/images/MIK_2173-scaled.jpg)
-Dunearn Secondary School is proud to announce that the school has achieved "Vanda Miss Joaquim Sustained Achievement Award" in 2022. This award is the highest tier award for school that achieved third consecutive “Vanda Miss Joaquim” Award. 
-![](/images/20221118_174312.jpg)
-Every year, Singapore Environment Council received over 300 Singapore Green Award submissions from preschools, primary schools, secondary schools, junior colleges, international schools, schools for students with special needs. 
-
-The assessment criteria for Singapore Green Award is different and stringent every year. Only schools with submissions of overall score of more than 90% will receive the “Vanda Miss Joaquim” Award. 
-![](/images/20221118_130213.jpg)
-Our school environmental programmes and school-wide activities aim to nurture our students to form good environmental habits and involve the wider community and school stakeholders in environmental efforts. 
-
-Due to our continuous green efforts, our school is among the 13 secondary schools in Singapore that has achieved "Vanda Miss Joaquim Sustained Achievement Award". 
-
-More information regarding Singapore Green Award is available at this website [https://web.sec.org.sg/sga/sga-framework/](https://web.sec.org.sg/sga/sga-framework/)
+<p>Dunearn Secondary School is proud to announce that our school has achieved "Vanda Miss Joaquim Sustained Achievement Award" in 2022.&nbsp;This award is the highest tier award for school that achieved third consecutive &ldquo;Vanda Miss Joaquim&rdquo; Award.&nbsp;</p>
+<p>Every year, Singapore Environment Council received over 300 School Green Awards submissions from preschools, primary schools, secondary schools, junior colleges, international schools, schools for students with special needs.&nbsp;</p>
+<p>The assessment criteria for School Green Awards is different and stringent every year.&nbsp;Only schools with submissions of overall score of more than 90% will receive the &ldquo;Vanda Miss Joaquim&rdquo; Award.&nbsp;</p>
+<p>Our school environmental programmes and school-wide activities aim to nurture our students to form good environmental habits and involve the wider community and school stakeholders in environmental efforts.&nbsp;</p>
+<p>Due to our continuous green efforts, our school is among the 13 secondary schools in Singapore that has achieved "Vanda Miss Joaquim Sustained Achievement Award".&nbsp;</p>
+<p>More information regarding School Green Awards is available at this website&nbsp;<a href="https://web.sec.org.sg/sga/sga-framework/">https://web.sec.org.sg/sga/sga-framework</a></p>
