@@ -6,7 +6,6 @@ third_nav_title: Sports & Games
 ---
 <h4>CCA Objectives</h4>
 <p>The Dunearn Basketball team aims to develop basketball skills for students who are interested in playing competitive basketball and&nbsp;build sound and strong character through the rigorous trainings. Our players participate in a variety of activities and progressive training programmes conducted by our coaches to develop their fitness, skills, and values of sportsmanship.</p>
-
 <h4>Teachers-in-Charge</h4>
 <ul>
 <li>Ms Leung Sin Yung</li>
