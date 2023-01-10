@@ -72,7 +72,7 @@ description: ""
 </tr>
 <tr>
 <td>Mrs Hazel Lee</td>
-<td>HOD N Course</td>
+<td>HOD Educational Support</td>
 <td><a href="mailto:hazel_hong_wen_lee@moe.edu.sg" target="">hazel_hong_wen_lee@moe.edu.sg</a></td>
 </tr>
 <tr>
@@ -82,17 +82,18 @@ description: ""
 </tr>
 <tr>
 <td>Ms Fitriah</td>
-<td>Allied Educator / Counselling</td>
+<td>School Counsellor</td>
 <td><a href="mailto:fitriah_abdul_ghani@moe.edu.sg" target="">fitriah_abdul_ghani@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Png KeatSiong</td>
-<td>Allied Educator&nbsp;/&nbsp;Counselling</td>
-<td>p_ng_keat_siong@moe.edu.sg</td>
+<td>School Counsellor</td>
+<td><a href="mailto:p_ng_keat_siong@moe.edu.sg"
+target="">p_ng_keat_siong@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Lim Sai Joo</td>
-<td>Allied Educator / Learning&nbsp;&amp; Behavioural Support</td>
+<td>SEN Officer</td>
 <td><a href="mailto:lim_sai_joo@moe.edu.sg" target="">lim_sai_joo@moe.edu.sg</a></td>
 </tr>
 <tr>
@@ -116,46 +117,48 @@ description: ""
 
 <tr>
 <td>Ms Dewi Marlina</td>
-<td>SH CCE (internal)</td>
+<td>SH CCE</td>
 <td><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" target="">dewi_marlina_putri_chumali@moe.edu.sg</a></td>
 </tr>
 <tr>
 
 <tr>
 <td>Mr Nazrul Hadi</td>
-<td>AYH Lower Sec (internal)</td>
+<td>SH Student Well-being</td>
 <td><a href="mailto:nazrul_hadi_jamali@moe.edu.sg" target="">nazrul_hadi_jamali@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mr Alvin Ho</td>
-<td>SH PE</td>
-<td><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" target="">ho_wei_kwok_alvin@moe.edu.sg</a></td>
+<td>Ms Veronica Lam</td>
+<td>SH Geography</td>
+<td><a href="mailto:lam_shy_wei_veronica@moe.edu.sg" target="">lam_shy_wei_veronica@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Ms Hanani Jaafar</td>
+<td>Ms Siraj</td>
+<td>SH Special Projects</td>
+<td><a href="mailto:siraj_ansari_mohamed_shariff@moe.edu.sg" target="">siraj_ansari_mohamed_shariff@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Hanani</td>
 <td>Teacher</td>
 <td><a href="mailto:nur_hanani_jaafar@moe.edu.sg" target="">nur_hanani_jaafar@moe.edu.sg</a></td>
 </tr>
 <tr>
+<tr>
 <td>Ms Siti Arnie</td>
-<td>Teacher</td>
-<td><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" target="">siti_arnie_mohd_affandi@moe.edu.sg</a></td>
-</tr>
-<tr>
-<tr>
-<td>Ms Tricia Anne&nbsp;Lee&nbsp;</td>
 <td>Teacher&nbsp;</td>
-<td><a href="mailto:lee_mei_qing@moe.edu.sg" target="">lee_mei_qing@moe.edu.sg</a>&nbsp;</td>
+<td><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" target="">siti_arnie_mohd_affandi@moe.edu.sg</a>&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Leung Sin Yung</td>
 <td>Teacher</td>
-<td>leung_sin_yung@moe.edu.sg&nbsp;</td>
+<td><a href="mailto:leung_sin_yung@moe.edu.sg"
+target="">leung_sin_yung@moe.edu.sg&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Nicole Kwek</td>
 <td>Teacher</td>
-<td>nicole_kwek_xin_yi@moe.edu.sg</td>
+<td><a href="mailto:nicole_kwek_xin_yi@moe.edu.sg"
+target="">nicole_kwek_xin_yi@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
