@@ -321,10 +321,50 @@ description: ""
 <p><strong>At Dunearn Secondary School, the eTeens programme will be implemented as follows in 2023:</strong></p>
 
 
-| **Topics/Lessons** | **Programme Learning Objectives** | **Term/ Week** |
-| -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor     | Awareness of the different STIs and HIV/AIDS Modes of transmission Modes of protection, specifically on how the condom is used Consequences and impact of STIs/HIV     | Term 2 Week 6 (1 hour)     |
-| Classroom-based Lesson     | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 2 Week 7 (1 hour)     |
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="177">
+<p><strong>Topics/Lessons</strong></p>
+</td>
+<td style="text-align: center;" width="482">
+<p><strong>Programme Learning Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="160">
+<p><strong>Term/Week</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="177">
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td width="482">
+<p>&middot; Awareness of the different STIs and HIV/AIDS</p>
+<p>&middot; Modes of transmission</p>
+<p>&middot; Modes of protection, specifically on how the condom is used</p>
+<p>&middot; Consequences and impact of STIs/HIV</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 2 Week 6</p>
+<p>(1 hour)</p>
+</td>
+</tr>
+<tr>
+<td width="177">
+<p>Classroom-based Lesson</p>
+</td>
+<td width="482">
+<p>&middot; Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p>
+</td>
+<td style="text-align: center;" width="160">
+<p>Term 2 Week 7</p>
+<p>(1 hour)</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <p><strong>Information for Parents</strong></p>
