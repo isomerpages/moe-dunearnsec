@@ -221,7 +221,7 @@ L**OWER SEC ASSISTANT YEAR HEAD: MS WONG YIN MEI**
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" nowrap="" width="157"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:TA">2 DIAMOND</span></b></p></td></tr></tbody></table>
-
+<p>
  
  **UPPER SEC YEAR HEAD: MR NICK LEE**
 <br>
