@@ -5,13 +5,13 @@ description: ""
 ---
 <p><strong>MOE Sexuality Education in Schools</strong></p>
 <p>1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p>2. The **Goals** of Sexuality Education are to:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <ul>
 <li>To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</li>
 <li>To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
 <li>To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.</li>
 </ul>
-<p>3. The **Key Messages** of Sexuality Education are:</p>
+<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul>
 <li>Love and respect yourself as you love and respect others;</li>
 <li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
@@ -20,7 +20,7 @@ description: ""
 </ul>
 <p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.&nbsp;</p>
 <p><strong>Overview of Dunearn Secondary School's Sexuality Education Programme 2023</strong></p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
+<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach"> here </a>for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
 <p>5. The subjects that incorporate topics on sexuality include:&nbsp;</p>
 <ul>
 <li>Science&nbsp;</li>
@@ -187,8 +187,8 @@ description: ""
 </td>
 <td>
 <ul>
-<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.
-* 	Know that a decision to end a relationship will have consequences on oneself and others.&nbsp;</li>
+<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</li>
+<li>Know that a decision to end a relationship will have consequences on oneself and others.&nbsp;</li>
 <li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.&nbsp;</li>
 <li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.&nbsp;</li>
 </ul>
@@ -316,8 +316,8 @@ description: ""
 </tbody>
 </table>
 <p><strong>eTeens Programme</strong></p>
-<p>8. *eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. *eTeens* is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
-<p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+<p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Dunearn Secondary School, the eTeens programme will be implemented as follows in 2023:</strong></p>
 
 
@@ -341,10 +341,10 @@ description: ""
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td width="482">
-<p>&middot; Awareness of the different STIs and HIV/AIDS</p>
-<p>&middot; Modes of transmission</p>
-<p>&middot; Modes of protection, specifically on how the condom is used</p>
-<p>&middot; Consequences and impact of STIs/HIV</p>
+<p><li> Awareness of the different STIs and HIV/AIDS</p></li>
+<p><li>Modes of transmission</p></li>
+<p><li>Modes of protection, specifically on how the condom is used</p></li>
+<p><li>Consequences and impact of STIs/HIV</p></li>
 </td>
 <td style="text-align: center;" width="160">
 <p>Term 2 Week 6</p>
@@ -356,7 +356,7 @@ description: ""
 <p>Classroom-based Lesson</p>
 </td>
 <td width="482">
-<p>&middot; Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p>
+<p><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p></li>
 </td>
 <td style="text-align: center;" width="160">
 <p>Term 2 Week 7</p>
@@ -368,7 +368,7 @@ description: ""
 
 
 <p><strong>Information for Parents</strong></p>
-<p>10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20Opt%20Out%20Form%202022%20Sec_Annex%20A%20002.pdf">here</a>. The completed form is to be submitted by 20/01/2023.&nbsp;</p>
-<p>12. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022_Annex%20B.pdf">here</a>. The completed form is to be submitted by 20/01/2023.</p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20Opt%20Out%20Form%202022%20Sec_Annex%20A%20002.pdf">here</a>. The completed form is to be submitted by 20/01/2023.&nbsp;</p>
+<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022_Annex%20B.pdf">here</a>. The completed form is to be submitted by 20/01/2023.</p>
 <p>13. Parents can contact the school at 6565 3692 or dunearn_ss@moe.edu.sg for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.&nbsp;</p>
