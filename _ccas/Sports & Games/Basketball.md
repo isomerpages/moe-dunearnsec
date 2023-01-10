@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <h4>CCA Objectives</h4>
-<p>To develop basketball skills for students who are interested in playing competitive basketball and&nbsp;build sound and strong character through the rigorous trainings. At the end of their secondary&nbsp;school, our players will grow into morally upright sportsmen and sportswomen.</p>
+<p>The Dunearn Basketball team aims to develop basketball skills for students who are interested in playing competitive basketball and&nbsp;build sound and strong character through the rigorous trainings. Our players participate in a variety of activities and progressive training programmes conducted by our coaches to develop their fitness, skills, and values of sportsmanship.</p>
+
 <h4>Teachers-in-Charge</h4>
 <ul>
-<li>Miss Leung Sin Yung (Girls)</li>
-<li>Mr Foo Sheng Hao (Boys)</li>
-<li>Mr John Tan (Boys)</li>
+<li>Ms Leung Sin Yung</li>
+<li>Mr Foo Sheng Hao</li>
+<li>Ms Li Yanmei</li>
+<li>Mr Wang Hong Wei</li>
 </ul>
 <h4>Coaches</h4>
 <ul>
@@ -18,6 +20,18 @@ third_nav_title: Sports & Games
 <li>Mr Tan Jun Liang (Boys)</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
+<table>
+<tbody>
+<tr>
+<td style="width: 280.438px;">
+<p>School Term</p>
+</td>
+<td style="width: 283.962px;">
+<p>School Holidays &ndash; Selected Weeks</p>
+</td>
+</tr>
+<tr>
+<td style="width: 280.438px;">
 <p><strong>Girls</strong></p>
 <ul>
 <li>Tuesday 3:30pm to 5:30pm (ISH Level 1)</li>
@@ -28,3 +42,15 @@ third_nav_title: Sports & Games
 <li>Tuesday 3:30pm to 5:30pm (ISH Level 4)</li>
 <li>Thursday 3:30pm to 5:30pm (ISH Level 1)</li>
 </ul>
+<p>&nbsp;</p>
+</td>
+<td style="width: 283.962px;">
+<p><strong>Boys &amp; Girls</strong></p>
+<ul>
+<li>Monday, Wednesday, Friday 9:00am to 12:00pm (ISH Level 1 or 4)</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
