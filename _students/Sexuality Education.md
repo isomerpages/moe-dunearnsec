@@ -331,7 +331,7 @@ description: ""
 <p><strong>Programme Learning Objectives</strong></p>
 </td>
 <td style="text-align: center;" width="160">
-<p><strong>Term/Week</strong></p>
+<p><strong>Term/ Week</strong></p>
 </td>
 </tr>
 </thead>
