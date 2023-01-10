@@ -3,9 +3,9 @@ title: Teaching Staff
 permalink: /school/teaching-staff/
 description: ""
 ---
-**LOWER SEC YEAR HEAD: MR TANG CHEE KUAN**
-<br>
-**LOWER SEC ASSISTANT YEAR HEAD: MS WONG YIN MEI**
+<b>LOWER SEC YEAR HEAD: MR TANG CHEE KUAN
+</b><br>
+<b>LOWER SEC ASSISTANT YEAR HEAD: MS WONG YIN MEI</b>
 <p>
 
 <table style="width:339.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -219,12 +219,10 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" nowrap="" width="157"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-language:TA">2 DIAMOND</span></b></p></td></tr></tbody></table>
+
 <p>
- 
- **UPPER SEC YEAR HEAD: MR NICK LEE**
-<br>
-**UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO**
-<br> <br>
+<b>UPPER SEC YEAR HEAD: MR NICK LEE</b><br><b>UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO</b>
+<p>
  
 <table style="width:339.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
