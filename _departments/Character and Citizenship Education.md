@@ -58,173 +58,374 @@ description: ""
 <img src="/images/cce2.jpg">
 <h4>Staffing</h4>
 <p><strong>CCE Committee</strong></p>
-<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<table width="0">
 <tbody>
 <tr>
-<td width="30%"><strong>Name</strong></td>
-<td width="30%"><strong>Designation</strong></td>
-<td width="40%"><strong>Email</strong></td>
+<td width="163">
+<p><strong>Name</strong></p>
+</td>
+<td width="186">
+<p><strong>Designation</strong></p>
+</td>
+<td>
+<p><strong>Email</strong></p>
+</td>
 </tr>
 <tr>
-<td>Mr Ow Gan Pin</td>
-<td>HOD CCE</td>
-<td><a href="mailto:ow_gan_pin@moe.edu.sg" target="">ow_gan_pin@moe.edu.sg</a></td>
+<td width="163">
+<p>Mr Ow Gan Pin</p>
+</td>
+<td width="186">
+<p>HOD CCE</p>
+</td>
+<td>
+<p><a href="mailto:ow_gan_pin@moe.edu.sg">ow_gan_pin@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mrs Hazel Lee</td>
-<td>HOD Educational Support</td>
-<td><a href="mailto:hazel_hong_wen_lee@moe.edu.sg" target="">hazel_hong_wen_lee@moe.edu.sg</a></td>
+<td width="163">
+<p>Mrs Hazel Lee</p>
+</td>
+<td width="186">
+<p>HOD Educational Support</p>
+</td>
+<td>
+<p><a href="mailto:hazel_hong_wen_ee@moe.edu.sg">hazel_hong_wen_ee@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Tang Chee Kuan</td>
-<td>Year Head (Lower Sec)</td>
-<td><a href="mailto:tang_chee_kuan@moe.edu.sg" target="">tang_chee_kuan@moe.edu.sg</a></td>
+<td width="163">
+<p>Mr Tang Chee Kuan</p>
+</td>
+<td width="186">
+<p>YH LS</p>
+</td>
+<td>
+<p><a href="mailto:tang_chee_kuan@moe.edu.sg">tang_chee_kuan@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Fitriah</td>
-<td>School Counsellor</td>
-<td><a href="mailto:fitriah_abdul_ghani@moe.edu.sg" target="">fitriah_abdul_ghani@moe.edu.sg</a></td>
+<td width="163">
+<p>Ms Fitriah</p>
+</td>
+<td width="186">
+<p>School Counsellor</p>
+</td>
+<td>
+<p><a href="mailto:fitriah_abdul_ghani@moe.edu.sg">fitriah_abdul_ghani@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Png KeatSiong</td>
-<td>School Counsellor</td>
-<td><a href="mailto:p_ng_keat_siong@moe.edu.sg"
-target="">p_ng_keat_siong@moe.edu.sg</a></td>
+<td width="163">
+<p>Mr Png Keat Siong</p>
+</td>
+<td width="186">
+<p>School Counsellor</p>
+</td>
+<td>
+<p><a href="mailto:p_ng_keat_siong@moe.edu.sg">p_ng_keat_siong@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mdm Lim Sai Joo</td>
-<td>SEN Officer</td>
-<td><a href="mailto:lim_sai_joo@moe.edu.sg" target="">lim_sai_joo@moe.edu.sg</a></td>
+<td width="163">
+<p>Mdm Lim Sai Joo</p>
+</td>
+<td width="186">
+<p>SEN Officer</p>
+</td>
+<td>
+<p><a href="mailto:lim_sai_joo@moe.edu.sg">lim_sai_joo@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<tr>
-<td>Ms Rashedah Khan</td>
-<td>Student Welfare Officer</td>
-<td><a href="mailto:rashedah_khan_pate_khan@moe.edu.sg" target="">rashedah_khan_pate_khan@moe.edu.sg</a></td>
+<td width="163">
+<p>Ms Rashedah Khan</p>
+</td>
+<td width="186">
+<p>Student Welfare Officer</p>
+</td>
+<td>
+<p><a href="mailto:rashedah_khan_pate_khan@moe.edu.sg">rashedah_khan_pate_khan@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<tr>
-<td>Mdm Norlizah</td>
-<td>Administration Manager</td>
-<td><a href="mailto:norlizah_yamaludin@moe.edu.sg" target="">norlizah_yamaludin@moe.edu.sg</a></td>
+<td width="163">
+<p>Mdm Norlizah</p>
+</td>
+<td width="186">
+<p>Administration Manager</p>
+</td>
+<td>
+<p><a href="mailto:norlizah_yamaludin@moe.edu.sg">norlizah_yamaludin@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mdm Lailtha</td>
-<td>Senior Teacher</td>
-<td><a href="mailto:lailtha_savathan@moe.edu.sg" target="">lailtha_savathan@moe.edu.sg</a></td>
+<td width="163">
+<p>Mdm Lailtha</p>
+</td>
+<td width="186">
+<p>Senior Teacher</p>
+</td>
+<td>
+<p><a href="mailto:lailtha_savathan@moe.edu.sg">lailtha_savathan@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-
-<tr>
-<td>Ms Dewi Marlina</td>
-<td>SH CCE</td>
-<td><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" target="">dewi_marlina_putri_chumali@moe.edu.sg</a></td>
+<td width="163">
+<p>Ms Dewi</p>
+</td>
+<td width="186">
+<p>SH CCE</p>
+</td>
+<td>
+<p><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg">dewi_marlina_putri_chumali@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-
-<tr>
-<td>Mr Nazrul Hadi</td>
-<td>SH Student Well-being</td>
-<td><a href="mailto:nazrul_hadi_jamali@moe.edu.sg" target="">nazrul_hadi_jamali@moe.edu.sg</a></td>
+<td width="163">
+<p>Mr Nazrul</p>
+</td>
+<td width="186">
+<p>SH Student Well-being</p>
+</td>
+<td>
+<p><a href="mailto:nazrul_hadi_jamali@moe.edu.sg">nazrul_hadi_jamali@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Veronica Lam</td>
-<td>SH Geography</td>
-<td><a href="mailto:lam_shy_wei_veronica@moe.edu.sg" target="">lam_shy_wei_veronica@moe.edu.sg</a></td>
+<td width="163">
+<p>Ms Veronica Lam</p>
+</td>
+<td width="186">
+<p>SH Geography</p>
+</td>
+<td>
+<p><a href="mailto:lam_shy_wei_veronica@moe.edu.sg">lam_shy_wei_veronica@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Siraj</td>
-<td>SH Special Projects</td>
-<td><a href="mailto:siraj_ansari_mohamed_shariff@moe.edu.sg" target="">siraj_ansari_mohamed_shariff@moe.edu.sg</a></td>
+<td width="163">
+<p>Mr Siraj</p>
+</td>
+<td width="186">
+<p>SH Special Projects</p>
+</td>
+<td>
+<p><a href="mailto:siraj_ansari_mohamed_shariff@moe.edu.sg">siraj_ansari_mohamed_shariff@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Hanani</td>
-<td>Teacher</td>
-<td><a href="mailto:nur_hanani_jaafar@moe.edu.sg" target="">nur_hanani_jaafar@moe.edu.sg</a></td>
+<td width="163">
+<p>Ms Hanani</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:nur_hanani_jaafar@moe.edu.sg">nur_hanani_jaafar@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<tr>
-<td>Ms Siti Arnie</td>
-<td>Teacher&nbsp;</td>
-<td><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" target="">siti_arnie_mohd_affandi@moe.edu.sg</a>&nbsp;</td>
+<td width="163">
+<p>Ms Siti Arnie</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg">siti_arnie_mohd_affandi@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Leung Sin Yung</td>
-<td>Teacher</td>
-<td><a href="mailto:leung_sin_yung@moe.edu.sg"
-target="">leung_sin_yung@moe.edu.sg&nbsp;</td>
+<td width="163">
+<p>Ms Leung Sin Yung</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:leung_sin_yung@moe.edu.sg">leung_sin_yung@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Nicole Kwek</td>
-<td>Teacher</td>
-<td><a href="mailto:nicole_kwek_xin_yi@moe.edu.sg"
-target="">nicole_kwek_xin_yi@moe.edu.sg</td>
+<td width="163">
+<p>Ms Nicole Kwek</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:nicole_kwek_xin_yi@moe.edu.sg">nicole_kwek_xin_yi@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="163">
+<p>Ms Chau Pearlwe</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:chau_pearlwe@moe.edu.sg">chau_pearlwe@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="163">
+<p>Ms Lwa Heng Qian</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:lwa_heng_qian@moe.edu.sg">lwa_heng_qian@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="163">
+<p>Ms Li Yanmei</p>
+</td>
+<td width="186">
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:li_yan_mei@moe.edu.sg">li_yan_mei@moe.edu.sg</a></p>
+</td>
 </tr>
 </tbody>
 </table>
 <p><strong>ECG Committee</strong></p>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table width="0">
 <tbody>
 <tr>
-<td width="30%"><strong>Name</strong></td>
-<td width="30%"><strong>Designation</strong></td>
-<td width="40%"><strong>Email</strong></td>
+<td width="199">
+<p><strong>Name</strong></p>
+</td>
+<td width="126">
+<p><strong>Designation</strong></p>
+</td>
+<td width="298">
+<p><strong>Email</strong></p>
+</td>
 </tr>
 <tr>
-<td>Mrs Hazel Lee&nbsp;</td>
-<td>HOD N Course</td>
-<td>hazel_hong_wen_ee@moe.edu.sg</td>
+<td width="199">
+<p>Mrs Hazel Lee</p>
+</td>
+<td width="126">
+<p>HOD Educational Support</p>
+</td>
+<td width="298">
+<p><a href="mailto:hazel_hong_wen_ee@moe.edu.sg">hazel_hong_wen_ee@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Dewi Marlina</td>
-<td>SH CCE</td>
-<td>dewi_marlina_putri_chumali@moe.edu.sg</td>
+<td width="199">
+<p>Ms Dewi</p>
+</td>
+<td width="126">
+<p>SH CCE</p>
+</td>
+<td width="298">
+<p><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg">dewi_marlina_putri_chumali@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Ng Mei Ferng</td>
-<td>Teacher</td>
-<td><a href="mailto:ng_mei_ferng@moe.edu.sg" target="">ng_mei_ferng@moe.edu.sg</a></td>
+<td width="199">
+<p>Ms Ng Mei Ferng</p>
+</td>
+<td width="126">
+<p>Teacher</p>
+</td>
+<td width="298">
+<p><a href="mailto:ng_mei_ferng@moe.edu.sg">ng_mei_ferng@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Nur Diana Jailani</td>
-<td>Teacher</td>
-<td><a href="mailto:nur_diana_jailani@moe.edu.sg" target="">nur_diana_jailani@moe.edu.sg</a></td>
+<td width="199">
+<p>Ms Nur Diana Jailani</p>
+</td>
+<td width="126">
+<p>Teacher</p>
+</td>
+<td width="298">
+<p><a href="mailto:nur_diana_jailani@moe.edu.sg">nur_diana_jailani@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Farah Dilla</td>
-<td>Allied Educator / Teaching &amp;&nbsp;Learning</td>
-<td><a href="mailto:farah_dilla_sulaiman@moe.edu.sg" target="">farah_dilla_sulaiman@moe.edu.sg</a></td>
+<td width="199">
+<p>Mr Tham Kin Loong</p>
+</td>
+<td width="126">
+<p>Senior Teacher</p>
+</td>
+<td width="298">
+<p><a href="mailto:tham_kin_loong@moe.edu.sg">tham_kin_loong@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Louis Chin</td>
-<td>Teacher</td>
-<td><a href="mailto:louis_chin_cheong_long@moe.edu.sg" target="">louis_chin_cheong_long@moe.edu.sg</a></td>
+<td width="199">
+<p>Mr Louis Chin</p>
+</td>
+<td width="126">
+<p>Teacher</p>
+</td>
+<td width="298">
+<p><a href="mailto:louis_chin_cheong_long@moe.edu.sg">louis_chin_cheong_long@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Petrina Tjioe Lie Pheng&nbsp;</td>
-<td>ECG Counsellor</td>
-<td><a href="mailto:tjioe_lie_pheng@schools.gov.sg" target="">tjioe_lie_pheng@schools.gov.sg</a></td>
+<td width="199">
+<p>Ms Pang Jia Shin</p>
+</td>
+<td width="126">
+<p>Teacher</p>
+</td>
+<td width="298">
+<p><a href="mailto:pang_jia_shin@moe.edu.sg">pang_jia_shin@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="199">
+<p>Mr Muhammad Amin Morni</p>
+</td>
+<td width="126">
+<p>ECG Counsellor</p>
+</td>
+<td width="298">
+<p><a href="mailto:muhammad_amin_morni@schools.gov.sg">muhammad_amin_morni@schools.gov.sg</a></p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Key Programmes and Processes</h4>
-<table>
+<table width="0">
 <tbody>
 <tr>
-<th style="text-align: center;">S/N</th>
-<th style="text-align: center;">Key Result Area</th>
-<th style="text-align: center;">Key Programmes and Processes</th>
-<th style="text-align: center;">Alignment to Mission</th>
+<td width="44">
+<p><strong>S/N</strong></p>
+</td>
+<td width="137">
+<p><strong>Key Result Area</strong></p>
+</td>
+<td width="369">
+<p><strong>Key Programmes and Processes</strong></p>
+</td>
+<td width="104">
+<p><strong>Alignment to Mission</strong></p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">1</td>
-<td>Intervention and<br />Partnership</td>
-<td>
+<td width="44">
+<p>1</p>
+</td>
+<td width="137">
+<p>Intervention and Partnership</p>
+</td>
+<td width="369">
 <ul>
-<li>Needs assessment &ndash; moral, socio-emotional, cognitive, physical, financial</li>
-<li>Financial Assistance Scheme (FAS) e.g., MOE FAS, School Advisory Committee FAS, School Pocket Money, NEU PC Plus Programme, EyeWear@ South West, and referrals to external organizations</li>
-<li>Student health update through Student Medical Records and Annual Health Check</li>
-<li>Support and follow-up action for vulnerable (at risk) students or students with socio-emotional / mental health / special / medical needs</li>
+<li>Needs assessment</li>
+<li>Financial Assistance Scheme (FAS) e.g., MOE FAS, school-based FAS, referrals to external organizations</li>
+<li>Support and follow-up action for vulnerable students or students with socio-emotional / mental health / special / medical needs
 <ul>
 <li>Meeting with parents</li>
 <li>Counselling (school / external agencies)</li>
@@ -234,6 +435,7 @@ target="">nicole_kwek_xin_yi@moe.edu.sg</td>
 <li>Collaboration with Student Management Committee</li>
 <li>Access Arrangement</li>
 </ul>
+</li>
 <li>Cohort programmes</li>
 <li>Post-exam activities</li>
 <li>Assembly talks</li>
@@ -241,87 +443,118 @@ target="">nicole_kwek_xin_yi@moe.edu.sg</td>
 <li>Mobilization of CARE officers during emergency</li>
 </ul>
 </td>
-<td>Removing all barriers<br />to learning</td>
+<td width="104">
+<p>Removing all barriers to learning</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">2</td>
-<td>Curriculum</td>
-<td>
+<td width="44">
+<p>2</p>
+</td>
+<td width="137">
+<p>Curriculum</p>
+</td>
+<td width="369">
 <ul>
-<li>CCE Lessons</li>
-<li>CCE Guidance Modules (include Sexuality Education, Cyberwellness and Education &amp; Career Guidance) during VE periods</li>
+<li>CCE2021 lessons</li>
 <li>Dunearn Character Development Profile (DCDP)</li>
-<li>Values talk</li>
-<li>Awards and Recognition</li>
+<li>Form Teacher Time</li>
+<li>Awards and Recognition
 <ul>
-<li>Best class competition</li>
+<li>Class of the Term / Year</li>
 <li>Student of the Term</li>
 <li>Edusave Character Award (ECHA)</li>
 </ul>
+</li>
 <li>Student Suggestion Scheme</li>
-<li>Farewell assembly</li>
+<li>Farewell Celebration</li>
 </ul>
 </td>
-<td>Building strong character and citizenship</td>
+<td width="104">
+<p>Building strong character and &nbsp;citizenship</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">3</td>
-<td>National Education (NE)</td>
-<td>
+<td width="44">
+<p>3</p>
+</td>
+<td width="137">
+<p>National Education (NE)</p>
+</td>
+<td width="369">
 <ul>
 <li>NE curriculum packages</li>
-<li>NE core events</li>
+<li>NE core events
 <ul>
 <li>Total Defence Day (TDD)</li>
 <li>International Friendship Day (IFD)</li>
 <li>Racial Harmony Day (RHD)</li>
 <li>National Day (ND)</li>
 </ul>
+</li>
 <li>Cohort citizenship programmes</li>
 <li>NE Quiz</li>
-<li>Citizenship Survey</li>
+<li>Survey on Citizenship Education</li>
 </ul>
 </td>
-<td>Building strong character and citizenship</td>
+<td width="104">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">4</td>
-<td>Values in Action<br />(VIA)<br /><br />(Led by Student Leadership committee]</td>
-<td>
+<td width="44">
+<p>4</p>
+</td>
+<td width="137">
+<p>Values in Action (VIA)</p>
+<p>[led by Student Leadership committee]</p>
+</td>
+<td width="369">
 <ul>
-<li>Sec 1: School-based VIA</li>
+<li>Sec 1: School-/environment-based VIA</li>
 <li>Sec 2: Local community VIA</li>
 <li>Sec 3: Local community VIA</li>
 <li>Sec 4/5: Student-initiated local community VIA</li>
 <li>Co-Curricular Activities (CCA)</li>
 </ul>
 </td>
-<td>Building strong character and citizenship</td>
+<td width="104">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">5</td>
-<td>Education and<br />Career Guidance<br />(ECG)<br /><br />[Led by ECG<br />committee]</td>
-<td>
+<td width="44">
+<p>5</p>
+</td>
+<td width="137">
+<p>Education and Career Guidance (ECG)</p>
+<p>&nbsp;</p>
+<p>[led by ECG committee]</p>
+</td>
+<td width="369">
 <ul>
-<li>CCE Guidance Modules during VE periods</li>
-<li>Open house visits (poly / JC) for Sec 4 and 5&nbsp;</li>
+<li>ECG lessons</li>
+<li>Open house visits (poly / JC) for Sec 4 and 5</li>
 <li>Higher Institution and Career Week</li>
-<li>ITE talks / visits / Experience ITE programme for Normal Stream students</li>
+<li>ITE talks / visits / Experience ITE programme</li>
 <li>Cohort programmes and talks</li>
 <li>Work attachment</li>
-<li>Elective Modules for Normal Stream students</li>
+<li>Elective Modules</li>
 <li>ECG Counselling</li>
 </ul>
 </td>
-<td>Providing clear education and career<br />guidance</td>
+<td width="104">
+<p>Providing clear education and career guidance</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <h4>Character Education&nbsp;</h4>
-<p>CCE lessons are taught by Form Teachers, including Sexuality Education (SEd), Education &amp; Career Guidance (ECG) and Cyber Wellness.</p>
-<p>CCE has also been infused into classroom lessons across a variety of subjects. Measures are also undertaken to provide greater support for teachers, such as the expansion of the range of CCE resources available and the provision of training on pedaqogical approaches and classroom strategies regarding the teaching and learning of values.</p>
-<p>Values in Action (VIA) Programme is designed to be differentiated with the Sec 1 students doing activities related to school community; Sec 2, appreciating the elderly; Sec 3, serving needy families; Sec 4/5, role-modeling service in the community (student-initiated). Some of the ongoing partners the school works with include SWCDC, Bukit Batok Home for the Aged, REACH Youth Powerhouse, South View Primary School, Dover Hospice, Bishan Home for the Intellectually Disabled, ACRES and World Vision.</p>
-<p>To develop self-discipline, CCE committee works closely with the Student Management committee to identify and develop key SEL competencies in our pupils. The Pupil-Teacher Relational Time (PTRT) is one of the strategies the school has adopted to prevent misbehaviour. The PTRT is a structured programme where both the pupils and their Form teachers could meet on a one-on-one basis to talk and discuss issues. Through the conversations, teachers will be able to better understand their pupils and their challenges and hence, providing timely intervention. Concurrent with the PTRT, the school has a school-wide Values Talk session every Monday morning that is aligned to the school&rsquo;s core values and &ldquo;Value of the Month&rdquo;.<br />*<em>VT sessions are restructured as Form Teacher Time (FTT) in view of Covid-19</em></p>
+<p>CCE lessons are taught by Form Teachers, including Sexuality Education (SEd), Mental Health (MH), Education &amp; Career Guidance (ECG), Cyber Wellness (CW), Family Education (FE), and National Education (NE).</p>
+<p>CCE has also been infused into classroom lessons across a variety of subjects. Measures are also undertaken to provide greater support for teachers, such as the expansion of the range of CCE resources available and the provision of training on pedagogical approaches and classroom strategies regarding the teaching and learning of values.</p>
+<p>Values in Action (VIA) Programme is designed to be differentiated with the Sec 1 students doing activities related to school/external environment; Sec 2, appreciating the elderly; Sec 3, serving needy families; Sec 4/5, role-modeling service in the community (student-initiated). Some of the partners the school has worked with include SWCDC, Bukit Batok Home for the Aged, REACH Youth Powerhouse etc.</p>
+<p>To strengthen positive relationships and self-discipline, CCE committee works closely with the Student Development Team and Student Management committee. The Pupil-Teacher Relational Time (PTRT) is one of the strategies the school has adopted to strengthen positive teacher-student relationships. It is a structured programme where both the pupils and their Form teachers could meet on a one-on-one basis to talk and discuss issues. Through the conversations, teachers will be able to better understand their pupils and their challenges and hence, providing timely intervention. Concurrent with the PTRT, the school has structured Form Teacher Time (FTT) where Form Teachers spend quality time with the class to enhance their learning, check-in on their well-being, foster bonding etc.</p>
 <h4>Citizenship Education</h4>
 <p>Developing a strong national identity among students has always been the focus of our National Education (NE) Programmes. The school&rsquo;s NE framework is implemented through the infusion of NE into the curriculum and the commemoration of major events like Total Defence Day, Racial Harmony Day, International Friendship Day and National Day. Below are some examples of ongoing programs and events that were organised:</p>
 <ul>
@@ -335,8 +568,6 @@ target="">nicole_kwek_xin_yi@moe.edu.sg</td>
 <h4>Kolb&rsquo;s Experiential Learning Model</h4>
 <p>The main school-wide CCE pedogogical approach used to facilitate students&rsquo; character and citizenship development and reflection is the Experiential Learning Approach, based on Kolb&rsquo;s Experiential Learning Model. Students will reflect on their experience, learn from it, and apply the lessons in everyday life.</p>
 <img src="/images/cce3.jpg">
-<h4>Values Talk*</h4>
-<p>Values Talk (VT) are sharing sessions conducted every Monday morning. . The objective of VT is to inculcate and reinforce positive values, attitudes, behaviour and competencies. The sessions are conducted for all students by staff, students themselves, and external partners. The topics are aligned to the &ldquo;Value of the Month&rdquo;, which stems from the school 6 core values of R3ICH: respect, responsibility, resilience, integrity, care and harmony. At the end of each VT session, students are given the opportunity to reflect meaningfully on the key learning through an online reflection platform.<em><br />*VT sessions are restructured as Form Teacher Time (FTT) in view of Covid-19</em></p>
 <h4>Dunearn Character Development Profile (DCDP): Formative Assessment of Character Development</h4>
 <p><strong>What is it?</strong></p>
 <ul>
