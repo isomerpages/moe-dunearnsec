@@ -1,6 +1,7 @@
 ---
 title: ECG Booking
-permalink: /dss-pages/ecg-booking
+permalink: /dss-pages/ecg-booking/
 description: ""
 ---
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSftDlT1bYCZtY2uoUqkYlTMuLxrB-HCnawJqjQxg4OBff3PyQ/closedform">External Link</a>
+<p>ECG Counselling Booking for Students:</p>
+<p><a href="https://go.gov.sg/aminmorniecg">https://go.gov.sg/aminmorniecg</a></p>
