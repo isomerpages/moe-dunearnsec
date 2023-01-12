@@ -53,3 +53,14 @@ third_nav_title: Sports & Games
 </tr>
 </tbody>
 </table>
+<h4>Highlights &amp; Achievements</h4>
+<p><strong>Girls</strong></p>
+<ul>
+<li>West Zone B Division Inter-School Basketball Championships 2019 4<sup>th</sup></li>
+</ul>
+<p><strong>Boys</strong></p>
+<ul>
+<li>West Zone C Division Inter-School Basketball Championships 2016 4<sup>th</sup></li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Note: National School Games was suspended in 2020 and 2021 due to COVID 19</em></p>
