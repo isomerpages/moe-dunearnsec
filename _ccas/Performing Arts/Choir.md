@@ -22,7 +22,7 @@ third_nav_title: Performing Arts
 <h4>Training Day, Time and Venue</h4>
 <ul>
 <li>Tuesday: 1515 to 1730, (Black Box)</li>
-<li>Thursday: 1515 to 1730, (Design Studio)</li></li>
+<li>Thursday: 1515 to 1730, (Design Studio)</li>
 </ul>
 <h4>Highlights & Achievements</h4>
 <p><strong>Highlights:</strong></p>
