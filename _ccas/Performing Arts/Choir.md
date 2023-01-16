@@ -34,6 +34,16 @@ third_nav_title: Performing Arts
 <p>SYF 2021 &ndash; Certificate of Commendation</p>
 <p>Bdazzled 2019 &ndash; Platinum</p>
 <p>SYF 2019 &ndash; Certificate of Accomplishment</p>
+<h4>CCA Leaders</h4>
+<p>President: Cho Zin Leh Myat Mon 4OP</p>
+<p>Vice-President: Delfnee Lim Li Cen 3OP</p>
+<p>Dance Captain: Xiao Shuna 4PR</p>
+<p>Dance Captain: Chua Yuan Qi 3SP</p>
+<p>Sectional Leader: Noor Syakirah 4RB</p>
+<p>Sectional Leader: Shanae Takasatia Tan Si Min 4PR</p>
+<p>Logistics/ICT: Chan Min Shi 4DM</p>
+<p>Logistics/ICT: Md Akif Jabbar 4DM</p>
+<p>Secretary: Hew Ziyu</p><br>
 <h4>Photo/Video</h4>
 <img src="/images/choir%201.jpg"><br>
 <img src="/images/choir%202.jpg"><br>
