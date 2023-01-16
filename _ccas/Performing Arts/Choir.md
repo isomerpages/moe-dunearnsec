@@ -34,7 +34,7 @@ third_nav_title: Performing Arts
 <p>SYF 2021 &ndash; Certificate of Commendation</p>
 <p>Bdazzled 2019 &ndash; Platinum</p>
 <p>SYF 2019 &ndash; Certificate of Accomplishment</p>
-<h4>Photos</h4>
+<h4>Photo/Video</h4>
 <img src="/images/choir%201.jpg"><br>
 <img src="/images/choir%202.jpg"><br>
 <img src="/images/choir%203.jpg">
