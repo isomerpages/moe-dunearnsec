@@ -31,70 +31,86 @@ description: ""
 <p>7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 <p>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in 2022:</p>
 <p><strong>Secondary 1</strong></p>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">
-<p>Unit</p>
-</th>
-<th style="text-align: center;">
-<p>Lesson/ Duration</p>
-</th>
-<th style="text-align: center;">
-<p>Lesson Objectives</p>
-</th>
-<th style="text-align: center;">
-<p>Term/ Week</p>
-</th>
+<table style="height: 1157px;" width="0">
+<thead>
+<tr style="height: 96px;">
+<td style="height: 96px; width: 113.275px;">
+<p style="text-align: center;"><strong>Unit</strong></p>
+</td>
+<td style="text-align: center; height: 96px; width: 111.825px;">
+<p><strong>Lesson Title / Duration</strong></p>
+</td>
+<td style="text-align: center; height: 96px; width: 204.5px;">
+<p><strong>Lesson Objectives</strong></p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td style="text-align: center; height: 96px; width: 108.775px;">
+<p><strong>Time Period</strong></p>
+<p><strong>(e.g.Term 1 Week 2)</strong></p>
+</td>
 </tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+</thead>
+<tbody>
+<tr style="height: 501px;">
+<td style="height: 1061px; width: 113.275px;" rowspan="3">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
-<td style="text-align: center;">
-<p>Steady or Not Lesson 1<br />(60 mins)</p>
+<td style="height: 501px; width: 111.825px;">
+<p style="text-align: center;">Steady or Not</p>
+<p style="text-align: center;">Lesson 1</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td style="height: 501px; width: 204.5px;">
 <ul>
-<li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles.</li>
-<li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)&nbsp;</li>
-<li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline&nbsp;</li>
+<li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+<li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+<li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
 <li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 </ul>
 </td>
-<td style="text-align: center;">
-<p>Term 2 Week 2 (1 hour)</p>
+<td style="height: 501px; width: 108.775px;">
+<p style="text-align: center;">Term 2 Week 2</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<tr style="height: 173px;">
+<td style="height: 173px; width: 111.825px;">
+<p style="text-align: center;">Being Aware, Being Safe</p>
+<p style="text-align: center;">Lesson 2</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td style="text-align: center;">
-<p>Being Aware, Being Safe Lesson 2<br />(60 mins)</p>
-</td>
-<td>
-<p>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</p>
-</td>
-<td style="text-align: center;">
-<p>Term 2 Week 4 (1 hour)</p>
-</td>
-</tr>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td style="text-align: center;">
-<p>&nbsp;More than Meets the Eye Lesson 3<br />(60 mins)</p>
-</td>
-<td>
+<td style="height: 173px; width: 204.5px;">
 <ul>
-<li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences.</li>
+<li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
+</ul>
+</td>
+<td style="height: 173px; width: 108.775px;">
+<p style="text-align: center;">Term 2 Week 4</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
+</tr>
+<tr style="height: 387px;">
+<td style="height: 387px; width: 111.825px;">
+<p style="text-align: center;">More than Meets the Eye</p>
+<p style="text-align: center;">Lesson 3</p>
+<p style="text-align: center;">(60 mins)</p>
+</td>
+<td style="height: 387px; width: 204.5px;">
+<ul>
+<li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 <li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 </ul>
 </td>
-<td style="text-align: center;">Term 2 Week 6 (1 hour)</td>
+<td style="height: 387px; width: 108.775px;">
+<p style="text-align: center;">Term 2 Week 6</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>Secondary 2</strong></p>
 <table>
 <tbody>
@@ -368,7 +384,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Information for Parents</strong></p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20Opt-Out%20Form%20(Sec)%202023_Annex%20A.pdf">here</a>. The completed form is to be submitted by 20/01/2023.&nbsp;</p>
