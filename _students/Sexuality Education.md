@@ -319,19 +319,17 @@ description: ""
 <p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Dunearn Secondary School, the eTeens programme will be implemented as follows in 2023:</strong></p>
-
-
 <table width="0">
 <thead>
 <tr>
-<td style="text-align: center;" width="177">
+<td width="177">
 <p><strong>Topics/Lessons</strong></p>
 </td>
-<td style="text-align: center;" width="482">
+<td width="482">
 <p><strong>Programme Learning Objectives</strong></p>
 </td>
-<td style="text-align: center;" width="160">
-<p><strong>Term/ Week</strong></p>
+<td width="160">
+<p><strong>Time/ Week</strong></p>
 </td>
 </tr>
 </thead>
@@ -341,12 +339,14 @@ description: ""
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td width="482">
-<p><li> Awareness of the different STIs and HIV/AIDS</p></li>
-<p><li>Modes of transmission</p></li>
-<p><li>Modes of protection, specifically on how the condom is used</p></li>
-<p><li>Consequences and impact of STIs/HIV</p></li>
+<ul>
+<li>Awareness of the different STIs and HIV/AIDS</li>
+<li>Modes of transmission</li>
+<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</li>
+</ul>
 </td>
-<td style="text-align: center;" width="160">
+<td width="160">
 <p>Term 2 Week 6</p>
 <p>(1 hour)</p>
 </td>
@@ -356,17 +356,19 @@ description: ""
 <p>Classroom-based Lesson</p>
 </td>
 <td width="482">
-<p><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p></li>
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
+<p>&nbsp;</p>
 </td>
-<td style="text-align: center;" width="160">
+<td width="160">
 <p>Term 2 Week 7</p>
 <p>(1 hour)</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-
+<p>&nbsp;</p>
 <p><strong>Information for Parents</strong></p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20Opt%20Out%20Form%202022%20Sec_Annex%20A%20002.pdf">here</a>. The completed form is to be submitted by 20/01/2023.&nbsp;</p>
