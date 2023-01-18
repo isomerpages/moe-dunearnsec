@@ -241,4 +241,12 @@ third_nav_title: Performing Arts
 <li><a href="https://www.youtube.com/watch?reload=9&amp;app=desktop&amp;v=AhQsR4GIAN0">SYF 2021 DSS Performance</a></li>
 <li><a href="https://www.youtube.com/watch?app=desktop&amp;v=gbylGfg_DrY">SYF 2019 DSS Performance</a></li>
 </ul>
-![](/images/Malay%20dance%201.jpg)
+<p><img src="/images/Malay%20dance%201.jpg"></p>
+<p><img src="/images/Malay%20dance%202.jpg"></p>
+<p><img src="/images/Malay%20dance%203.jpg"></p>
+<p><img src="/images/Malay%20dance%204.jpg"></p>
+<p><img src="/images/Malay%20dance%205.jpg"></p>
+<p><img src="/images/Malay%20dance%206.jpg"></p>
+<p><img src="/images/Malay%20dance%207.jpg"></p>
+<p><img src="/images/Malay%20dance%208.jpg"></p>
+<p><img src="/images/Malay%20dance%209.jpg"></p>
