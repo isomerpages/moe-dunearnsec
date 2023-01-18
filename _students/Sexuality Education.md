@@ -150,7 +150,7 @@ description: ""
 </ul>
 </td>
 <td width="161">
-<p style="text-align: center;">Term 2 Week 2</p>
+<p style="text-align: center;">Term 1 Week 8</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
@@ -169,7 +169,7 @@ description: ""
 </ul>
 </td>
 <td width="161">
-<p style="text-align: center;">Term 2 Week 8</p>
+<p style="text-align: center;">Term 2 Week 2</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
@@ -189,7 +189,7 @@ description: ""
 </ul>
 </td>
 <td width="161">
-<p style="text-align: center;">Term 2 Week 10</p>
+<p style="text-align: center;">Term 2 Week 8</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
@@ -273,7 +273,7 @@ description: ""
 </ul>
 </td>
 <td width="161">
-<p style="text-align: center;">Term 2 Week 10</p>
+<p style="text-align: center;">Term 2 Week 9</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
