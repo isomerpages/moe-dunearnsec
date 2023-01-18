@@ -31,38 +31,35 @@ description: ""
 <p>7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 <p>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in 2022:</p>
 <p><strong>Secondary 1</strong></p>
-<table style="height: 1157px;" width="0">
+<table width="0">
 <thead>
-<tr style="height: 96px;">
-<td style="height: 96px; width: 113.275px;">
-<p style="text-align: center;"><strong>Unit</strong></p>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong>Unit</strong></p>
 </td>
-<td style="text-align: center; height: 96px; width: 111.825px;">
+<td style="text-align: center;" width="170">
 <p><strong>Lesson Title / Duration</strong></p>
 </td>
-<td style="text-align: center; height: 96px; width: 204.5px;">
+<td style="text-align: center;" width="299">
 <p><strong>Lesson Objectives</strong></p>
-<p>At the end of the lesson, students will be able to:</p>
 </td>
-<td style="text-align: center; height: 96px; width: 108.775px;">
+<td style="text-align: center;" width="151">
 <p><strong>Time Period</strong></p>
-<p><strong>(e.g.Term 1 Week 2)</strong></p>
+<p><strong>&nbsp;</strong></p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr style="height: 501px;">
-<td style="height: 1061px; width: 113.275px;" rowspan="3">
+<tr>
+<td width="170">
 <p style="text-align: center;">Respectful Relationships &amp; Safety</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
-<td style="height: 501px; width: 111.825px;">
+<td width="170">
 <p style="text-align: center;">Steady or Not</p>
 <p style="text-align: center;">Lesson 1</p>
 <p style="text-align: center;">(60 mins)</p>
 </td>
-<td style="height: 501px; width: 204.5px;">
+<td width="299">
 <ul>
 <li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
 <li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
@@ -70,40 +67,46 @@ description: ""
 <li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 </ul>
 </td>
-<td style="height: 501px; width: 108.775px;">
+<td width="151">
 <p style="text-align: center;">Term 2 Week 2</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
-<tr style="height: 173px;">
-<td style="height: 173px; width: 111.825px;">
+<tr>
+<td width="170">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
+</td>
+<td width="170">
 <p style="text-align: center;">Being Aware, Being Safe</p>
 <p style="text-align: center;">Lesson 2</p>
 <p style="text-align: center;">(60 mins)</p>
 </td>
-<td style="height: 173px; width: 204.5px;">
+<td width="299">
 <ul>
 <li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
 </ul>
 </td>
-<td style="height: 173px; width: 108.775px;">
+<td width="151">
 <p style="text-align: center;">Term 2 Week 4</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
-<tr style="height: 387px;">
-<td style="height: 387px; width: 111.825px;">
+<tr>
+<td width="170">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
+</td>
+<td width="170">
 <p style="text-align: center;">More than Meets the Eye</p>
 <p style="text-align: center;">Lesson 3</p>
 <p style="text-align: center;">(60 mins)</p>
 </td>
-<td style="height: 387px; width: 204.5px;">
+<td width="299">
 <ul>
 <li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 <li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 </ul>
 </td>
-<td style="height: 387px; width: 108.775px;">
+<td width="151">
 <p style="text-align: center;">Term 2 Week 6</p>
 <p style="text-align: center;">(1 hour)</p>
 </td>
@@ -112,225 +115,315 @@ description: ""
 </table>
 <p>&nbsp;</p>
 <p><strong>Secondary 2</strong></p>
-<table>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="174">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="174">
+<p><strong>Lesson Title/ Duration</strong></p>
+</td>
+<td style="text-align: center;" width="274">
+<p><strong>Lesson Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="161">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th>Unit</th>
-<th>Lesson/ Duration</th>
-<th>Lesson Objectives</th>
-<th colspan="2">Term/ Week</th>
-</tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="174">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>A Role for Everyone Lesson 1<br />(60 mins)</p>
+<td width="174">
+<p style="text-align: center;">A Role for Everyone</p>
+<p style="text-align: center;">Lesson 1</p>
+<p style="text-align: center;">(60&nbsp; mins)</p>
 </td>
-<td>
+<td width="274">
 <ul>
-<li>Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes&nbsp;</li>
-<li>Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female&nbsp;</li>
+<li>Know that one&rsquo;s understanding of gender roles should not be limited by gender stereotypes</li>
+<li>Develop an appreciation of one&rsquo;s own unique qualities and characteristics as a male or female</li>
 <li>Understand what sexual orientation entails</li>
 </ul>
 </td>
-<td style="text-align: center;" colspan="2">
-<p>Term 2 Week 2 (1 hour)</p>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 2</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="174">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>Online Safety Challenge Lesson 2A<br />(60 mins)</p>
+<td width="174">
+<p style="text-align: center;">Online Safety Challenge</p>
+<p style="text-align: center;">Lesson 2A</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
-<p>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</p>
+<td width="274">
+<ul>
+<li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
+</ul>
 </td>
-<td style="text-align: center;" colspan="2">
-<p>Term 2 Week 8 (1 hour)</p>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 8</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="174">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>&nbsp;Do I or Don't I Lesson 2B<br />(60 mins)</p>
+<td width="174">
+<p style="text-align: center;">Do I or Don&rsquo;t I</p>
+<p style="text-align: center;">Lesson 2B</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="274">
 <ul>
 <li>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender</li>
 <li>Recognise one&rsquo;s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
 </ul>
 </td>
-<td style="text-align: center;" colspan="2">Term 2 Week 10 (1 hour)</td>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 10</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 3<br /></strong></p>
-<table>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="170">
+<p><strong>Lesson Title/ Duration</strong></p>
+</td>
+<td style="text-align: center;" width="265">
+<p><strong>Lesson Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="161">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th style="text-align: center;">Unit</th>
-<th style="text-align: center;">Lesson/ Duration</th>
-<th style="text-align: center;">Lesson Objectives</th>
-<th style="text-align: center;">Term/ Week</th>
+<td width="170">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
+</td>
+<td width="170">
+<p style="text-align: center;">Love Yourself, Love Others</p>
+<p style="text-align: center;">Lesson 1A</p>
+<p style="text-align: center;">(60 mins)</p>
+</td>
+<td width="265">
+<ul>
+<li>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline</li>
+<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours</li>
+<li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td width="161">
+<p style="text-align: center;">Term 1 Week 8</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="170">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>Love Yourself, Love Others Lesson 1A<br />(60 mins)</p>
+<td width="170">
+<p style="text-align: center;">Mending a Broken Heart Lesson 1B</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="265">
 <ul>
-<li>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.&nbsp;</li>
-<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.&nbsp;</li>
-<li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.&nbsp;</li>
+<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
+<li>Know that a decision to end a relationship will have consequences on oneself and others</li>
+<li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience</li>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
 </ul>
 </td>
-<td style="text-align: center;">Term 1 Week 8 (1 hour)</td>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 2</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="170">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>Mending a Broken Heart Lesson 1B<br />(60 mins)</p>
+<td width="170">
+<p style="text-align: center;">When Respect Takes Centre Stage</p>
+<p style="text-align: center;">Lesson 2</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="265">
 <ul>
-<li>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</li>
-<li>Know that a decision to end a relationship will have consequences on oneself and others.&nbsp;</li>
-<li>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.&nbsp;</li>
-<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.&nbsp;</li>
+<li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them</li>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 </ul>
 </td>
-<td style="text-align: center;">Term 2 Week 2 (1 hour)</td>
-</tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 10</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
-<td style="text-align: center;">
-<p>&nbsp;When Respect Takes Centre Stage Lesson 2<br />(60 mins)</p>
-</td>
-<td>
-<ul>
-<li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.&nbsp;</li>
-<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.&nbsp;</li>
-</ul>
-</td>
-<td style="text-align: center;">Term 2 Week 10 (1 hour)</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>Secondary 4<br /></strong></p>
-<table>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="169">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="169">
+<p><strong>Lesson Title</strong></p>
+</td>
+<td style="text-align: center;" width="293">
+<p><strong>Lesson Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="161">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th style="text-align: center;">Unit</th>
-<th style="text-align: center;">Lesson/ Duration</th>
-<th style="text-align: center;">Lesson Objectives</th>
-<th style="text-align: center;">Term/ Week</th>
-</tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="169">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>Levelling the Ground Lesson 1<br />(60 mins)</p>
+<td width="169">
+<p style="text-align: center;">Levelling the Ground Lesson 1</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="293">
 <ul>
-<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
-<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.&nbsp;</li>
-<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.&nbsp;</li>
+<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity</li>
+<li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided</li>
 </ul>
 </td>
-<td style="text-align: center;">
-<p>Term 1 Week 6 (1 hour)</p>
+<td width="161">
+<p style="text-align: center;">Term 1 Week 6</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="169">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>When Love Hurts Lesson 2<br />(60 mins)</p>
+<td width="169">
+<p style="text-align: center;">When Love Hurts</p>
+<p style="text-align: center;">Lesson 2</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="293">
 <ul>
-<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</li>
-<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</li>
-<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.&nbsp;</li>
-<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.&nbsp;</li>
+<li>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
+<li>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims</li>
+<li>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+<li>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 </ul>
 </td>
-<td style="text-align: center;">
-<p>Term 1 Week 8 (1 hour)</p>
+<td width="161">
+<p style="text-align: center;">Term 1 Week 8</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="169">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td style="text-align: center;">
-<p>For Better or For Worst Lesson 3<br />(60 mins)</p>
+<td width="169">
+<p style="text-align: center;">For Better or For Worse</p>
+<p style="text-align: center;">Lesson 3</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
+<td width="293">
 <ul>
-<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</li>
-<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.&nbsp;</li>
-<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.&nbsp;</li>
+<li>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions</li>
+<li>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort</li>
+<li>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 </ul>
 </td>
-<td style="text-align: center;">Term 2 Week 2 (1 hour)</td>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 2</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 <tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="169">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td>
-<p style="text-align: center;">There's Always More to a Story Lesson 4<br />(60 mins)</p>
+<td width="169">
+<p style="text-align: center;">There&rsquo;s Always More to a Story</p>
+<p style="text-align: center;">Lesson 4</p>
+<p style="text-align: center;">(60 mins)</p>
 </td>
-<td>
-<p>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.&nbsp;</p>
+<td width="293">
+<ul>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
+</ul>
 </td>
-<td style="text-align: center;">Term 2 Week 4 (1 hour)</td>
+<td width="161">
+<p style="text-align: center;">Term 2 Week 4</p>
+<p style="text-align: center;">(1 hour)</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 5<br /></strong></p>
-<table>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;" width="186">
+<p><strong>Unit</strong></p>
+</td>
+<td style="text-align: center;" width="186">
+<p><strong>Lesson Title</strong></p>
+</td>
+<td style="text-align: center;" width="246">
+<p><strong>Lesson Objectives</strong></p>
+</td>
+<td style="text-align: center;" width="161">
+<p><strong>Time Period</strong></p>
+</td>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th style="text-align: center;">Unit</th>
-<th style="text-align: center;">Lesson/ Duration</th>
-<th style="text-align: center;">Lesson Objectives</th>
-<th style="text-align: center;">Term/ Week</th>
-</tr>
-<tr>
-<td>
-<p>Respectful Relationships &amp; Safety</p>
+<td width="186">
+<p style="text-align: center;">Respectful Relationships &amp; Safety</p>
 </td>
-<td>
-<p style="text-align: center;">This is Where I Draw the Line Lesson 1<br />(60 mins)</p>
+<td width="186">
+<p style="text-align: center;">This is Where I Draw the Line</p>
+<p style="text-align: center;">(60 mins)</p>
+<p>&nbsp;</p>
 </td>
-<td>
+<td width="246">
 <ul>
-<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+<li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 </ul>
 </td>
-<td>
-<p style="text-align: center;">Term 1 Week 8 (1 hour)</p>
+<td width="161">
+<p style="text-align: center;">Term 1 Week 8</p>
+<p style="text-align: center;">(1 hour)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>eTeens Programme</strong></p>
 <p>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p>
