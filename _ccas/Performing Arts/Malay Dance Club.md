@@ -142,86 +142,85 @@ third_nav_title: Performing Arts
 <table width="0">
 <tbody>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p><strong>Name</strong></p>
 </td>
-<td width="162">
+<td style="width: 98px;">
 <p><strong>Class</strong></p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p><strong>Position</strong></p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Tiara Fisilya Binte Adenan</p>
 </td>
-<td width="162">
+<td style="width: 98px;">
 <p>4 Pearl</p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>President</p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Erdaniea Binti Mohammad Fadzil</p>
 </td>
-<td width="162">
+<td style="width: 98px;">
 <p>4 Topaz</p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>Vice-President</p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Nurul Natalyia Binte Kamsani</p>
 </td>
-<td width="162">
+<td style="width: 98px;">
 <p>4 Ruby</p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>Secretary</p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Nurain Tihani Binte Muhammad Faizal</p>
 <p>Nursyarafina Binte Sazaly</p>
 </td>
-<td width="162">
-<p>3 Topaz<br /><br /></p>
+<td style="width: 98px;">
+<p>3 Topaz</p>
 <p>4 Ruby</p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>Publication ICs</p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Siti Nuralisyah Mohammed Shamsul</p>
 <p>Ryla Hazlifah Binte Hairie</p>
 </td>
-<td width="162">
-<p>4 Pearl<br /><br /></p>
+<td style="width: 98px;">
+<p>4 Pearl</p>
 <p>4 Pearl</p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>Logistics ICs</p>
 </td>
 </tr>
 <tr>
-<td width="336">
+<td style="width: 301px;">
 <p>Muhammad Ridzuan Bin Mohammad Jefri</p>
 <p>Muhammad Faiz Bin Shahrin</p>
 </td>
-<td width="162">
+<td style="width: 98px;">
 <p>4 Diamond</p>
-<p>&nbsp;</p>
 <p>3 Ruby<br /><br /></p>
 </td>
-<td width="234">
+<td style="width: 160px;">
 <p>Recreation &amp; Physical Training ICs</p>
 </td>
 </tr>
