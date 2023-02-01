@@ -18,9 +18,9 @@ description: ""
 <li>Make responsible decisions for yourself, your family and society; and</li>
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ul>
-<p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.&nbsp;</p>
+<p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/">here</a>&nbsp;for more information on MOE Sexuality Education.&nbsp;</p>
 <p><strong>Overview of Dunearn Secondary School's Sexuality Education Programme 2023</strong></p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach"> here </a>for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
+<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach"> here </a>for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
 <p>5. The subjects that incorporate topics on sexuality include:&nbsp;</p>
 <ul>
 <li>Science&nbsp;</li>
