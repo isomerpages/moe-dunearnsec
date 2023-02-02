@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<p><strong>Note:</strong> Programme booklet will be available from 24<sup>th</sup> Feb 2023 onwards.</p>
+<p><strong>Note:</strong> Programme booklet will be available from 24<sup>th</sup> Feb 2023 onward.</p>
