@@ -12,6 +12,15 @@ third_nav_title: Parenting & Family Life
 <img src="/images/opp1.png">
 <p>Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes.&nbsp;<a href="https://go.fycs.org/FLEsignup2022">https://go.fycs.org/FLEsignup2022</a>.</p>
 <p><strong>Parenting Talk</strong></p>
-<img src="/images/opp2.png">
-<p><strong><u>Details of parenting talk:</u></strong></p>
-<p>Topic:&nbsp;Managing Gaming and Internet Behaviours<br />Date/Time: 2 April 2022, Saturday 4 to 5pm<br />Trainer: Michael Tan<br />Venue: Online Zoom<br />Course Fee: $5<br />Target group: Parents with children aged 7 to 18<br />To register:&nbsp;<a href="https://go.fycs.org/FLEsignup2022" target="_blank" rel="noopener">https://go.fycs.org/FLEsignup2022</a></p>
+<img src="/images/25%20Feb_Managing%20Screen%20Time%20&%20Media%20Use%20in%20the%20Family%20Flyer.jpeg">
+<p><strong><u>Cyberwellness Talk for Parents</u></strong></p>
+<p>Based on our recent parents&rsquo; needs survey, we noted that many parents are concerned about their children&rsquo;s screentime. We would like to highlight our upcoming public programme conducted by&nbsp;cyber-wellness guru Mr Poh Yeang Cherng. Through the talk, parents would learn about the online and gaming risks our children are exposed to and how to take practical steps to manage their device-use so that they do not fall prey to addictive internet habits.</p>
+<p>&nbsp;</p>
+<p><strong><u>Details:</u></strong></p>
+<p>Date: 25 Feb 10am - 11:30am</p>
+<p>Course Fee: $8</p>
+<p>Venue: Online Zoom</p>
+<p>Speaker: Mr Poh Yeang Cherng (Digital Parenting Trainer)</p>
+<p><strong>Registration Link:&nbsp;</strong><a href="https://go.fycs.org/FLE2023"><strong>https://go.fycs.org/FLE2023</strong></a></p>
+<p>&nbsp;</p>
+<p>From Fei Yue Community Services</p>
