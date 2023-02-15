@@ -19,6 +19,5 @@ third_nav_title: Parenting & Family Life
 <p>Course Fee: $8</p>
 <p>Venue: Online Zoom</p>
 <p>Speaker: Mr Poh Yeang Cherng (Digital Parenting Trainer)</p>
-<p><strong>Registration Link:&nbsp;</strong><a href="https://go.fycs.org/FLE2023"><strong>https://go.fycs.org/FLE2023</strong></a></p>
-<p>&nbsp;</p>
+<p><strong>Registration Link:&nbsp;</strong><a href="https://go.fycs.org/FLE2023">https://go.fycs.org/FLE2023</a></p>
 <p>From Fei Yue Community Services</p>
