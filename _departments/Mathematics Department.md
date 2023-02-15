@@ -9,91 +9,202 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">Name</th>
-<th style="text-align: center;">Subject</th>
-<th style="text-align: center;">Email</th>
+<td style="text-align: center;" width="166">
+<p><strong>Name</strong></p>
+</td>
+<td style="text-align: center;" width="113">
+<p><strong>Subject</strong></p>
+</td>
+<td style="text-align: center;" width="286">
+<p><strong>Email</strong></p>
+</td>
 </tr>
 <tr>
-<td>Mr Rajasekaran HOD Mathematics)</td>
-<td>E Math / A Math</td>
-<td>rajasekaran_sockalingam@moe.edu.sg</td>
+<td width="166">
+<p>Mr Rajasekaran HOD Mathematics)</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:rajasekaran_sockalingam@moe.edu.sg">rajasekaran_sockalingam@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mrs Seah Gek Hoon (SH Mathematics)</td>
-<td>E Math / A Math</td>
-<td>chua_gek_hoon@moe.edu.sg</td>
+<td width="166">
+<p>Mrs Seah Gek Hoon (SH Mathematics)</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:chua_gek_hoon@moe.edu.sg">chua_gek_hoon@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Mohamad Khaidir HOD Student Management)</td>
-<td>E Math</td>
-<td><a href="mailto:mohamad_khaidir_abdul_rahm@moe.edu.sg">mohamad_khaidir_abdul_rahm@moe.edu.sg</a></td>
+<td width="166">
+<p>Mr Mohamad Khaidir HOD Student Management)</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:mohamad_khaidir_abdul_rahm@moe.edu.sg">mohamad_khaidir_abdul_rahm@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Ang Chin Chuan (ST Mathematics)</td>
-<td>E Math / A Math</td>
-<td>ang_chin_chuan@moe.edu.sg</td>
+<td width="166">
+<p>Mr Ang Chin Chuan (ST Mathematics)</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:ang_chin_chuan@moe.edu.sg">ang_chin_chuan@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Yvonne Tan (SH Physics)</td>
-<td>E Math / A Math</td>
-<td>tan_whye_lin_yvonne@moe.edu.sg</td>
+<td width="166">
+<p>Ms Yvonne Tan (SH Physics)</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:tan_whye_lin_yvonne@moe.edu.sg">tan_whye_lin_yvonne@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Lee Yi Qiao (AYH Upper Sec [Int])&nbsp;</td>
-<td>E Math / A Math</td>
-<td>lee_yi_qiao@moe.edu.sg</td>
+<td width="166">
+<p>Ms Lee Yi Qiao (AYH Upper Sec [Int])</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:lee_yi_qiao@moe.edu.sg">lee_yi_qiao@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mdm Selena Chan</td>
-<td>E Math / A Math</td>
-<td>chan_sze_ming_selena@moe.edu.sg</td>
+<td width="166">
+<p>Mdm Selena Chan</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:chan_sze_ming_selena@moe.edu.sg">chan_sze_ming_selena@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Muhd Hazwan&nbsp;</td>
-<td>E Math&nbsp;</td>
-<td>muhammad_hazwan_b_sapari@moe.edu.sg</td>
+<td width="166">
+<p>Mr Muhd Hazwan</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:muhammad_hazwan_b_sapari@moe.edu.sg">muhammad_hazwan_b_sapari@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
+<td width="166">
+<p>Ms Charmaine Goh</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:goh_hui_ping@moe.edu.sg">goh_hui_ping@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Charmaine Goh</td>
-<td>E Math</td>
-<td>goh_hui_ping@moe.edu.sg</td>
+<td width="166">
+<p>Ms Aloor Rittu</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:aloor_rittu_pius@moe.edu.sg">aloor_rittu_pius@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Aloor Rittu</td>
-<td>E Math</td>
-<td>aloor_rittu_pius@moe.edu.sg</td>
+<td width="166">
+<p>Mr Louis Chin</p>
+</td>
+<td width="113">
+<p>E Math / A Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:louis_chin_cheong_long@moe.edu.sg">louis_chin_cheong_long@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Mr Louis Chin</td>
-<td>E Math / A Math</td>
-<td>louis_chin_cheong_long@moe.edu.sg</td>
+<td width="166">
+<p>Ms Sandy Tan</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:tan_fang_hui_sandy@moe.edu.sg">tan_fang_hui_sandy@moe.edu.sg</a></p>
+</td>
 </tr>
 <tr>
-<td>Ms Sandy Tan</td>
-<td>E Math</td>
-<td>tan_fang_hui_sandy@moe.edu.sg</td>
+<td width="166">
+<p>Mdm Low Chui Ling</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:low_chui_ling@moe.edu.sg">low_chui_ling@moe.edu.sg</a></p>
+</td>
 </tr>
-<td>Mdm Low Chui Ling</td>
-<td>E Math</td>
-<td>low_chui_ling@moe.edu.sg</td>
-</tr>
-<td>Ms Fiona Ng</td>
-<td>E Math</td>
-<td>ng_shu_hua_fiona@moe.edu.sg</td>
-</tr>
-<td>Mr Soh Cek Sin</td>
-<td>E Math</td>
-<td>soh_cek_sin@moe.edu.sg</td>
-</tr>
-<td>Mdm Rena Ou</td>
-<td>E Math</td>
-<td>ou_bin_bin_rena@moe.edu.sg</td>
 <tr>
-<td>Mr Ng Yong Kang</td>
-<td>E Math</td>
-<td>ng_yong_kang@moe.edu.sg</td>
+<td width="166">
+<p>Ms Fiona Ng</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:ng_shu_hua_fiona@moe.edu.sg">ng_shu_hua_fiona@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p>Mr Soh Cek Sin</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:soh_cek_sin@moe.edu.sg">soh_cek_sin@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p>Mdm Rena Ou</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:ou_bin_bin_rena@moe.edu.sg">ou_bin_bin_rena@moe.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p>Mr Ng Yong Kang</p>
+</td>
+<td width="113">
+<p>E Math</p>
+</td>
+<td width="286">
+<p><a href="mailto:ng_yong_kang@moe.edu.sg">ng_yong_kang@moe.edu.sg</a></p>
+</td>
 </tr>
 </tbody>
 </table>
