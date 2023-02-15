@@ -11,7 +11,6 @@ description: ""
 <tr>
 <td>
 <strong>Name</strong>
-</td>
 <td>
 <strong>Designation</strong>
 </td>
