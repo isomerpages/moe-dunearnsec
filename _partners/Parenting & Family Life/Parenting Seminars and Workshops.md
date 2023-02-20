@@ -205,8 +205,7 @@ third_nav_title: Parenting & Family Life
 <p>Sep 2023</p>
 </td>
 <td style="height: 394px; width: 375.2px;">
-<p><strong>&nbsp;</strong></p>
-<p><strong>Bake and Bond &ndash; Yummy Mooncakes DIY </strong></p>
+<p><strong>&nbsp;</strong><strong>Bake and Bond &ndash; Yummy Mooncakes DIY </strong></p>
 <p>Spend quality time learning fun facts about the Mid-Autumn Festival with your kids in our Bake and Bond fuss-free mooncake making session! Create your own yummy mooncakes with your loved ones in your special way to celebrate the moon festival together.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Date: 16 Sep 2023, Sat</p>
