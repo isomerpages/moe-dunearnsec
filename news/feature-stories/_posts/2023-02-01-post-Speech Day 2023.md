@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<p><strong>Note:</strong> Programme booklet will be available from 24<sup>th</sup> Feb 2023 onward.</p>
+<p>The speech day E-Programme Booklet may be accessed at the following <a href="https://issuu.com/leungsy/docs/dss_speech_day_2023_e-programme_booklet"> Link</a></p>
