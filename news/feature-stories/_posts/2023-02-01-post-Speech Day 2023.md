@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<p>The speech day E-Programme Booklet may be accessed at the following <a href="https://issuu.com/leungsy/docs/dss_speech_day_2023_e-programme_booklet"> Link</a></p>
+<p>The speech day E-Programme Booklet may be accessed at the following <a href="https://heyzine.com/flip-book/a7a15f7790.html"> Link</a></p>
