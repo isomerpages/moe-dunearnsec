@@ -24,4 +24,5 @@ sections:
       button: Read More
       url: news/feature-stories/speech-day-2023/
       alt: Image alt text
+      image: /images/61st speech day.jpg
 ---
