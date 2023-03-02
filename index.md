@@ -19,10 +19,10 @@ sections:
       subtitle: Latest Announcements
       button: More
   - infopic:
-      description: DSS achieves "Vanda Miss Joaquim Sustained Achievement Award" 2022
+      description: The speech day E-Programme Booklet may be accessed at the following link
       button: Read More
       alt: Image alt text
       image: /images/MIK_2173-scaled.jpg
-      title: School Green Award 2022
-      url: /news/feature-stories/2022schoolgreenaward/
+      title: Speech Day 2023
+      url: news/feature-stories/speech-day-2023/
 ---
