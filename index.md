@@ -18,11 +18,4 @@ sections:
   - resources:
       subtitle: Latest Announcements
       button: More
-  - infopic:
-      title: Speech Day 2023
-      description: The speech day E-Programme Booklet may be accessed at the following link
-      button: Read More
-      url: news/feature-stories/speech-day-2023/
-      alt: Image alt text
-      image: /images/61st speech day.jpg
 ---
