@@ -1,10 +1,9 @@
 ---
 title: Parents Support Group
-permalink: /partners/parents-support-group
+permalink: /partners/parents-support-group/
 description: ""
 third_nav_title: Parents Support Group
 ---
-
 <p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" target="_blank" rel="noopener">Please click here for more pictures</a></p>
 <h3>What We Do</h3>
 <p>The Dunearn Parent Support Group (PSG) aims to partner and support the school in developing the character and intellect of their children. We aim to be a</p>
@@ -21,4 +20,4 @@ third_nav_title: Parents Support Group
 <p style="padding-left: 40px;">We can volunteer our expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and the PSG.</p>
 <p><strong>c) Thoughts</strong>&nbsp;</p>
 <p style="padding-left: 40px;">We can brainstorm and contribute constructive feedback and ideas to improve the school and PSG. Cluster-wide or zonal PSG forums are a great opportunity to learn and share ideas with other PSGs. More experienced parents can share experience and advice with younger parents too.&nbsp;</p>
-<img src="/images/psg.png">
+<img src="/images/PSG%20Org%20chart.jpg">
