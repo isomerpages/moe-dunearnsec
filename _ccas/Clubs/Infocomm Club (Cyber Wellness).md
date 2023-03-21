@@ -10,8 +10,6 @@ third_nav_title: Clubs
 <li>To motivate students to influence their peers to be discerning and responsible ICT users in cyberspace.</li>
 <li>To develop communication skills and be knowledgeable in content curation and project management.</li>
 </ol>
-</ol>
-</ul>
 <h4>CCA Teachers-in-Charge</h4>
 <ul>
 <li>Ms Nur Fatimah Shafiee</li>
