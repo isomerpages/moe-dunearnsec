@@ -36,4 +36,7 @@ third_nav_title: Clubs
 <h4>CCA Leaders</h4>
 <p>President: Ho Zhi Xian (3OP)</p>
 <p>Vice-President: Adlyn Binte Yani (2EM)</p>
-![](/images/IT1.jpg)
+<h4>Photo/ Photos/ Video </h4>
+<img src="/images/IT1.jpg">&nbsp;
+<img src="/images/IT2.jpg">&nbsp;
+<img src="/images/IT3.jpg">
