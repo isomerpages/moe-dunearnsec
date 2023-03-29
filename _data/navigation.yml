@@ -90,6 +90,8 @@ links:
         url: /students/student-learning-space
       - title: Home Based Learning
         url: /students/home-based-learning
+      - title: The Help Star
+        url: /the-help-star/
   - title: Partners
     url: /partners/principals-letters-to-parents
     sublinks:
