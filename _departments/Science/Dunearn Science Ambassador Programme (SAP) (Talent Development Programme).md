@@ -63,7 +63,7 @@ third_nav_title: Science
 <img src="/images/dsap5.png">
 <p style="text-align: center;"><strong>SAP students emerged Champion for the Shell STEM Youth Innovation Challenge 2016</strong></p>
 <img src="/images/dsap6.jpg">
-<p style="text-align: center;"><strong>SAP students who graduated from the Youth Science Ambassadors Programme 2019</strong></p>
+<p style="text-align: center;"><strong>SAP students who graduated from the Youth Science Ambassadors Programme 2019 and their mentors</strong></p>
 <img src="/images/dsap7.png">
 <p style="text-align: center;"><strong>SAP students receiving their Champion trophy for the PICO Mouse Race 2017</strong></p>
 <img style="width: 50%;" src="/images/dsap8.png">
@@ -72,10 +72,10 @@ third_nav_title: Science
 <p><em>I had learnt a lot about science and its theories. I am passionate about this programme because it is very interesting and it relates to our everyday&nbsp;life. Through this programme, I learnt that science is a tool I can use to understand the world&nbsp;around me. It provides logic and sense. I also realised that the more we know about science,&nbsp;the more we would be curious and we can start to do research related to science to satisfy&nbsp;our curiosity and improve our knowledge on it. Therefore, I find this programme very helpful&nbsp;and it was filled with new experiences. - Tan Yi Xi, Kerrie</em></p>
 <p><em>Through this competition, I have learnt how to plan meals based on individual preferences and needs. I thoroughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable! - Cheryl</em></p>
 <p><em>The overall experience was interesting and I had a lot of fun learning through the process. - Chloe</em></p>
-<h4>Students Reflections on their experiences in SAP</h4>
-<p><em>I had learnt a lot about science and its theories. I am passionate about this programme because it is very interesting and it relates to our everyday life. Through this programme, I learnt that science is a tool I can use to understand the world around me. It provides logic and sense. I also realised that the more we know about science, the more we would be curious and we can start to do research related to science to satisfy our curiosity and improve our knowledge on it. Therefore, I find this programme very helpful and it was filled with new experiences.</em></p>
-<p style="text-align: right;"><em>- Tan Yi Xi, Kerrie</em></p>
-<p><em>Through this competition, I have learnt how to plan meals based on individual preferences and needs. I thoroughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable!</em></p>
+<h4>Students Reflections on their experiences in SAP and food science competitions</h4>
+<p style="text-align: left;"><em>I had learnt a lot about science and its theories. I am passionate about this programme because it is very interesting and it relates to our everyday life. Through this programme, I learnt that science is a tool I can use to understand the world around me. It provides logic and sense. I also realised that the more we know about science, the more we would be curious and we can start to do research related to science to satisfy our curiosity and improve our knowledge on it. Therefore, I find this programme very helpful and it was filled with new experiences. </em></p>
+<p style="text-align: right;"><em>- Kerrie</em></p>
+<p><em>Through this competition, I have learnt how to plan meals based on individual preferences and needs. I throughly enjoyed the competition as I was accompanied by students and teachers who are very welcoming and knowledgeable!” </em></p>
 <p style="text-align: right;"><em>- Cheryl</em></p>
-<p><em>The overall experience was interesting and I had a lot of fun learning through the process.</em></p>
-<p style="text-align: right;"><em>- Chloe</em></p>
+<p><em>The overall experience was interesting and I had a lot of fun learning through the process. </em></p>
+<p style="text-align: right;"><em>- Chloe </em></p>
