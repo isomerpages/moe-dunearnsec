@@ -56,6 +56,11 @@ third_nav_title: Science
 <ul>
 <li><strong>Champion for Shell STEM Young Innovators Challenge 2016</strong> - Two teams of ten students from Dunearn Science Ambassador Programme (SAP) participated in the Shell STEM Young Innovation Challenge at Republic Polytechnic on 21st July 2016. The team comprising Siew Mun, Jia Hui, Wei Wen, Jolie and Stephen emerged Champion for the Food Science &amp; Analytics category. The team subsequently went on to present their work during the <strong>MOE Excel Fest 2017</strong>.</li>
 </ul>
+<img src="/images/science%20dept%202.jpg">
+<img src="/images/science%20dept%203.png">
+<p style="margin: 0in 0in 0.0001pt; background: white; text-align: center;" class="p1"><strong><span style="font-family: 'Arial',sans-serif; color: #222222; background: white;" lang="EN-SG">Dunearn students emerged 1st runner-up in the Nutri-Booster&nbsp;<span class="il">Competition 2021</span></span></strong></p>
+<img src="/images/science%20dept%204.jpg">
+<p style="margin: 0in 0in 0.0001pt; background: white; text-align: center;" class="p1"><strong>Presentation of the Amazon Future Engineer Bursary Award by the Guest of Honour at the Singapore Science Centre in 2021</strong></p>
 <img src="/images/dsap2.jpeg">
 <img src="/images/dsap3.jpeg">
 <img src="/images/dsap4.jpeg">
