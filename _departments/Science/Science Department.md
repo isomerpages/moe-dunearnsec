@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Science
 ---
 <h4>Departmental Mission</h4>
-<p>The Science Department aims to provide quality Science Education in a caring and stimulating&nbsp;environment and to create opportunities for the development of every pupil's potential.</p>
+<p>The Science Department aims to provide quality Science Education in a caring and stimulating environment and to create opportunities for the development of every student's potential. In line with the Revised Science Curriculum Framework, Science education should</p>
+<ul>
+<li>Enthuse and nurture all students to be <strong>scientifically literate</strong>.</li>
+<li>Provide strong science fundamentals for students to innovate and pursue STEM for <strong>future learning and work</strong>.</li>
+![](/images/science%20dept.png)
+</ul>
 <h4>Staffing</h4>
 <table width="0">
 <tbody>
@@ -260,7 +265,7 @@ third_nav_title: Science
 <li>IFly Singapore experience for Sec 3/4 Physics students</li>
 <li>Bacterial transformation workshop for Sec 4 Biology students</li>
 </ul>
-<p><strong><a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a><br /></strong><strong>(please click on this link for more details)<br /></strong></p>
+<p><strong><a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a><br></strong><strong>(please click on this link for more details)<br></strong></p>
 <ul>
 <li>Aims to provide our high ability Science students a platform for collaborative learning on Science beyond the mainstream curriculum</li>
 <li>Leading and organising Science activities and programmes for the Science and Math Week.</li>
