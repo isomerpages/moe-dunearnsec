@@ -11,7 +11,7 @@ description: ""
 <li><span style="font-weight: 400;">To appreciate the relevance and value of what is learnt in the curriculum and to develop 21</span><span style="font-weight: 400;">st</span><span style="font-weight: 400;"> century competencies&nbsp;</span></li>
 <li aria-level="1"><span style="font-weight: 400;">To provide exposure to STEM-related applied learning and careers and to help ignite students’ interest in pursuing STEM-related post-secondary courses, leading to STEM-related careers</span></li>
 </ul>
-<img src="/images/2023alp1.png">
+<img src="/images/2023alp10.png"><img src="/images/2023alp1.png">
 <h4>Implementation -&nbsp;Tier 1 Programmes</h4>
 <p>The Lower Secondary classes undergo a series of interesting Food Science and electronics-related modules designed by a Curriculum Specialist from STEM INC, a unit in Singapore Science Centre which supports schools in their STEM-related ALP. Learning journeys are conducted for the Secondary 3 classes so that they can gain greater awareness and exposure to the application of food science and technology to real world situations.</p>
 <p>We believe our ALP will develop Dunearnites as confident and creative young scientists, who possess critical thinking skills, creativity and inventive thinking, and communication and ICT skills. Further to this, the experiential nature of FSciTech will develop in our students the dispositions associated with scientific literacy.&nbsp;</p>
