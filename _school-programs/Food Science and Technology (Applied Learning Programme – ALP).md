@@ -11,7 +11,7 @@ description: ""
 <li><span style="font-weight: 400;">To appreciate the relevance and value of what is learnt in the curriculum and to develop 21</span><span style="font-weight: 400;">st</span><span style="font-weight: 400;"> century competencies&nbsp;</span></li>
 <li aria-level="1"><span style="font-weight: 400;">To provide exposure to STEM-related applied learning and careers and to help ignite students’ interest in pursuing STEM-related post-secondary courses, leading to STEM-related careers</span></li>
 </ul>
-<img src="/images/2023alp10.png"><img src="/images/2023alp1.png">
+<img src="/images/1alp--.png">
 <h4>Implementation -&nbsp;Tier 1 Programmes</h4>
 <p>The Lower Secondary classes undergo a series of interesting Food Science and electronics-related modules designed by a Curriculum Specialist from STEM INC, a unit in Singapore Science Centre which supports schools in their STEM-related ALP. Learning journeys are conducted for the Secondary 3 classes so that they can gain greater awareness and exposure to the application of food science and technology to real world situations.</p>
 <p>We believe our ALP will develop Dunearnites as confident and creative young scientists, who possess critical thinking skills, creativity and inventive thinking, and communication and ICT skills. Further to this, the experiential nature of FSciTech will develop in our students the dispositions associated with scientific literacy.&nbsp;</p>
@@ -25,8 +25,8 @@ description: ""
 <p>The knowledge they had gained from the online workshops helped them to plan and create a nutritious, sumptuous and attractive dish for teenagers which must feature the hydroponic vegetables that they have grown.</p>
 <p>Eighteen teams from several schools participated in this competition. The teams spent a period of two months to develop and finalised their ideas and dish.</p>
 <p>We are proud to announce that the DSS Team 1 comprising STEPHEN, QUANXIN, TARUNICKA and WAIE ZAIN emerged as First Runner-Up for the competition and did the school proud! Congratulations and well done team!</p>
-<img src="/images/2023alp2.png"><img src="/images/2023alp3.png"><p>&nbsp;</p>
-<img src="/images/2023alp4.png">
+<img src="/images/2alp2023.png"><p>&nbsp;</p>
+<img src="/images/3alp2023.png">
 <p><span style="text-decoration: underline;"><strong>Molecular Sciences in Food Gastronomy and Preservation Workshop by our Industry Partner – BioAcumen Global</strong></span></p>
 <p><span style="font-weight: 400;">In May 2022, BioAcumen Global, founded by our very own alumnus Mr Jimmy Toh, conducted a Molecular Sciences in Food Gastronomy and Preservation workshop for our sec 1 ALP students. Along with learning about the different food preservation methods and how alginate gummies are formed, the student had the opportunity to create their own fruity spaghetti that were decorated with frozen dried fruits prepared by the company. Concluding the workshop with by tasting their self-created unconventional noodles, the students enjoyed and learned a lot from Mr Toh, including possible STEM careers. </span></p>
 <img src="/images/2023alp5.jpg">
