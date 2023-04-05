@@ -25,18 +25,17 @@ description: ""
 <p>The knowledge they had gained from the online workshops helped them to plan and create a nutritious, sumptuous and attractive dish for teenagers which must feature the hydroponic vegetables that they have grown.</p>
 <p>Eighteen teams from several schools participated in this competition. The teams spent a period of two months to develop and finalised their ideas and dish.</p>
 <p>We are proud to announce that the DSS Team 1 comprising STEPHEN, QUANXIN, TARUNICKA and WAIE ZAIN emerged as First Runner-Up for the competition and did the school proud! Congratulations and well done team!</p>
-<img src="/images/2alp2023.png"><p>&nbsp;</p>
+<img src="/images/2alp2023.png">&nbsp;
 <img src="/images/3alp2023.png">
 <p><span style="text-decoration: underline;"><strong>Molecular Sciences in Food Gastronomy and Preservation Workshop by our Industry Partner – BioAcumen Global</strong></span></p>
 <p><span style="font-weight: 400;">In May 2022, BioAcumen Global, founded by our very own alumnus Mr Jimmy Toh, conducted a Molecular Sciences in Food Gastronomy and Preservation workshop for our sec 1 ALP students. Along with learning about the different food preservation methods and how alginate gummies are formed, the student had the opportunity to create their own fruity spaghetti that were decorated with frozen dried fruits prepared by the company. Concluding the workshop with by tasting their self-created unconventional noodles, the students enjoyed and learned a lot from Mr Toh, including possible STEM careers. </span></p>
-<img src="/images/2023alp5.jpg">
-<p>&nbsp;</p>
+<img src="/images/2023alp5.jpg">&nbsp;
 <img src="/images/4alp2023.png">
 <h4>Our Industry Partner - Fraser &amp; Neave Ltd</h4>
 <p><span style="text-decoration: underline;"><strong>F&amp;N Sensory Evaluation Workshop</strong></span></p>
 <p>In May 2022, students from Dunearn Science Ambassadors Programme (SAP) participated in a Sensory Evaluation Workshop held by Fraser &amp; Neave Ltd (F&amp;N Ltd). With guide from the sensory evaluators, the students learned about the nutritional values of the food products. They even had the opportunity to put their five senses to test and had fun evaluating the strawberry yoghurt drink! They subsequently designed and created their very own yoghurt drinks and presented their products to their peers. Coupled with learning more about STEM careers in the food industry, this workshop was certainly an enriching food science experience!</p>
-<img src="/images/2023alp7.jpg"><p>&nbsp;</p>
-<img src="/images/2023alp8.jpg"><p>&nbsp;</p>
+<img src="/images/2023alp7.jpg">&nbsp;
+<img src="/images/2023alp8.jpg">&nbsp;
 <img src="/images/7alp2023.png">
 <p><strong>Feedback from Our Students</strong></p>
 <p><em><span style="font-weight: 400;">“I enjoy the ALP programme a lot because I have learnt many new things through the programme. The new skills I have learnt benefit my learning for the future. I hope to attend more of these programmes in future”.</span></em></p>
@@ -97,7 +96,7 @@ description: ""
 <img src="/images/alp15.jpg">
 <p><em>Student Kristy Lee (second from right) finds out the strength of tea by measuring the amount of light it absorbs. Stronger tea tends to be darker and absorbs more light. (Photo credit: Dunearn Secondary School)</em></p>
 <p><strong>Students at Dunearn Secondary School are putting what they’ve learned in their FSciTech classes into practice, including cutting down on eating fast food.</strong></p>
-<p><em>___________________________________________________________________________________________</em></p>
+<p><em>________________________________________________________________________________________________</em></p>
 <p><span style="font-weight: 400;">Ever since 14-year-old Secondary 2 student Kristy Lee learned about the calorie count of fast food, she has cut down on her intake and is now more careful about what she eats. “I am more aware of what I am eating, how often am I eating it and how many calories the food contains. Do I really need that energy or will it store as fats?” she says.</span></p>
 <p><span style="font-weight: 400;">Lee is a student at Dunearn Secondary School and caloric content is just one of the lessons she’s learned during the school’s Applied Learning Programme (ALP) in FSciTech, or Food Science Technology.</span></p>
 <p><span style="font-weight: 400;">The school started their ALP in 2015 with two objectives, according to Mr Nick Lee, the former Science HOD who is now the Upper Secondary Year Head. “Our first objective is to allow students to appreciate the relevance of their core subjects and experience real world applications. The other objective is to encourage students to look into STEM-related careers and learning opportunities in their tertiary education,” he says.</span></p>
