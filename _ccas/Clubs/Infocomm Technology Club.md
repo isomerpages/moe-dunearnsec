@@ -1,6 +1,6 @@
 ---
-title: Infocomm Club (Cyber Wellness)
-permalink: /ccas/clubs/infocomm-club-cyber-wellness/
+title: Infocomm Technology Club
+permalink: /ccas/clubs/infocomm-technology-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -17,7 +17,7 @@ third_nav_title: Clubs
 <li>Ms Bahirah Bahar</li>
 <li style="list-style-type: none;">&nbsp;</li>
 </ul>
-<p>Vendors: C&rsquo;ignature Group and Duck Learning (AY 2023)</p>
+<p>Vendors: C’ignature Group and Duck Learning (AY 2023)</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
 <li>Wednesday, 3.30pm to 5.30pm (Computer Labs 2 and 3)</li>
@@ -26,7 +26,7 @@ third_nav_title: Clubs
 <h4>Highlights &amp; Achievements</h4>
 <ul>
 <li>Collaboration with CCE (Counselling) to develop website on mental health awareness</li>
-<li>Participation in &lsquo;Our Schools, Our Stories&rsquo; Competition 2020-2022</li>
+<li>Participation in ‘Our Schools, Our Stories’ Competition 2020-2022</li>
 <li>Finalists for Amazon Web Services Bootcamp 2021</li>
 <li>Participation in Singapore Digital Media Awards Competition</li>
 <li style="list-style-type: none;"></li>
