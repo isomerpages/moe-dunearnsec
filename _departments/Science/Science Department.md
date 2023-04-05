@@ -9,7 +9,7 @@ third_nav_title: Science
 <ul>
 <li>Enthuse and nurture all students to be <strong>scientifically literate</strong>.</li>
 <li>Provide strong science fundamentals for students to innovate and pursue STEM for <strong>future learning and work</strong>.</li>
-<img src="/images/science%20dept.png">
+<img src="/images/science%20dept2.png">
 </ul>
 <h4>Staffing</h4>
 <table width="100%">
