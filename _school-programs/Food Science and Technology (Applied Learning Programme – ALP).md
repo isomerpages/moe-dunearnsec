@@ -30,13 +30,14 @@ description: ""
 <p><span style="text-decoration: underline;"><strong>Molecular Sciences in Food Gastronomy and Preservation Workshop by our Industry Partner – BioAcumen Global</strong></span></p>
 <p><span style="font-weight: 400;">In May 2022, BioAcumen Global, founded by our very own alumnus Mr Jimmy Toh, conducted a Molecular Sciences in Food Gastronomy and Preservation workshop for our sec 1 ALP students. Along with learning about the different food preservation methods and how alginate gummies are formed, the student had the opportunity to create their own fruity spaghetti that were decorated with frozen dried fruits prepared by the company. Concluding the workshop with by tasting their self-created unconventional noodles, the students enjoyed and learned a lot from Mr Toh, including possible STEM careers. </span></p>
 <img src="/images/2023alp5.jpg">
-<img src="/images/2023alp6.jpg">
+<p>&nbsp;</p>
+<img src="/images/4alp2023.png">
 <h4>Our Industry Partner - Fraser &amp; Neave Ltd</h4>
 <p><span style="text-decoration: underline;"><strong>F&amp;N Sensory Evaluation Workshop</strong></span></p>
 <p>In May 2022, students from Dunearn Science Ambassadors Programme (SAP) participated in a Sensory Evaluation Workshop held by Fraser &amp; Neave Ltd (F&amp;N Ltd). With guide from the sensory evaluators, the students learned about the nutritional values of the food products. They even had the opportunity to put their five senses to test and had fun evaluating the strawberry yoghurt drink! They subsequently designed and created their very own yoghurt drinks and presented their products to their peers. Coupled with learning more about STEM careers in the food industry, this workshop was certainly an enriching food science experience!</p>
 <img src="/images/2023alp7.jpg"><p>&nbsp;</p>
 <img src="/images/2023alp8.jpg"><p>&nbsp;</p>
-<img src="/images/2023alp9.jpg">
+<img src="/images/alp9--.jpg">
 <p><strong>Feedback from Our Students</strong></p>
 <p><em><span style="font-weight: 400;">“I enjoy the ALP programme a lot because I have learnt many new things through the programme. The new skills I have learnt benefit my learning for the future. I hope to attend more of these programmes in future”.</span></em></p>
 <p><em><span style="font-weight: 400;">~ Annalisa&nbsp;</span></em></p>
