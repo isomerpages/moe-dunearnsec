@@ -5,7 +5,7 @@ description: ""
 ---
 <h4>Introduction</h4>
 <p><span style="font-weight: 400;">Dunearn Secondary School’s Applied Learning Programme (ALP) is Food Science and Technology (FSciTech). This school-wide STEM programme complements the school’s core academic and student development programmes.&nbsp; In view of the growing importance of Food Science and Food Safety in this fast changing world and, in particular, the manufacturing sector, the potential for our students to further their interest through courses at ITE, polytechnic and university are vast and sustainable.</span></p>
-<img style="width: 65%;" src="/images/alp1.jpg">
+<img src="/images/alp1--.jpg">
 <h4>Objectives of ALP</h4>
 <ul>
 <li><span style="font-weight: 400;">To appreciate the relevance and value of what is learnt in the curriculum and to develop 21</span><span style="font-weight: 400;">st</span><span style="font-weight: 400;"> century competencies&nbsp;</span></li>
@@ -30,7 +30,7 @@ description: ""
 <p><span style="text-decoration: underline;"><strong>Molecular Sciences in Food Gastronomy and Preservation Workshop by our Industry Partner – BioAcumen Global</strong></span></p>
 <p><span style="font-weight: 400;">In May 2022, BioAcumen Global, founded by our very own alumnus Mr Jimmy Toh, conducted a Molecular Sciences in Food Gastronomy and Preservation workshop for our sec 1 ALP students. Along with learning about the different food preservation methods and how alginate gummies are formed, the student had the opportunity to create their own fruity spaghetti that were decorated with frozen dried fruits prepared by the company. Concluding the workshop with by tasting their self-created unconventional noodles, the students enjoyed and learned a lot from Mr Toh, including possible STEM careers. </span></p>
 <img src="/images/2023alp5.jpg">&nbsp;
-<img src="/images/4alp2023.png">
+<img style="width: 55%;" src="/images/4alp2023.png">
 <h4>Our Industry Partner - Fraser &amp; Neave Ltd</h4>
 <p><span style="text-decoration: underline;"><strong>F&amp;N Sensory Evaluation Workshop</strong></span></p>
 <p>In May 2022, students from Dunearn Science Ambassadors Programme (SAP) participated in a Sensory Evaluation Workshop held by Fraser &amp; Neave Ltd (F&amp;N Ltd). With guide from the sensory evaluators, the students learned about the nutritional values of the food products. They even had the opportunity to put their five senses to test and had fun evaluating the strawberry yoghurt drink! They subsequently designed and created their very own yoghurt drinks and presented their products to their peers. Coupled with learning more about STEM careers in the food industry, this workshop was certainly an enriching food science experience!</p>
