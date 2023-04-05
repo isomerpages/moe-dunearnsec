@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 ---
 <h4>Departmental Mission</h4>
-<p>The Science Department aims to provide quality Science Education in a caring and stimulating environment and to create opportunities for the development of every student's potential. In line with the Revised Science Curriculum Framework, Science education should</p>
+<p>The Science Department aims to provide quality Science Education in a caring and stimulating environment and to create opportunities for the development of every student's potential. In line with the Revised Science Curriculum Framework, Science education aims to</p>
 <ul>
 <li>Enthuse and nurture all students to be <strong>scientifically literate</strong>.</li>
 <li>Provide strong science fundamentals for students to innovate and pursue STEM for <strong>future learning and work</strong>.</li>
