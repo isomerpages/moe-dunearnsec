@@ -9,17 +9,7 @@ third_nav_title: Parenting &amp; Family Life
 <p>Triple P&nbsp;is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary&nbsp;Triple P&nbsp;resources (subject to terms and conditions).</p>
 <p>Dunearn Secondary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey.&nbsp;Parents can indicate their interest in Triple P at&nbsp;<a href="https://go.fycs.org/PSS">https://go.fycs.org/PSS</a>.</p>
 <p><strong>Parenting Talk</strong></p>
-<img src="/images/25%20Feb_Managing%20Screen%20Time%20&amp;%20Media%20Use%20in%20the%20Family%20Flyer.jpeg">&nbsp;
 <img src="/images/parenting%20hyperactive%20children.jpg">
-<p><strong><u>Cyberwellness Talk for Parents</u></strong></p>
-<p>Based on our recent parents’ needs survey, we noted that many parents are concerned about their children’s screentime. We would like to highlight our upcoming public programme conducted by&nbsp;cyber-wellness guru Mr Poh Yeang Cherng. Through the talk, parents would learn about the online and gaming risks our children are exposed to and how to take practical steps to manage their device-use so that they do not fall prey to addictive internet habits.</p>
-<p><strong><u>Details:</u></strong></p>
-<p>Date: 25 Feb 10am - 11:30am</p>
-<p>Course Fee: $8</p>
-<p>Venue: Online Zoom</p>
-<p>Speaker: Mr Poh Yeang Cherng (Digital Parenting Trainer)</p>
-<p><strong>Registration Link:&nbsp;</strong><a href="https://go.fycs.org/FLE2023">https://go.fycs.org/FLE2023</a></p>
-<p>From Fei Yue Community Services</p>
 <h4>FLE Programmes Calendar 2023</h4>
 <p>Greetings from Fei Yue Community Services!</p>
 <p>Thank you for your continuous support for our Family Life Education programmes.&nbsp;</p>
