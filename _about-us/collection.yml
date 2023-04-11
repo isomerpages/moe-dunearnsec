@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Calendar.md
       - Our History.md
       - Dunearn Logo.md
       - About Us.md
@@ -11,6 +10,7 @@ collections:
       - School Management Committee.md
       - Teaching Staff.md
       - Administrative Staff.md
+      - School Calendar.md
       - Contact Us.md
       - School Safety.md
       - Feedback.md
