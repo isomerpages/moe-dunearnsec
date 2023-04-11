@@ -2,17 +2,17 @@ collections:
   school:
     output: true
     order:
-      - Contact Us.md
+      - Our History.md
+      - Dunearn Logo.md
       - About Us.md
       - Principal's Message.md
-      - School Management Committee.md
       - School Advisory Committee.md
+      - School Management Committee.md
       - Teaching Staff.md
       - School Administrative Staff.md
+      - School Calendar.md
+      - Contact Us.md
       - School Achievements.md
       - School Safety.md
       - Feedback.md
       - FAQs.md
-      - Dunearn Logo.md
-      - Our History.md
-      - School Calendar.md
