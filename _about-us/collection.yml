@@ -2,14 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Dunearn Logo.md
       - Our History.md
+      - Dunearn Logo.md
       - About Us.md
       - Principal's Message.md
       - School Advisory Committee.md
       - School Management Committee.md
       - Teaching Staff.md
       - Administrative Staff.md
+      - School Achievements.md
+      - School Calendar.md
       - Contact Us.md
       - School Safety.md
       - Feedback.md

@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /dss-pages/school-calendar/
+permalink: /about-us/school-calendar/
 description: ""
 ---
 <table>
