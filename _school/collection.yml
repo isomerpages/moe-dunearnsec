@@ -1,0 +1,4 @@
+collections:
+  school:
+    output: true
+    order: []
