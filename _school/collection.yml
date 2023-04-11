@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - FAQs.md
       - Our Logo.md
       - Our History.md
       - School Calendar.md
