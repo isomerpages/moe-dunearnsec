@@ -35,7 +35,7 @@ description: ""
 <ol start="2">
 <li><strong><u>Food Science and Technology</u></strong></li>
 </ol>
-<p>Students will develop the dispositions associated with scientific literacy to become confident and creative young scientists through the signature <strong><u>Food Science and Technology</u></strong> progarmme.&nbsp; Students embarking on this programme will be nurtured further in critical thinking skills, creativity and inventive thinking, and communication and ICT skills.</p>
+<p>Students will develop the dispositions associated with scientific literacy to become confident and creative young scientists through the signature <strong><u>Food Science and Technology</u></strong> programme.&nbsp; Students embarking on this programme will be nurtured further in critical thinking skills, creativity and inventive thinking, and communication and ICT skills.</p>
 <p>Click&nbsp;<a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/">here</a>&nbsp;to view our students’ reflection on Dunearn Secondary School’s Science Talent Development Programme.&nbsp;</p>
 <p>Dunearn Secondary School invites 2023 Primary 6 students who are keen to develop their interest and talents through our <strong><u>Food Science and Technology</u></strong> programme,&nbsp;to apply for direct entry to our 2024 Secondary 1 cohort.</p>
 <p>&nbsp;</p>
