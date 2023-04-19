@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Feedback.md
       - Our History.md
       - Dunearn Logo.md
       - About Us.md
@@ -15,4 +14,5 @@ collections:
       - School Calendar.md
       - Contact Us.md
       - School Safety.md
+      - Feedback.md
       - FAQs.md
