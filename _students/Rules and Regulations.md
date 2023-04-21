@@ -8,6 +8,8 @@ description: ""
 <p>All students are to assemble at the Parade Square with their respective classes by 0725 hrs from Mondays to Fridays. Students who are not with their respective classes by 0730 hrs are deemed late. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart. Foreign students must stand to attention.</p>
 <p><strong>2. School Uniform</strong></p>
 <p>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</p>
+
+![](/images/rnr1.png)
 <p><strong>For female students</strong></p>
 <ul>
 <li>Dark blue skirt must be just touching the knees.</li>
@@ -27,3 +29,4 @@ description: ""
 <li>Plain white ankle socks are to be worn.</li>
 <li>Only white canvas/ white sport shoes are to be worn.</li>
 </ul>
+<img style="width : 60%;" src="/images/white%20shoes.jpg">
