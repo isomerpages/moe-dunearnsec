@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Rules and Regulations.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
       - ICT and PDLP Support.md
