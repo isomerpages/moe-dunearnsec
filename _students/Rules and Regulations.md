@@ -72,3 +72,57 @@ description: ""
 </ul>
 <p><strong>8. Prohibition of possession of weapon/ weapon-like items</strong></p>
 <p>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon- like item which can be used or intended to be used to cause harm to others.</p>
+<p><strong>9. Offences</strong></p>
+<p>Students who fail to comply adequately with the School Rules and Regulations will subject to disciplinary action. The list of possible offences and consequences, which are non-exhaustive are:</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center; width: 274.4px;">
+<p><strong>Offences</strong></p>
+</td>
+<td style="text-align: center; width: 274.4px;">
+<p><strong>Consequences</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 274.4px;">
+<ul>
+<li>Frequent late-coming</li>
+<li>Inappropriate attire / grooming</li>
+<li>Modification to the school uniform</li>
+<li>Disruptive behavior in class</li>
+<li>During curriculum time, all mobile electronic devices (e.g. mobile phones, iPods, iPads, Tablets or Laptops) usage is restricted to the school canteen. Mobile electronic devices are not to be taken out during lessons and are not to be charged in school.</li>
+<li>(Curriculum hours commences at 7.30am and end once the student has finished his/her lessons, including remedial lessons and tutorials)</li>
+<li>Defiance and rudeness to school staff and student councillors.</li>
+<li>Use of vulgar / obscene / abusive / threatening words</li>
+<li>Truancy</li>
+<li>Skipping lessons</li>
+<li>Leaving school without permission</li>
+<li>Bullying / Cyberbullying</li>
+<li>Improper conduct in public places</li>
+<li>Smoking or possession of cigarettes (including e-cigarettes), lighters and tobacco product</li>
+<li>Cheating in tests / examinations</li>
+<li>Fighting / Assualt / Rioting / Voluntarily Causing Hurt</li>
+<li>Vandalism</li>
+<li>Substance / Drug abuse</li>
+<li>Other serious offences</li>
+</ul>
+</td>
+<td style="width: 274.4px;">
+<ul>
+<li>Inform Parents</li>
+<li>Counselling</li>
+<li>Detention</li>
+<li>Out-of-class suspension</li>
+<li>Late-coming<br>- Home involvement<br>- “Fair” conduct grade will be given to pupils who have been late for 9 times or more.</li>
+<li>For Inappropriate attire and grooming<br>- First time offenders will be given warning and parents will be informed. They will have to rectify it by the following week.<br>- Repeated offenders will be dealt as a defiance case.</li>
+<li>Out-of-school suspension</li>
+<li>“Fair” or “Poor” conduct grade</li>
+<li>Referral to the Authorities (Police, CNB, Health Science Authority, MCYS)</li>
+<li>Caning (Parents will be informed of the caning thereafter)</li>
+<li>Expulsion</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
