@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - ICT and PDLP Support.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
       - CCA Information.md
@@ -13,6 +14,5 @@ collections:
       - Homework Guidelines.md
       - Direct School Admission.md
       - Student Learning Space.md
-      - ICT and PDLP Support.md
       - SLS password reset.md
       - The Help Star.md
