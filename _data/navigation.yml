@@ -66,6 +66,8 @@ links:
   - title: Students
     url: /students/Edusave-character-award-echa
     sublinks:
+      - title: ICT and PDLP Support
+        url: /students/ict-and-pdlp-support
       - title: Edusave Character Award (ECHA)
         url: /students/edusave-character-award-echa
       - title: Curriculum Matters
@@ -90,10 +92,10 @@ links:
         url: /students/student-learning-space
       - title: Home Based Learning
         url: /students/home-based-learning
+      - title: SLS Password Reset
+        url: /permalink
       - title: The Help Star
         url: /students/the-help-star
-      - title: ICT and PDLP Support
-        url: /students/ict-and-pdlp-support
   - title: Partners
     url: /partners/principals-letters-to-parents
     sublinks:
