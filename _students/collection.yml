@@ -2,11 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Rules and Regulations.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
-      - ICT and PDLP Support.md
       - CCA Information.md
+      - Rules and Regulations.md
       - JC, MI, Poly, ITE Admission.md
       - Sexuality Education.md
       - Sports Safety.md
@@ -14,5 +13,6 @@ collections:
       - Homework Guidelines.md
       - Direct School Admission.md
       - Student Learning Space.md
+      - ICT and PDLP Support.md
       - SLS password reset.md
       - The Help Star.md
