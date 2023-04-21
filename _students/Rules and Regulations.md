@@ -30,3 +30,28 @@ description: ""
 <li>Only white canvas/ white sport shoes are to be worn.</li>
 </ul>
 <img style="width : 60%;" src="/images/white%20shoes.jpg">
+<p><strong>3. Personal Grooming</strong></p>
+<p>Dyeing, tinting or highlighting of hair and tattoos are not allowed. In addition, all students must observe the following:</p>
+
+![](/images/rnr2.png)
+<p><strong>For female students&nbsp;</strong></p>
+<ul>
+<li>Long hair should be plaited or tied back neatly with a black or dark blue ribbon. Only black or dark-blue hair bands should be used where necessary.</li>
+<li>Fringes should not touch the eyebrows. Long fringes must be neatly managed.</li>
+</ul>
+<p><strong>For male students</strong></p>
+<ul>
+<li>All boys must wear a short and neat hairstyle.</li>
+<li>Fringes must be above the eyebrows.</li>
+<li>Hair must not touch the collar and ears.</li>
+<li>Side-burns are not allowed.</li>
+<li>Any outlandish styles are not allowed.</li>
+</ul>
+<p>The school management reserves the right to reject any new hairstyle it deems inappropriate for school.</p>
+<p><strong>4. Other Aspects of Personal Grooming</strong></p>
+<p>The following are strictly prohibited:</p>
+<ul>
+<li>Jewellery such as chains, necklaces, rings or bracelets (e.g. leather bangles,friendship bands and rainbow looms).</li>
+<li>Coloured/big-eye contact lenses, cosmetics, long nails, fake nails, nail polish or henna staining.</li>
+<li>Ear-sticks / nose-studs / eye-lid studs / tongue studs. However, girls are permitted to wear a pair of plain ear- studs at the earlobes.</li>
+</ul>
