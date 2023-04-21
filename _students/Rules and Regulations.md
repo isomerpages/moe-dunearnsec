@@ -126,3 +126,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><em>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</em></p>
+<p><strong>School Uniform Guidelines</strong></p>
+
+![](/images/standard%20uniform.jpg)
