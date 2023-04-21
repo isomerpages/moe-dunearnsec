@@ -36,7 +36,7 @@ links:
     sublinks:
       - title: Community Youth Leadership
         url: /school-programs/community-youth-leadership-llp
-      - title: " Cyber Wellness in Dunearn"
+      - title: Cyber Wellness in Dunearn
         url: /school-programs/cyber-wellness-in-dunearn
       - title: Food Science and Technology
         url: /school-programs/food-science-and-technology-applied-learning-programme-alp
@@ -66,6 +66,8 @@ links:
   - title: Students
     url: /students/Edusave-character-award-echa
     sublinks:
+      - title: ICT and PDLP Support
+        url: /students/ict-and-pdlp-support
       - title: Edusave Character Award (ECHA)
         url: /students/edusave-character-award-echa
       - title: Curriculum Matters
@@ -90,6 +92,8 @@ links:
         url: /students/student-learning-space
       - title: Home Based Learning
         url: /students/home-based-learning
+      - title: SLS Password Reset
+        url: /students/sls-password-reset
       - title: The Help Star
         url: /students/the-help-star
   - title: Partners
