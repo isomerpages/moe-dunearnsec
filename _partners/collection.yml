@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parenting (Newsletters & Facebook).md
       - Parenting Programmes.md
       - Principal's Letters to Parents.md
       - Parents Support Group/.keep
