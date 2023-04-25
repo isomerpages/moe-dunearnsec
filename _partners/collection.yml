@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parenting Programmes/Parenting Seminars and Workshops.md
       - Parenting Programmes/.keep
       - Principal's Letters to Parents.md
       - Parents Support Group/.keep
