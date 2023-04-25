@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parenting Programmes/Parenting Seminars and Workshops.md
-      - Parenting Programmes/.keep
       - Principal's Letters to Parents.md
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
@@ -19,4 +17,6 @@ collections:
       - Parenting & Family Life/Triple P (Positive Parenting Programmes).md
       - Parenting & Family Life/Newsletter.md
       - Parenting & Family Life/Family Central SG.md
+      - Parenting Programmes/.keep
+      - Parenting Programmes/Parenting Seminars and Workshops.md
       - Parents Gateway.md
