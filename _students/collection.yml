@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Home Based Learning.md
       - ICT and PDLP Support.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
@@ -15,5 +14,6 @@ collections:
       - Homework Guidelines.md
       - Direct School Admission.md
       - Student Learning Space.md
+      - Home Based Learning.md
       - SLS Password Reset.md
       - The Help Star.md
