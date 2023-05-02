@@ -2,7 +2,6 @@ collections:
   school:
     output: true
     order:
-      - School Canteen.md
       - Our History.md
       - Dunearn Logo.md
       - About Us.md
@@ -13,6 +12,7 @@ collections:
       - Administrative Staff.md
       - School Achievements.md
       - School Calendar.md
+      - School Canteen.md
       - Contact Us.md
       - Feedback.md
       - FAQs.md
