@@ -13,7 +13,7 @@ description: ""
 
 1. Download and complete the application form. You may also request for hard copy from the school's general office. 
 
-[Download application form](/files/canteen%20appln%20form-existing%20school.pdf)
+* [Download application form](/files/canteen%20appln%20form-existing%20school.pdf)
 
 2. Attach the following documents together with the application form:
 *  Photocopy of the NRIC (front and back) 
