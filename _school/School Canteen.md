@@ -16,7 +16,7 @@ description: ""
 2. Attach the following documents together with the application form:
 *  Photocopy of the NRIC (front and back) 
 *  List of proposed menu and pricing for all items 
-*  Photocopy of relevant certificates such as basic food hygiene cost etc 
+*  Photocopy of relevant certificates such as Basic Food Hygiene Course etc 
 
 3.  Submit the completed application form and documents by closing date via email or to the school's general office. 
 
@@ -43,4 +43,6 @@ description: ""
 
 * Successful applicants and stall assistants must possess the WSQ Basic Food Hygiene certificate. 
 * Possess catering experience or experience operating in a school environment. 
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
+* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
+
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
