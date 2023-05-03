@@ -13,6 +13,8 @@ description: ""
 
 1. Download and complete the application form. You may also request for hard copy from the school's general office. 
 
+[Application form]()
+
 2. Attach the following documents together with the application form:
 *  Photocopy of the NRIC (front and back) 
 *  List of proposed menu and pricing for all items 
@@ -35,7 +37,7 @@ description: ""
 
 * Singapore citizens or Singapore Permanent Resident (SPR)  and stall holder assistant.  
 * Able to provide good service and quality food with prices determined in consultation with the school. 
-* Able to provide cooked food that meets the health/ nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools" program (HMSP)* guidelines. (see link)
+* Able to provide cooked food that meets the health/ nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools" program (HMSP)* guidelines. ([See Link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
 * Able to maintain high standards of food safety and personal hygiene. 
 * Healthy and fit to operate the store. 
 
