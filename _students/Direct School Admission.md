@@ -55,79 +55,76 @@ description: ""
 <li>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at 65653692. Alternatively, you may email your enquiries to <a href="mailto:dunearn_ss@moe.edu.sg">dunearn_ss@moe.edu.sg</a>.</li>
 </ul>
 <p><strong><u>Schedule for DSA-Sec Exercise</u></strong></p>
-<table width="0">
+<table width="0" style="height: 467px;">
 <tbody>
-<tr>
-<td width="36">
+<tr style="height: 46px;">
+<td style="height: 46px; width: 32.6px;">
 <p><strong>No</strong></p>
 </td>
-<td width="446">
+<td style="height: 46px; width: 373.438px;">
 <p><strong>Process</strong></p>
 </td>
-<td width="189">
+<td style="height: 46px; width: 154.363px;">
 <p><strong>Date</strong></p>
 </td>
 </tr>
-<tr>
-<td width="36">
+<tr style="height: 78px;">
+<td style="height: 78px; width: 32.6px;">
 <p>1</p>
 </td>
-<td width="446">
+<td style="height: 78px; width: 373.438px;">
 <p>Application for Dunearn DSA-Sec through the online DSA-Sec Portal.</p>
 </td>
-<td width="189">
+<td style="height: 78px; width: 154.363px;">
 <p>4 May, 11 am to</p>
 <p>31 May 2023, 3 pm</p>
-<p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td width="36">
+<tr style="height: 64px;">
+<td style="height: 64px; width: 32.6px;">
 <p>2</p>
 </td>
-<td width="446">
+<td style="height: 64px; width: 373.438px;">
 <p>Notification and interview for shortlisted applicants</p>
 </td>
-<td width="189">
+<td style="height: 64px; width: 154.363px;">
 <p>26 Jun to 11 Sep 2023</p>
 </td>
 </tr>
-<tr>
-<td width="36">
+<tr style="height: 151px;">
+<td style="height: 151px; width: 32.6px;">
 <p>3</p>
 </td>
-<td width="446">
+<td style="height: 151px; width: 373.438px;">
 <p>Release of results (Confirmed Offer (CO)/Wait List (WL)/Rejected)</p>
 <ul>
 <li>A letter via hardcopy or email will be issued to inform applicants of the outcome [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful.</li>
 </ul>
 </td>
-<td width="189">
+<td style="height: 151px; width: 154.363px;">
 <p>By 11 Sep 2023</p>
 </td>
 </tr>
-<tr>
-<td width="36">
+<tr style="height: 64px;">
+<td style="height: 64px; width: 32.6px;">
 <p>4</p>
 </td>
-<td width="446">
+<td style="height: 64px; width: 373.438px;">
 <p>Exercise School Preference (by applicants)</p>
 </td>
-<td width="189">
+<td style="height: 64px; width: 154.363px;">
 <p>23 Oct to 27 Oct 2023</p>
-<p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td width="36">
+<tr style="height: 64px;">
+<td style="height: 64px; width: 32.6px;">
 <p>5</p>
 </td>
-<td width="446">
+<td style="height: 64px; width: 373.438px;">
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
-<td width="189">
+<td style="height: 64px; width: 154.363px;">
 <p>Late Nov 2023</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
