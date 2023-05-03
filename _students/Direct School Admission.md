@@ -42,10 +42,95 @@ description: ""
 <li>possess critical thinking skills, creativity and inventive thinking, and communication and ICT&nbsp;skills, and</li>
 <li>demonstrate a desire to lead teams in STEM-related projects and programmes.</li>
 </ul>
-<p><strong><u>Application and Selection Process</u></strong></p>
-<p>The application, selection criteria and the process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p><strong><u>Application Process</u></strong></p>
+<p>The application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
+<p>The application is free-of-charge and will be open from 4 May, 11 am to 31 May 2023, 3 pm.</p>
+<p>For latest updates and more details, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></p>
+<p><strong><u>Selection Process</u></strong></p>
+<ul>
+<li>Dunearn Secondary School will be conducting in-person selection for our DSA talent areas for 2023 DSA-Sec.</li>
+</ul>
 <p><strong><u>Contact Personnel</u></strong></p>
-<p>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at 65653692. Alternatively, you may email your enquiries to dunearn_ss@moe.edu.sg.</p>
+<ul>
+<li>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at 65653692. Alternatively, you may email your enquiries to <a href="mailto:dunearn_ss@moe.edu.sg">dunearn_ss@moe.edu.sg</a>.</li>
+</ul>
+<p><strong><u>Schedule for DSA-Sec Exercise</u></strong></p>
+<table width="0">
+<tbody>
+<tr>
+<td width="36">
+<p><strong>No</strong></p>
+</td>
+<td width="446">
+<p><strong>Process</strong></p>
+</td>
+<td width="189">
+<p><strong>Date</strong></p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>1</p>
+</td>
+<td width="446">
+<p>Application for Dunearn DSA-Sec through the online DSA-Sec Portal.</p>
+</td>
+<td width="189">
+<p>4 May, 11 am to</p>
+<p>31 May 2023, 3 pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>2</p>
+</td>
+<td width="446">
+<p>Notification and interview for shortlisted applicants</p>
+</td>
+<td width="189">
+<p>26 Jun to 11 Sep 2023</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>3</p>
+</td>
+<td width="446">
+<p>Release of results (Confirmed Offer (CO)/Wait List (WL)/Rejected)</p>
+<ul>
+<li>A letter via hardcopy or email will be issued to inform applicants of the outcome [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful.</li>
+</ul>
+</td>
+<td width="189">
+<p>By 11 Sep 2023</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>4</p>
+</td>
+<td width="446">
+<p>Exercise School Preference (by applicants)</p>
+</td>
+<td width="189">
+<p>23 Oct to 27 Oct 2023</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>5</p>
+</td>
+<td width="446">
+<p>Release of DSA-Sec Results together with PSLE Results</p>
+</td>
+<td width="189">
+<p>Late Nov 2023</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area they are selected for from Secondary 1 to Secondary 4.</p>
-<p>&nbsp;</p>

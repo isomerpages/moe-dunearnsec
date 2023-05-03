@@ -23,10 +23,10 @@ links:
         url: /school/school-achievements
       - title: School Calendar
         url: /school/school-calendar
+      - title: School Canteen
+        url: /school/schoolcanteen/
       - title: Contact Us
         url: /school/contact-us
-      - title: School Safety
-        url: /school/school-safety
       - title: Feedback
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
@@ -114,7 +114,7 @@ links:
       - title: Parenting & Family Life
         url: /partners/parenting-family-life-programmes
       - title: Parenting Programmes
-        url: /partners/parenting-programmes
+        url: /partners/parenting-programmes/parenting-seminars-workshops/
       - title: Parents Gateway
         url: /partners/parents-gateway
   - title: CCAs
