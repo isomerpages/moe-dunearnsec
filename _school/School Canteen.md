@@ -27,7 +27,7 @@ description: ""
 * Email: [dunearn\_ss@moe.edu.sg](mailto:dunearn_ss@moe.edu.sg)
 
 **How to get there?**
-* Nearby bus stop is at Bukit Batok Road (blk 402). Bus numbers  160, 180 OR Bukit Batok West Avenue 4. Bus numbers 187, 188, 868, 945, 985
+* Nearby bus stop is at Bukit Batok Road (Blk 402). Bus numbers  160, 180 OR Bukit Batok West Avenue 4 (Blk 331). Bus numbers 187, 188, 868, 945, 985
 * Nearest MRT: Bukit Gombak MRT
 
 
