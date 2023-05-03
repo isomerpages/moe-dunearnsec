@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- | -------- |
 | Nil    |Nil   |  Nil |
 
-**Application procedure** 
+**Application procedures** 
 
 1. Download and complete the application form. You may also request for hard copy from the school's general office. 
 
