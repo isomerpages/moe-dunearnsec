@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - DSS TV.md
       - ICT and PDLP Support.md
       - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
@@ -18,3 +17,4 @@ collections:
       - Home Based Learning.md
       - SLS Password Reset.md
       - The Help Star.md
+      - DSS TV.md
