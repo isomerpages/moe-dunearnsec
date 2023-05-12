@@ -5,9 +5,35 @@ description: ""
 ---
 **Details of Canteen Stalls**
 
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Nil    |Nil   |  Nil |
+<table width="0">
+<thead>
+<tr>
+<td width="324">
+<p><strong>Type of Stall</strong></p>
+</td>
+<td width="132">
+<p><strong>Closing Date</strong></p>
+</td>
+<td width="228">
+<p><strong>Requirements</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="324">
+<p>Mee Based Stall for Japanese and</p>
+<p>Korean Food – Non Halal</p>
+</td>
+<td width="132">
+<p>1 June 2023</p>
+</td>
+<td width="228">
+<p>To cook and sell Healthy Mee Based Stall for Japanese and Korean Food – Non Halal.&nbsp; We have a pupil enrolment of about and staff enrolment of about 1,000 and staff strength about 150 staff. Our canteen operating hours are: Mondays to Fridays from 7.00 am to 4.00 pm during school term.&nbsp; You will be required to operate during the school holidays when necessary.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 **Application procedures** 
 
