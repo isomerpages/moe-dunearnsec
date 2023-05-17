@@ -5,8 +5,8 @@ description: ""
 ---
 <p><strong>School Admin, Finance Forms</strong></p>
 <p><strong>2023 Documents</strong></p>
-<p><a href="/files/Sec 4E5N Prelim 2023 letter schedule.pdf" target="_blank" rel="noopener">'O' Level Prelim Exams Schedule.pdf</a></p>
-
+<p><a href="/files/Sec%204E5N%20Prelim%202022%20letter%20%20schedule.pdf" target="_blank" rel="noopener">'O' Level Prelim Exams Schedule.pdf</a></p>
+<p><a href="/files/Sec%204NANT%20Prelim%20Exam%202022%20letter%20%20schedule.pdf" target="_blank" rel="noopener">'N' Level Prelim Exams Schedule.pdf</a></p>
 <p>For purchase of stationary, books and uniforms for 2023, please click <a href="https://dyeducation.net/">here</a> to access the portal to purchase online. The password to access the portal is <strong>668822</strong>. Purchase from the school bookshop can be made in person between 27 - 30 Dec 2022 or in the first week of Jan 2023.</p>
 <p><strong>2023 School Book Lists</strong></p>
 <p><a href="https://drive.google.com/file/d/1FfJred5rucl17ergvmMKJT3JULsx1mii/view">DSS Sec 1 2023.pdf</a></p>
