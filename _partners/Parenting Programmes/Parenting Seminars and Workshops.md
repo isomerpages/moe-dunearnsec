@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Parenting Programmes
 ---
 <p><strong>Parenting Support Programmes</strong>
-</p><p>There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;<a href="https://www.triplep-parenting.net/global/triple-p/">Triple P Positive Parenting Programmes</a>&nbsp;can help.</p>
-<p>Triple P&nbsp;is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary&nbsp;Triple P&nbsp;resources (subject to terms and conditions).</p>
-<p>Dunearn Secondary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey.&nbsp;Parents can indicate their interest in Triple P at&nbsp;<a href="https://go.fycs.org/PSS">https://go.fycs.org/PSS</a>.</p>
-<p><strong>Parenting Talk</strong></p>
-<img src="/images/parenting%20hyperactive%20children.jpg">
+</p>
+
+![](/images/ms%20workshops%20and%20talks%20june%202023.jpg)
 <h4>FLE Programmes Calendar 2023</h4>
 <p>Greetings from Fei Yue Community Services!</p>
 <p>Thank you for your continuous support for our Family Life Education programmes.&nbsp;</p>
