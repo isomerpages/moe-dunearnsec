@@ -7,7 +7,12 @@ description: ""
 <tbody>
 <tr>
 <td colspan="2" width="557">
-<p><strong>Highlights of School Events for students in 2023 Semester 1 - Term 1</strong></p>
+<p><strong>Highlights of School Events for students in 2023 
+```
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_dc5418b205f53f085ff6ee138e76abffa1a5d01231a533bb1c6d008efc8dc6af%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+```	
+	
+Semester 1 - Term 1</strong></p>
 </td>
 </tr>
 <tr>
