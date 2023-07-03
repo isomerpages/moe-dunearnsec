@@ -1,6 +1,6 @@
 ---
 title: Edusave Character Award (ECHA)
-permalink: /students/edusave-character-award-echa
+permalink: /students/edusave-character-award-echa/
 description: ""
 ---
 <p><strong><u>Edusave Character Award (ECHA) in Dunearn Secondary School</u></strong></p>
@@ -12,8 +12,8 @@ description: ""
 <p>(b) To recognise outstanding students who are exemplary in character, and who can be role models to inspire others.</p>
 <h4>Nomination and Selection Process</h4>
 <p>The selection process is managed in stages and involved representatives of different groups of key stakeholders to provide a wide range of perspectives and to enhance its robustness. The main stages of the selection process include nomination, shortlisting and endorsement.</p>
-<p>The nominations for ECHA 2022 are open to our school key stakeholders such as parents, alumni, partners, as well as members of the public,&nbsp;<u>from 12th July 2022 (Tue) to 22nd Jul 2022 (Fri), 3pm</u>.</p>
-<p>The nomination form can be downloaded&nbsp;<a href="/files/ECHA_Nomination%20Form_2022.pdf" target="">here</a>.</p>
+<p>The nominations for ECHA 2023 are open to our school key stakeholders such as parents, alumni, partners, as well as members of the public,&nbsp;<u>from 10th July 2023 (Mon) to 20th July 2023 (Thu), 3pm</u>.</p>
+<p>The nomination form can be downloaded&nbsp;<a href="/files/echa_nomination%20form_2023.pdf" target="">here</a>.</p>
 <p>Please note the following eligibility criteria for nominees:</p>
 <h4>Eligibility Criteria</h4>
 <p>1. The nominee is a <strong>Singapore citizen&nbsp;</strong>.</p>
@@ -27,5 +27,5 @@ description: ""
 <li>Care, and/or</li>
 <li>Harmony</li>
 </ul>
-<p>Please email the completed nomination form(s) to&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" target="">dunearn_ss@moe.edu.sg&nbsp;</a>by&nbsp;<u>22nd&nbsp;Jul 2022 (Fri), 3pm</u>. Any forms received after the nomination deadline will not be accepted.</p>
+<p>Please email the completed nomination form(s) to&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" target="">dunearn_ss@moe.edu.sg&nbsp;</a>by&nbsp;<u>20th&nbsp;July 2023 (Thu), 3pm</u>. Any forms received after the nomination deadline will not be accepted.</p>
 <p>Thank you.</p>
