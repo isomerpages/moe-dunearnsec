@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+<p>Dear Parents/Guardians,</p>
+<p>We wish to inform you that we will be conducting the Sec 1-3 End-of-Year Examinations from 3 to 16 Oct 2023. A hardcopy of the schedule has been issued to your child/ward. You may also download the letter to parents and exam schedules under <u>Forms and Documents</u>.</p>
+<p>Kindly link “<u>Forms and Documents”</u> to the folder containing the PDF.</p>
+<p>Thank you.</p>
