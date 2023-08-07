@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /school/contact-us
+permalink: /school/contact-us/
 description: ""
 ---
 <h4>Dunearn Secondary School</h4>
@@ -14,4 +14,5 @@ description: ""
 <p>Dunearn WebMaster: Mr Erwin Soo (&nbsp;<a href="mailto:soo_kar_whye_erwin@moe.edu.sg" target="">soo_kar_whye_erwin@moe.edu.sg&nbsp;</a>)</p>
 <p>Principal: Mdm Tan Miao Ling (&nbsp;<a href="mailto:Tan_Miao_Ling@schools.gov.sg" target="">Tan_Miao_Ling@schools.gov.sg&nbsp;</a>)</p>
 <p>Vice Principal: Miss Jasmine Tay (&nbsp;<a href="mailto:tay_jia_ming_jasmine@schools.gov.sg" target="">tay_jia_ming_jasmine@schools.gov.sg</a> )</p>
+<p>Vice Principal: Mr Jimmy Lee (&nbsp;<a href="mailto:Jimmy_Lee@schools.gov.sg" target="">Jimmy_Lee@schools.gov.sg</a>)</p>
 <p>Vice Principal Admin: Mr Yap Kwee Chye (&nbsp;<a href="mailto:Yap_Kwee_Chye@schools.gov.sg" target="">Yap_Kwee_Chye@schools.gov.sg</a>)</p>
