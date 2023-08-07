@@ -542,10 +542,12 @@ description: ""
 <p>Mr Yap Heong Teck (FAJT, D&amp;T)</p>
 <p>Mr Muhd Muniruddin Bin Md Khairuddin (FAJT, D&amp;T)</p>
 <p>Ms Siti Radiah Bte Mahdi (FAJT, F&amp;N)</p>
+<p>Mr Erwin Soo (FAJT, Science)</p>
 <p>&nbsp;</p>
 <p><strong>School Counsellors, Student Welfare Officers, AED LBS</strong></p>
 <p>Mr Png Keat Siong (School Counsellor)</p>
 <p>Ms Fitriah Binte Ghani (School Counsellor)</p>
 <p>Ms Rashedah Khan (Student Welfare Officer)</p>
 <p>Ms Lim Sai Joo (AED LBS)</p>
-<p>Mdm Farah Dilla (AED LBS)</p></td></tr></tbody></table></p>
+<p>Mdm Farah Dilla (AED LBS)</p>
+<p>Ms Davina Lee (Student Health Advisor)</p></td></tr></tbody></table></p>
