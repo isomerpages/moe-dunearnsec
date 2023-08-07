@@ -176,17 +176,6 @@ description: ""
 </tr>
 <tr>
 <td width="23%">
-<p>Mr Erwin Soo Kar Whye</p>
-</td>
-<td width="22%">
-<p>HOD ICT</p>
-</td>
-<td width="53%">
-<p>soo_kar_whye_erwin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td width="23%">
 <p>Mr Ow Gan Pin</p>
 </td>
 <td width="22%">
