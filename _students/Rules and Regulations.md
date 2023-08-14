@@ -3,6 +3,8 @@ title: Rules and Regulations
 permalink: /students/rules-and-regulations/
 description: ""
 ---
+<h4>Student Health Advisor</h4>
+
 <h4>Rules and Regulations 2023</h4>
 <p><strong>1. Pledge-taking and singing of National Anthem</strong></p>
 <p>All students are to assemble at the Parade Square with their respective classes by 0725 hrs from Mondays to Fridays. Students who are not with their respective classes by 0730 hrs are deemed late. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart. Foreign students must stand to attention.</p>
