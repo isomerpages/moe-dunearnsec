@@ -14,3 +14,4 @@ third_nav_title: Student Management Programmes
 </ul>
 <p>Students may be referred to the SHA by School Personnel, School Health Service teams, and the Health Sciences Authority.&nbsp; Students can also visit the SHA on a walk-in basis.</p>
 <p>Should you prefer that your child/ward not participate in the SHA programme, please inform the school’s teacher-in-charge.<br>HOD Student Management, Mr Khaidir or HOD PE/CC, Mr John Tan.</p>
+<p>2023 SHA Programme Opt-Out form can be downloaded &nbsp;<a href="/files/2023%20sha%20progm%20opt-out%20form%20v3.pdf" target="">here</a>.</p>
