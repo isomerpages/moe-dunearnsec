@@ -3,9 +3,7 @@ title: Forms and Documents
 permalink: /dss-pages/files-and-documents/
 description: ""
 ---
-<p><strong>School Admin, Finance Forms</strong></p>
-<p><strong>2023 Documents</strong></p>
-<p><a rel="noopener" target="_blank" style=""> Sec 1-3 EOY Exam Schedules 2023</a></p>
+
 <p><strong>2023 School Book Lists</strong></p>
 <p>For purchase of stationary, books and uniforms for 2023, please click <a href="https://dyeducation.net/">here</a> to access the portal to purchase online. The password to access the portal is <strong>668822</strong>. Purchase from the school bookshop can be made in person between 27 - 30 Dec 2022 or in the first week of Jan 2023.</p>
 <p><a href="https://drive.google.com/file/d/1FfJred5rucl17ergvmMKJT3JULsx1mii/view">DSS Sec 1 2023.pdf</a></p>
