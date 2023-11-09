@@ -60,6 +60,10 @@ variant: markdown
 </ul>
 <h4>Learning Journey</h4>
 
+<li>Latte Art Appreciation Workshop - Oct 2022</li>
+<li>Enabling Village &amp; Tech Able - May 2023</li>
+<li>Dignity Kitchen with packing and distribution of bento - Oct 2023</li>
+
 <h4>Photos</h4>
 <img style="width: 65%;" src="/images/rem1.jpg"><br>
 <img style="width: 65%;" src="/images/rem2.jpg"><br>
