@@ -39,12 +39,10 @@ variant: markdown
 </table>
 <h4>Key Programmes (Indoor and Outdoor)</h4>
 <ul>
-<li>BLOOM (Balanced Lifestyle: Organ of the Month) Programme for Holistic Health Framework in DSS, monthly for the whole school</li>
-<li>Annual Cross Country - Yearly run for the whole school</li>
+<li>Sec 1 Adventure Camp</li>
+<li>DSS Run - Yearly run for the whole school</li>
 <li>NAPFA Test - Physical fitness test for all levels</li>
-<li>Sec 2 Adventure Camp</li>
-<li>Sports Fiesta - A new initiative by the PE Dept which includes road relay, modified sports and team games</li>
+<li>Learning For Life (Sports Fiesta) - An initiative by the PE Dept which includes modified sports and team games</li>
 <li>Inter-Class Games - Various games for all to participate</li>
 <li>ACES Day - Games for all staffs and students</li>
-<li>Post Exams Games for Students - Rock Climbing, Martial Art and many more</li>
 </ul>
