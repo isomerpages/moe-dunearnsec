@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
 <h4>Objectives</h4>
 <p>The PE department aims to provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments. Our approach will be through Physical activities, Dunearnites Learn and Achieve for Years to come (P.L.A.Y).</p>
@@ -9,14 +10,14 @@ description: ""
 <table border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td>Mr Keith Koh Choon Hean</td>
+<td>Mr John Tan</td>
 <td>HOD PE/ CCA</td>
-<td>keith_koh@moe.edu.sg</td>
+<td>tan_yeong_kuen_john@moe.edu.sg</td>
 </tr>
-	<td>Mr Alvin Ho</td>
+	<tr><td>Mr Alvin Ho</td>
 <td>SH PE</td>
 <td><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" target="">ho_wei_kwok_alvin@moe.edu.sg</a></td>
-<tr>
+</tr><tr>
 <td>Mr John Tan Yeong Kuen</td>
 <td>SH Student Management</td>
 <td><a href="mailto:tan_yeong_kuen_john@moe.edu.sg" target="">tan_yeong_kuen_john@moe.edu.sg</a></td>
