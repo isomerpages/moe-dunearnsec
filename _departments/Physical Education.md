@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4>Objectives</h4>
-<p>The PE department aims to provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments. Our approach will be through Physical activities, Dunearnites Learn and Achieve for Years to come (P.L.A.Y).</p>
+<p>The PE department aims to provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments.</p>
 <h4>Staffing</h4>
 <table border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
@@ -44,5 +44,6 @@ variant: markdown
 <li>NAPFA Test - Physical fitness test for all levels</li>
 <li>Learning For Life (Sports Fiesta) - An initiative by the PE Dept which includes modified sports and team games</li>
 <li>Inter-Class Games - Various games for all to participate</li>
-<li>ACES Day - Games for all staffs and students</li>
+<li>ACES Day - Sports activities for all staffs and students</li>
+<li>Health Walks - Healthy Walks for all staffs and students at various parks &amp; nature reserves</li>
 </ul>
