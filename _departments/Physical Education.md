@@ -5,7 +5,9 @@ description: ""
 variant: markdown
 ---
 <h4>Objectives</h4>
-<p>The PE department aims to provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments.</p>
+<p>The PE department aims to</p><ul>
+<li>promote the adoption of a healthy and active lifestyle among Dunearnites and</li>
+<li>provide a holistic physical education programme for all Dunearnites addressing their social, physical and character developments</li>
 <h4>Staffing</h4>
 <table border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
@@ -46,4 +48,4 @@ variant: markdown
 <li>Inter-Class Games - Various games for all to participate</li>
 <li>ACES Day - Sports activities for all staffs and students</li>
 <li>Health Walks - Healthy Walks for all staffs and students at various parks &amp; nature reserves</li>
-</ul>
+</ul></ul>
