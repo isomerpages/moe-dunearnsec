@@ -11,23 +11,20 @@ variant: markdown
 <tbody>
 <tr>
 <td>Mr John Tan</td>
-<td>HOD PE/ CCA</td>
-<td>tan_yeong_kuen_john@moe.edu.sg</td>
-</tr>
-	<tr><td>Mr Alvin Ho</td>
+<td>HOD PE &amp; CCA</td>
+<td><a href="mailto:tan_yeong_kuen_john@moe.edu.sg" target="">tan_yeong_kuen_john@moe.edu.sg</a></td></tr>
+<tr><td>Mr Alvin Ho</td>
 <td>SH PE</td>
 <td><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" target="">ho_wei_kwok_alvin@moe.edu.sg</a></td>
 </tr><tr>
-<td>Mr John Tan Yeong Kuen</td>
-<td>SH Student Management</td>
-<td><a href="mailto:tan_yeong_kuen_john@moe.edu.sg" target="">tan_yeong_kuen_john@moe.edu.sg</a></td>
-</tr>
-<tr>
+<td>Mr Tham Kin Loong</td>
+<td>ST PE</td>
+<td><a href="mailto:tham_kin_loong@moe.edu.sg" target="">tham_kin_loong@moe.edu.sg</a></td>
+</tr><tr>
 <td>Mr Soon Suan Boon</td>
-<td>PE Teacher</td>
+<td>SH Student Management</td>
 <td><a href="mailto:soon_suan_boon@moe.edu.sg" target="">soon_suan_boon@moe.edu.sg</a></td>
-</tr>
-<tr>
+</tr><tr>
 <td>Mr Sohail Bin Basiron</td>
 <td>PE Teacher&nbsp;</td>
 <td><a href="mailto:sohail_basiron@moe.edu.sg" target="">sohail_basiron@moe.edu.sg</a></td>
