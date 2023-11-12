@@ -21,15 +21,15 @@ third_nav_title: Sports & Games
 <li>To update in 2024</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p><strong>Boys</strong></p><strong>
+<p><strong>Boys</strong></p>
 
 <ul>
 <li>Wednesday: 3:30pm - 5:30pm (ISH Level 4)</li>
 <li>Friday: 3:30pm - 5:30pm (ISH Level 4)</li>
 </ul>
-<p><strong>Girls</strong></p><strong>
+<p><strong>Girls</strong></p>
 
 <ul>
 <li>Wednesday: 3:30pm - 5:30pm (Hall)</li>
 <li>Friday: 3:30pm - 5:30pm (Hall)</li>
-</ul></strong></strong>
+</ul>
