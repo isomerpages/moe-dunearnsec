@@ -65,7 +65,6 @@ variant: markdown
 <li>Dignity Kitchen with packing and distribution of bento - Oct 2023</li>
 
 <h4>Photos</h4>
-<img style="width: 65%;" src="/images/rem1.jpg"><br>
-<img style="width: 65%;" src="/images/rem2.jpg"><br>
-<img style="width: 65%;" src="/images/rem3.jpg"><br>
-<img style="width: 65%;" src="/images/rem4.jpg">
+![](/images/ENT_Pic_1.jpg)<p>Nabihah and Seraphine (3 Ruby) managed to clinch First Runner-up in Food and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic.</p>
+![](/images/ENT_Pic_2.jpg)<p>Entrepreneurship Club members went to Project Dignity to learn about social entrepreneurship and practice sign language when ordering beverages. Members also helped in packing and distributing bento to elderly in need.</p>
+![](/images/ENT_Pic_3.jpg)<p>Entrepreneurship Club members organized Essential Workers Appreciation Day to show their appreciation towards school cleaners.</p>
