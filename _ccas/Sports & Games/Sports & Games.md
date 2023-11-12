@@ -10,7 +10,7 @@ variant: markdown
 <tbody>
 <tr>
 <th style="text-align: center;"><a href="/ccas/sports-n-games/basketball" target="">Basketball</a></th>
-<th style="text-align: center;"><a href="/ccas/sports-n-games/floorball (new)" target="">Floorball (New)</a></th>
+<th style="text-align: center;"><a href="/ccas/sports-n-games/floorball" target="">Floorball (New)</a></th>
 <th style="text-align: center;"><a href="/ccas/sports-n-games/football" target="">Football</a></th>
 <th style="text-align: center;"><a href="/ccas/sports-n-games/table-tennis" target="">Table Tennis</a></th>
 </tr>
