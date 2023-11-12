@@ -3,6 +3,7 @@ title: Band
 permalink: /ccas/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img src="/images/band1.jpg"><br>
 <img src="/images/band2.jpg">
@@ -13,13 +14,12 @@ third_nav_title: Performing Arts
 </ul>
 <h4>Teachers-In-Charge</h4>
 <ul>
-<li>Mr Soon Suan Boon (I/C)</li>
 <li>Mr Vu Tien Dat</li>
-<li>Ms Dewi Marlina</li>
 <li>Ms Ong Yu Ni</li>
+<li>Ms Tan Gek Kuan</li>
 </ul>
 <h4>Positions held by EXCO members:</h4>
-<p>Band Major &amp; Concert Mistress : Ong Yu<br />Drum Major : Teo Ding Zheng<br />EXCO members: Nuramelia Binte Mohamed Azhar, Lee Xin Yan Alicia</p>
+<p>Band Major &amp; Concert Mistress : Ong Yu<br>Drum Major : Teo Ding Zheng<br>EXCO members: Nuramelia Binte Mohamed Azhar, Lee Xin Yan Alicia</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
 <li>Tuesday, 3.30pm to 6.00pm, Music Room</li>
@@ -27,9 +27,9 @@ third_nav_title: Performing Arts
 </ul>
 <h4>Highlights or Achievements</h4>
 <ul>
-<li>SYF Arts Presentation 2013 &ndash; Certificate of Achievement</li>
-<li>SYF Arts Presentation 2015 &ndash; Certificate of Achievement</li>
+<li>SYF Arts Presentation 2013 – Certificate of Achievement</li>
+<li>SYF Arts Presentation 2015 – Certificate of Achievement</li>
 <li>2015 Public Performance at the Gardens By The Bay - Gardens By The Youth Band&nbsp;Fiesta</li>
-<li>SYF Arts Presentation 2017 &ndash; Certificate of Achievement</li>
-<li>SYF Arts Presentation 2019 (Woodwind Ensemble) &ndash; Certificate of Achievemen</li>
+<li>SYF Arts Presentation 2017 – Certificate of Achievement</li>
+<li>SYF Arts Presentation 2019 (Woodwind Ensemble) – Certificate of Achievemen</li>
 </ul>
