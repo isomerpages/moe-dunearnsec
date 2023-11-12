@@ -1,8 +1,9 @@
 ---
 title: Scouts
-permalink: /ccas/uniformed-groups/scouts
+permalink: /ccas/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4>CCA Objectives</h4>
 <p>Scouting in Singapore aims to contribute to the education of young people, especially in developing:</p>
@@ -20,8 +21,8 @@ third_nav_title: Uniformed Groups
 </ul>
 <h4>Teachers-in-Charge</h4>
 <ul>
-<li>Mr Chua Jun Yan</li>
-<li>Mr Abdul Hanan Aziz</li>
+<li>Ms Low Qian Ling</li>
+<li>Ms Selena Chan</li>
 <li>Mr Soh Cek Sin</li>
 </ul>
 <h4>Coach / Conductor / Trainer / Adult volunteer</h4>
@@ -29,7 +30,7 @@ third_nav_title: Uniformed Groups
 <li>Mr Mohamad Shafri Amat Noh</li>
 </ul>
 <h4>Training Date, Time and Venue</h4>
-<p>Thursday, 3.30pm &ndash; 6.00pm</p>
+<p>Thursday, 3.30pm – 6.00pm</p>
 <h4>Committee members</h4>
 <ul>
 <li>Adam Sim (Patrol Leader &amp; Scribe)</li>
@@ -49,9 +50,9 @@ third_nav_title: Uniformed Groups
 </ul>
 <h4>Achievements</h4>
 <ul>
-<li>Frank Cooper Sands Award (2013 - 2017) &ndash; GOLD</li>
-<li>National Patrol Camp 2018 &ndash; SILVER</li>
-<li>Chief Commissioner&rsquo;s Award (pinnacle award for individual scouts) &ndash; 2020 and 2021</li>
+<li>Frank Cooper Sands Award (2013 - 2017) – GOLD</li>
+<li>National Patrol Camp 2018 – SILVER</li>
+<li>Chief Commissioner’s Award (pinnacle award for individual scouts) – 2020 and 2021</li>
 </ul>
 <h4>Scouts CCA Photos</h4>
 <img src="/images/scout1.jpeg"><br>
