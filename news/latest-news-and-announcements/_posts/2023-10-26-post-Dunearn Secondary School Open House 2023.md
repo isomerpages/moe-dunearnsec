@@ -5,8 +5,9 @@ date: 2023-10-26
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-#### Greetings and welcome to the Dunearn Secondary School Open House 2023! 
+### Greetings and welcome to Dunearn Secondary School Open House 2023! 
 
 We invite you to join our student ambassadors for a comprehensive tour of our school. Discover the diverse range of subjects available in secondary education, including Art, Design and Technology, Food and Consumer Education, and Music. 
 
