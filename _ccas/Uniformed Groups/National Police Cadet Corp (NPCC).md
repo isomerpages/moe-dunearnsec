@@ -1,14 +1,15 @@
 ---
-title: National Police Cadet Corp
+title: National Police Cadet Corp (NPCC)
 permalink: /ccas/uniformed-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
 <h4>CCA Objectives</h4>
-<p><strong>Developing Leaders with Character &amp; Values<br /></strong>Ensure the cadets&rsquo; growth by exposing them to a challenging environment, which, in turn will&nbsp;imbue them with leadership qualities, strong character and civic, social and moral values.</p>
-<p><strong>Building Bonds with SPF<br /></strong>Enlighten them on the role of the Singapore Police Force, help to build a stronger bond of&nbsp;friendship with SPF, and so lead to a safer place for all in the country.</p>
-<p><strong>Showing Care &amp; Concern to Others<br /></strong>As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact,&nbsp;teach them to extend the same care and concern to others.</p>
-<p><strong>Facing Challenges &amp; Achieving Excellence<br /></strong>As a result of our identification with the Singapore Police Force, teach them to adopt its tradition&nbsp;of high standards of performance, commitment, duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
+<p><strong>Developing Leaders with Character &amp; Values<br></strong>Ensure the cadets’ growth by exposing them to a challenging environment, which, in turn will&nbsp;imbue them with leadership qualities, strong character and civic, social and moral values.</p>
+<p><strong>Building Bonds with SPF<br></strong>Enlighten them on the role of the Singapore Police Force, help to build a stronger bond of&nbsp;friendship with SPF, and so lead to a safer place for all in the country.</p>
+<p><strong>Showing Care &amp; Concern to Others<br></strong>As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact,&nbsp;teach them to extend the same care and concern to others.</p>
+<p><strong>Facing Challenges &amp; Achieving Excellence<br></strong>As a result of our identification with the Singapore Police Force, teach them to adopt its tradition&nbsp;of high standards of performance, commitment, duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <h4>Teachers-in-Charge</h4>
 <ul>
 <li>Mr Ang Chin Chuan (Officer-In- Charge)</li>
@@ -26,21 +27,21 @@ third_nav_title: Uniformed Groups
 <h4>Training Day, Time and Venue</h4>
 <p>Thursday, 3:30pm to 6pm, School</p>
 <h4>Cadet Leaders Structure 2019</h4>
-<p><strong>Training Department<br /></strong>Training Head:<br />SGT (NPCC) Chong Zi Qin</p>
-<p>Secondary 1 Squad Overall-In-Charge:<br />SGT (NPCC) Loh Si Hui, Jocelyn</p>
-<p>Secondary 1 In-Charge (SIC):<br />SGT (NPCC) Nayli Yasmine Masjuani<br />SGT (NPCC) Damos Tanco Thanabalan</p>
-<p>Secondary 2 Squad Overall-In-Charge:<br />SGT (NPCC) Lim Rui Siang Darren</p>
-<p>Secondary 2 In-Charge (SIC):<br />SGT (NPCC) Nur Shafikah Bte Mohamed Iskandar<br />SGT (NPCC) Ang Kang Fu</p>
-<p>Physical / Recreational Training-In-Charge:<br />SGT (NPCC) Ang Kang Fu<br />SGT (NPCC) Damos Tanco Thanabalan</p>
-<p>Logistic-In-Charge:<br />SGT (NPCC) Goh Zheng Hui<br />SGT (NPCC) Sim Yang Kai</p>
-<p>Welfare-In-Charge:<br />SGT (NPCC) Vismaya Vasanthraj</p>
-<p><strong>Administrative Department<br /></strong>Administrative Head: SGT (NPCC) Nurul Natilie Suria Bte Sahri</p>
-<p>Logistic-In-Charge:<br />SGT (NPCC) Goh Zheng Hui<br />SGT (NPCC) Sim Yang Kai</p>
+<p><strong>Training Department<br></strong>Training Head:<br>SGT (NPCC) Chong Zi Qin</p>
+<p>Secondary 1 Squad Overall-In-Charge:<br>SGT (NPCC) Loh Si Hui, Jocelyn</p>
+<p>Secondary 1 In-Charge (SIC):<br>SGT (NPCC) Nayli Yasmine Masjuani<br>SGT (NPCC) Damos Tanco Thanabalan</p>
+<p>Secondary 2 Squad Overall-In-Charge:<br>SGT (NPCC) Lim Rui Siang Darren</p>
+<p>Secondary 2 In-Charge (SIC):<br>SGT (NPCC) Nur Shafikah Bte Mohamed Iskandar<br>SGT (NPCC) Ang Kang Fu</p>
+<p>Physical / Recreational Training-In-Charge:<br>SGT (NPCC) Ang Kang Fu<br>SGT (NPCC) Damos Tanco Thanabalan</p>
+<p>Logistic-In-Charge:<br>SGT (NPCC) Goh Zheng Hui<br>SGT (NPCC) Sim Yang Kai</p>
+<p>Welfare-In-Charge:<br>SGT (NPCC) Vismaya Vasanthraj</p>
+<p><strong>Administrative Department<br></strong>Administrative Head: SGT (NPCC) Nurul Natilie Suria Bte Sahri</p>
+<p>Logistic-In-Charge:<br>SGT (NPCC) Goh Zheng Hui<br>SGT (NPCC) Sim Yang Kai</p>
 <p>Publicity In-Charge: SGT (NPCC) Amirah Ainaa Bte Junai</p>
 <h4>The NPCC Training Framework</h4>
 <p><u>The 6As of NPCC Learning Path</u></p>
 <p>The NPCC 6As Learning Path serves as an overarching framework that provides directions in&nbsp;the training and development of NPCC members.&nbsp;</p>
-<p>The 6As &ndash; namely Aware, Acquire, Actuate, Aspire, Achieve and Aim &ndash; defines the progressive&nbsp;learning path of a cadet from a new recruit at Secondary One to a youth leaders and an officer. It&nbsp;also identifies the six desired training outcomes of its programmes.</p>
+<p>The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines the progressive&nbsp;learning path of a cadet from a new recruit at Secondary One to a youth leaders and an officer. It&nbsp;also identifies the six desired training outcomes of its programmes.</p>
 <table>
 <tbody>
 <tr>
@@ -81,7 +82,7 @@ third_nav_title: Uniformed Groups
 <table>
 <tbody>
 <tr>
-<td>Law Enforcement - LAND<br />(40%)</td>
+<td>Law Enforcement - LAND<br>(40%)</td>
 <td>
 <ul>
 <li>Police Knowledge Proficiency Course</li>
@@ -97,7 +98,7 @@ third_nav_title: Uniformed Groups
 </td>
 </tr>
 <tr>
-<td>National Education<br />(10%)</td>
+<td>National Education<br>(10%)</td>
 <td>
 <ul>
 <li>Total Defence Course</li>
@@ -107,7 +108,7 @@ third_nav_title: Uniformed Groups
 </td>
 </tr>
 <tr>
-<td>Leadership<br />(20%)</td>
+<td>Leadership<br>(20%)</td>
 <td>
 <ul>
 <li>Communication Skills&nbsp;</li>
@@ -119,7 +120,7 @@ third_nav_title: Uniformed Groups
 </td>
 </tr>
 <tr>
-<td>Resilience<br />(20%)&nbsp;</td>
+<td>Resilience<br>(20%)&nbsp;</td>
 <td>
 <ul>
 <li>Footdrills</li>
@@ -131,7 +132,7 @@ third_nav_title: Uniformed Groups
 </td>
 </tr>
 <tr>
-<td>Personal Development<br />(10%)</td>
+<td>Personal Development<br>(10%)</td>
 <td>
 <ul>
 <li>First Aid Training</li>
@@ -159,6 +160,6 @@ third_nav_title: Uniformed Groups
 </ul>
 <h4>Highlights or Achievements</h4>
 <p><u>Unit Overall Proficiency Award:</u></p>
-<p>2005 - Bronze<br />2006 - Silver<br />2007 - Gold<br />2008 - Gold<br />2009 - Gold<br />2010 &ndash; Gold<br />2011 &ndash; Gold<br />2012 &ndash; Gold<br />2013 &ndash; Gold<br />2014 &ndash; Gold<br />2015 &ndash; Gold<br />2016 &ndash; Gold<br />2017 - Gold<br />2018 - Gold</p>
+<p>2005 - Bronze<br>2006 - Silver<br>2007 - Gold<br>2008 - Gold<br>2009 - Gold<br>2010 – Gold<br>2011 – Gold<br>2012 – Gold<br>2013 – Gold<br>2014 – Gold<br>2015 – Gold<br>2016 – Gold<br>2017 - Gold<br>2018 - Gold</p>
 <h4>NPCC Portal</h4>
 <p>Click&nbsp;<a href="https://sites.google.com/dunearn.edu.sg/dss-npcc/home" target="_blank" rel="noopener">here</a>&nbsp;to access our NPCC portal.</p>
