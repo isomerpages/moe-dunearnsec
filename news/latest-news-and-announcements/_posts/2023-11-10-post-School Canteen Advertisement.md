@@ -1,6 +1,6 @@
 ---
 title: School Canteen Advertisement
-permalink: /news/latest-news-and-announcements/permalink/
+permalink: /news/latest-news-and-announcements/schoolcanteen/
 date: 2023-11-10
 layout: post
 description: ""
