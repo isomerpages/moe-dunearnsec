@@ -1,7 +1,8 @@
 ---
-title: Secondary 1 (2024) eRegistration General Information
+title: Secondary 1 (2024) eRegistration General Information (updated as of 21
+  Dec 2023)
 permalink: /news/latest-news-and-announcements/sec12024eregistration/
-date: 2023-12-13
+date: 2023-12-21
 layout: post
 description: ""
 image: ""
