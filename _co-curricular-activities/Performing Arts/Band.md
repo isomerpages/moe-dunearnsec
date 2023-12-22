@@ -14,7 +14,6 @@ variant: markdown
 </ul>
 <h4>Teachers-In-Charge</h4>
 <ul>
-<li>Mr Vu Tien Dat</li>
 <li>Ms Ong Yu Ni</li>
 <li>Ms Tan Gek Kuan</li>
 </ul>
