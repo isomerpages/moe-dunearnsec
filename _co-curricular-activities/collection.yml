@@ -1,7 +1,8 @@
 collections:
-  ccas:
+  co-curricular-activities:
     output: true
     order:
+      - Dunearn CCAs.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corp (NCC).md

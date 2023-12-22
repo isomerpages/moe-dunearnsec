@@ -1,22 +1,22 @@
 ---
 title: Library Club
-permalink: /ccas/clubs/library-club
+permalink: /ccas/clubs/library-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 <h4>CCA Objectives</h4>
 <p>To develop competent young librarians who play a key role in making the library a vibrant centre of knowledge and learning.</p>
-<h4>Library Operating Hours</h4>
-<p>Monday - Thursday: 7:40am to 5pm</p>
-<p>Friday: 7:40am to 4pm</p>
+<h4>CCA Timing</h4>
+<p>Wednesday 3:30pm - 5:30pm</p>
+
 <h4>Teachers-in-Charge</h4>
 <ul>
-<li>Ms Faith Khoo (I/C)</li>
-<li>Mdm Leow Sow Khean</li>
-<li>Mdm Chao Yunn Jin</li>
+<li>Ms Nursyaza (I/C)</li>
+
 </ul>
 <h4>Library Assistant</h4>
-<p>Mdm Nurhaniza</p>
+<p>Mr Mike Lee</p>
 <h4>Committee Members</h4>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
@@ -44,13 +44,13 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td>
-<p>Nur Asyura Bte Sukhairi<br />Aw Hui Yang</p>
+<p>Nur Asyura Bte Sukhairi<br>Aw Hui Yang</p>
 </td>
 <td>
-<p>4 Opal<br />4 Opal</p>
+<p>4 Opal<br>4 Opal</p>
 </td>
 <td>
-<p>Vice President 1<br />Vice President 2</p>
+<p>Vice President 1<br>Vice President 2</p>
 </td>
 </tr>
 <tr>

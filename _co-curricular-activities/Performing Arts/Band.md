@@ -14,7 +14,6 @@ variant: markdown
 </ul>
 <h4>Teachers-In-Charge</h4>
 <ul>
-<li>Mr Vu Tien Dat</li>
 <li>Ms Ong Yu Ni</li>
 <li>Ms Tan Gek Kuan</li>
 </ul>
@@ -22,8 +21,8 @@ variant: markdown
 <p>Band Major &amp; Concert Mistress : Ong Yu<br>Drum Major : Teo Ding Zheng<br>EXCO members: Nuramelia Binte Mohamed Azhar, Lee Xin Yan Alicia</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
-<li>Tuesday, 3.30pm to 6.00pm, Music Room</li>
-<li>Wednesday, 3.30pm to 6.00pm, Music Room</li>
+<li>Tuesday, 3.30pm to 5:30pm, Music Room</li>
+<li>Wednesday, 3.30pm to 5:30pm, Music Room</li>
 </ul>
 <h4>Highlights or Achievements</h4>
 <ul>
