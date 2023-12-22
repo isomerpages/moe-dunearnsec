@@ -25,9 +25,9 @@ variant: markdown
 <p>NCC also provides cadets with the opportunity to learn more about Singapore’s defence capabilities.&nbsp;Cadets can visit the SAF Open House, sail onboard the RSS with the Navy, participate in National Day&nbsp;Parade, SAF Veterans’ League Remembrance Day and War Memorial Service. Through such events,&nbsp;cadets will gain greater awareness and appreciation of Singapore’s defence capabilities.</p>
 <h4>Teachers-in-Charge</h4>
 <ul>
+<li>Mr Foo Sheng Hao</li>
 <li>Mr Hazwan</li>
-<li>Mr Gary Lee</li>
-<li>Ms Nurfarhana</li>
+<li>Ms Fiona Ng</li>
 </ul>
 <h4>Coach / Trainer / Instructors</h4>
 	<p><strong>Unit Sergeant Major (USM)</strong> MSG&nbsp; MUHAMMAD IRWANSYAH BIN ROSLI<br><strong>ASSISTANT SERGEANT MAJOR (ASM):</strong> MSG&nbsp;TRISTAN SOH JUN XI</p>
