@@ -2,6 +2,7 @@
 title: Curriculum Matters
 permalink: /students/curriculum-matters/
 description: ""
+variant: markdown
 ---
 <h4>Our Teaching &amp; Learning Framework</h4>
 
