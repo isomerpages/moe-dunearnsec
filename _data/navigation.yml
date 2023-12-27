@@ -116,16 +116,10 @@ links:
       - title: Parents Gateway
         url: /partners/parents-gateway
   - title: CCAs
-    url: /ccas/uniformed-groups
+    url: /co-curricular-activities/dunearn-ccas/
     sublinks:
-      - title: Uniformed Groups
-        url: /ccas/uniformed-groups
-      - title: Sports & Games
-        url: /ccas/sports-n-games
-      - title: Performing Arts
-        url: /ccas/performing-arts
-      - title: Clubs
-        url: /ccas/clubs
+      - title: Dunearn CCAs
+        url: /co-curricular-activities/dunearn-ccas/
   - title: Dunearn Links
     collection: dunearn-links
   - title: Dunearn Stories
