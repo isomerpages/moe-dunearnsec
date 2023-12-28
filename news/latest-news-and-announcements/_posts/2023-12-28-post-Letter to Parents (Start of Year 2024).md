@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>A letter to parents to inform on the preparation for the new academic year 2024 has been sent to all parents or guardians via Parents Gateway. The letter can also be viewed <a href="/files/PG_Parents_letter_for_start_of_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a></p>
