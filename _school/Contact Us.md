@@ -2,16 +2,6 @@
 title: Contact Us
 permalink: /school/contact-us/
 description: ""
+variant: tiptap
 ---
-<h4>Dunearn Secondary School</h4>
-<img src="/images/contactus.jpeg">
-<p>Address:&nbsp;21 Bukit Batok West Avenue 2, S(659204)</p>
-<p>Telephone: (65) 6565 3692</p>
-<p>Facsimile: (65) 6566 8650</p>
-<p>Operating Hours: Monday to Friday, 0730hrs to 1730hrs</p>
-<h4>Email</h4>
-<p>General Enquiries:&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" target="">dunearn_ss@moe.edu.sg</a></p>
-<p>Principal: Mdm Tan Miao Ling (&nbsp;<a href="mailto:Tan_Miao_Ling@schools.gov.sg" target="">Tan_Miao_Ling@schools.gov.sg&nbsp;</a>)</p>
-<p>Vice Principal: Miss Jasmine Tay (&nbsp;<a href="mailto:tay_jia_ming_jasmine@schools.gov.sg" target="">tay_jia_ming_jasmine@schools.gov.sg</a> )</p>
-<p>Vice Principal: Mr Jimmy Lee (&nbsp;<a href="mailto:Jimmy_Lee@schools.gov.sg" target="">Jimmy_Lee@schools.gov.sg</a> )</p>
-<p>Vice Principal Admin: Mr Yap Kwee Chye (&nbsp;<a href="mailto:Yap_Kwee_Chye@schools.gov.sg" target="">Yap_Kwee_Chye@schools.gov.sg</a>)</p>
+<h4>Dunearn Secondary School</h4><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Map_of_Dunearn_Sec_Sch.jpg"></div><p>Address:&nbsp;21 Bukit Batok West Avenue 2, S(659204)</p><p>Telephone: (65) 6565 3692</p><p>Facsimile: (65) 6566 8650</p><p>Operating Hours: Monday to Friday, 0730hrs to 1730hrs</p><p>Bus Services: </p><ol data-tight="true" class="tight"><li><p>Bus Stop at Bt Batok West Ave 2: 947</p></li><li><p>Bus Stop at Bt Batok West Ave 4 : 187, 188, 945, 947, 985</p></li><li><p>Bus Stop at Bt Batok Road: 160, 180, 947</p></li></ol><h4>Email</h4><p>General Enquiries:&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dunearn_ss@moe.edu.sg</a></p><p>Principal: Mdm Tan Miao Ling (&nbsp;<a href="mailto:Tan_Miao_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Tan_Miao_Ling@schools.gov.sg&nbsp;</a>)</p><p>Vice Principal: Miss Jasmine Tay (&nbsp;<a href="mailto:tay_jia_ming_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tay_jia_ming_jasmine@schools.gov.sg</a> )</p><p>Vice Principal: Mr Jimmy Lee (&nbsp;<a href="mailto:Jimmy_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Jimmy_Lee@schools.gov.sg</a> )</p><p>Vice Principal Admin: Mr Yap Kwee Chye (&nbsp;<a href="mailto:Yap_Kwee_Chye@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Yap_Kwee_Chye@schools.gov.sg</a>)</p>
