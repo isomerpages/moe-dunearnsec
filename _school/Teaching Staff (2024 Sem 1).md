@@ -1,5 +1,5 @@
 ---
-title: Teaching Staff
+title: Teaching Staff (2024 Sem 1)
 permalink: /school/teaching-staff/
 description: ""
 variant: tiptap
