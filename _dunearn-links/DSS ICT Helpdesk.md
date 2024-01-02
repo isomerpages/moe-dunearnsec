@@ -2,7 +2,13 @@
 title: DSS ICT Helpdesk
 permalink: /dunearn-links/icthelpdesk/
 description: ""
+variant: markdown
 ---
+## ICT Helpdesk for Staff
+
+Staff can request for ICT assistance via this form [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
+
+## ICT Helpdesk for Students
 Students, please click on the respective links below if you need help with PLD Chromebook issues, Student ICON (MIMS) issues or SLS locked account issues.
 
 #### **PLD Chromebook Hardware Issues**
