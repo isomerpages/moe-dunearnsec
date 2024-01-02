@@ -2,7 +2,9 @@
 title: DSS ICT Helpdesk
 permalink: /dunearn-links/icthelpdesk/
 description: ""
+variant: markdown
 ---
+## ICT Helpdesk for Students
 Students, please click on the respective links below if you need help with PLD Chromebook issues, Student ICON (MIMS) issues or SLS locked account issues.
 
 #### **PLD Chromebook Hardware Issues**
@@ -22,3 +24,7 @@ Note that you should reset your Student ICON (MIMS) password yourself by answeri
 Reset your password yourself by clicking on **Forgot Password** [here](https://idp.mims.moe.gov.sg/nidp//app/login).
 
 If you really have problems resetting your password yourself, you may submit your request for assistance [here](https://forms.moe.edu.sg/forms/JAnG8o).
+
+## ICT Helpdesk for Staff
+
+Staff can request for ICT assistance via this form [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
