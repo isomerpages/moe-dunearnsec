@@ -1,7 +1,8 @@
 ---
-title: DSS ICT Teaching and Learning Tools
-permalink: /dunearn-links/icttools/
+title: Useful Links for Staff and Students
+permalink: /dunearn-links/usefullinks/
 description: ""
+variant: tiptap
 ---
 ### For Teachers
 <table>
