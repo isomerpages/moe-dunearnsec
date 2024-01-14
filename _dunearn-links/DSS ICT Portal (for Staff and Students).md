@@ -8,7 +8,7 @@ variant: markdown
 
 Staff may refer to the self-help directory here for more information. 
 
-If required, staff can request assistance for ICT (admin matters/ fault reporting) via the** ICT Form A** [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
+If required, staff can request assistance for ICT (admin matters/ fault reporting) via the **ICT Form A** [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
 
 ## For Students
 Students, please click on the respective links below if you need help with PLD Chromebook issues, Student ICON (MIMS) issues or SLS locked account issues.
