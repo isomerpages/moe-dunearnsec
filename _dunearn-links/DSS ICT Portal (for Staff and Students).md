@@ -4,6 +4,14 @@ permalink: /dunearn-links/icthelpdesk/
 description: ""
 variant: markdown
 ---
+## For Staff
+
+Staff may refer to the **self-help directory** here for more information. 
+
+#### **Help Request Form A (for Staff)**
+
+If required, staff can request assistance for ICT (admin matters/ fault reporting) via the **ICT Form A** [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
+
 ## For Students
 Students, please read the following before submitting for help request. 
 
@@ -23,12 +31,4 @@ If you experience hardware issues with your Chromebook, you may proceed to submi
 
 #### **Help Request Form B (for Students)**
 
-Please submit your help request via the **ICT Form B** for Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook issues. 
-
-## For Staff
-
-Staff may refer to the **self-help directory** here for more information. 
-
-#### **Help Request Form A (for Staff)**
-
-If required, staff can request assistance for ICT (admin matters/ fault reporting) via the **ICT Form A** [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
+Please submit your help request via the **ICT Form B** [here](https://forms.moe.edu.sg/forms/JAnG8o) for Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook issues. 
