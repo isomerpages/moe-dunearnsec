@@ -21,10 +21,14 @@ Note that you should only submit your request if your SLS account is stated as L
 
 If you experience hardware issues with your Chromebook, you may proceed to submit for help request.
 
-Please submit your help request via the ICT Form B for Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook issues. 
+#### **Help Request Form B (for Students)**
+
+Please submit your help request via the **ICT Form B** for Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook issues. 
 
 ## For Staff
 
 Staff may refer to the **self-help directory** here for more information. 
+
+#### **Help Request Form A (for Staff)**
 
 If required, staff can request assistance for ICT (admin matters/ fault reporting) via the **ICT Form A** [here](https://forms.moe.edu.sg/forms/Jb1xwv). 
