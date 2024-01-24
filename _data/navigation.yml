@@ -1,0 +1,126 @@
+logo: /images/school logo_transparent100.png
+links:
+  - title: School
+    url: /school/our-history
+    sublinks:
+      - title: Our History
+        url: /school/our-history
+      - title: Dunearn Logo
+        url: /school/dunearn-logo
+      - title: About Us
+        url: /school/about-us
+      - title: Principal's Message
+        url: /school/principals-message
+      - title: School Advisory Committee
+        url: /school/school-advisory-committee
+      - title: School Management Committee
+        url: /school/school-management-committee
+      - title: Teaching Staff (2024 Sem 1)
+        url: /school/teaching-staff
+      - title: Administrative Staff
+        url: /school/administrative-staff
+      - title: School Achievements
+        url: /school/school-achievements
+      - title: School Calendar
+        url: /school/school-calendar
+      - title: School Canteen
+        url: /school/schoolcanteen/
+      - title: Contact Us
+        url: /school/contact-us
+      - title: Feedback
+        url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
+      - title: FAQs
+        url: /school/faqs
+  - title: School Programs
+    url: /school-programs/community-youth-leadership-llp
+    sublinks:
+      - title: Community Youth Leadership
+        url: /school-programs/community-youth-leadership-llp
+      - title: Cyber Wellness in Dunearn
+        url: /school-programs/cyber-wellness-in-dunearn
+      - title: Food Science and Technology
+        url: /school-programs/food-science-and-technology-applied-learning-programme-alp
+      - title: PDLP
+        url: /school-programs/personal-learning-device-program-pdlp
+  - title: Departments
+    url: /departments/english-n-literature-department
+    sublinks:
+      - title: English and Literature
+        url: /departments/english-n-literature-department
+      - title: Mathematics
+        url: /departments/mathematics-department
+      - title: Mother Tongue
+        url: /departments/mother-tongue-department
+      - title: Humanities
+        url: /departments/humanities-department
+      - title: Science
+        url: /departments/science-department
+      - title: Craft & Technology
+        url: /departments/craft-n-technology-department
+      - title: Physical Education
+        url: /departments/physical-education
+      - title: Character & Citizenship
+        url: /departments/character-and-citizenship-education
+      - title: Infocomm Technology
+        url: /departments/permalink/infocomm-technology/
+  - title: Students
+    url: /students/ict-and-pdlp-support/
+    sublinks:
+      - title: Edusave Character Award (ECHA)
+        url: /students/edusave-character-award-echa
+      - title: Curriculum Matters
+        url: /students/curriculum-matters
+      - title: CCA Information
+        url: /students/cca-information
+      - title: Student Management Programmes
+        url: /students/student-management-programmes/rules-and-regulations/
+      - title: JC/MI/Poly/ITE Admission
+        url: /students/jc-mi-poly-ite-admission
+      - title: Sexuality Education
+        url: /students/sexuality-education
+      - title: Sports Safety
+        url: /students/sports-safety
+      - title: Financial Assistance Scheme
+        url: /students/financial-assistance-scheme
+      - title: Homework Guidelines
+        url: /students/homework-guidelines
+      - title: Direct School Admission
+        url: /students/direct-school-admission
+      - title: Student Learning Space
+        url: /students/student-learning-space
+      - title: Home Based Learning
+        url: /students/home-based-learning
+      - title: SLS Password Reset
+        url: /students/sls-password-reset
+      - title: The Help Star
+        url: /students/the-help-star
+  - title: Partners
+    url: /partners/principals-letters-to-parents
+    sublinks:
+      - title: Principal's Letters to Parents
+        url: /partners/principals-letters-to-parents
+      - title: Parents Support Group
+        url: /partners/parents-support-group
+      - title: Parents Support Group (FB)
+        url: https://www.facebook.com/groups/1725279761051772/
+      - title: Alumni
+        url: /partners/alumni
+      - title: Alumni (FB)
+        url: https://www.facebook.com/groups/1641827176034127/
+      - title: Voices of Dunearn
+        url: /partners/voices-of-dunearn
+      - title: Parenting & Family Life
+        url: /partners/parenting-family-life-programmes
+      - title: Parenting Programmes
+        url: /partners/parenting-programmes/parenting-seminars-workshops/
+      - title: Parents Gateway
+        url: /partners/parents-gateway
+  - title: CCAs
+    url: /co-curricular-activities/dunearn-ccas/
+    sublinks:
+      - title: Dunearn CCAs
+        url: /co-curricular-activities/dunearn-ccas/
+  - title: Dunearn Links
+    collection: dunearn-links
+  - title: Dunearn Stories
+    collection: dunearn-stories

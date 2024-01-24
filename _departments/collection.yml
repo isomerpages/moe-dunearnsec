@@ -1,0 +1,16 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English & Literature Department.md
+      - Mathematics Department.md
+      - Mother Tongue Department.md
+      - Humanities Department.md
+      - Science/.keep
+      - Science/Science Department.md
+      - Science/Dunearn Science Ambassador Programme (SAP) (Talent Development
+        Programme).md
+      - Craft & Technology Department.md
+      - Physical Education.md
+      - Character and Citizenship Education.md
+      - Infocomm Technology.md

@@ -1,0 +1,10 @@
+collections:
+  school-programs:
+    output: true
+    order:
+      - Community Youth Leadership (LLP).md
+      - Cyber Wellness in Dunearn/Cyber Wellness in Dunearn.md
+      - Cyber Wellness in Dunearn/Cyber Wellness Resources.md
+      - Cyber Wellness in Dunearn/.keep
+      - Food Science and Technology (Applied Learning Programme – ALP).md
+      - Personal Learning Device Program (PDLP).md
