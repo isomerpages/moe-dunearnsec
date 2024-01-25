@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - Edusave Character Award (ECHA).md
       - Curriculum Matters.md
+      - Edusave Character Award (ECHA).md
       - CCA Information.md
       - Student Management Programmes/.keep
       - Student Management Programmes/Rules and Regulations.md
