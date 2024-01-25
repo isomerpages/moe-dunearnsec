@@ -79,6 +79,18 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
+                <p>Mr Tang Chee Kuan</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Year Head (Lower Sec)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p><a href="tang_chee_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_chee_kuan@moe.edu.sg</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
                 <p>Mr Tang Chee Onn</p>
             </td>
             <td rowspan="1" colspan="1">
