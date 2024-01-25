@@ -40,8 +40,6 @@ links:
         url: /school-programs/cyber-wellness-in-dunearn
       - title: Food Science and Technology
         url: /school-programs/food-science-and-technology-applied-learning-programme-alp
-      - title: PDLP
-        url: /school-programs/personal-learning-device-program-pdlp
   - title: Departments
     url: /departments/english-n-literature-department
     sublinks:
@@ -61,8 +59,6 @@ links:
         url: /departments/physical-education
       - title: Character & Citizenship
         url: /departments/character-and-citizenship-education
-      - title: Infocomm Technology
-        url: /departments/permalink/infocomm-technology/
   - title: Students
     url: /students/ict-and-pdlp-support/
     sublinks:
@@ -86,12 +82,6 @@ links:
         url: /students/homework-guidelines
       - title: Direct School Admission
         url: /students/direct-school-admission
-      - title: Student Learning Space
-        url: /students/student-learning-space
-      - title: Home Based Learning
-        url: /students/home-based-learning
-      - title: SLS Password Reset
-        url: /students/sls-password-reset
       - title: The Help Star
         url: /students/the-help-star
   - title: Partners
