@@ -273,7 +273,7 @@ variant: tiptap
     </tbody>
 </table>
 <p></p>
-<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong>
+<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
     <br><strong>UPPER SEC ASSISTANT YEAR HEAD: MS LEE YI QIAO</strong>
 </p>
 <table>
@@ -775,7 +775,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Mdm Lim Sai Joo (AED LBS)</p>
+                <p>Mdm Lim Sai Joo (SEN Officer)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
@@ -783,7 +783,7 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Mdm Farah Dilla (AED LBS)</p>
+                <p>Mdm Farah Dilla (SEN Officer)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
