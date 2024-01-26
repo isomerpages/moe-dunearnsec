@@ -273,7 +273,7 @@ variant: tiptap
     </tbody>
 </table>
 <p></p>
-<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong>
+<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
     <br><strong>UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO</strong>
 </p>
 <table>
