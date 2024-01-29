@@ -110,6 +110,11 @@ links:
     sublinks:
       - title: Dunearn CCAs
         url: /co-curricular-activities/dunearn-ccas/
+  - title: Dunearn ICT Portal
+    url: /dunearnictportal
+    sublinks:
+      - title: ICT Info (staff and students)
+        url: /dunearn-links/ictportal/
   - title: Dunearn Links
     collection: dunearn-links
   - title: Dunearn Stories
