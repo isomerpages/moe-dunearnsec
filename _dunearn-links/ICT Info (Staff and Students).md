@@ -1,5 +1,5 @@
 ---
-title: DSS ICT Info (for Staff and Students)
+title: ICT Info (Staff and Students)
 permalink: /dunearn-links/ictinfo/
 description: ""
 variant: tiptap
