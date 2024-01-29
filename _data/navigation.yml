@@ -114,3 +114,8 @@ links:
     collection: dunearn-links
   - title: Dunearn Stories
     collection: dunearn-stories
+  - title: Dunearn ICT Portal
+    url: /dunearnictportal
+    sublinks:
+      - title: ICT Info (staff and students)
+        url: /permalink
