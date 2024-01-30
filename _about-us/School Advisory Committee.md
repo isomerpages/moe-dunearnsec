@@ -1,20 +1,91 @@
 ---
 title: School Advisory Committee
-permalink: /school/school-advisory-committee
+permalink: /school/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;" colspan="6">Chairman: Mr Derek Low Kok Wai</th>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
 </tr>
 <tr>
-<td>Mr Kelvin Ang</td>
-<td>Mdm Winnie Chin</td>
-<td>Mr Danny Chua</td>
-<td>Mr Lim Jie</td>
-<td>Mr Leong Kaiyan&nbsp;</td>
-<td>Mr Huang Ruihang</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Swee Tien Danny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Miao Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal, Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Oi Chue Winnie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Kaiyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jie Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Ruihang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp; Preetwant Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kheng Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
