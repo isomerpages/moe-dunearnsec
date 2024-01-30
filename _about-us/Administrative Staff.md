@@ -168,7 +168,7 @@ variant: tiptap
 <p>Mr Seah Zhifan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Associate ICT</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
