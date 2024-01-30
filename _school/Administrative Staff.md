@@ -2,205 +2,230 @@
 title: Administrative Staff
 permalink: /school/administrative-staff/
 description: ""
+variant: tiptap
 ---
-<table width="100%">
+<table>
 <tbody>
 <tr>
-<td>
-<p>Mdm Norlizah Yamaludin</p>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
+<p>Name of Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norlizah Bte Yamaludin</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
-<td>
-<p>norlizah_yamaludin@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
-<td>
-<p>Mr Voon Soon Tuck</p>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
+<p>Mr Low WF Steven @Rafiq Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
-<td>
-<p>voon_soon_tuck@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
-<td>
-<p>Mr Steven Low</p>
+<td rowspan="1" colspan="1">
+<p>3</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
+<p>Mr Jayakumar s/o Chitharasu</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
-<td>
-<p>low_wai_fatt_steven@schools.gov.sg</p>
-</td>
 </tr>
-</tbody>
-</table>
-<table width="100%">
-<tbody>
 <tr>
-<td>
-<p>Mdm Juraiza Sapiee</p>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juraiza Binte Sapiee</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Jason Ye</p>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
-<td>
-<p>ICT Associate</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Badriah Binte Hairy&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td>
-<p>Ms Nur Badriah Hairy</p>
-</td>
-<td>
-<p>Admin Executive (CJT)</p>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Hasnah Limat</p>
 </td>
-<td>
-<p>Corporate Support Officer (CSO)</p>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mdm Anne Yeap Cheng Leng</p>
+<td rowspan="1" colspan="1">
+<p>7</p>
 </td>
-<td>
-<p>Corporate Support Officer (CSO)</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeap Cheng Leng</p>
 </td>
-</tr>
-<tr>
-<td>
-<p>Mdm Selvarani d/o Miandy</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Kock Chuay Wai</p>
+<td rowspan="1" colspan="1">
+<p>8</p>
 </td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Poh Lian Heok</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Lek Siew Li</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Gayathri Krishnan</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Mahamudha Hajamaiden</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Siah Ong Lian</p>
-</td>
-<td>
-<p>Operation Support Officer (OSO)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Norliza Yahya</p>
-</td>
-<td>
-<p>Technical Support Officer (TSO)</p>
-</td>
-</tr>
-<tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mdm Ho Peck Lin</p>
 </td>
-<td>
-<p>Technical Support Officer (TSO)</p>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Rohim Saat</p>
+<td rowspan="1" colspan="1">
+<p>9</p>
 </td>
-<td>
-<p>Technical Support Officer (TSO)</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliza Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherine Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Eng Khwan</p>
 </td>
-<td>
-<p>Technical Support Officer (TSO)</p>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Firdaus Jenal</p>
+<td rowspan="1" colspan="1">
+<p>12</p>
 </td>
-<td>
-<p>Desktop Engineer (DE)</p>
+<td rowspan="1" colspan="1">
+<p>Mr Rohim Bin Saat</p>
 </td>
-</tr>
-<tr>
-<td>
-<p>Mr Adiib Ayub</p>
-</td>
-<td>
-<p>Desktop Engineer (DE)</p>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mdm Betty Wong</p>
+<td rowspan="1" colspan="1">
+<p>13</p>
 </td>
-<td>
-<p>Kitchen Assistant</p>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Mike Lee</p>
+<td rowspan="1" colspan="1">
+<p>14</p>
 </td>
-<td>
-<p>Library Assistant</p>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Zhifan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Selvarani d/o Miandy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lek Siew Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Mahamudha Hajamaideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kock Chuay Wai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gayathri Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
