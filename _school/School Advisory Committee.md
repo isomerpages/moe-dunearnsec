@@ -4,4 +4,88 @@ permalink: /school/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="6"><p>Chairman: Mr Derek Low Kok Wai</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Kelvin Ang</p></td><td rowspan="1" colspan="1"><p>Mdm Winnie Chin</p></td><td rowspan="1" colspan="1"><p>Mr Danny Chua</p></td><td rowspan="1" colspan="1"><p>Mr Lim Jie</p></td><td rowspan="1" colspan="1"><p>Mr Leong Kaiyan&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Huang Ruihang</p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Swee Tien Danny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Miao Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal, Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Oi Chue Winnie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Kaiyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jie Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Ruihang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp; Preetwant Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kheng Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
