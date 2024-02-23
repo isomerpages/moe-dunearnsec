@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Vision and mission statement for EL and Lit Dept." src="/images/2024_Vision_Statement_Mission_Statement_02.svg">
+<img style="width: 75%;" height="auto" width="100%" alt="Vision and mission statement for EL and Lit Dept." src="/images/2024_Vision_Statement_Mission_Statement_02.svg">
 </div>
 <h4>Objectives</h4>
 <p>Our department’s strong belief in the statement, “…strong foundation and
