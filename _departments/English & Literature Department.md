@@ -8,13 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Vision and mission statement for EL and Lit Dept." src="/images/2024_Vision_Statement_Mission_Statement_02.svg">
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-link">Vision and Mission Statements</div>
-</div>
-</div>
-</div>
 <h4>Objectives</h4>
 <p>Our department’s strong belief in the statement, “…strong foundation and
 rich language for all” is translated into sound and engaging programmes
