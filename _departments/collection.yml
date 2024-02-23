@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English and Literature/Goals.md
       - English and Literature/Vision and Mission.md
       - English and Literature/.keep
       - English and Literature/About us.md
