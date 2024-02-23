@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English and Literature/.keep
-      - English and Literature/Goals.md
       - English and Literature/About us.md
       - Mathematics Department.md
       - Mother Tongue Department.md
