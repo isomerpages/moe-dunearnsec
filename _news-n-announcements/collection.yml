@@ -2,7 +2,7 @@ collections:
   news-n-announcements:
     output: true
     order:
-      - Example Title.md
+      - Singapore World Water Day 2024.md
       - News & Announcements.md
       - Higher Institution Open House 2022 (2).md
       - Towards A Zero Waste Nation.md
