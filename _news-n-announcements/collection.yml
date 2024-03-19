@@ -2,8 +2,8 @@ collections:
   news-n-announcements:
     output: true
     order:
-      - Singapore World Water Day 2024.md
       - News & Announcements.md
+      - Singapore World Water Day 2024.md
       - Higher Institution Open House 2022 (2).md
       - Towards A Zero Waste Nation.md
       - Dunearn Awarded the Vanda Miss Joaquim Award 2021.md
