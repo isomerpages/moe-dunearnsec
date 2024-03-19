@@ -29,21 +29,6 @@ water and make every drop count.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD3.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD4.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD6.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WWD5.png">
-</div>
 <p></p>
