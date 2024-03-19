@@ -30,5 +30,8 @@ water and make every drop count.</p>
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PUB_Water_saving_Tips_Poster_5_W_A_T_E_R.jpg">
+</div>
 <p></p>
 <p></p>
