@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>Click here to access the e-programme booklet.</p>
