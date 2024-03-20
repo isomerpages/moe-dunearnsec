@@ -15,7 +15,7 @@ future.</p>
 Singapore World Water Day this March, we would like to share relevant information
 on water conservation measures, impacts of climate change on our water
 security with our parents/guardians and students.</p>
-<p>You can also click on this <a href="https://www.pub.gov.sg/public/keyinititives/singapore-World-Water-Day" rel="noopener noreferrer nofollow" target="_blank">link</a> if&nbsp;you
+<p>You can also click on this <a href="https://www.pub.gov.sg/Public/KeyInitiatives/Singapore-World-Water-Day" rel="noopener noreferrer nofollow" target="_blank">link</a> if&nbsp;you
 are interested to find out more ways or ideas that you can show your support
 for our national water cause.</p>
 <p>Please refer to the information below on how you can do your part to save
