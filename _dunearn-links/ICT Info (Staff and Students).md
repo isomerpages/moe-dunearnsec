@@ -8,7 +8,7 @@ variant: tiptap
 <p>Before submitting ICT Form A1 and A2, staff may click <a href="/files/Sch_Web_DSS_Info_Directory_for_Staff.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 <h4><strong>Help Request Form A1 and A2 (for Staff)</strong></h4>
-<p>If required, staff can request assistance for <strong>ICT admin matters/ fault reporting</strong> via
+<p>If required, staff can request assistance for <strong>ICT admin matters</strong> via
 the <strong>ICT Form A1</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>If required, staff can request assistance for <strong>SC matters</strong> via
 the <strong>ICT Form A2 </strong><a href="https://form.gov.sg/65a3e0e1e95a250012f4e75f" rel="noopener noreferrer nofollow" target="_blank">here.</a>
