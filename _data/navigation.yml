@@ -60,28 +60,28 @@ links:
       - title: Character & Citizenship
         url: /departments/character-and-citizenship-education
   - title: Students
-    url: /students/ict-and-pdlp-support/
+    url: /students/direct-school-admission
     sublinks:
-      - title: Edusave Character Award (ECHA)
-        url: /students/edusave-character-award-echa
-      - title: Curriculum Matters
-        url: /students/curriculum-matters
+      - title: Direct School Admission
+        url: /students/direct-school-admission
       - title: CCA Information
         url: /students/cca-information
       - title: Student Management Programmes
         url: /students/student-management-programmes/rules-and-regulations/
-      - title: JC/MI/Poly/ITE Admission
-        url: /students/jc-mi-poly-ite-admission
+      - title: Edusave Character Award (ECHA)
+        url: /students/edusave-character-award-echa
       - title: Sexuality Education
         url: /students/sexuality-education
-      - title: Sports Safety
-        url: /students/sports-safety
-      - title: Financial Assistance Scheme
-        url: /students/financial-assistance-scheme
+      - title: Curriculum Matters
+        url: /students/curriculum-matters
       - title: Homework Guidelines
         url: /students/homework-guidelines
-      - title: Direct School Admission
-        url: /students/direct-school-admission
+      - title: JC/MI/Poly/ITE Admission
+        url: /students/jc-mi-poly-ite-admission
+      - title: Financial Assistance Scheme
+        url: /students/financial-assistance-scheme
+      - title: Sports Safety
+        url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
   - title: Partners
