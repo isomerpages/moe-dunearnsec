@@ -7,7 +7,7 @@ links:
         url: /school/our-history
       - title: Our Motto and Logo
         url: /school/our-motto-and-logo
-      - title: "Our Vision, Mission & Values "
+      - title: Our Vision, Mission & Values
         url: /school/our-vision-mission-and-values
       - title: Principal's Message
         url: /school/principals-message
@@ -31,6 +31,8 @@ links:
         url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
       - title: FAQs
         url: /school/faqs
+      - title: Our School Song
+        url: /school/our-school-song
   - title: School Programs
     url: /school-programs/community-youth-leadership-llp
     sublinks:
