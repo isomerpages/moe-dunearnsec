@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Song.md
       - Our History.md
       - Dunearn Logo.md
       - About Us.md
+      - Our School Song.md
       - Principal's Message.md
       - School Advisory Committee.md
       - School Management Committee.md
