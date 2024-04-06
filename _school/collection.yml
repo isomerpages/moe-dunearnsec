@@ -2,9 +2,9 @@ collections:
   school:
     output: true
     order:
-      - Our School Song.md
       - Our History.md
       - Dunearn Logo.md
+      - Our School Song.md
       - About Us.md
       - Principal's Message.md
       - School Advisory Committee.md
