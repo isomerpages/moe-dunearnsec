@@ -37,19 +37,16 @@ in the primary school (e.g. Prefect, Chairperson, CCA leader, etc.)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has experienced planning or
 organizing school or community-based events, for example: Teacher’s Day,
 Values in Action and Sports Day.</p>
-<p>&nbsp;</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp; Passion to Serve</p>
+<p>&nbsp;2)&nbsp;&nbsp;&nbsp;&nbsp; Passion to Serve</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has demonstrated empathy,
 interest and commitment to serve his/her peers, school and community.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has volunteered or participated
 actively in community service activities.</p>
-<p>&nbsp;</p>
 <p>3)&nbsp;&nbsp;&nbsp;&nbsp; Good character</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has attained a Conduct Grade
 of at least a ‘Good’ in Primary 5 and 6.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has demonstrated good character
 as affirmed by his/her primary school.</p>
-<p>&nbsp;</p>
 <p><strong>2.&nbsp; <u>Food Science and Technology</u></strong>
 </p>
 <p>Students will develop the dispositions associated with scientific literacy
@@ -63,7 +60,6 @@ Development Programme.&nbsp;</p>
 <p>Dunearn Secondary School invites 2024 Primary 6 students who are keen
 to develop their interest and talents through our<a rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Food Science and Technology</u></a></strong> programme,&nbsp;to
 apply for direct entry to our 2025 Secondary 1 cohort.</p>
-<p>&nbsp;</p>
 <p><strong><u>Admission Criteria for Food Science and Technology</u></strong>
 </p>
 <p>We welcome students who</p>
@@ -80,14 +76,11 @@ communication and ICT&nbsp;skills, and</p>
 <p>demonstrate a desire to lead teams in STEM-related projects and programmes.</p>
 </li>
 </ul>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Application and Selection Process</u></strong>
 </p>
 <p>The application, selection criteria and the process for the talent areas
 will be updated from early-May. For more information on DSA-Sec, please
 refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<p>&nbsp;</p>
 <p><strong><u>Contact Personnel</u></strong>
 </p>
 <p>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at
