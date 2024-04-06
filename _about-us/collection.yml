@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Song.md
       - Our History.md
       - Dunearn Logo.md
       - About Us.md
