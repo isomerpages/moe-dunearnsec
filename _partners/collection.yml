@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Principal's Letters to Parents.md
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
       - Parents Support Group/PSG Activities.md
