@@ -11,7 +11,6 @@ variant: tiptap
 <p><strong>Our Vision<br></strong>Lifelong Learners, Caring Leaders</p>
 <p><strong>Our Mission<br></strong>Nurturing students to be future ready
 - Learn with Passion &amp; Lead with Purpose</p>
-<p><strong>Our Motto<br></strong>Determined and Disciplined</p>
 <p><strong>Values<br></strong>R3ICH: Respect, Responsibility, Resilience,
 Integrity, Care, Harmony</p>
 <p><strong>Strategic Thrusts<br></strong>Strategic Thrust 1: Nurturing Lifelong
