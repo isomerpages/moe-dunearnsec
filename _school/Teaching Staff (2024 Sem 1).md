@@ -433,7 +433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Hazwan Bin Sapari</p>
+<p>Mrs Tan Wan Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 DIAMOND</strong>
