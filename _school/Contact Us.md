@@ -25,5 +25,5 @@ variant: tiptap
 </li>
 </ol>
 <h4>Email</h4>
-<p>General Enquiries:&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dunearn_ss@moe.edu.sg</a>
+<p>General Enquiries and Feedback :&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dunearn_ss@moe.edu.sg</a>
 </p>
