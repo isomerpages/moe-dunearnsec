@@ -125,8 +125,7 @@ of Distinction)</p>
 <h4>2023 MOE Innergy Award : School T&amp;L Project (Bronze)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Erwin Soo ( Web-based Student Response System&nbsp; - <a rel="noopener noreferrer nofollow" target="_blank">clickit.edu.sg</a>
-</p>
+<p>Erwin Soo (Web-based Student Response System)</p>
 </li>
 </ul>
 <p></p>
