@@ -2,5 +2,6 @@
 title: Feedback
 permalink: /school/feedback/
 description: ""
+variant: tiptap
 ---
-<a href="https://forms.cwp.gov.sg/dunearnsec/FormIKF51">External Link</a>
+<p></p>
