@@ -15,7 +15,7 @@ of Distinction)</p>
 <p>&nbsp;</p>
 <p><strong><u>SJB 2023</u></strong>
 </p>
-<p><strong>NW District First Aid Competition</strong>
+<p><strong>NW District First Aid Competition</strong> 
 <br>– Nursing Cadet Category (3<sup>rd</sup> Place)</p>
 <p>– Ambulance Adult Category (2<sup>nd</sup> Place)</p>
 <p>– Nursing Adult Category (2<sup>nd</sup> Place)</p>
