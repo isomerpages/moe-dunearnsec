@@ -29,10 +29,6 @@ links:
         url: /school/schoolcanteen/
       - title: Contact Us
         url: /school/contact-us
-      - title: Feedback
-        url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
-      - title: FAQs
-        url: /school/faqs
   - title: School Programs
     url: /school-programs/community-youth-leadership-llp
     sublinks:
