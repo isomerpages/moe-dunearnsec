@@ -9,7 +9,7 @@ variant: tiptap
 <h4>FLE Programmes Calendar 2024</h4>
 <p>Greetings from Fei Yue Community Services!</p>
 <p>Thank you for your continuous support for our Family Life Education (FLE)programmes.&nbsp;</p>
-<p>Here is the registration Link:&nbsp;<a href="https://go.fycs.org/FLE2023" rel="noopener noreferrer nofollow" target="_blank">https://go.fycs.org/FLE2024</a>
+<p>Here is the registration Link:&nbsp;<a href="https://go.fycs.org/FLE2024" rel="noopener noreferrer nofollow" target="_blank">https://go.fycs.org/FLE2024</a>
 </p>
 <p>The registration for the above programmes will close 1 week before the
 programme date and confirmation details will be sent to parents who sign
