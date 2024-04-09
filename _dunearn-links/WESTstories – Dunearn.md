@@ -1,6 +1,8 @@
 ---
 title: WESTstories – Dunearn
-permalink: /dss-pages/weststories-dunearn
+permalink: /dss-pages/weststories-dunearn/
 description: ""
+variant: tiptap
 ---
-<a href="/files/Dunearn%20WESTories%20(website).pdf">PDF Link</a>
+<p><a href="/files/Dunearn WESTories (website).pdf" rel="noopener noreferrer nofollow" target="_blank">Dunearn WESTories</a>
+</p>
