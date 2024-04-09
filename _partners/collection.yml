@@ -2,14 +2,10 @@ collections:
   partners:
     output: true
     order:
-      - Principal's Letters to Parents.md
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
-      - Parents Support Group/PSG Activities.md
       - Parents Support Group (Facebook).md
-      - Alumni.md
       - Alumni Facebook Page.md
-      - Voices of Dunearn.md
       - Parenting & Family Life/.keep
       - Parenting & Family Life/Introduction to Parenting & Family Life
         Programmes.md

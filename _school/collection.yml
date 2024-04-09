@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - Our History.md
-      - Dunearn Logo.md
-      - About Us.md
+      - Our Motto and Logo.md
+      - Our Vision, Mission & Values.md
+      - Our School Song.md
       - Principal's Message.md
       - School Advisory Committee.md
       - School Management Committee.md
@@ -14,5 +15,3 @@ collections:
       - School Calendar.md
       - School Canteen.md
       - Contact Us.md
-      - Feedback.md
-      - FAQs.md

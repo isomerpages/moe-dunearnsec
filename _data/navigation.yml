@@ -5,10 +5,12 @@ links:
     sublinks:
       - title: Our History
         url: /school/our-history
-      - title: Dunearn Logo
-        url: /school/dunearn-logo
-      - title: About Us
-        url: /school/about-us
+      - title: Our Motto and Logo
+        url: /school/our-motto-and-logo
+      - title: Our Vision, Mission & Values
+        url: /school/our-vision-mission-and-values
+      - title: Our School Song
+        url: /school/our-school-song
       - title: Principal's Message
         url: /school/principals-message
       - title: School Advisory Committee
@@ -27,19 +29,15 @@ links:
         url: /school/schoolcanteen/
       - title: Contact Us
         url: /school/contact-us
-      - title: Feedback
-        url: https://forms.cwp.gov.sg/dunearnsec/FormIKF51
-      - title: FAQs
-        url: /school/faqs
   - title: School Programs
     url: /school-programs/community-youth-leadership-llp
     sublinks:
       - title: Community Youth Leadership
         url: /school-programs/community-youth-leadership-llp
-      - title: Cyber Wellness in Dunearn
-        url: /school-programs/cyber-wellness-in-dunearn
       - title: Food Science and Technology
         url: /school-programs/food-science-and-technology-applied-learning-programme-alp
+      - title: Cyber Wellness in Dunearn
+        url: /school-programs/cyber-wellness-in-dunearn
   - title: Departments
     url: /departments/english-n-literature-department
     sublinks:
@@ -60,45 +58,39 @@ links:
       - title: Character & Citizenship
         url: /departments/character-and-citizenship-education
   - title: Students
-    url: /students/ict-and-pdlp-support/
+    url: /students/direct-school-admission
     sublinks:
-      - title: Edusave Character Award (ECHA)
-        url: /students/edusave-character-award-echa
-      - title: Curriculum Matters
-        url: /students/curriculum-matters
+      - title: Direct School Admission
+        url: /students/direct-school-admission
       - title: CCA Information
         url: /students/cca-information
       - title: Student Management Programmes
         url: /students/student-management-programmes/rules-and-regulations/
-      - title: JC/MI/Poly/ITE Admission
-        url: /students/jc-mi-poly-ite-admission
+      - title: Edusave Character Award (ECHA)
+        url: /students/edusave-character-award-echa
       - title: Sexuality Education
         url: /students/sexuality-education
-      - title: Sports Safety
-        url: /students/sports-safety
-      - title: Financial Assistance Scheme
-        url: /students/financial-assistance-scheme
+      - title: Curriculum Matters
+        url: /students/curriculum-matters
       - title: Homework Guidelines
         url: /students/homework-guidelines
-      - title: Direct School Admission
-        url: /students/direct-school-admission
+      - title: JC/MI/Poly/ITE Admission
+        url: /students/jc-mi-poly-ite-admission
+      - title: Financial Assistance Scheme
+        url: /students/financial-assistance-scheme
+      - title: Sports Safety
+        url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
   - title: Partners
-    url: /partners/principals-letters-to-parents
+    url: /partners/parents-support-group
     sublinks:
-      - title: Principal's Letters to Parents
-        url: /partners/principals-letters-to-parents
       - title: Parents Support Group
         url: /partners/parents-support-group
       - title: Parents Support Group (FB)
         url: https://www.facebook.com/groups/1725279761051772/
-      - title: Alumni
-        url: /partners/alumni
       - title: Alumni (FB)
         url: https://www.facebook.com/groups/1641827176034127/
-      - title: Voices of Dunearn
-        url: /partners/voices-of-dunearn
       - title: Parenting & Family Life
         url: /partners/parenting-family-life-programmes
       - title: Parenting Programmes
