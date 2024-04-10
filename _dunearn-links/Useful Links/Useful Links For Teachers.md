@@ -35,7 +35,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MIMS portal</p>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
