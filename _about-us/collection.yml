@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MOE Haze Management.md
       - Our History.md
       - Dunearn Motto and Logo.md
       - Our Vision, Mission, Values and Strategic Thrusts.md
