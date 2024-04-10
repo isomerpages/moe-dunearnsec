@@ -4,117 +4,132 @@ permalink: /dunearn-links/usefullinks/
 description: ""
 variant: tiptap
 ---
-### For Teachers
+<h3>For Teachers</h3>
+<p></p>
 <table>
 <tbody>
 <tr>
-<td width="173">
-<p><strong>Resource Name</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Resource Name</strong>
+</p>
 </td>
-<td width="320">
-<p><strong>Usage and URL</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Usage and URL</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Kahoot Create</p>
 </td>
-<td width="320">
-<p>Quizzes <a href="https://create.kahoot.it">https://create.kahoot.it</a></p>
+<td rowspan="1" colspan="1">
+<p>Quizzes <a href="https://create.kahoot.it" rel="noopener noreferrer nofollow" target="_blank">https://create.kahoot.it</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Padlet</p>
 </td>
-<td width="320">
-<p><a href="https://padlet.com">https://padlet.com</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://padlet.com" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>HTML Editor online</p>
 </td>
-<td width="320">
-<p>Website editing <a href="https://html-online.com/editor/">https://html-online.com/editor/</a></p>
+<td rowspan="1" colspan="1">
+<p>Website editing <a href="https://html-online.com/editor/" rel="noopener noreferrer nofollow" target="_blank">https://html-online.com/editor/</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Whiteboard.fi</p>
 </td>
-<td width="320">
-<p>Online whiteboard <a href="https://whiteboard.fi/">https://whiteboard.fi/</a></p>
+<td rowspan="1" colspan="1">
+<p>Online whiteboard <a href="https://whiteboard.fi/" rel="noopener noreferrer nofollow" target="_blank">https://whiteboard.fi/</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Graph paper generator</p>
 </td>
-<td width="320">
-<p><a href="https://incompetech.com/graphpaper/multiwidth/">https://incompetech.com/graphpaper/multiwidth/</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://incompetech.com/graphpaper/multiwidth/" rel="noopener noreferrer nofollow" target="_blank">https://incompetech.com/graphpaper/multiwidth/</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Graph paper generator</p>
 </td>
-<td width="320">
-<p><a href="https://www.blocklayer.com/graph-paper.aspx">https://www.blocklayer.com/graph-paper.aspx</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.blocklayer.com/graph-paper.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.blocklayer.com/graph-paper.aspx</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>Wallpapers, Backgrounds</p>
 </td>
-<td width="320">
-<p><a href="https://unsplash.com/backgrounds">https://unsplash.com/backgrounds</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://unsplash.com/backgrounds" rel="noopener noreferrer nofollow" target="_blank">https://unsplash.com/backgrounds</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="173">
+<td rowspan="1" colspan="1">
 <p>URL shortener</p>
 </td>
-<td width="320">
-<p><a href="https://go.gov.sg/#/login">https://go.gov.sg/#/login</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/#/login</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-### For Students
+<h3>For Students</h3>
 <table>
 <tbody>
 <tr>
-<td width="116">
-<p><strong>Resource Name</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Resource Name</strong>
+</p>
 </td>
-<td width="312">
-<p><strong>Usage and URL</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Usage and URL</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="116">
+<td rowspan="1" colspan="1">
 <p>Kahoot Play</p>
 </td>
-<td width="312">
-<p>Quizzes <a href="https://kahoot.it">https://kahoot.it</a></p>
+<td rowspan="1" colspan="1">
+<p>Quizzes <a href="https://kahoot.it" rel="noopener noreferrer nofollow" target="_blank">https://kahoot.it</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="116">
+<td rowspan="1" colspan="1">
 <p>Padlet</p>
 </td>
-<td width="312">
-<p><a href="https://padlet.com">https://padlet.com</a></p>
+<td rowspan="1" colspan="1">
+<p><a href="https://padlet.com" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com</a>
+</p>
 </td>
 </tr>
 <tr>
-<td width="116">
+<td rowspan="1" colspan="1">
 <p>Whiteboard.fi</p>
 </td>
-<td width="312">
-<p>Online whiteboard <a href="https://whiteboard.fi/">https://whiteboard.fi/</a></p>
+<td rowspan="1" colspan="1">
+<p>Online whiteboard <a href="https://whiteboard.fi/" rel="noopener noreferrer nofollow" target="_blank">https://whiteboard.fi/</a>
+</p>
 </td>
 </tr>
 </tbody>
