@@ -110,7 +110,7 @@ The team subsequently went on to present their work during the <strong>MOE Excel
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/dsap6.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/dsap6.jpg">
 </div>
 <p><strong>SAP students who graduated from the Youth Science Ambassadors Programme 2019 and their mentors</strong>
 </p>
