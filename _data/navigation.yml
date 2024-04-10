@@ -98,12 +98,12 @@ links:
       - title: Parents Gateway
         url: /partners/parents-gateway
   - title: CCAs
-    url: /co-curricular-activities/dunearn-ccas/
+    url: /co-curricular-activities/aims-of-cca/
     sublinks:
-      - title: Dunearn CCAs
-        url: /co-curricular-activities/dunearn-ccas/
       - title: Aims of CCA
         url: /co-curricular-activities/aims-of-cca
+      - title: Dunearn CCAs
+        url: /co-curricular-activities/dunearn-ccas/
   - title: Useful Links
     url: /dunearn-links/ictinfo
     sublinks:
