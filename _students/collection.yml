@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Curriculum/Homework Guidelines.md
       - Curriculum/Curriculum Matters.md
       - Curriculum/.keep
       - Education & Career Guidance/JC, MI, Poly, ITE Admission.md
