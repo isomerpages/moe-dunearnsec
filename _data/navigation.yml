@@ -66,7 +66,7 @@ links:
         url: /student/cce
       - title: Education & Career Guidance
         url: /students/ecg
-      - title: "Instructional Programmes "
+      - title: Instructional Programmes
         url: /students/curriculum-matters
       - title: Student Management Programmes
         url: /students/student-management-programmes/rules-and-regulations/
@@ -74,20 +74,6 @@ links:
         url: /students/financial-assistance-scheme
       - title: Sports Safety
         url: /students/sports-safety
-      - title: ECG Booking
-        url: /students/ecg-booking
-      - title: Edusave Character Award (ECHA)
-        url: /students/edusave-character-award-echa
-      - title: Sexuality Education
-        url: /students/sexuality-education
-      - title: Curriculum Matters
-        url: /students/curriculum-matters
-      - title: Homework Guidelines
-        url: /students/homework-guidelines
-      - title: JC/MI/Poly/ITE Admission
-        url: /students/jc-mi-poly-ite-admission
-      - title: The Help Star
-        url: /students/the-help-star
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
