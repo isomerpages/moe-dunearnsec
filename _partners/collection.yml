@@ -2,11 +2,11 @@ collections:
   partners:
     output: true
     order:
-      - Accomplishments of Alumni.md
       - Parents Support Group/.keep
       - Parents Support Group/Parents Support Group.md
       - Parents Support Group (Facebook).md
       - Alumni Facebook Page.md
+      - Accomplishments of Alumni.md
       - Parenting & Family Life/.keep
       - Parenting & Family Life/Introduction to Parenting & Family Life
         Programmes.md
