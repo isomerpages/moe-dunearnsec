@@ -20,6 +20,18 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Classpoint app</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="classpoint.app" rel="noopener noreferrer nofollow" target="_blank">Log in to Classpoint</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Google Workspace</p>
 <p>(MOE ICON Mail, Google Classroom, Google Drive etc)</p>
 </td>
@@ -29,18 +41,6 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p>user login: name@students.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Learning Space (SLS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS Login</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Login using SLS password or MIMS</p>
 </td>
 </tr>
 <tr>
@@ -57,18 +57,6 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Classpoint app</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="classpoint.app" rel="noopener noreferrer nofollow" target="_blank">Log in to Classpoint</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Padlet</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,6 +65,18 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS Login</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Login using SLS password or MIMS</p>
 </td>
 </tr>
 <tr>
