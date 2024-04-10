@@ -5,134 +5,197 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
-<h3>For Teachers</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Applications</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCMobile</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Usage and URL</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kahoot Create</p>
+<p>School Cockpit App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quizzes <a href="https://create.kahoot.it" rel="noopener noreferrer nofollow" target="_blank">https://create.kahoot.it</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Padlet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://padlet.com" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HTML Editor online</p>
+<p>MIMS portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Website editing <a href="https://html-online.com/editor/" rel="noopener noreferrer nofollow" target="_blank">https://html-online.com/editor/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Whiteboard.fi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online whiteboard <a href="https://whiteboard.fi/" rel="noopener noreferrer nofollow" target="_blank">https://whiteboard.fi/</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Graph paper generator</p>
+<p>Workpal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://incompetech.com/graphpaper/multiwidth/" rel="noopener noreferrer nofollow" target="_blank">https://incompetech.com/graphpaper/multiwidth/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Graph paper generator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.blocklayer.com/graph-paper.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.blocklayer.com/graph-paper.aspx</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wallpapers, Backgrounds</p>
+<p>Parents Gateway</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://unsplash.com/backgrounds" rel="noopener noreferrer nofollow" target="_blank">https://unsplash.com/backgrounds</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>URL shortener</p>
+<p>OPAL 2.0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/#/login</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IEXAMS2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Ears Form SG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/#/login" rel="noopener noreferrer nofollow" target="_blank">URL Shortener</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/appsdashboard" rel="noopener noreferrer nofollow" target="_blank">ICONnect</a>(Google
+Workspace, MOE ICON Mail, Google Classroom, Google Drive etc)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Log in using ICON mail username</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Login using SLS password or MIMS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/personaliseddigitallearningpro/home" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personalised Digital Learning Programme One-stop site</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For information on syllabus and exam dates</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://create.kahoot.it/" rel="noopener noreferrer nofollow" target="_blank">Kahoot Create</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creates Kahoot Quizzes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://padlet.com" rel="noopener noreferrer nofollow" target="_blank">Padlet</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://html-online.com/editor/" rel="noopener noreferrer nofollow" target="_blank">HTML Editor</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Website editing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://whiteboard.fi/" rel="noopener noreferrer nofollow" target="_blank">Online Whiteboard</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://incompetech.com/graphpaper/multiwidth/" rel="noopener noreferrer nofollow" target="_blank">Graph paper generator</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://unsplash.com/backgrounds" rel="noopener noreferrer nofollow" target="_blank">Wallpapers and backgrounds</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>For Students</h3>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Usage and URL</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kahoot Play</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quizzes <a href="https://kahoot.it" rel="noopener noreferrer nofollow" target="_blank">https://kahoot.it</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Padlet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://padlet.com" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Whiteboard.fi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online whiteboard <a href="https://whiteboard.fi/" rel="noopener noreferrer nofollow" target="_blank">https://whiteboard.fi/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p></p>
