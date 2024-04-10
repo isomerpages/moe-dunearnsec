@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - WESTstories – Dunearn.md
       - Our History.md
       - Our Motto and Logo.md
       - Our Vision, Mission & Values.md
