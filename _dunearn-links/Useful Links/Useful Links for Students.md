@@ -9,7 +9,7 @@ third_nav_title: Useful Links
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Descriptions</p>
+<p>Applications</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Links</p>
@@ -60,7 +60,7 @@ third_nav_title: Useful Links
 <p>Classpoint app</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="classpoint.app" rel="noopener noreferrer nofollow" target="_blank">Log in to Classpoint </a>
+<p><a href="classpoint.app" rel="noopener noreferrer nofollow" target="_blank">Log in to Classpoint</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
