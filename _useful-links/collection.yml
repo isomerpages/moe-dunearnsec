@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - ICT Help Desk.md
-      - Useful Links/.keep
-      - Useful Links/Useful Links for Students.md
-      - Useful Links/Useful Links For Teachers.md
+      - Quick Links/.keep
+      - Quick Links/Useful Links for Students.md
+      - Quick Links/Useful Links For Teachers.md
