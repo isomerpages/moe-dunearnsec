@@ -18,8 +18,8 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
 </div>
+<hr>
 <h4><strong>Staffing</strong></h4>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -93,8 +93,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eliz Ng Si Qi</p>
-<p>(CAJT)</p>
+<p>Ms Eliz Ng Si Qi (CAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
@@ -270,6 +269,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>Key Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -279,8 +279,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 <p>IFly Singapore experience for Sec 3/4 Physics students</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a> (please click on this link for more details)</strong>
+<p>&nbsp;<strong><a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a> (please click on this link for more details)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -291,6 +290,7 @@ learning on Science beyond the mainstream curriculum</p>
 <p>Leading and organising Science activities and programmes</p>
 </li>
 </ul>
+<hr>
 <h3><strong><u>Our Achievements</u></strong></h3>
 <h4><strong><u>School Green Award 2023</u></strong></h4>
 <p>The School Green Award is organised by Singapore Environment Council and
@@ -302,6 +302,7 @@ community and&nbsp;school&nbsp;stakeholders.</p>
 the 40 secondary&nbsp;schools&nbsp;in Singapore that had achieved the "Yellow
 Flame Award".&nbsp; This award is presented to the schools with an overall
 score greater than 80% based on the School Green Award framework.</p>
+<hr>
 <h4><strong><u>Dunearn achieves the "Vanda Miss Joaquim Sustained Achievement Award in 2022</u></strong></h4>
 <p>&nbsp;Dunearn Secondary School is proud to announce that we have achieved
 the "Vanda Miss Joaquim Sustained Achievement Award" in 2022 due to our
@@ -321,6 +322,7 @@ habits and involve the wider community and school stakeholders in environmental
 efforts.&nbsp;The "Vanda Miss Joaquim Sustained Achievement Award" is the
 highest tier award for schools that achieve three consecutive “Vanda Miss
 Joaquim” Awards.&nbsp;Well done!</p>
+<hr>
 <h4><strong><u>Dunearn achieves 3 Stars in the Green Schools @ South West for two consecutive years</u></strong></h4>
 <p>Our school was awarded 3 Stars in the Green Schools @ South West 2022
 and 2023 programme. Held by the South West CDC, this programme recognises
@@ -338,11 +340,9 @@ and the Junior Environment Ambassador (JEA) workshop and became more aware
 of our impact on the environment. Through these activities, our school
 aim to inculcate good habits among the students, and for them to be ambassadors
 of our environment.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2023_t3_recycling_poster.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2023_essiential_workers_appreciation_day.png">
 </div>
