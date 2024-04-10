@@ -2,7 +2,6 @@ collections:
   school:
     output: true
     order:
-      - Direct School Admission.md
       - Our History.md
       - Our Motto and Logo.md
       - Our Vision, Mission & Values.md
@@ -12,6 +11,7 @@ collections:
       - School Management Committee.md
       - Teaching Staff (2024 Sem 1).md
       - Administrative Staff.md
+      - Direct School Admission.md
       - School Achievements.md
       - School Calendar.md
       - School Canteen.md
