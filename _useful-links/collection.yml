@@ -1,5 +1,5 @@
 collections:
-  dunearn-links:
+  useful-links:
     output: true
     order:
       - ICT Help Desk.md
