@@ -279,7 +279,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 <p>IFly Singapore experience for Sec 3/4 Physics students</p>
 </li>
 </ul>
-<p>&nbsp;<strong><a href="https://www.dunearnsec.moe.edu.sg/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a> (please click on this link for more details)</strong>
+<p>&nbsp;<strong><a href="/science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/" rel="noopener noreferrer nofollow" target="_blank">Dunearn Science Ambassador Programme (Science Talent Development Programme)</a> (please click on this link for more details)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
