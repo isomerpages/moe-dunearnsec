@@ -64,10 +64,18 @@ links:
     sublinks:
       - title: Character Citizenship Edn(CCE)
         url: /student/cce
-      - title: ECG Booking
-        url: /students/ecg-booking
+      - title: Education & Career Guidance
+        url: /students/ecg
+      - title: "Instructional Programmes "
+        url: /students/curriculum-matters
       - title: Student Management Programmes
         url: /students/student-management-programmes/rules-and-regulations/
+      - title: Financial Assistance Scheme
+        url: /students/financial-assistance-scheme
+      - title: Sports Safety
+        url: /students/sports-safety
+      - title: ECG Booking
+        url: /students/ecg-booking
       - title: Edusave Character Award (ECHA)
         url: /students/edusave-character-award-echa
       - title: Sexuality Education
@@ -78,10 +86,6 @@ links:
         url: /students/homework-guidelines
       - title: JC/MI/Poly/ITE Admission
         url: /students/jc-mi-poly-ite-admission
-      - title: Financial Assistance Scheme
-        url: /students/financial-assistance-scheme
-      - title: Sports Safety
-        url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
   - title: Partners
