@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Education & Career Guidance/JC, MI, Poly, ITE Admission.md
       - Education & Career Guidance/Education and Career Guidance (ECG)
         Programme and Booking.md
       - Education & Career Guidance/.keep
