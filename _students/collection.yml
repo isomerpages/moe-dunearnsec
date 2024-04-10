@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Direct School Admission.md
       - Education and Career Guidance (ECG) Programme and Booking.md
       - Curriculum Matters.md
       - Edusave Character Award (ECHA).md
