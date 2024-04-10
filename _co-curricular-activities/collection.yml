@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Information.md
+      - Aims of CCA.md
       - Dunearn CCAs.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
