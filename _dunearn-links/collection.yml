@@ -2,6 +2,7 @@ collections:
   dunearn-links:
     output: true
     order:
+      - For Teachers/Useful Links for Students.md
       - For Teachers/Useful Links For Teachers.md
       - For Teachers/.keep
       - ICT Help Desk.md
