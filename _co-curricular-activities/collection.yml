@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Achievements.md
       - Aims of CCA.md
       - Dunearn CCAs.md
+      - CCA Achievements.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/National Cadet Corp (NCC).md
