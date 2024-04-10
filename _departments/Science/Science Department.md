@@ -343,6 +343,7 @@ of our environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2023_t3_recycling_poster.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2023_essiential_workers_appreciation_day.png">
 </div>
