@@ -2,8 +2,8 @@ collections:
   dunearn-links:
     output: true
     order:
-      - For Teachers/Useful Links for Students.md
-      - For Teachers/Useful Links For Teachers.md
-      - For Teachers/.keep
+      - Useful Links/Useful Links for Students.md
+      - Useful Links/Useful Links For Teachers.md
+      - Useful Links/.keep
       - ICT Help Desk.md
       - ECG Booking.md
