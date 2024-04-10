@@ -2,17 +2,17 @@ collections:
   students:
     output: true
     order:
-      - Instructional Programmes/.keep
-      - Instructional Programmes/Homework Guidelines.md
-      - Instructional Programmes/Curriculum Matters.md
-      - Education & Career Guidance/.keep
-      - Education & Career Guidance/JC, MI, Poly, ITE Admission.md
-      - Education & Career Guidance/Education and Career Guidance (ECG)
-        Programme and Booking.md
       - Character Citizenship Edn(CCE)/.keep
       - Character Citizenship Edn(CCE)/The Help Star.md
       - Character Citizenship Edn(CCE)/Sexuality Education.md
       - Character Citizenship Edn(CCE)/Edusave Character Award (ECHA).md
+      - Education & Career Guidance/.keep
+      - Education & Career Guidance/JC, MI, Poly, ITE Admission.md
+      - Education & Career Guidance/Education and Career Guidance (ECG)
+        Programme and Booking.md
+      - Instructional Programmes/.keep
+      - Instructional Programmes/Homework Guidelines.md
+      - Instructional Programmes/Curriculum Matters.md
       - Student Management/.keep
       - Student Management/Rules and Regulations.md
       - Student Management/Student Health Advisor.md
