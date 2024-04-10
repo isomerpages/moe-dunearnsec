@@ -92,6 +92,7 @@ The team subsequently went on to present their work during the <strong>MOE Excel
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/science%20dept%202.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/science%20dept%203.png">
 </div>
@@ -100,9 +101,11 @@ The team subsequently went on to present their work during the <strong>MOE Excel
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/dsap2.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/dsap3.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/dsap4.jpeg">
 </div>
