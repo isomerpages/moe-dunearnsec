@@ -62,6 +62,8 @@ links:
     sublinks:
       - title: Direct School Admission
         url: /students/direct-school-admission
+      - title: ECG Booking
+        url: /students/ecg-booking
       - title: CCA Information
         url: /students/cca-information
       - title: Student Management Programmes
@@ -82,8 +84,6 @@ links:
         url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
-      - title: ECG Booking
-        url: /students/ecg-booking
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
