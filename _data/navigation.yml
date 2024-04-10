@@ -103,10 +103,6 @@ links:
       - title: Dunearn CCAs
         url: /co-curricular-activities/dunearn-ccas/
   - title: Useful Links
-    collection: dunearn-links
-  - title: Dunearn Stories
-    collection: dunearn-stories
-  - title: Useful Links
     url: /dunearn-links/ictinfo
     sublinks:
       - title: ICT Help Desk
