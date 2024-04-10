@@ -60,8 +60,10 @@ links:
       - title: Character & Citizenship
         url: /departments/character-and-citizenship-education
   - title: Students
-    url: /students/ecg-booking
+    url: /students/cce
     sublinks:
+      - title: Character Citizenship Edn(CCE)
+        url: /student/cce
       - title: ECG Booking
         url: /students/ecg-booking
       - title: Student Management Programmes
@@ -82,8 +84,6 @@ links:
         url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
-      - title: Character Citizenship Edn(CCE)
-        url: /student/CCE/
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
