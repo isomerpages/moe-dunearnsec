@@ -21,7 +21,7 @@ links:
         url: /school/teaching-staff
       - title: Administrative Staff
         url: /school/administrative-staff
-      - title: "Direct School Admission "
+      - title: Direct School Admission
         url: /school/direct-school-admission
       - title: School Achievements
         url: /school/school-achievements
@@ -62,8 +62,6 @@ links:
   - title: Students
     url: /students/direct-school-admission
     sublinks:
-      - title: Direct School Admission
-        url: /students/direct-school-admission
       - title: ECG Booking
         url: /students/ecg-booking
       - title: Student Management Programmes
