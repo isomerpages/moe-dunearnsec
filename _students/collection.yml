@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - ECG Booking.md
       - Curriculum Matters.md
       - Edusave Character Award (ECHA).md
       - CCA Information.md
