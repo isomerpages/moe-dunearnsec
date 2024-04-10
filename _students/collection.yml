@@ -2,6 +2,8 @@ collections:
   students:
     output: true
     order:
+      - Education & Career Guidance/Education and Career Guidance (ECG)
+        Programme and Booking.md
       - Education & Career Guidance/.keep
       - Character Citizenship Edn(CCE)/The Help Star.md
       - Character Citizenship Edn(CCE)/Sexuality Education.md
