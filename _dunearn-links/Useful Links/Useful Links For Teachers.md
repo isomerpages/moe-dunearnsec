@@ -41,6 +41,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking Service (RBS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Workpal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,10 +58,11 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parents Gateway</p>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Long in using MIMS</p>
 </td>
 </tr>
 <tr>
