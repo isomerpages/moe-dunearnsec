@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>CCA Achievement &amp; Awards</strong></h3>
 <h4><strong><u>Uniform Groups WY 2023</u></strong></h4>
-<p><strong>SJB - NW District First Aid Competition</strong> 
+<p><strong>SJB - NW District First Aid Competition</strong>
 </p>
 <p>– Nursing Cadet Category (3rd Place)</p>
 <p>– Ambulance Adult Category (2<sup>nd</sup> Place)</p>
