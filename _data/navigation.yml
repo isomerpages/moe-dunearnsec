@@ -82,6 +82,8 @@ links:
         url: /students/sports-safety
       - title: The Help Star
         url: /students/the-help-star
+      - title: ECG Booking
+        url: /students/ecg-booking
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
@@ -109,5 +111,3 @@ links:
         url: /dunearn-links/ict-help-desk
       - title: Useful Links
         url: /dunearn-links/useful-links
-      - title: ECG Booking
-        url: /dunearn-links/ecg-booking
