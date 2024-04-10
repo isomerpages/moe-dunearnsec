@@ -105,9 +105,9 @@ links:
       - title: Dunearn CCAs
         url: /co-curricular-activities/dunearn-ccas/
   - title: Useful Links
-    url: /dunearn-links/ict-help-desk
+    url: /useful-links/ict-help-desk
     sublinks:
+      - title: Quick Links
+        url: /useful-links/quick-links
       - title: ICT Help Desk
-        url: /dunearn-links/ict-help-desk
-      - title: Useful Links
-        url: /dunearn-links/useful-links
+        url: /useful-links/ict-help-desk
