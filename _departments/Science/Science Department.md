@@ -340,11 +340,11 @@ aim to inculcate good habits among the students, and for them to be ambassadors
 of our environment.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_t3_recycling_poster.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2023_t3_recycling_poster.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_essiential_workers_appreciation_day.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2023_essiential_workers_appreciation_day.png">
 </div>
 <p><em>2023 Term 3 Recycling drive and Essential Worker’s Appreciation Day</em>
 </p>
