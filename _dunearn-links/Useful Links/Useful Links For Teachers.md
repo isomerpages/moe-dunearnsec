@@ -17,7 +17,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCMobile</p>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SCMobile</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -25,7 +26,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Cockpit App</p>
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
