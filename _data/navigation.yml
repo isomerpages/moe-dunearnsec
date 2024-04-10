@@ -74,6 +74,13 @@ links:
         url: /students/financial-assistance-scheme
       - title: Sports Safety
         url: /students/sports-safety
+  - title: CCAs
+    url: /co-curricular-activities/aims-of-cca/
+    sublinks:
+      - title: Aims of CCA
+        url: /co-curricular-activities/aims-of-cca
+      - title: Dunearn CCAs
+        url: /co-curricular-activities/dunearn-ccas/
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
@@ -87,13 +94,6 @@ links:
         url: /partners/parenting-family-life-programmes
       - title: Parenting Programmes
         url: /partners/parenting-programmes/parenting-seminars-workshops/
-  - title: CCAs
-    url: /co-curricular-activities/aims-of-cca/
-    sublinks:
-      - title: Aims of CCA
-        url: /co-curricular-activities/aims-of-cca
-      - title: Dunearn CCAs
-        url: /co-curricular-activities/dunearn-ccas/
   - title: Useful Links
     url: /useful-links/ict-help-desk
     sublinks:
