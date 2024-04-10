@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Staff Accomplishments.md
       - English and Literature/Welcome to English & Literature Department.md
       - English and Literature/Goals.md
       - English and Literature/Vision and Mission.md
