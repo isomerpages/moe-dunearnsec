@@ -87,7 +87,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All Ears Form SG</p>
+<p><a href="https://allears.estl.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
