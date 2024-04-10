@@ -2,6 +2,6 @@ collections:
   dunearn-links:
     output: true
     order:
-      - ICT Help Desk for Staff and Students.md
+      - ICT Help Desk.md
       - Useful Links for Staff and Students.md
       - ECG Booking.md
