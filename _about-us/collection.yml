@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Cyber Wellness in Dunearn.md
       - MOE Haze Management.md
       - Our History.md
       - Dunearn Motto and Logo.md
