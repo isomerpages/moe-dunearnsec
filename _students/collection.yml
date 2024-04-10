@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Direct School Admission.md
       - ECG Booking.md
       - Curriculum Matters.md
       - Edusave Character Award (ECHA).md
@@ -14,5 +15,4 @@ collections:
       - Sports Safety.md
       - Financial Assistance Scheme.md
       - Homework Guidelines.md
-      - Direct School Admission.md
       - The Help Star.md
