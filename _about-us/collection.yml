@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Forms and Documents.md
       - Edusave Character Award (ECHA).md
       - Cyber Wellness in Dunearn.md
       - MOE Haze Management.md
