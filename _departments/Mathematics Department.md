@@ -28,7 +28,7 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rajasekaran HOD Mathematics)</p>
+<p>Mr Rajasekaran (HOD Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
@@ -52,25 +52,13 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Khaidir HOD Student Management)</p>
+<p>Mr Mohamad Khaidir (HOD Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_khaidir_abdul_rahm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_khaidir_abdul_rahm@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Chin Chuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chin_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chin_chuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -100,6 +88,18 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ang Chin Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math / A Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_chin_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chin_chuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Selena Chan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ into everyday lives.</p>
 <p>Mr Muhd Hazwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E Math</p>
+<p>E Math / A Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hazwan_b_sapari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hazwan_b_sapari@moe.edu.sg</a>
