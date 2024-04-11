@@ -37,7 +37,7 @@ them in the future.</p>
 <p>Tuesday 3:30 - 5:30 pm (Field)</p>
 </li>
 <li>
-<p>Thursday 3:30 - 5:30 p.m (Field)</p>
+<p>Thursday 3:30 - 5:30 pm (Field)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
