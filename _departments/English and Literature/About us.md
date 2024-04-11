@@ -92,7 +92,7 @@ third_nav_title: English and Literature
 <p>Mr Tang Chee Onn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST EL</p>
+<p>ST (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_chee_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_chee_onn@moe.edu.sg</a>
@@ -180,6 +180,18 @@ third_nav_title: English and Literature
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_jie_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jie_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Lyana Binti Mohamad Zaky</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (UT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nur_lyana_mohamad_zaky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_lyana_mohamad_zaky@moe.edu.sg</a>
 </p>
 </td>
 </tr>
