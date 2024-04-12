@@ -4,8 +4,7 @@ permalink: /school/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<p><strong>2024 Direct School Admission (DSA) to Dunearn Secondary School<br>(For admission to Secondary One in 2025)</strong>
-</p>
+<h3><strong>2024 Direct School Admission (DSA) to Dunearn Secondary School<br>(For admission to Secondary One in 2025)</strong></h3>
 <p><strong><u>Introduction</u></strong>
 </p>
 <p>DSA-Sec allows students to seek admission to a secondary school on the
