@@ -2,6 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - WESTstories – Dunearn.md
+      - Forms and Documents.md
+      - Edusave Character Award (ECHA).md
+      - Cyber Wellness in Dunearn.md
+      - MOE Haze Management.md
       - Our History.md
       - Dunearn Motto and Logo.md
       - Our Vision, Mission, Values and Strategic Thrusts.md

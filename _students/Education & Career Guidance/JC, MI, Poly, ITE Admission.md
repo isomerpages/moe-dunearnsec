@@ -1,12 +1,14 @@
 ---
 title: JC, MI, Poly, ITE Admission
-permalink: /students/jc-mi-poly-ite-admission
+permalink: /students/ecg/jc-mi-poly-ite-admission/
 description: ""
+third_nav_title: Education & Career Guidance
+variant: tiptap
 ---
 <p><strong>Entry requirements for Junior Colleges / Centralised Institute / Polytechnics / Institutes of Technical Education</strong></p>
-<h4>Admission into Junior Colleges (2-years &lsquo;A&rsquo; level course)</h4>
+<h4>Admission into Junior Colleges (2-years ‘A’ level course)</h4>
 <p>An aggregate score between 6 to 20 is required, computed with the grades obtained for 6 subjects (L1R5)</p>
-<h4>Admission into Centralised Institute (3-years &lsquo;A&rsquo; level course)</h4>
+<h4>Admission into Centralised Institute (3-years ‘A’ level course)</h4>
 <p>An aggregate score between 5 to 20 is required, computed with the grades obtained for 5 subjects (L1R4)</p>
 <ul>
 <li>English (L1), and</li>
@@ -47,7 +49,7 @@ description: ""
 <p>Higher National ITE Certificate (Higher NITEC)</p>
 </td>
 <td>
-<p>GCE &lsquo;O&rsquo; Level holders and &lsquo;N&rsquo; Level holders with L1MAB3 &le; 19 points</p>
+<p>GCE ‘O’ Level holders and ‘N’ Level holders with L1MAB3 ≤ 19 points</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +57,7 @@ description: ""
 <p>National ITE Certificate (NITEC)</p>
 </td>
 <td>
-<p>GCE &lsquo;O&rsquo; and &lsquo;N&rsquo; Level holders</p>
+<p>GCE ‘O’ and ‘N’ Level holders</p>
 </td>
 </tr>
 </tbody>

@@ -21,8 +21,8 @@ links:
         url: /school/teaching-staff
       - title: Administrative Staff
         url: /school/administrative-staff
-      - title: School Achievements
-        url: /school/school-achievements
+      - title: Direct School Admission
+        url: /school/direct-school-admission
       - title: School Calendar
         url: /school/school-calendar
       - title: School Canteen
@@ -57,57 +57,49 @@ links:
         url: /departments/physical-education
       - title: Character & Citizenship
         url: /departments/character-and-citizenship-education
+      - title: Staff Accomplishments
+        url: /departments/staff-accomplishments
   - title: Students
-    url: /students/direct-school-admission
+    url: /students/cce/edusave-character-award-echa/
     sublinks:
-      - title: Direct School Admission
-        url: /students/direct-school-admission
-      - title: CCA Information
-        url: /students/cca-information
-      - title: Student Management Programmes
-        url: /students/student-management-programmes/rules-and-regulations/
-      - title: Edusave Character Award (ECHA)
-        url: /students/edusave-character-award-echa
-      - title: Sexuality Education
-        url: /students/sexuality-education
-      - title: Curriculum Matters
-        url: /students/curriculum-matters
-      - title: Homework Guidelines
-        url: /students/homework-guidelines
-      - title: JC/MI/Poly/ITE Admission
-        url: /students/jc-mi-poly-ite-admission
+      - title: Character Citizenship Edn(CCE)
+        url: /students/cce/edusave-character-award-echa/
+      - title: Education & Career Guidance
+        url: /students/ecg/ecg-booking/
+      - title: Instructional Programmes
+        url: /students/instructional-programmes/curriculum-matters
+      - title: Student Management
+        url: /students/student-management/rules-and-regulations/
+      - title: Inspirational Stories
+        url: /students/inspirational-stories/
       - title: Financial Assistance Scheme
         url: /students/financial-assistance-scheme
       - title: Sports Safety
         url: /students/sports-safety
-      - title: The Help Star
-        url: /students/the-help-star
+  - title: CCAs
+    url: /co-curricular-activities/aims-of-cca/
+    sublinks:
+      - title: Aims of CCA
+        url: /co-curricular-activities/aims-of-cca
+      - title: Dunearn CCAs
+        url: /co-curricular-activities/dunearn-ccas/
+      - title: CCA Achievements
+        url: /cca-achievements
   - title: Partners
     url: /partners/parents-support-group
     sublinks:
       - title: Parents Support Group
         url: /partners/parents-support-group
-      - title: Parents Support Group (FB)
-        url: https://www.facebook.com/groups/1725279761051772/
-      - title: Alumni (FB)
+      - title: Alumni
         url: https://www.facebook.com/groups/1641827176034127/
+      - title: Accomplishments of Alumni
+        url: /partners/accomplishments-of-alumni
       - title: Parenting & Family Life
         url: /partners/parenting-family-life-programmes
-      - title: Parenting Programmes
-        url: /partners/parenting-programmes/parenting-seminars-workshops/
-      - title: Parents Gateway
-        url: /partners/parents-gateway
-  - title: CCAs
-    url: /co-curricular-activities/dunearn-ccas/
+  - title: Useful Links
+    url: /useful-links/ict-help-desk
     sublinks:
-      - title: Dunearn CCAs
-        url: /co-curricular-activities/dunearn-ccas/
-  - title: Dunearn ICT Portal
-    url: /dunearn-links/ictinfo/
-    sublinks:
-      - title: ICT Info (staff and students)
-        url: /dunearn-links/ictinfo/
-  - title: Dunearn Links
-    collection: dunearn-links
-  - title: Dunearn Stories
-    collection: dunearn-stories
+      - title: ICT Help Desk
+        url: /useful-links/ict-help-desk
+      - title: Quick Links
+        url: /useful-links/quick-links/for-students

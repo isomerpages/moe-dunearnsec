@@ -1,6 +1,6 @@
 ---
-title: ICT Info (Staff and Students)
-permalink: /dunearn-links/ictinfo/
+title: ICT Help Desk
+permalink: /useful-links/ict-help-desk/
 description: ""
 variant: tiptap
 ---

@@ -1,7 +1,9 @@
 ---
 title: Edusave Character Award (ECHA)
-permalink: /students/edusave-character-award-echa/
+permalink: /students/cce/edusave-character-award-echa/
 description: ""
+third_nav_title: Character Citizenship Edn(CCE)
+variant: tiptap
 ---
 <p><strong><u>Edusave Character Award (ECHA) in Dunearn Secondary School</u></strong></p>
 <h4>Introduction</h4>

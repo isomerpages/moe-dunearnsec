@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness in Dunearn
-permalink: /dss-pages/cyber-wellness-in-dunearn
+permalink: /dss-pages/cyber-wellness-in-dunearn/
 description: ""
 ---
 <h4>What is Cyber Wellness?</h4>
@@ -15,7 +15,7 @@ description: ""
 <p>Students should:</p>
 <ul>
 <li>uphold their own dignity when online (e.g. share appropriate content and participate only in legal online activities)</li>
-<li>respect other people online (e.g. put themselves in others&rsquo; shoes, accept diverse views and opinions, give credit when using other people&rsquo;s work and seek permission where necessary, avoid sharing hurtful materials).</li>
+<li>respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials).</li>
 </ul>
 <p><strong>2. Safe and Responsible Use</strong></p>
 <p>Students should:</p>
@@ -32,9 +32,9 @@ description: ""
 <p><strong><u>The Approach</u></strong></p>
 <p>Students will learn to infuse the following 3-step process when they engage in cyber activities:</p>
 <ul>
-<li><strong>Sense</strong> &ndash; Students should be able to &ldquo;sense&rdquo; any harm when they are exposed to any danger or risk in the cyber world</li>
-<li><strong>Think&nbsp;</strong> &ndash; Students should be able to analyse and evaluate issues related to Cyber Wellness</li>
-<li><strong>Act</strong> &ndash; Students should be able to apply what they have learnt to become responsible users when they are online</li>
+<li><strong>Sense</strong> – Students should be able to “sense” any harm when they are exposed to any danger or risk in the cyber world</li>
+<li><strong>Think&nbsp;</strong> – Students should be able to analyse and evaluate issues related to Cyber Wellness</li>
+<li><strong>Act</strong> – Students should be able to apply what they have learnt to become responsible users when they are online</li>
 </ul>
 <p><strong><u>The Programme</u></strong></p>
 <p>Our vision is to develop Dunearnites to be responsible online users who also have positive online influence. To do so, we have a 3-pronged approach:</p>

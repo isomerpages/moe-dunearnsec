@@ -1,6 +1,6 @@
 ---
 title: Our Motto and Logo
-permalink: /school/our-matto-and-logo/
+permalink: /school/our-motto-and-logo/
 description: ""
 variant: tiptap
 ---

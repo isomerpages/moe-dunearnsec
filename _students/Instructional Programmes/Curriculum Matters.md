@@ -1,8 +1,9 @@
 ---
 title: Curriculum Matters
-permalink: /students/curriculum-matters/
+permalink: /students/instructional-programmes/curriculum-matters/
 description: ""
 variant: markdown
+third_nav_title: Instructional Programmes
 ---
 <h4>Our Teaching &amp; Learning Framework</h4>
 

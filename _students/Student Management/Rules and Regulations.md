@@ -1,8 +1,9 @@
 ---
 title: Rules and Regulations
-permalink: /students/student-management-programmes/rules-and-regulations/
+permalink: /students/student-management/rules-and-regulations/
 description: ""
-third_nav_title: Student Management Programmes
+third_nav_title: Student Management
+variant: tiptap
 ---
 <h4>Rules and Regulations 2023</h4>
 <p><strong>1. Pledge-taking and singing of National Anthem</strong></p>

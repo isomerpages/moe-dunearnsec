@@ -2,16 +2,20 @@ collections:
   students:
     output: true
     order:
-      - Curriculum Matters.md
-      - Edusave Character Award (ECHA).md
-      - CCA Information.md
-      - Student Management Programmes/.keep
-      - Student Management Programmes/Rules and Regulations.md
-      - Student Management Programmes/Student Health Advisor.md
-      - JC, MI, Poly, ITE Admission.md
-      - Sexuality Education.md
-      - Sports Safety.md
+      - Character Citizenship Edn(CCE)/.keep
+      - Character Citizenship Edn(CCE)/Edusave Character Award (ECHA).md
+      - Character Citizenship Edn(CCE)/Sexuality Education.md
+      - Character Citizenship Edn(CCE)/The Help Star.md
+      - Education & Career Guidance/.keep
+      - Education & Career Guidance/Education and Career Guidance (ECG)
+        Programme and Booking.md
+      - Education & Career Guidance/JC, MI, Poly, ITE Admission.md
+      - Instructional Programmes/.keep
+      - Instructional Programmes/Curriculum Matters.md
+      - Instructional Programmes/Homework Guidelines.md
+      - Student Management/.keep
+      - Student Management/Rules and Regulations.md
+      - Student Management/Student Health Advisor.md
+      - Inspirational Stories.md
       - Financial Assistance Scheme.md
-      - Homework Guidelines.md
-      - Direct School Admission.md
-      - The Help Star.md
+      - Sports Safety.md

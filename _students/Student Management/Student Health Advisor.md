@@ -1,8 +1,9 @@
 ---
 title: Student Health Advisor
-permalink: /students/student-management-programmes/student-health-advisor/
+permalink: /students/student-management/student-health-advisor/
 description: ""
-third_nav_title: Student Management Programmes
+third_nav_title: Student Management
+variant: tiptap
 ---
 <h4>Student Health Advisor Programme</h4>
 <p>The Student Health Advisor (SHA) programme is a programme developed by the Ministry of Health (MOH) and fully supported by the Ministry of Education (MOE.) The SHA is a qualified professional (e.g. counselling, food &amp; nutrition, sports science etc) or a trained nurse stationed in selected secondary schools. The SHA will provide advice and guidance for the students with health-related issues so that timely intervention and follow up can be offered to them. The SHA may also refer the students to appropriate specialists for further management.</p>

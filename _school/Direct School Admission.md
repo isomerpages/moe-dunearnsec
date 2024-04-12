@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /students/direct-school-admission/
+permalink: /school/direct-school-admission/
 description: ""
 variant: tiptap
 ---
@@ -58,7 +58,7 @@ ICT skills.</p>
 view our students’ reflection on Dunearn Secondary School’s Science Talent
 Development Programme.&nbsp;</p>
 <p>Dunearn Secondary School invites 2024 Primary 6 students who are keen
-to develop their interest and talents through our<a rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Food Science and Technology</u></a></strong> programme,&nbsp;to
+to develop their interest and talents through our <strong><u>Food Science and Technology</u></strong> programme,&nbsp;to
 apply for direct entry to our 2025 Secondary 1 cohort.</p>
 <p><strong><u>Admission Criteria for Food Science and Technology</u></strong>
 </p>

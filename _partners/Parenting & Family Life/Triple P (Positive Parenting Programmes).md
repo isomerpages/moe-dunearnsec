@@ -2,7 +2,7 @@
 title: Triple P (Positive Parenting Programmes)
 permalink: /partners/parenting-programmes/triple-p-positive-parenting-programmes/
 description: ""
-third_nav_title: Parenting Programmes
+third_nav_title: Parenting & Family Life
 variant: tiptap
 ---
 <h4><strong>Positive Parenting Programme (Triple P)</strong></h4>

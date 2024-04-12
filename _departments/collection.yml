@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - English and Literature/.keep
       - English and Literature/Welcome to English & Literature Department.md
       - English and Literature/Goals.md
       - English and Literature/Vision and Mission.md
-      - English and Literature/.keep
       - English and Literature/About us.md
       - Mathematics Department.md
       - Mother Tongue Department.md
@@ -17,3 +17,4 @@ collections:
       - Craft & Technology Department.md
       - Physical Education.md
       - Character and Citizenship Education.md
+      - Staff Accomplishments.md
