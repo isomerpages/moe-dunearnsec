@@ -1,7 +1,10 @@
 ---
-title: Direct School Admission
-permalink: /school/direct-school-admission/
+title: 2024 Direct School Admission to Dunearn Secondary School
+permalink: /2024-direct-school-admission-to-dunearn-secondary-school/
+date: 2024-04-12
+layout: post
 description: ""
+image: ""
 variant: tiptap
 ---
 <h3><strong>2024 Direct School Admission (DSA) to Dunearn Secondary School<br>(For admission to Secondary One in 2025)</strong></h3>
