@@ -19,7 +19,7 @@ Bukit Batok region.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_Special_Needs_24_Feb___2_Mar_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_Niche_Motivating_Teens_11___18_May_2024.jpg">
 </div>
 <h4><strong><u>Triple P Seminars for 2024 (Secondary Level)</u></strong></h4>
 <p>Do note the registration period for each run. Parents will only be able
