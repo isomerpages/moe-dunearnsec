@@ -5,24 +5,33 @@ description: ""
 third_nav_title: Parents Support Group
 variant: tiptap
 ---
-<p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" rel="noopener" target="_blank">Please click here for more pictures</a>
-</p>
-<h3>What We Do</h3>
 <p>The Dunearn Parent Support Group (PSG) aims to partner and support the
 school in developing the character and intellect of their children. We
 aim to be a</p>
+<ol data-tight="true" class="tight">
+<li>
 <p><strong><u>Supportive Partner in Education</u></strong>
 </p>
+</li>
+</ol>
 <p>The PSG complements the school by aligning with the school’s objectives,
 supporting and strengthening the school’s programmes to improve our children’s
 well-being and learning.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong><u>Bridge Between Parents and School</u></strong>
 </p>
+</li>
+</ol>
 <p>The PSG listens to parents’ feedback on school operations, practices and
 programmes, and provides feedback to the school. The PSG also facilitates
 the school’s communication to parents.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p><strong><u>Magnet to Attract Other Parents</u></strong>
 </p>
+</li>
+</ol>
 <p>Parents who are actively involved in the PSG are better able to reach
 out to other parents and involve them. Over time, more parents can contribute
 to make the school environment more conducive for learning.</p>
@@ -108,4 +117,5 @@ Lek, Cheah Sin Mei, June Lim, Juliana, Coco Pan</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" rel="noopener" target="_blank">Please click here for more pictures</a>
+</p>
