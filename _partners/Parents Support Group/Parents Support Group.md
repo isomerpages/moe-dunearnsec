@@ -59,7 +59,7 @@ share experience and advice with younger parents too.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Parents</strong>
+<p><strong>Names of Parents</strong>
 </p>
 </td>
 </tr>
