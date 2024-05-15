@@ -145,9 +145,8 @@ DSA talent area for 2024 DSA-Sec.</p>
 <td rowspan="1" colspan="1">
 <p>Release of results (Confirmed Offer (CO)/Wait List (WL)/Rejected)</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A letter via hardcopy or email
-will be issued to inform applicants of the outcome [i.e. Confirmed Offer
-(CO), Wait List (WL) or Unsuccessful.</p>
+<p>A letter via hardcopy or email will be issued to inform applicants of
+the outcome [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
