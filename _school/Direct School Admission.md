@@ -91,7 +91,7 @@ DSA talent area for 2024 DSA-Sec.</p>
 <p>&nbsp;<strong><u>Contact Personnel</u></strong>
 </p>
 <p>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at
-65653692. Alternatively, you may email your enquiries to <a href="dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a>.</p>
+65653692. Alternatively, you may email your enquiries to <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a>.</p>
 <p><strong><u>Schedule for DSA-Sec Exercise</u></strong>
 </p>
 <table style="minWidth: 75px">
