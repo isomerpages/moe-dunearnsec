@@ -124,8 +124,7 @@ DSA talent area for 2024 DSA-Sec.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7<sup>th</sup> May to</p>
-<p>3<sup>rd</sup> June 2024, 3 pm</p>
-<p>&nbsp;</p>
+<p>3<sup>rd</sup> June 2024&nbsp;</p>
 </td>
 </tr>
 <tr>
