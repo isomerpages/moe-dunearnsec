@@ -120,11 +120,10 @@ DSA talent area for 2024 DSA-Sec.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for Dunearn DSA-Sec through the online DSA-Sec Portal.</p>
+<p>Application for Dunearn DSA-Sec through the online DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7<sup>th</sup> May to</p>
-<p>3<sup>rd</sup> June 2024&nbsp;</p>
+<p>7<sup>th</sup> May - 3<sup>rd</sup> June 2024&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +143,9 @@ DSA talent area for 2024 DSA-Sec.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of results (Confirmed Offer (CO)/Wait List (WL)/Rejected)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>A letter via hardcopy or email will be issued to inform applicants of
 the outcome [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By 9<sup>th</sup> Sep 2024</p>
