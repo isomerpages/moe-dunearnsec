@@ -14,7 +14,17 @@ History Museum, National University of Singapore.</p>
 <p>In this programme, students had the opportunity to learn about Singapore
 natural heritage and biodiversity and the importance of conserving our
 local flora and fauna.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/bio_LJ_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gallery tour at Lee Kong Chian Natural History Museum</div><div class="isomer-card-description">Gallery tour for our students to learn about Singapore’s natural heritage and biodiversity.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bio_LJ_1.jpg">
 </div>
+<p><em>Gallery tour for our students to learn about Singapore’s natural heritage and biodiversity.&nbsp;&nbsp;</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bio_LJ_2.jpg">
+</div>
+<p><em>(Left Pic)</em>  <em>One of the group activities requires students to examine the specimens and learn adaptations of birds’ beak to their environment. </em>
+</p>
+<p><em>(Right Pic) As part of the programme, students were tasked to create a short video on one of the specimens displayed in the galley.</em>
+</p>
 <p></p>
