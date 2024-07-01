@@ -9,11 +9,11 @@ variant: tiptap
 <p><strong>1. Pledge-taking and singing of National Anthem</strong>
 </p>
 <p>All students are to assemble at the school hall with their respective
-classes by 0725 hrs from Tuesday to Thursday and in the classrooms on Mondays
+classes by 0725 hr from Tuesday to Thursday and in the classrooms on Mondays
 and Fridays. Students who are not with their respective classes by 0730
-hrs are deemed late. Students who are Singapore citizens must sing the
-National Anthem and take the Pledge. Students will take the Pledge with
-the right fist over the heart. Foreign students must stand to attention.</p>
+hr are deemed late. Students who are Singapore citizens must sing the National
+Anthem and take the Pledge. Students will take the Pledge with the right
+fist over the heart. Foreign students must stand to attention.</p>
 <p><strong>2. School Uniform</strong>
 </p>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -112,7 +112,7 @@ deems inappropriate for school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Jewellery such as chains, necklaces, rings or bracelets (e.g. leather
-bangles,friendship bands and rainbow looms).</p>
+bangles, friendship bands and rainbow looms).</p>
 </li>
 <li>
 <p>Coloured/big-eye contact lenses, cosmetics, long nails, fake nails, nail
@@ -250,7 +250,7 @@ and tobacco product</p>
 <p>Cheating in tests / examinations</p>
 </li>
 <li>
-<p>Fighting / Assualt / Rioting / Voluntarily Causing Hurt</p>
+<p>Fighting / Assault / Rioting / Voluntarily Causing Hurt</p>
 </li>
 <li>
 <p>Vandalism</p>
