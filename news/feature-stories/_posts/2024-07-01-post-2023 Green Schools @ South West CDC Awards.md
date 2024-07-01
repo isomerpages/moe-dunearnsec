@@ -13,7 +13,6 @@ West 2023 programme on 13th Mar 2024.&nbsp;</p>
 in educating and instilling public responsibility for our environment in
 children and youth throughout 2023. This is our second consecutive year
 of attaining this achievement.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Yap (VP) receiving the award from Adviser to Chua Chu Kang GRC GROs (Keat Hong), Mr Zhulkarnain" src="/images/Green_Schools_South_West_Awards_Ceremony.jpg">
 </div>
