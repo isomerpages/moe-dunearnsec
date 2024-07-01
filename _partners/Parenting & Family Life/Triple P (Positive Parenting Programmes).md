@@ -17,14 +17,18 @@ Bukit Batok region.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/fy%20triple%20p%20positive%20parenting%20overview%20(sec).png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_Niche_Motivating_Teens_11___18_May_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_L2_20___27_Jul_stress_and_anxiety.jpg">
 </div>
 <h4><strong><u>Triple P Seminars for 2024 (Secondary Level)</u></strong></h4>
 <p>Do note the registration period for each run. Parents will only be able
 to sign up for a specific run during the respective registration period.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
