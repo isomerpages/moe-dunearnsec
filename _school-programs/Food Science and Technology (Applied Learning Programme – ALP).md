@@ -16,10 +16,13 @@ and university are vast and sustainable.&nbsp; &nbsp;&nbsp;&nbsp;</p>
 <h4><strong>Objectives of ALP</strong></h4>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To appreciate the relevance
 and value of what is learnt in the curriculum and to develop 21<sup>st</sup> century
-competencies</p>
+competencies.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide exposure to STEM-related
 applied learning and careers and to help ignite students’ interest in pursuing
-STEM-related post-secondary courses, leading to STEM-related careers</p>
+STEM-related post-secondary courses, leading to STEM-related careers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 <h4><strong>Tier 1 Programmes&nbsp;&nbsp;&nbsp;</strong></h4>
 <p>The Lower Secondary classes undergo a series of interesting Food Science
 and electronics-related modules designed by a Curriculum Specialist from
@@ -32,9 +35,16 @@ young scientists, who possess critical thinking skills, creativity and
 inventive thinking, and communication and ICT skills. Further to this,
 the experiential nature of FSciTech will develop in our students the dispositions
 associated with scientific literacy.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <h4><strong>Tier 2 Programmes</strong></h4>
 <p>Tier 2 programmes involve selected groups of students participating in
 food science activities and competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
 <h4><strong><u>Dunearn Wins First Runner Up in the Eat Your Farm Competition 2022</u></strong></h4>
 <p>Two teams of nine students from Dunearn Secondary School participated
 in the Interschool Eat Your Farm Competition 2022 where students vie for
@@ -53,6 +63,12 @@ and dish.</p>
 <p>We are proud to announce that the DSS Team 1 emerged as First Runner-Up
 for the competition and did the school proud! Congratulations and well
 done team!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+</div>
 <h4><strong>Our Industry Partner – BioAcumen Global Pte Ltd</strong></h4>
 <h4><strong><u>Molecular Sciences in Food Gastronomy and Preservation Workshop</u></strong></h4>
 <p>BioAcumen Global Pte Ltd, founded by our very own alumnus Mr Jimmy Toh,
@@ -64,6 +80,9 @@ were decorated with frozen dried fruits prepared by the company. Concluding
 the workshop with by tasting their self-created unconventional noodles,
 the students enjoyed and learned a lot from Mr Toh, including possible
 STEM careers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
+</div>
 <h4><strong>Our Industry Partner – Fraser &amp; Neave Ltd</strong></h4>
 <h4><strong><u>Fraser &amp; Neave Ltd (F&amp;N) Sensory Evaluation Workshop</u></strong></h4>
 <p>Students from Dunearn Science Ambassadors Programme (SAP) have been participating
@@ -75,6 +94,9 @@ as strawberry yoghurt drinks! They subsequently designed and created their
 very own yoghurt drinks and presented their products to their peers. Coupled
 with learning more about STEM careers in the food industry, this workshop
 was certainly an enriching food science experience!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.jpg">
+</div>
 <h4><strong>Feedback from Our Students</strong></h4>
 <p><em>“I enjoy the ALP programme a lot because I have learnt many new things through the programme. The new skills I have learnt benefit my learning for the future. I hope to attend more of these programmes in future”.</em>
 </p>
@@ -84,7 +106,7 @@ was certainly an enriching food science experience!</p>
 </p>
 <p><em>~ Johnathan</em>
 </p>
-<p><em>Having gone through the Lower Secondary ALP, I have learnt a lot of new and interesting things such as lighting up a LED bulb using Arduino boards and making your own ice cream. These hands-on activities are not only fun but it also teaches us some knowledge on food science and technology. &nbsp; &nbsp; &nbsp; </em>
+<p><em>Having gone through the Lower Secondary ALP, I have learnt a lot of new and interesting things such as lighting up a LED bulb using Arduino boards and making your own ice cream. These hands-on activities are not only fun but it also teaches us some knowledge on food science and technology. &nbsp; &nbsp; &nbsp;</em>
 </p>
 <p><em>~ Kerrie</em>
 </p>
@@ -105,6 +127,10 @@ of two months, the teams developed and finalised their ideas, and also
 created a dietary supplement to complement the main dish.</p>
 <p>We are proud that the DSS Team 2 emerged as First Runner-Up for the competition!
 Congratulations and well done team!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
+</div>
 <h4><strong><u>Reflections from participants:</u></strong></h4>
 <p>“We learned time management skills and the benefits of different food
 ingredients. Thank you to all the teachers for giving us this opportunity
@@ -135,11 +161,17 @@ food product and packaging for picky eaters from age 4 to 7. More than
 teams spent a period of two months to develop and finalised their ideas
 and products.</p>
 <p>We are proud to announce that the SAP team 1 emerged as Second Runner
-Up for the competition. Congratulations and well done team!</p>
-<p>&nbsp;</p>
+Up for the competition. Congratulations and well done team!&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.png">
+</div>
 <p><em>SAP Team 1 and their products</em>
 </p>
 <h4><strong>Dunearn Emerged Champion for the Shell STEM Young Innovation Challenge 2016</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10.jpg">
+</div>
 <p>Two teams of ten students from Dunearn Science Ambassador Programme (SAP)
 participated in the Shell STEM Young Innovation Challenge at Republic Polytechnic
 on 21st Jul 2016. The teams took part in the Health &amp; Food Analytics
@@ -150,6 +182,10 @@ schools took part in the Challenge.</p>
 are proud that one of the teams emerged Champion for the category. The
 team showcased their product and received the award during the Awards Ceremony
 at the HDB Hub on 24 Aug 2016.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.jpg">
+</div>
 <h4><strong>Reflections from students:</strong></h4>
 <p><em>The challenge was stimulating as we had to take into account the many health risks and special diets of the elderly to come up with a new and creative convenience food and drink. It gave us a great opportunity to learn more about nutrition and the food industry and made me more aware of the importance of nutrition and health. I also learnt that developing and marketing a food product is a long process and many evaluations have to be carried before the product is eventually released to the market.</em>
 </p>
