@@ -22,8 +22,8 @@ and to enhance its robustness. The main stages of the selection process
 include nomination, shortlisting and endorsement.</p>
 <p>The nominations for ECHA 2024 are open to our school key stakeholders
 such as parents, alumni, partners, as well as members of the public, <u>from 8<sup>th</sup> July 2024 (Mon) to 19<sup>th</sup> July 2024 (Friday), 3pm</u>.</p>
-<p>The nomination form can be downloaded <u>here</u> &lt;insert link to nomination
-form 2024&gt;</p>
+<p>The nomination form can be downloaded <a href="/files/ECHA_Nomination_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
+</p>
 <p>Please note the following eligibility criteria for nominees:</p>
 <p><strong>Eligibility Criteria</strong>
 </p>
