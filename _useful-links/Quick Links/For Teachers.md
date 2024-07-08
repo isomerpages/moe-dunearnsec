@@ -5,7 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Quick Links
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,6 +18,12 @@ third_nav_title: Quick Links
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://allears.estl.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://appraiser.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">Appraisal Tool for writing SGC</a>
 </p>
 </td>
 </tr>
