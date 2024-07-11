@@ -513,7 +513,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan Whye Lin</p>
+<p>Mr Ng Hock Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4 SAPPHIRE</strong>
