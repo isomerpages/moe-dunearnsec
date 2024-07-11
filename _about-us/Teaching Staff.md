@@ -758,7 +758,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vansie Yap (FAJT)</p>
+<p>Ms Vanise Yap (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
