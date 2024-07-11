@@ -644,7 +644,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Ping</p>
+<p>Mr Muhd Hazwan Bin Sapari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -655,30 +655,6 @@ variant: tiptap
 <p></p>
 <p><strong>Flexi-Adjunct/ Contract Adjunct Teachers</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bai Yirang (CAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Clara Lim (CAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Eliz Ng (CAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -783,6 +759,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Vansie Yap (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan May Fung (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
