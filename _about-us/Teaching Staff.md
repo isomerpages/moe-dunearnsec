@@ -51,6 +51,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Lyana Binti Mohamad Zaky (UT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 DIAMOND</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nurul Ain Binte Muzlan</p>
 </td>
 <td rowspan="1" colspan="1">
