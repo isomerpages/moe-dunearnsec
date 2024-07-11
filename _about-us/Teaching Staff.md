@@ -816,7 +816,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Sai Joo (AED LBS)</p>
+<p>9Mdm Lim Sai Joo (AED LBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -824,7 +824,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Farah Dilla (SEN Officer)</p>
+<p>Mr Tan Zhen Han Andy (UT, SNO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
