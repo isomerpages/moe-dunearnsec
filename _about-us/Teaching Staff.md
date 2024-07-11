@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Wei Loon</p>
+<p>Mr See Gim Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 DIAMOND</strong>
@@ -186,7 +186,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Dilla</p>
+<p>Ms Shernise Chew Dan Rou (UT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 DIAMOND</strong>
