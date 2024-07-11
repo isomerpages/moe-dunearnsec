@@ -240,6 +240,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Thiruckumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 OPAL</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tham Kin Loong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
