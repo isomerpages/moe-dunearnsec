@@ -816,7 +816,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9Mdm Lim Sai Joo (AED LBS)</p>
+<p>Mdm Lim Sai Joo (AED LBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
