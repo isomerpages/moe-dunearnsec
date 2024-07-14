@@ -4,7 +4,12 @@ permalink: /school/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -15,17 +20,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_miao_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_jia_ming_jasmine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
