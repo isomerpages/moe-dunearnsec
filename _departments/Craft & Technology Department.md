@@ -24,7 +24,12 @@ them.</p>
 we aim to nurture our students and staff into compassionate, optimistic,
 collaborative and creative problem-solvers.</p>
 <h4>Staffing</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,18 +54,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fatimah_sawifi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fatimah_sawifi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Hong Wei&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_hong_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="">wang_hong_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -16,7 +16,13 @@ can make informed decisions in the present and plan for a better future.
 This is to prepare them to excel in a fast changing, globalized world and
 yet, able to stay rooted within the society with sound values.</p>
 <h4>Staffing</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -304,22 +310,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lai_keen_annie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_keen_annie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Seow Chong Eric</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principles of</p>
-<p>Accounting (POA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eric_ong_sc@yahoo.com" rel="noopener noreferrer nofollow" target="_blank">eric_ong_sc@yahoo.com</a>
 </p>
 </td>
 </tr>

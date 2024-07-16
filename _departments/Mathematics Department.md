@@ -10,7 +10,12 @@ Solvers by Learning&nbsp;with Engagement. We hope that Dunearnites will
 be able to apply Mathematical concepts and&nbsp;problem solving skills
 into everyday lives.</p>
 <h4>Staffing</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,18 +201,6 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Lim (CAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lim_cheen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_cheen_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lily Lee (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +238,12 @@ into everyday lives.</p>
 </tbody>
 </table>
 <h4>Key Programmes</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
