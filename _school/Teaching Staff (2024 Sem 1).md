@@ -7,7 +7,11 @@ variant: tiptap
 <p><strong>LOWER SEC YEAR HEAD: MR TANG CHEE KUAN </strong>
 <br><strong>LOWER SEC ASSISTANT YEAR HEAD: MS WONG YIN MEI</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Lim Cheen Ying</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1 AMBER</strong>
@@ -285,7 +289,11 @@ variant: tiptap
 <p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
 <br><strong>UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -559,7 +567,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -630,7 +642,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clara Lim (CAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
