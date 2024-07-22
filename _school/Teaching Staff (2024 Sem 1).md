@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Andrea Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1 AMBER</strong>
