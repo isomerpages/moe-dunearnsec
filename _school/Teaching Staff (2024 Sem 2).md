@@ -186,15 +186,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Dilla</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2 DIAMOND</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Esther Lim Yin Ru</p>
 </td>
 <td rowspan="1" colspan="1">
