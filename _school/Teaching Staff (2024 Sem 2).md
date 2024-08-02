@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shernise Chew</p>
+<p>Mr See Gim Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 DIAMOND</strong>
@@ -186,7 +186,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Dilla</p>
+<p>Ms Shernise Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 DIAMOND</strong>
@@ -241,6 +241,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Kin Loong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 OPAL</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thiruckumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 OPAL</strong>
@@ -307,6 +316,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Supandi Bin Djoeraemi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 EMERALD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mehta Shachi Pranav</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 EMERALD</strong>
@@ -405,6 +423,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Jeremiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 PEARL</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Sohail Bin Basiron</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +504,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan Whye Lin</p>
+<p>Mr Ng Hock Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4 SAPPHIRE</strong>
@@ -608,14 +635,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Hazwan B Sapari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -635,14 +654,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Bai Yirang (CAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -804,7 +815,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Sai Joo (SEN Officer)</p>
+<p>Mdm Lim Sai Joo (AED LBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -812,7 +823,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Farah Dilla (SEN Officer)</p>
+<p>Mr Tan Zhen Han Andy (UT SNO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
