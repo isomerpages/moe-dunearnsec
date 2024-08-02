@@ -12,6 +12,4 @@ variant: tiptap
 Examinations from 1 to 14 Oct 2024. A hardcopy of the schedule has been
 issued to your child/ward. You may also download the letter to parents
 and exam schedules <a href="/files/Sec_1_to_3_EOY_2024_letter__schedule.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>Kindly click the link <a href="/files/Sec_1_to_3_EOY_2024_letter__schedule.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> </a>to
-the attached PDF.</p>
 <p>Thank you.</p>
