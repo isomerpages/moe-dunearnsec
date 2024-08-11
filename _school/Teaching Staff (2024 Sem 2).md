@@ -459,6 +459,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Loh Yihao Mark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 RUBY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Charmaine Goh Hui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
