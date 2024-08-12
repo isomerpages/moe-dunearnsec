@@ -185,6 +185,30 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Jeremiah Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="jeremiah_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_jeremiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Andrea Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="andrea_lau_mei_zhin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrea_lau_mei_zhin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Lyana Binti Mohamad Zaky</p>
 </td>
 <td rowspan="1" colspan="1">
