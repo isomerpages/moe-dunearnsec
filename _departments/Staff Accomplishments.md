@@ -4,6 +4,66 @@ permalink: /departments/staff-accomplishments/
 variant: tiptap
 description: ""
 ---
+<h4>National Day Award 2024</h4>
+<p><strong><u>Commendation Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Rajanmi Fernandez</p>
+</li>
+<li>
+<p>Mr Rajasekaran s/o Sockalingam</p>
+</li>
+</ul>
+<p><strong><u>Long Service Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tang Chee Kuan</p>
+</li>
+</ul>
+<h4>National Day Award 2023</h4>
+<p><strong><u>Commendation Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Mohammad Hisham B Amat</p>
+</li>
+</ul>
+<p><strong><u>Efficiency Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Farah Dilla binte Sulaiman</p>
+</li>
+</ul>
+<p><strong><u>Long Service Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Chua Gek Hoon</p>
+</li>
+<li>
+<p>Mr Lee Kong Huat</p>
+</li>
+</ul>
+<h4>National Day Award 2022</h4>
+<p><strong><u>Efficiency Medal</u></strong>
+</p>
+<p>Mr Ahmad Idris Bin Ismail</p>
+<p><strong><u>Long Service Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Chan Sze Ming Selena</p>
+</li>
+<li>
+<p>Mr Tan Yong Chong Lawrence</p>
+</li>
+<li>
+<p>Mr Rajasekaran s/o Sockalingam</p>
+</li>
+</ul>
 <h4>MOE Service Excellence Award 2023</h4>
 <p><strong><u>Gold Winners</u></strong>
 </p>
