@@ -132,7 +132,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>2022 GCE A Level Exams - Outstanding Achievement </strong></h4>
+<h4><strong>2022 GCE A Level Exams - Outstanding Achievement</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
