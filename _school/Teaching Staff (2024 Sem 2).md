@@ -231,6 +231,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Li Yuan Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 RUBY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Emily Low Qian Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -442,6 +451,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Deng Kai Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 RUBY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Yihao Mark</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 RUBY</strong>
