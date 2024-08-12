@@ -207,4 +207,85 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Republic Poly Graduating Class Award Winners in 2021</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Award(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>John Chua Yu Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Industrial and Operations Management</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Lee Kuan Yew Award for Maths and Science</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Singapore Poly Graduating Class Award Winners in 2020</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Award(s)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>James Lim En Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Computer Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kuan Yew Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cisco System Gold Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OCBC Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Institution of Engineers Gold Medal Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
