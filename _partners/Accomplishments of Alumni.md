@@ -132,4 +132,79 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>2022 GCE A Level Exams - Outstanding Achievement </strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reuben Han Wei Chou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 As in 4 H2 subjects, GP &amp; PW.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2022 IB Exams - Outstanding Achievement</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Benjamin Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Joseph Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43 points</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jonathan Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACS (Independent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43 points</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
