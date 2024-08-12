@@ -99,7 +99,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LEE MEI XUAN</p>
+<p>Lee Mei Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diploma in Health Management &amp; Promotion</p>
@@ -110,7 +110,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YAP JUN JIE</p>
+<p>Yap Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diploma in Sustainable Built Environment</p>
@@ -121,7 +121,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM ZHAO PING RACHEL</p>
+<p>Lim Zhao Ping Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diploma in Human Resource Management with Psychology</p>
