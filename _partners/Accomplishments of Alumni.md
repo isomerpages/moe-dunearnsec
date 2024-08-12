@@ -16,7 +16,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Course</p>
@@ -88,7 +88,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Course</p>
@@ -142,7 +142,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>College</p>
@@ -174,7 +174,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>College</p>
@@ -219,7 +219,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Course</p>
@@ -254,7 +254,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of Alumni</p>
+<p>Name of Alumnus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Course</p>
