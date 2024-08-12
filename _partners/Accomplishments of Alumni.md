@@ -78,4 +78,58 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Republic Poly Graduating Class Award Winners in 2024</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE MEI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Health Management &amp; Promotion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAP JUN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Sustainable Built Environment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM ZHAO PING RACHEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Human Resource Management with Psychology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
