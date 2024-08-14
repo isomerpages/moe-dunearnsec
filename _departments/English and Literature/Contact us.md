@@ -1,17 +1,17 @@
 ---
-title: About us
-permalink: /departments/english-n-literature-department/aboutus/
-description: ""
+title: Contact us
+permalink: /contact-us/
 variant: tiptap
+description: ""
 third_nav_title: English and Literature
 ---
-<h4></h4>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ELL_About_us_04.svg">
-</div>
-<h4>Staffing</h4>
-<table>
+<h4><strong>Our email addresses:</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,6 +180,30 @@ third_nav_title: English and Literature
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_jie_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jie_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremiah Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="jeremiah_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_jeremiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Andrea Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="andrea_lau_mei_zhin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrea_lau_mei_zhin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
