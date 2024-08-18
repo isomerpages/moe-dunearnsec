@@ -55,14 +55,13 @@ play an important role in imparting the necessary knowledge and skills
 to keep them safe from online dangers and building positive cyber habits.</p>
 <p>Here are some useful downloadable tips for parents to keep children safe
 from online dangers:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Cyber Bullying</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Cyberwellness resources/Tip_Sheet_on_Cyber_Bullying_updated_8Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Cyber Bullying</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Cyber Contact</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Cyberwellness resources/Tip_sheet_on_cyber_contact_updated_26Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Cyber Contact</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Excessive Internet Use</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Cyberwellness resources/Tip_sheet_on_excessive_internet_use_updated_26Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Excessive Internet Use</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Handling Hate Online Content</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Cyberwellness resources/Tip_Sheet_on_handling_online_content_updated_8Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Handling Hate Online Content</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Positive Peer Influence</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Cyberwellness resources/Tip_Sheet_on_positive_peer_influence_updated_26Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Tip Sheet on Positive Peer Influence</a>
 </p>
-<p></p>
