@@ -10,11 +10,11 @@ variant: tiptap
 the school teachers, you may also contact the following parties for help!</p>
 <p><strong>1) Dunearn School Counsellor &amp; Student Welfare Officer</strong>
 </p>
-<p>Contact our school's counsellor, Mr Png Keat Siong, who is always ready
-to provide counselling help for your Cyber Wellness problems.</p>
-<p>You can also contact our Student Welfare Officer Ms. Rashedah if you want
-to learn how to manage your Cyber Wellness problems.</p>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">p_ng_keat_siong@moe.edu.sg</a>
+<p>Contact our school's counsellor, <strong>Mr Png Keat Siong</strong>, who
+is always ready to provide counselling help for your Cyber Wellness problems.</p>
+<p>You can also contact our Student Welfare Officer <strong>Ms. Rashedah</strong> if
+you want to learn how to manage your Cyber Wellness problems.</p>
+<p>Email:&nbsp;<a href="mailto:p_ng_keat_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_ng_keat_siong@moe.edu.sg</a>
 </p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">rashedah_khan_pate_khan@moe.edu.sg</a>
 </p>
