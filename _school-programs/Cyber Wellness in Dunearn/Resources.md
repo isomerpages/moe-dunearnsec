@@ -25,7 +25,7 @@ services for Cyber Wellness problems for all age groups.</p>
 <p>Email:&nbsp;<a href="mailto:cyberwellness@touch.org.sg" rel="noopener noreferrer nofollow" target="_blank">cyberwellness@touch.org.sg</a>
 </p>
 <p>TOUCHLine: 1800 337 2252 (Mon - Fri, 9am - 6pm)</p>
-<p>Website:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg/about-touch/our-services/touch-cyber-wellness-homepage</a>
+<p>Website:&nbsp;<a href="https://www.touch.org.sg/about-touch/our-services/touch-cyber-wellness-homepage" rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg/about-touch/our-services/touch-cyber-wellness-homepage</a>
 </p>
 <p><strong>3) Help123</strong>
 </p>
