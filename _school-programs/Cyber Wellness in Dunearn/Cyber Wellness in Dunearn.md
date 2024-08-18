@@ -31,15 +31,15 @@ to take responsibility for their own wellbeing in cyberspace through a
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Sense</strong>&nbsp;– Students should be able to “sense” any harm
-when they are exposed to any danger or risk in cyberspace</p>
+when they are exposed to any danger or risk in cyberspace.</p>
 </li>
 <li>
 <p><strong>Think&nbsp;</strong>&nbsp;– Students should be able to analyse
-and evaluate issues related to Cyber Wellness</p>
+and evaluate issues related to Cyber Wellness.</p>
 </li>
 <li>
 <p><strong>Act</strong>&nbsp;– Students should be able to apply what they
-have learnt to become responsible users when they are online</p>
+have learnt to become responsible users when they are online.</p>
 </li>
 </ul>
 <p></p>
@@ -50,4 +50,3 @@ have learnt to become responsible users when they are online</p>
 values in their children by helping parents to understand cyber wellness
 issues and risks, as well as involving parents in reinforcing Cyber Wellness
 principles at home.</p>
-<p></p>
