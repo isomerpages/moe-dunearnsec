@@ -21,7 +21,4 @@ strategies to navigate the world of screens alongside your family.</p>
 <br><strong>Language:</strong>&nbsp;English
 <br><strong>Target Audience:</strong>&nbsp;For parents who reside or have
 children studying in Bukit Batok, Bukit Panjang and Choa Chu Kang region</p>
-<p><strong>Registration Link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/feiyuetalk</a></strong>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Registration Link: </strong><a href="https://go.gov.sg/feiyuetalk" rel="noopener nofollow" target="_blank">https://go.gov.sg/feiyuetalk</a>&nbsp;</p>
