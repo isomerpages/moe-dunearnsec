@@ -5,22 +5,20 @@ description: ""
 third_nav_title: Parenting & Family Life
 variant: tiptap
 ---
-<h4><strong>Parenting Support Programmes</strong></h4>
-<h4>FLE Programmes Calendar 2024</h4>
-<p>Greetings from Fei Yue Community Services!</p>
-<p>Thank you for your continuous support for our Family Life Education (FLE)programmes.&nbsp;</p>
-<p>Here is the registration Link:&nbsp;<a href="https://go.fycs.org/FLE2024" rel="noopener noreferrer nofollow" target="_blank">https://go.fycs.org/FLE2024</a>
+<p>Dear Parents,</p>
+<p>We are pleased to share with you about Fei Yue’s upcoming Family Life
+Education talk in September.</p>
+<h4><strong>Topic: Fostering Safe and Healthy Digital Habits for Teens</strong>&nbsp;&nbsp;</h4>
+<p><strong>Synopsis:</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_FLE_programme.png">
-</div>
-<p>The registration for the above programmes will close 1 week before the
-programme date and confirmation details will be sent to parents who sign
-up for the programmes.&nbsp;</p>
-<p>Should you have further queries, please feel free to contact me at claraang.fycs.org
-or 8428 2433.</p>
-<p>We look forward to working closely with you in strengthening family relationships!</p>
-<p>Warm Regards,
-<br>Clara Ang</p>
-<p>&nbsp;</p>
+<p>Our children are growing up in a world brimming with technology. While
+the digital landscape offers endless opportunities, it's essential to cultivate
+safe and healthy online habits. This session will equip you with practical
+strategies to navigate the world of screens alongside your family.</p>
+<p><strong>Date:</strong>&nbsp;28 Sep 2024 (Saturday)</p>
+<p><strong>Time:</strong>&nbsp;2:30PM to 4:00PM
+<br><strong>Mode of Delivery:</strong>&nbsp;ZOOM online
+<br><strong>Language:</strong>&nbsp;English
+<br><strong>Target Audience:</strong>&nbsp;For parents who reside or have
+children studying in Bukit Batok, Bukit Panjang and Choa Chu Kang region</p>
+<p><strong>Registration Link: </strong><a href="https://go.gov.sg/feiyuetalk" rel="noopener nofollow" target="_blank">https://go.gov.sg/feiyuetalk</a>&nbsp;</p>
