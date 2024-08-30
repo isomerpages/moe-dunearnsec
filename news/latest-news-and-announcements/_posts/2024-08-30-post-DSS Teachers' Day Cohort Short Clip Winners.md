@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://static.vecteezy.com/system/resources/previews/006/349/302/non_2x/happy-teacher-s-day-poster-with-school-objects-free-vector.jpg">
+</div>
 <p></p>
 <p>Yesterday, our Dunearnites unleashed their creativity in a thrilling class-based
 activity! Each class was challenged to create a short, fun-filled clip
