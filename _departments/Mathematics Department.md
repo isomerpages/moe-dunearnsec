@@ -6,9 +6,11 @@ variant: tiptap
 ---
 <h4>Departmental Mission</h4>
 <p>The Mathematics Department aims to develop every student into Problem
-Solvers by Learning&nbsp;with Engagement.<a href="https://dunearn-mathematics-92b57qb.gamma.site/" rel="noopener nofollow" target="_blank">link</a> We hope
-that Dunearnites will be able to apply Mathematical concepts and&nbsp;problem
-solving skills into everyday lives.</p>
+Solvers by Learning&nbsp;with Engagement. We hope that Dunearnites will
+be able to apply Mathematical concepts and&nbsp;problem solving skills
+into everyday lives.</p>
+<p><a href="https://dunearn-mathematics-92b57qb.gamma.site/" rel="noopener nofollow" target="_blank">Link to Math Dept Website</a>
+</p>
 <h4>Staffing</h4>
 <table style="minWidth: 75px">
 <colgroup>
