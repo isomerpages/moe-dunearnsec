@@ -25,22 +25,38 @@ them in the future.</p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Mr Tan Jie Xuan</p>
+</li>
+<li>
 <p>Mr Tham Kin Loong</p>
 </li>
 <li>
-<p>Mr Tan Jie Xuan</p>
+<p>Mr Thiruckumaran</p>
 </li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3:30 - 5:30 pm (Field)</p>
+<p>Tuesday 3:00 - 5:00 pm (Field)</p>
 </li>
 <li>
-<p>Thursday 3:30 - 5:30 pm (Field)</p>
+<p>Thursday 3:00 - 5:00 pm (Field)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/football.png">
+<img style="width: 100%" height="auto" width="100%" alt="NSG photo 1" src="/images/Football_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NSG Photo 2" src="/images/Football_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NSG photo 3" src="/images/Football_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NSG Photo 4" src="/images/Football_4.jpg">
 </div>
 <p></p>
