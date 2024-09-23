@@ -191,6 +191,18 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Thiruckumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math / A Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:M_Thiruckumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">M_Thiruckumaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Soh Cek Sin</p>
 </td>
 <td rowspan="1" colspan="1">
