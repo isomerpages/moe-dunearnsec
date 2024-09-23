@@ -67,7 +67,7 @@ Band&nbsp;Fiesta</p>
 <p>SYF Arts Presentation 2017 – Certificate of Achievement</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2019 (Woodwind Ensemble) – Certificate of Achievemen</p>
+<p>SYF Arts Presentation 2019 (Woodwind Ensemble) – Certificate of Achievement</p>
 </li>
 </ul>
 <p></p>
