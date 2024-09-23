@@ -167,7 +167,7 @@ into everyday lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Chui Ling</p>
+<p>Ms Low Chui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
@@ -186,6 +186,30 @@ into everyday lives.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_shu_hua_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_hua_fiona@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jeremiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jeremiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jeremiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thiruckumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math / A Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:M_Thiruckumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">M_Thiruckumaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -239,74 +263,5 @@ into everyday lives.</p>
 </tr>
 </tbody>
 </table>
-<h4>Key Programmes</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong><u>Problem-Based Learning (Sec 2 – 3 Express)</u></strong>
-</p>
-<p><em>Objectives: To allow students to apply the knowledge they have acquired in the classrooms into multifactorial problems.&nbsp;This also allows students to pick up other skills such as presentation and research skills which will develop them into 21 st Century learners.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Enrichment Programme</u></strong>
-</p>
-<p><em>To provide opportunities for students to appreciate how Mathematics is applied in our everyday lives and to develop a stronger interest in the subject.</em>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Math &amp; Science Week (All levels)&nbsp;</p>
-</li>
-<li>
-<p>Math Games (for Sec 1 – 2)&nbsp;</p>
-</li>
-<li>
-<p>Code in the Community (CITC) by Google and IMDA (for selected students)</p>
-</li>
-<li>
-<p>Code for Fun by IMDA (for Sec 1)</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Talent Development Programme</u></strong>
-</p>
-<p><em>To stretch and provide greater exposure for students with high ability.</em>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Coding Workshop</p>
-</li>
-<li>
-<p>Mathematics Competitions</p>
-</li>
-<li>
-<p>Math and Science Week</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Differentiated Program</u></strong>
-</p>
-<p><em>To provide a platform for greater acquisition of knowledge for effective learning.</em>&nbsp;</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Bridging Programme (for SBB Math students)&nbsp;</p>
-</li>
-<li>
-<p>ICAN Programme (for NA &amp; Express)</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>

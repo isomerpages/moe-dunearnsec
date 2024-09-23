@@ -3,6 +3,7 @@ title: Infocomm Technology Club
 permalink: /ccas/clubs/infocomm-technology-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 <h4>Infocomm Technology Club CCA Objectives</h4>
 <ol>
@@ -13,11 +14,11 @@ third_nav_title: Clubs
 <h4>CCA Teachers-in-Charge</h4>
 <ul>
 <li>Ms Nur Fatimah Shafiee</li>
-<li>Ms Nurrulhuda Shaik Aminudd</li>
-<li>Ms Bahirah Bahar</li>
+<li>Ms Lwa Heng Qian</li>
+<li>Mr Lo Tin Chee</li>
 <li style="list-style-type: none;">&nbsp;</li>
 </ul>
-<p>Vendors: C’ignature Group and Duck Learning (AY 2023)</p>
+	<p>Vendors: Immersive Media Programme by Make the Change (AY 2024)</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
 <li>Wednesday, 3.30pm to 5.30pm (Computer Labs 2 and 3)</li>
@@ -25,16 +26,15 @@ third_nav_title: Clubs
 </ul>
 <h4>Highlights &amp; Achievements</h4>
 <ul>
-<li>Collaboration with CCE (Counselling) to develop website on mental health awareness</li>
-<li>Participation in ‘Our Schools, Our Stories’ Competition 2020-2022</li>
+<li>Active involvement in National Youth Artificial Intelligence Prompt Design Challenge
+</li><li>Active involvement in Unity Game Development Bootcamp
+</li><li>Collaboration with CCE (Counselling) to develop website on mental health awareness</li>
+<li>Participation in ‘Our Schools, Our Stories’ Competition 2020-2024</li>
 <li>Finalists for Amazon Web Services Bootcamp 2021</li>
-<li>Participation in Singapore Digital Media Awards Competition</li>
+
 <li style="list-style-type: none;"></li>
 </ul>
 <h4>CCA Leaders</h4>
-<p>President: Ho Zhi Xian (3OP)</p>
-<p>Vice-President: Adlyn Binte Yani (2EM)</p>
+<p>President: Adlyn Binte Yani (3TP)</p>
+<p>Vice-President: Chua Kai Xuan Nyll (3EM)</p>
 <h4>Photo/ Photos/ Video </h4>
-<img src="/images/IT1.jpg">&nbsp;
-<img src="/images/IT2.jpg">&nbsp;
-<img src="/images/IT3.jpg">
