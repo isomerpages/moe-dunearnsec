@@ -254,7 +254,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Wan Chin</p>
+<p>Ms Tan Wan Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (BT)</p>
@@ -263,7 +263,7 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Principle of Accounting, Elements of Business Skills (EBS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_wanchin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wanchin@moe.edu.sg</a>
+<p><a href="tan_wanchin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_chin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
