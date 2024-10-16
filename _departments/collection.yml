@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English and Literature/.keep
-      - English and Literature/Welcome to English & Literature Department.md
+      - English and Literature/English & Literature Department.md
       - English and Literature/The Department.md
       - English and Literature/News & Events.md
       - English and Literature/Contact us.md
