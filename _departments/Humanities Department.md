@@ -260,7 +260,7 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Teacher (BT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principles of Accounting, Elements of Business Skills (EBS)</p>
+<p>Principles of Accounts, Elements of Business Skills (EBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_wanchin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_chin_a@moe.edu.sg</a>
