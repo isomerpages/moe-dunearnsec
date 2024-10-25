@@ -5,7 +5,68 @@ variant: tiptap
 description: ""
 third_nav_title: Quick Links
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Booklists 2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_3_Exp.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_3_NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_3_NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_4_EXP.pdf" rel="noopener nofollow" target="_blank">Sec 4 EXP Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT Booklist 2025</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
