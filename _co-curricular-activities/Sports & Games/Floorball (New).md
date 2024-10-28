@@ -65,10 +65,20 @@ and guide their peers toward shared goals.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_1_1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Floorball_1_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Floorball_2_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Floorball_2_3.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_3_1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_4_1.png">
 </div>
 <p></p>
