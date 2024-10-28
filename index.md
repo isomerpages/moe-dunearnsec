@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Food Science Technology
-          description: ""
-          url: /school-programs/food-science-and-technology-applied-learning-programme-alp
         - title: Community Youth Leadership
           description: ""
           url: /school-programs/community-youth-leadership-llp
+        - title: Food Science Technology
+          description: ""
+          url: /school-programs/food-science-and-technology-applied-learning-programme-alp
       background: /images/DSS_Publicity_Website_Banner_2024_jpeg.jpg
-      variant: center
+      variant: image
   - resources:
       subtitle: Latest Announcements
       button: More
