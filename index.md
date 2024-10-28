@@ -14,8 +14,8 @@ sections:
         - title: Community Youth Leadership
           description: ""
           url: /school-programs/community-youth-leadership-llp
-      background: /images/DSS_Publicity_Website_Banner_2024.jpg
-      variant: center
+      background: /images/DSS_Publicity_Website_Banner_2024_jpeg.jpg
+      variant: image
   - resources:
       subtitle: Latest Announcements
       button: More
