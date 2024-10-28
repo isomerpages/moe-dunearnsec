@@ -121,7 +121,4 @@ Lek, Cheah Sin Mei, June Lim, Juliana, Coco Pan</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" rel="noopener" target="_blank">Please click here for more pictures</a>
-</p>
-<p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" rel="noopener nofollow" target="_blank">Please click here for more photos.</a>
-</p>
+<p></p>
