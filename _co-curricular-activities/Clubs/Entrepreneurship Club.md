@@ -111,27 +111,28 @@ when pitching their business plans&nbsp;</p>
 <h4>Highlights</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA Values-In-Action: Essential Workers’ Appreciation Day</p>
+<p><strong>CCA Values-In-Action</strong>: Essential Workers’ Appreciation
+Day</p>
 </li>
 <li>
-<p>Speech Day 2017 – 2019, 2022-2024: Serving the guests at dinner reception,
-preparing goodie bags for 60<sup>th</sup> Anniversary, serving mocktails
-at reception</p>
+<p><strong>Speech Day</strong> 2017 – 2019, 2022-2024: Serving the guests
+at dinner reception, preparing goodie bags for 60<sup>th</sup> Anniversary,
+serving mocktails at reception</p>
 </li>
 <li>
-<p>National Day Celebration 2018: Traditional Snacks Pushcart</p>
+<p><strong>National Day Celebration</strong> 2018: Traditional Snacks Pushcart</p>
 </li>
 <li>
-<p>Mastermix 2019 &amp; 2022</p>
+<p><strong>Mastermix</strong> 2019 &amp; 2022</p>
 </li>
 <li>
-<p>DunearnOK! 2023 &amp; 2024</p>
+<p><strong>DunearnOK!</strong> 2023 &amp; 2024</p>
 </li>
 <li>
-<p>Teachers’ Day Carnival 2024</p>
+<p><strong>Teachers’ Day Carnival</strong> 2024</p>
 </li>
 <li>
-<p>Work attachment at <strong>SNCF</strong>, <strong>Far East Flora Thomson</strong> and <strong>Make the Change</strong>
+<p><strong>Work attachment </strong>at <strong>SNCF</strong>, <strong>Far East Flora Thomson</strong> and <strong>Make the Change</strong>
 </p>
 </li>
 </ul>
@@ -181,14 +182,21 @@ Oct 2023</p>
 </li>
 </ul>
 <h4>Photos</h4>
-<p>![](/images/ENT_Pic_1.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_1.jpg">
+</div>
 <p>Nabihah and Seraphine (3 Ruby) managed to clinch First Runner-up in Food
 and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic.</p>
-<p>![](/images/ENT_Pic_2.jpg)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_2.jpg">
+</div>
 <p>Entrepreneurship Club members went to Project Dignity to learn about social
 entrepreneurship and practice sign language when ordering beverages. Members
 also helped in packing and distributing bento to elderly in need.</p>
-<p>![](/images/ENT_Pic_3.jpg)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_3.jpg">
+</div>
 <p>Entrepreneurship Club members organized Essential Workers Appreciation
 Day to show their appreciation towards school cleaners.</p>
 <p></p>
