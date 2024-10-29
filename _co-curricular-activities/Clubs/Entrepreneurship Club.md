@@ -191,3 +191,10 @@ also helped in packing and distributing bento to elderly in need.</p>
 <p>![](/images/ENT_Pic_3.jpg)</p>
 <p>Entrepreneurship Club members organized Essential Workers Appreciation
 Day to show their appreciation towards school cleaners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
+</div>
+<p>Entrepreneurship Club members visited Dialogue in the Dark to enable them
+to develop skills such as empathy and inclusion, better communications
+and leadership.</p>
