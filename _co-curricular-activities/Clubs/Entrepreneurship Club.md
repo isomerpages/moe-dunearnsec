@@ -3,71 +3,206 @@ title: Entrepreneurship Club
 permalink: /ccas/clubs/entrepreneurship-club/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
 <h4>CCA Objectives</h4>
-<p>Through the Entrepreneurship Club, the students learn about entrepreneurship skills, as well as event management and planning. Entrepreneurship Club also provides opportunities for the members to give back to the school through their Values-in-Action project-Essential Workers' Appreciation Day.&nbsp;</p>
+<p>Through the Entrepreneurship Club, the students learn about entrepreneurship
+skills, as well as event management and planning. Entrepreneurship Club
+also provides opportunities for the members to give back to the school
+through their Values-in-Action project-Essential Workers' Appreciation
+Day.&nbsp;</p>
 <p>Entrepreneurship Club activities aim to:&nbsp;</p>
-<ul>
-<li>Equip students with entrepreneurial mind-set and spirit&nbsp;</li>
-<li>Enable students to understand how business practices are adopted in the real world&nbsp;</li>
-<li>Enable students to apply enterprise skills in operating the pushcart and events&nbsp;</li>
-<li>Enable students to be equipped with presentation skills and confidence when pitching their business plans&nbsp;</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Equip students with entrepreneurial mind-set and spirit&nbsp;</p>
+</li>
+<li>
+<p>Enable students to understand how business practices are adopted in the
+real world&nbsp;</p>
+</li>
+<li>
+<p>Enable students to apply enterprise skills in operating the pushcart and
+events&nbsp;</p>
+</li>
+<li>
+<p>Enable students to be equipped with presentation skills and confidence
+when pitching their business plans&nbsp;</p>
+</li>
 </ul>
 <h4>Teachers-In-Charge</h4>
-<ul>
-<li>Ms Ng Mei Ferng</li>
-<li>Ms Lailtha</li>
-<li>Mr Pearlwe Chau</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Ng Mei Ferng</p>
+</li>
+<li>
+<p>Ms Lailtha</p>
+</li>
+<li>
+<p>Mr Pearlwe Chau</p>
+</li>
 </ul>
-<h4>The Entrepreneurship Committee Members (2023)</h4>
-<table style="height: 54px;">
+<h4>The Entrepreneurship Committee Members (2024)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr style="height: 18px;">
-<th style="text-align: center; height: 18px; width: 120.812px;">Name</th>
-<th style="text-align: center; height: 18px; width: 84.1562px;">Class</th>
-<th style="text-align: center; height: 18px; width: 112.844px;">Position</th>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
 </tr>
-<tr style="height: 18px;">
-<td style="text-align: center; height: 18px; width: 120.812px;">BRANDON TAN</td>
-<td style="text-align: center; height: 18px; width: 84.1562px;">3 PEARL</td>
-<td style="text-align: center; height: 18px; width: 112.844px;">President</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FADZIL BIN HARITH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Pearl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
 </tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 120.812px; text-align: center;">YANG YIK HONG&nbsp;</td>
-<td style="height: 18px; width: 84.1562px; text-align: center;">3 DIAMOND</td>
-<td style="height: 18px; width: 112.844px; text-align: center;">Vice President</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG JIAXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Opal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOI SHENG KANG JAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Amber</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUCAS TAN ZHI XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Sapphire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistic Manager</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Training Day, Time and Venue</h4>
 <p>Wednesdays, 3:30 – 5:30pm, Computer Lab 1</p>
 <h4>Highlights</h4>
-<ul>
-<li>CCA Values-In-Action: Essential Workers' Appreciation Day</li>
-<li>Speech Day 2017 - 2019 : Serving the guests at Reception</li>
-<li>National Day Celebration 2018: Traditional Snacks Pushcart</li>
-<li>Mastermix 2019 &amp; 2022</li>
-<li>Dunearn Karaoke 2023</li>
-<li>Work attachment at **SNFC, Far East Flora (Thompson)** and **Make the Change**</li>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>CCA Values-In-Action</strong>: Essential Workers’ Appreciation
+Day</p>
+</li>
+<li>
+<p><strong>Speech Day</strong> 2017 – 2019, 2022-2024: Serving the guests
+at dinner reception, preparing goodie bags for 60<sup>th</sup> Anniversary,
+serving mocktails at reception</p>
+</li>
+<li>
+<p><strong>National Day Celebration</strong> 2018: Traditional Snacks Pushcart</p>
+</li>
+<li>
+<p><strong>Mastermix</strong> 2019 &amp; 2022</p>
+</li>
+<li>
+<p><strong>DunearnOK!</strong> 2023 &amp; 2024</p>
+</li>
+<li>
+<p><strong>Teachers’ Day Carnival</strong> 2024</p>
+</li>
+<li>
+<p><strong>Work attachment </strong>at <strong>SNCF</strong>, <strong>Far East Flora Thomson</strong> and <strong>Make the Change</strong>
+</p>
+</li>
 </ul>
+<h4>Participation</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>ignITE Skills Challenge 2024</strong>- CW Influencer Showdown</p>
+</li>
+<li>
+<p><strong>Republic Polytechnic Entrepreneurship&nbsp;Bootcamp 2024</strong>
+</p>
+</li>
+</ul>
+<p></p>
 <h4>Achievements</h4>
-<ul>
-<li>National Pushcart Challenge 2016 by Republic Polytechnic- Gold Award</li>
-<li>ignITE Skills Challenge 2017- Get Rich $ In ASEAN Finalist</li>
-<li>Network for Teaching Entrepreneurship Challenge 2017 - 4th position</li>
-<li>Food &amp; Beverage Entrepreneurship Competition 2023 by Republic Polytechnic - 1st Runner-up</li>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>National Pushcart Challenge 2016</strong> by Republic Polytechnic-
+Gold Award</p>
+</li>
+<li>
+<p><strong>ignITE Skills Challenge 2017</strong>- Get Rich $ In ASEAN Finalist</p>
+</li>
+<li>
+<p><strong>Network for Teaching Entrepreneurship Challenge 2017</strong> -
+4th position</p>
+</li>
+<li>
+<p><strong>Food &amp; Beverage Entrepreneurship Competition 2023</strong> by
+Republic Polytechnic - 1st Runner-up</p>
+</li>
 </ul>
-<h4>Learning Journey</h4>
-
-<li>Latte Art Appreciation Workshop - Oct 2022</li>
-<li>Enabling Village &amp; Tech Able - May 2023</li>
-<li>Dignity Kitchen with packing and distribution of bento - Oct 2023</li>
-
+<h4>Learning journey</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Latte Art Appreciation Workshop </strong>- Oct 2022</p>
+</li>
+<li>
+<p><strong>Enabling Village &amp; Tech Able </strong>- May 2023</p>
+</li>
+<li>
+<p><strong>Dignity Kitchen with packing and distribution of bento </strong>-
+Oct 2023</p>
+</li>
+<li>
+<p><strong>Dialogue in the Dark </strong>- May 2024</p>
+</li>
+</ul>
 <h4>Photos</h4>
-![](/images/ENT_Pic_1.jpg)
-<p>Nabihah and Seraphine (3 Ruby) managed to clinch First Runner-up in Food and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic.</p>
-![](/images/ENT_Pic_2.jpg)
-<p>Entrepreneurship Club members went to Project Dignity to learn about social entrepreneurship and practice sign language when ordering beverages. Members also helped in packing and distributing bento to elderly in need.</p>
-![](/images/ENT_Pic_3.jpg)
-<p>Entrepreneurship Club members organized Essential Workers Appreciation Day to show their appreciation towards school cleaners.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_1.jpg">
+</div>
+<p>Nabihah and Seraphine (3 Ruby) managed to clinch First Runner-up in Food
+and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_2.jpg">
+</div>
+<p>Entrepreneurship Club members went to Project Dignity to learn about social
+entrepreneurship and practice sign language when ordering beverages. Members
+also helped in packing and distributing bento to elderly in need.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_3.jpg">
+</div>
+<p>Entrepreneurship Club members organized Essential Workers Appreciation
+Day to show their appreciation towards school cleaners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
+</div>
+<p>Entrepreneurship Club members visited Dialogue in the Dark to enable them
+to develop skills such as empathy and inclusion, better communications
+and leadership.</p>

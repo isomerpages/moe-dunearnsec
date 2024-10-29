@@ -36,7 +36,11 @@ admin and teaching block were added. In 2024, the school welcomed its first
 batch of Full-SBB cohort students.</p>
 <p>Over the years, the school has been ably led by experienced and respected
 Principals:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -152,7 +156,7 @@ Principals:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dec 2015 – Present</p>
+<p>Dec 2015 – Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Miao Ling</p>

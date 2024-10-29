@@ -51,7 +51,11 @@ available to the school and the PSG.</p>
 the school and PSG. Cluster-wide or zonal PSG forums are a great opportunity
 to learn and share ideas with other PSGs. More experienced parents can
 share experience and advice with younger parents too.&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,5 +121,4 @@ Lek, Cheah Sin Mei, June Lim, Juliana, Coco Pan</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://sites.google.com/a/dunearn.edu.sg/dunearn-secondary-school-parents-support-group/" rel="noopener" target="_blank">Please click here for more pictures</a>
-</p>
+<p></p>
