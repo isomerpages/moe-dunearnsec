@@ -64,6 +64,61 @@ description: ""
 <p>Mr Rajasekaran s/o Sockalingam</p>
 </li>
 </ul>
+<h4>MOE Service Excellence Award 2024</h4>
+<p><strong><u>Gold Winners</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Leong Sweet Lee</p>
+</li>
+<li>
+<p>Mr Mohammad Hisham Bin Amat</p>
+</li>
+<li>
+<p>Mdm Selvarani D/O Miandy</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Silver Winners</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Chau Pearlwe</p>
+</li>
+<li>
+<p>Ms Juraiza Binte Sapiee</p>
+</li>
+<li>
+<p>Mdm Lailtha D/O Savathan</p>
+</li>
+<li>
+<p>Mr Lee Kong Huat</p>
+</li>
+<li>
+<p>Mdm Lek Siew Li</p>
+</li>
+<li>
+<p>Ms Lim Yin Ru, Esther</p>
+</li>
+<li>
+<p>Ms Ng Mei Ferng</p>
+</li>
+<li>
+<p>Mr P Ng Keat Siong</p>
+</li>
+<li>
+<p>Mdm Rashedah Khan Binte Pate Khan</p>
+</li>
+<li>
+<p>Ms Syakira Binte Zainudin</p>
+</li>
+<li>
+<p>Mr Tan Jie Xuan</p>
+</li>
+<li>
+<p>Mr Tham Kin Loong</p>
+</li>
+</ul>
 <h4>MOE Service Excellence Award 2023</h4>
 <p><strong><u>Gold Winners</u></strong>
 </p>
