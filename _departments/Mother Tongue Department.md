@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_icon.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MT_icon.png">
 </div>
 <h3><strong>Objectives</strong></h3>
 <h4><strong>Our Vision</strong></h4>
