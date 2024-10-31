@@ -26,4 +26,3 @@ variant: markdown
 <li>Proper use of AVA Equipment</li>
 <li>Stage and Concert Management Skills</li>
 </ul>
-
