@@ -26,5 +26,4 @@ variant: markdown
 <li>Proper use of AVA Equipment</li>
 <li>Stage and Concert Management Skills</li>
 </ul>
-<h4>AVA Photos</h4>
-<img src="/images/audio.png">
+
