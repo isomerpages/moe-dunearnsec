@@ -5,161 +5,351 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h4>CCA Objectives</h4>
-<p><strong>Developing Leaders with Character &amp; Values<br></strong>Ensure the cadets’ growth by exposing them to a challenging environment, which, in turn will&nbsp;imbue them with leadership qualities, strong character and civic, social and moral values.</p>
-<p><strong>Building Bonds with SPF<br></strong>Enlighten them on the role of the Singapore Police Force, help to build a stronger bond of&nbsp;friendship with SPF, and so lead to a safer place for all in the country.</p>
-<p><strong>Showing Care &amp; Concern to Others<br></strong>As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact,&nbsp;teach them to extend the same care and concern to others.</p>
-<p><strong>Facing Challenges &amp; Achieving Excellence<br></strong>As a result of our identification with the Singapore Police Force, teach them to adopt its tradition&nbsp;of high standards of performance, commitment, duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
+<h4><strong>CCA Objectives</strong></h4>
+<p><strong>Developing Leaders with Character &amp; Values<br></strong>Ensure
+the cadets’ growth by exposing them to a challenging environment, which,
+in turn will&nbsp;imbue them with leadership qualities, strong character
+and civic, social and moral values.</p>
+<p><strong>Building Bonds with SPF<br></strong>Enlighten them on the role
+of the Singapore Police Force, help to build a stronger bond of&nbsp;friendship
+with SPF, and so lead to a safer place for all in the country.</p>
+<p><strong>Showing Care &amp; Concern to Others<br></strong>As part of a
+culture that encourages us to treat fellow cadets with respect, courtesy
+and tact,&nbsp;teach them to extend the same care and concern to others.</p>
+<p><strong>Facing Challenges &amp; Achieving Excellence<br></strong>As a
+result of our identification with the Singapore Police Force, teach them
+to adopt its tradition&nbsp;of high standards of performance, commitment,
+duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <h4>Teachers-in-Charge</h4>
-<ul>
-<li>Mr Ang Chin Chuan (Officer-In- Charge)</li>
-<li>Ms Tan Fang Hui, Sandy (Deputy Officer-In-Charge)</li>
-<li>Mdm Deng Kaihua (Training Officer)</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Ang Chin Chuan (Officer-In- Charge)</p>
+</li>
+<li>
+<p>Ms Tan Fang Hui, Sandy (Deputy Officer-In-Charge)</p>
+</li>
+<li>
+<p>Mdm Deng Kaihua (Training Officer)</p>
+</li>
 </ul>
 <h4>Cadet Inspectors</h4>
-<ul>
-<li>SCI (NPCC) Brendyn Lee</li>
-<li>CI (NPCC) Johnson Tso Yee Ho</li>
-<li>CI (NPCC) Jermin Hoo Xin Ni</li>
-<li>CI (NPCC) Pius Zai Zhen Ning</li>
-<li>CI (NPCC) Chua Wen Hong</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>HO (NPCC) Brendyn Lee</p>
+</li>
+<li>
+<p>HO (NPCC) Jermin Hoo Xin Ni</p>
+</li>
+<li>
+<p>SCI (NPCC) Lim Rui Siang Darren</p>
+</li>
+<li>
+<p>SCI (NPCC) Lynette Wong Lin Hui</p>
+</li>
+<li>
+<p>CI (NPCC) Eka Andinie</p>
+</li>
+<li>
+<p>CI (NPCC) Chloe DO Visvam</p>
+</li>
+<li>
+<p>CI (NPCC) Rani Qurratul'aisyah</p>
+</li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
 <p>Thursday, 3:30pm to 6pm, School</p>
-<h4>Cadet Leaders Structure 2019</h4>
-<p><strong>Training Department<br></strong>Training Head:<br>SGT (NPCC) Chong Zi Qin</p>
-<p>Secondary 1 Squad Overall-In-Charge:<br>SGT (NPCC) Loh Si Hui, Jocelyn</p>
-<p>Secondary 1 In-Charge (SIC):<br>SGT (NPCC) Nayli Yasmine Masjuani<br>SGT (NPCC) Damos Tanco Thanabalan</p>
-<p>Secondary 2 Squad Overall-In-Charge:<br>SGT (NPCC) Lim Rui Siang Darren</p>
-<p>Secondary 2 In-Charge (SIC):<br>SGT (NPCC) Nur Shafikah Bte Mohamed Iskandar<br>SGT (NPCC) Ang Kang Fu</p>
-<p>Physical / Recreational Training-In-Charge:<br>SGT (NPCC) Ang Kang Fu<br>SGT (NPCC) Damos Tanco Thanabalan</p>
-<p>Logistic-In-Charge:<br>SGT (NPCC) Goh Zheng Hui<br>SGT (NPCC) Sim Yang Kai</p>
-<p>Welfare-In-Charge:<br>SGT (NPCC) Vismaya Vasanthraj</p>
-<p><strong>Administrative Department<br></strong>Administrative Head: SGT (NPCC) Nurul Natilie Suria Bte Sahri</p>
-<p>Logistic-In-Charge:<br>SGT (NPCC) Goh Zheng Hui<br>SGT (NPCC) Sim Yang Kai</p>
-<p>Publicity In-Charge: SGT (NPCC) Amirah Ainaa Bte Junai</p>
+<h4>Cadet Leaders Structure 2024</h4>
+<p><strong><u>Training Department</u><br></strong>Training Head:
+<br>- SGT (NPCC) Mohamed Asyraaf Bin Mohamed Johannes</p>
+<p>Secondary 1 Squad Overall-In-Charge:
+<br>- SGT (NPCC) Muhammad Zarif Bin Shahul Hameed</p>
+<p>- SGT (NPCC) Lim Jing Ling Emily</p>
+<p>Secondary 2 Squad Overall-In-Charge:
+<br>- SGT (NPCC) Yeo Anwell</p>
+<p>- SGT (NPCC) Nur Qistina Binte Harmansalime</p>
+<p>Physical / Recreational Training-In-Charge:
+<br>- SGT (NPCC) Muhammad Aiman Bin Haszeli</p>
+<p>Logistic-In-Charge:
+<br>- SGT (NPCC) Natra Binte Norhisham</p>
+<p>Welfare-In-Charge:
+<br>- SGT (NPCC) Iain Choo Shi Jie
+<br>
+<br><strong><u>Administrative Department</u><br></strong>Administrative Head:
+<br>- SGT (NPCC) Khaleel Ahmed Afiya Mariam</p>
+<p>Publicity In-Charge:
+<br>- SGT (NPCC) Ng Shi Yi</p>
 <h4>The NPCC Training Framework</h4>
-<p><u>The 6As of NPCC Learning Path</u></p>
-<p>The NPCC 6As Learning Path serves as an overarching framework that provides directions in&nbsp;the training and development of NPCC members.&nbsp;</p>
-<p>The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines the progressive&nbsp;learning path of a cadet from a new recruit at Secondary One to a youth leaders and an officer. It&nbsp;also identifies the six desired training outcomes of its programmes.</p>
-<table>
+<p><u>The 6As of NPCC Learning Path</u>
+</p>
+<p>The NPCC 6As Learning Path serves as an overarching framework that provides
+directions in&nbsp;the training and development of NPCC members.&nbsp;</p>
+<p>The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines
+the progressive&nbsp;learning path of a cadet from a new recruit at Secondary
+One to a youth leaders and an officer. It&nbsp;also identifies the six
+desired training outcomes of its programmes.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Level 1 (Sec 1)</td>
-<td>BEWARE of Self, Others, SPF and NPCC</td>
-<td>Knowing Oneself</td>
+<td rowspan="1" colspan="1">
+<p>Level 1 (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AWARE</strong> of Self, Others, SPF and NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Knowing Oneself</p>
+</td>
 </tr>
 <tr>
-<td>Level 2 (Sec 2)</td>
-<td>ACQUIRE skills and knowledge</td>
-<td>Stepping out and interacting</td>
+<td rowspan="1" colspan="1">
+<p>Level 2 (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACQUIRE</strong> skills and knowledge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stepping out and interacting</p>
+</td>
 </tr>
 <tr>
-<td>Level 3 (Sec 3)</td>
-<td>ACTUATE as leader</td>
-<td>First taste of taking charge</td>
+<td rowspan="1" colspan="1">
+<p>Level 3 (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACTUATE</strong> as leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First taste of taking charge</p>
+</td>
 </tr>
 <tr>
-<td>Level 4/5 (Sec 4/5)</td>
-<td>ASPIRE to serve</td>
-<td>Stepping out to lead</td>
+<td rowspan="1" colspan="1">
+<p>Level 4/5 (Sec 4/5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ASPIRE</strong> to serve</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stepping out to lead</p>
+</td>
 </tr>
 <tr>
-<td>Youth Leaders (CIs)</td>
-<td>ACHIEVE competency in skills and knowledge</td>
-<td>Leading others</td>
+<td rowspan="1" colspan="1">
+<p>Youth Leaders (CIs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACHIEVE</strong> competency in skills and knowledge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leading others</p>
+</td>
 </tr>
 <tr>
-<td>Officers</td>
-<td>AIM to nuture</td>
-<td>Developing others</td>
+<td rowspan="1" colspan="1">
+<p>Officers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AIM</strong> to nurture</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Developing others</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Training Framework</h4>
-<p>The key areas of emphasis in our training include law enforcement, national education,&nbsp;leadership, resilience, personal development, character development, innovation and enterprise.&nbsp;From the time a cadet is enrolled in NPCC, he will undergo structured training to acquire skills&nbsp;and knowledge that will help him thrive in 21st century.&nbsp;</p>
+<p>The key areas of emphasis in our training include law enforcement, national
+education,&nbsp;leadership, resilience, personal development, character
+development, innovation and enterprise.&nbsp;From the time a cadet is enrolled
+in NPCC, he will undergo structured training to acquire skills&nbsp;and
+knowledge that will help him thrive in 21st century.&nbsp;</p>
 <p>The subject matters within each area of training are as follows:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Law Enforcement - LAND<br>(40%)</td>
-<td>
-<ul>
-<li>Police Knowledge Proficiency Course</li>
-<li>General Law</li>
-<li>Crime Prevention</li>
-<li>Community Safety &amp; Security Programme / Police Youth Ambassador Programme</li>
-<li>Homefront Security Course</li>
-<li>Weapons Training (.22 Revolver)</li>
-<li>Road Safety Training</li>
-<li>Anti-drug Abuse Training (SANA Courses)</li>
-<li>Crime Scene Investigation</li>
+<td rowspan="1" colspan="1">
+<p>Law Enforcement - LAND
+<br>(40%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Police Procedure</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic Law</p>
+</li>
+<li>
+<p>Crime Prevention</p>
+</li>
+<li>
+<p>Community Safety &amp; Security Programme / Police Youth Ambassador Programme</p>
+</li>
+<li>
+<p>Homefront Security Course</p>
+</li>
+<li>
+<p>Weapons Training (.22 Revolver)</p>
+</li>
+<li>
+<p>Road Safety Training</p>
+</li>
+<li>
+<p>Anti-drug Abuse Training (SANA Courses)</p>
+</li>
+<li>
+<p>Crime Scene Investigation</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td>National Education<br>(10%)</td>
-<td>
-<ul>
-<li>Total Defence Course</li>
-<li>Civil Defence Course&nbsp;</li>
-<li>National Heritage Course (Optional)</li>
+<td rowspan="1" colspan="1">
+<p>National Education
+<br>(10%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Total Defence Course</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Civil Defence Course</p>
+</li>
+<li>
+<p>SG Secure Course&nbsp;</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td>Leadership<br>(20%)</td>
-<td>
-<ul>
-<li>Communication Skills&nbsp;</li>
-<li>Facilitation Skills&nbsp;</li>
-<li>Leadership and Mentoring Skills (LMSC)</li>
-<li>Camp Organisation</li>
-<li>Cadet Leader Drill Course</li>
+<td rowspan="1" colspan="1">
+<p>Leadership
+<br>(20%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Communication Skills&nbsp;</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Facilitation Skills&nbsp;</p>
+</li>
+<li>
+<p>Leadership and Mentoring Skills (LMSC)</p>
+</li>
+<li>
+<p>Camp Organisation</p>
+</li>
+<li>
+<p>Cadet Leader Drill Course</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td>Resilience<br>(20%)&nbsp;</td>
-<td>
-<ul>
-<li>Footdrills</li>
-<li>Campcraft</li>
-<li>Adventure Training Camps (ATC)</li>
-<li>Survival Training Camp (STC)</li>
-<li>High Ropes Challenge</li>
+<td rowspan="1" colspan="1">
+<p>Resilience
+<br>(20%)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Footdrills</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Campcraft</p>
+</li>
+<li>
+<p>Adventure Training Camps (ATC)</p>
+</li>
+<li>
+<p>Low Ropes Challenge</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td>Personal Development<br>(10%)</td>
-<td>
-<ul>
-<li>First Aid Training</li>
-<li>Life Saving Training</li>
-<li>NASSA Swimming&nbsp;</li>
-<li>Boat Handling Course</li>
-<li>Kayaking Course&nbsp;</li>
-<li>ATF Trainers &amp; Instructors Course</li>
-<li>Training-of-Trainers Course for Water Confidence Jump &amp; Rafting</li>
-<li>Fascilitation Training</li>
+<td rowspan="1" colspan="1">
+<p>Personal Development
+<br>(10%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>First Aid Training</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Life Saving Training</p>
+</li>
+<li>
+<p>NASSA Swimming&nbsp;</p>
+</li>
+<li>
+<p>Kayaking Course&nbsp;</p>
+</li>
+<li>
+<p>ATF Trainers &amp; Instructors Course</p>
+</li>
+<li>
+<p>Training-of-Trainers Course for Rafting</p>
+</li>
+<li>
+<p>Facilitation Training</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Training Outcomes</strong></p>
-<p>The training outcomes are :&nbsp;</p>
-<ul>
-<li>to be morally upright citizens who are law abiding&nbsp;</li>
-<li>to be citizens who possess integrity&nbsp;</li>
-<li>to be selfless individuals who contribute to the safety and security of the community&nbsp;</li>
-<li>to be resilient individuals who persevere in adverse and rugged contexts&nbsp;</li>
-<li>to demonstrate traits of leadership and&nbsp;</li>
-<li>to be entrepreneurial and global in outlook so that they can adapt to changing contexts.</li>
+<p><strong>Training Outcomes</strong>
+</p>
+<p>The training outcomes are:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>to be morally upright citizens who are law abiding&nbsp;</p>
+</li>
+<li>
+<p>to be citizens who possess integrity&nbsp;</p>
+</li>
+<li>
+<p>to be selfless individuals who contribute to the safety and security of
+the community&nbsp;</p>
+</li>
+<li>
+<p>to be resilient individuals who persevere in adverse and rugged contexts&nbsp;</p>
+</li>
+<li>
+<p>to demonstrate traits of leadership and&nbsp;</p>
+</li>
+<li>
+<p>to be entrepreneurial and global in outlook so that they can adapt to
+changing contexts.</p>
+</li>
 </ul>
 <h4>Highlights or Achievements</h4>
-<p><u>Unit Overall Proficiency Award:</u></p>
-<p>2005 - Bronze<br>2006 - Silver<br>2007 - Gold<br>2008 - Gold<br>2009 - Gold<br>2010 – Gold<br>2011 – Gold<br>2012 – Gold<br>2013 – Gold<br>2014 – Gold<br>2015 – Gold<br>2016 – Gold<br>2017 - Gold<br>2018 - Gold</p>
-<h4>NPCC Portal</h4>
-<p>Click&nbsp;<a href="https://sites.google.com/dunearn.edu.sg/dss-npcc/home" target="_blank" rel="noopener">here</a>&nbsp;to access our NPCC portal.</p>
+<p><strong><u>Unit Overall Proficiency Award:</u></strong>
+</p>
+<p><strong>2005</strong>: Bronze
+<br><strong>2006</strong>: Silver
+<br><strong>2007 - 2023</strong>: Gold</p>
+<p></p>
