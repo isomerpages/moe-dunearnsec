@@ -6,7 +6,7 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h4><strong>CCA Objectives</strong></h4>
-<p>The Audio Visual Aid Club provides audio and visual support to all school
+<p>The Audio-Visual Aid Club provides audio and visual support to all school
 daily activities and special events such as Speech Day and National Day
 celebration.&nbsp;</p>
 <p>Students are trained and develop in 21<sup>st</sup> CC with essential knowledge
