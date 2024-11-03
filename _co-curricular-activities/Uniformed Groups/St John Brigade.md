@@ -131,4 +131,14 @@ for cross country as well as&nbsp;national competitions for sports CCA.</p>
 <br>- Ambulance Cadet: 1st Runner Up</p>
 </li>
 </ul>
+<h4><strong>Leadership courses and Progression in cadet ranks</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participation as first-aider at national events like
+<br>- Chingay, National Day Parade and Istana Open House</p>
+</li>
+<li>
+<p>Opportunities for Hospital Attachments and Volunteering Programmes</p>
+</li>
+</ul>
 <p></p>
