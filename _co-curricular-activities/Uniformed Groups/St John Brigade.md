@@ -3,92 +3,132 @@ title: St John Brigade
 permalink: /ccas/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-<img src="/images/sjab1.jpg">
-<img src="/images/sjab2.jpg">
-<img src="/images/sjab3.jpg">
-<h4>CCA Objectives</h4>
-<p>&lsquo;Tough Times Don&rsquo;t Last, Tough Man Do.&rsquo; A quote SJB members carry with them. SJB develops our&nbsp;cadets to become effective and efficient first-aiders and role model so that they can contribute to the&nbsp;school and to the local communities. The training activities are planned for cadets to enjoy while&nbsp;learning new things such as Foot Drills, First Aids &amp; ETC... Courses on the other hands aims to&nbsp;equip cadets with the necessary skills to prepare them beyond their secondary education.</p>
-<h4>Teachers-in-Charge</h4>
-<ul>
-<li>Siti Arnie Mohd Affandi ( Overall )</li>
-<li>Syakirah Binte Zainudin ( Admin )</li>
-<li>Lo Tin Che ( CPB )</li>
-<li>Soh Li Yan ( Training )</li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sjab1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sjab2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sjab3.jpg">
+</div>
+<h4><strong>CCA Objectives</strong></h4>
+<p><strong>"Tough Times Don’t Last, Tough Man Do.”</strong>
+<br><sub>A quote Dunearn SJB members carry</sub>
+</p>
+<p><strong><u>Our goal:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture our cadets into resilient and compassionate leaders while enhancing
+their leadership and communication skills.</p>
+</li>
+<li>
+<p>To prepare our cadets to serve Singapore as proficient first-aiders and
+healthcare professionals.</p>
+</li>
 </ul>
-<h4>SJB Adult Member</h4>
-<ul>
-<li>Chioh Pei Shi ( Corp Staff Officer Grade 4 )</li>
-<li>Sri Nurwani Bte Othman ( C.S.O Grade 6 )</li>
-<li>Herry Chia Wee Kang ( C.S.O Grade 6 )</li>
-<li>Tan Ying Ming Gerald ( C.S.O Grade 6 )</li>
-<li>Izboy Danial ( C.S.O Grade 6 )</li>
+<h4><strong>Teachers-in-Charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Siti Arnie Mohd Affandi (Overall I/C)</p>
+</li>
+<li>
+<p>Soh Cek Sin (2 I/C)</p>
+</li>
+<li>
+<p>Mr See Gim Hwee (Training)</p>
+</li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
+<h4><strong>SJB Adult Member</strong></h4>
+<p><strong><u>Corp Superintendent</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>AS Chioh Pei Shi</p>
+</li>
+</ul>
+<p><strong><u>Corp Liaison Officer</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2OFFR Lee Shi Jie</p>
+</li>
+<li>
+<p>3OFFR Javis Tay</p>
+</li>
+</ul>
+<h4><strong>Our core activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>First Aid and Life Support,</p>
+</li>
+<li>
+<p>Home Nursing,</p>
+</li>
+<li>
+<p>Foot Drills,</p>
+</li>
+<li>
+<p>Cadet Proficiency Badge Scheme,</p>
+</li>
+<li>
+<p>Leadership Courses, and</p>
+</li>
+<li>
+<p>Community Service Programs.</p>
+</li>
+</ul>
+<h4><strong>Training Day, Time and Venue</strong></h4>
 <p>Thursday, 3:30pm to 6:00pm, School Compound</p>
-<h4>Committee Members (2016/2017)</h4>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Name</th>
-<th style="text-align: center;">Position</th>
-</tr>
-<tr>
-<td>Daryl Ng</td>
-<td>Foot Drill I/C</td>
-</tr>
-<tr>
-<td>Zheng Yang</td>
-<td>First Aid Training and Transportation of Casualty I/C</td>
-</tr>
-<tr>
-<td>Nur Adriana</td>
-<td>Home Nursing Training and Welfare I/C</td>
-</tr>
-<tr>
-<td>Noor Mia</td>
-<td>Home Nursing Training and Welfare I/C</td>
-</tr>
-<tr>
-<td>Nur Dini</td>
-<td>Logistic and Public Duty I/C</td>
-</tr>
-<tr>
-<td>Jonas Tan</td>
-<td>Logistic I/C</td>
-</tr>
-<tr>
-<td>Dorothy Chin</td>
-<td>Secretary and Cadets Proficiency Badge (CPB) I/C</td>
-</tr>
-<tr>
-<td>Doreen Ang</td>
-<td>Coordinator I/C</td>
-</tr>
-</tbody>
-</table>
-<h4>Key Programmes</h4>
-<p><strong>Main Activities</strong>&nbsp;: The main activities of the SJB included Foot Drill, First Aid&nbsp;training programmes, Cadet Proficiency Badge Scheme (CPBS) and Games.</p>
-<p><strong>First Aid Services</strong>&nbsp;: We rendered first aid services for cross country as well as&nbsp;national competitions for sports CCA.</p>
+<h4><strong>SJB Leaders<br>(2023/2024)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Constance Chu (3AM)</p>
+</li>
+<li>
+<p>Noralysa (3AM)</p>
+</li>
+<li>
+<p>Katelyn Ye (3EM)</p>
+</li>
+<li>
+<p>Lim Jia Yi (3OP)</p>
+</li>
+<li>
+<p>Zhao Yifei (3OP)</p>
+</li>
+<li>
+<p>Bryan Lim (3OP)</p>
+</li>
+</ul>
+<h4><strong>Key Programmes</strong></h4>
+<p><strong>Main Activities</strong>&nbsp;: The main activities of the SJB
+included Foot Drill, First Aid&nbsp;training programmes, Cadet Proficiency
+Badge Scheme (CPBS) and Games.</p>
+<p><strong>First Aid Services</strong>&nbsp;: We rendered first aid services
+for cross country as well as&nbsp;national competitions for sports CCA.</p>
 <h4>Highlights and Achievements</h4>
-<p><strong>Corp Achievement Award (CAA)</strong></p>
-<ul>
-<li>2012 &ndash; Bronze</li>
-<li>2013 &ndash; Silver</li>
-<li>2014 &ndash; Bronze</li>
-<li>2015 &ndash; Gold</li>
-<li>2016 &ndash; NIL</li>
+<p><strong><u>Corp Achievement Award (CAA)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 (Gold Award)</p>
+</li>
 </ul>
-<p><strong>Zonal First Aid Competition</strong></p>
-<ul>
-<li>2012 &ndash; Champion for Ambulance Cadet Category</li>
-<li>2013 &ndash; 2​nd ​place for Ambulance Cadet &amp; 3​rd ​place for Nursing Cadet</li>
-<li>2014 &amp; 2015 &ndash; 2​nd ​place for both Ambulance Cadet and Nursing Cadet</li>
-<li>​2016 &ndash; 2​nd ​place for Ambulance Cadet &amp; 3​rd ​place for Nursing Cadet</li>
+<p><strong><u>Competition</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>National 1<sup>st</sup> Aid Competition</strong> 
+<br>- Ambulance Cadet 4th position</p>
+</li>
+<li>
+<p><strong>District</strong>  <strong>1<sup>st</sup> Aid Competition</strong>
+<br><strong>- </strong>Nursing Adult: 1st Runner Up
+<br>- Ambulance Cadet: 1st Runner Up</p>
+</li>
 </ul>
-<p><strong>First Aid Quiz</strong></p>
-<ul>
-<li>2013 &ndash; 2​nd ​runner up</li>
-<li>2014 &amp; 2015 &ndash; 4​th ​place</li>
-<li>2016 &ndash; 5​th ​place</li>
-</ul>
+<p></p>
