@@ -119,6 +119,13 @@ XI</p>
 <br>UNIT RECOGNITION 2020 – ACCOMPLISHMENT
 <br>UNIT RECOGNITION 2019 – ACCOMPLISHMENT
 <br>UNIT RECOGNITION 2018 – ACCOMPLISHMENT</p>
-<p>BEST UNIT COMPETITION 2017 – SILVER</p>
-<p>BEST UNIT COMPETITION 2016 – SILVER</p>
-<p>![](/images/ncc_1.jpg) ![](/images/ncc_2.jpg)</p>
+<p>BEST UNIT COMPETITION 2017 – SILVER
+<br>BEST UNIT COMPETITION 2016 – SILVER</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_2.jpg">
+</div>
+<p></p>
