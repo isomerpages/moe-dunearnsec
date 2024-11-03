@@ -25,7 +25,7 @@ them in the future.</p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Tan Jie Xuan</p>
+<p>Mr Tan Jie Xuan (I/C)</p>
 </li>
 <li>
 <p>Mr Tham Kin Loong</p>
