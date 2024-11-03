@@ -110,7 +110,7 @@ included Foot Drill, First Aid&nbsp;training programmes, Cadet Proficiency
 Badge Scheme (CPBS) and Games.</p>
 <p><strong>First Aid Services</strong>&nbsp;: We rendered first aid services
 for cross country as well as&nbsp;national competitions for sports CCA.</p>
-<h4>Highlights and Achievements</h4>
+<h4><strong>Highlights and Achievements</strong></h4>
 <p><strong><u>Corp Achievement Award (CAA)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
