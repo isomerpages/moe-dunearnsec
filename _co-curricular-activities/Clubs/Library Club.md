@@ -3,126 +3,102 @@ title: Library Club
 permalink: /ccas/clubs/library-club/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
-<h4>CCA Objectives</h4>
-<p>To develop competent young librarians who play a key role in making the library a vibrant centre of knowledge and learning.</p>
-<h4>CCA Timing</h4>
-<p>Wednesday 3:30pm - 5:30pm</p>
-
-<h4>Teachers-in-Charge</h4>
-<ul>
-<li>Ms Nursyaza (I/C)</li>
-
+<h4><strong>CCA Objectives</strong></h4>
+<p>Our primary objective is to establish the library as an enriching hub
+for learning and collaboration, fostering an environment that benefits
+both students and educators alike.</p>
+<p>To ensure the library operates efficiently on a daily basis, student librarians
+diligently fulfill their weekly shelving and annual stocktaking responsibilities.</p>
+<p>In addition to these routine tasks, the Library Club also fosters collaboration,
+critical thinking, and creativity by engaging its members in a diverse
+range of activities, including book discussions and research projects.</p>
+<p>Furthermore, the club endeavours to cultivate a passion for reading and
+lifelong learning among the student body through book reviews, thereby
+introducing their peers to a wide array of new literary works.</p>
+<h4><strong>CCA Timing &amp; Venue</strong></h4>
+<p>Wednesday 3:30pm - 5:30pm (School Library)</p>
+<h4><strong>Teachers-in-Charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Nursyaza (I/C)</p>
+</li>
+<li>
+<p>Mrs Soh Li Yan</p>
+</li>
+<li>
+<p>Mr Siraj Ansari</p>
+</li>
 </ul>
-<h4>Library Assistant</h4>
-<p>Mr Mike Lee</p>
-<h4>Committee Members</h4>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<h4><strong>Committee Members</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="35%">
-<p><strong>Name</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
 </td>
-<td width="30%">
-<p><strong>Class</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
 </td>
-<td width="35%">
-<p><strong>Position</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Wong Jing Yun</p>
+<td rowspan="1" colspan="1">
+<p>MUHAMAD RAEIHAN BIN ALIFEE</p>
 </td>
-<td>
-<p>4 Opal</p>
+<td rowspan="1" colspan="1">
+<p>3 Amber</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>President</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Nur Asyura Bte Sukhairi<br>Aw Hui Yang</p>
+<td rowspan="1" colspan="1">
+<p>SYAZALI BIN SARULNIZAM</p>
 </td>
-<td>
-<p>4 Opal<br>4 Opal</p>
+<td rowspan="1" colspan="1">
+<p>3 Amber</p>
 </td>
-<td>
-<p>Vice President 1<br>Vice President 2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Danish B Abdul Rashid</p>
-</td>
-<td>
-<p>4 Topaz</p>
-</td>
-<td>
-<p>Secretary</p>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mar Yong Xin</p>
+<td rowspan="1" colspan="1">
+<p>CHEOW LI JUN, CHLOE (ZHAO LIJUN)</p>
 </td>
-<td>
-<p>4 Opal</p>
+<td rowspan="1" colspan="1">
+<p>3 Emerald</p>
 </td>
-<td>
-<p>Social Secretary</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Koh Jie Yin</p>
-</td>
-<td>
-<p>4 Sapphire</p>
-</td>
-<td>
-<p>Treasurer</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Jannice Lee Jia Ye</p>
-</td>
-<td>
-<p>4 Ruby</p>
-</td>
-<td>
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ng Wei Xiang Sebastian</p>
-</td>
-<td>
-<p>4 Topaz</p>
-</td>
-<td>
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Siti Jannatul</p>
-</td>
-<td>
-<p>3 Opal</p>
-</td>
-<td>
-<p>Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Upper Sec CCA Exco Member</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Key Programmes</h4>
-<ul>
-<li>Publicity of new arrivals</li>
-<li>Termly Thematic Book Promotions and Displays</li>
+<h4><strong>Key Programmes</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Publicity of new arrivals</p>
+</li>
+<li>
+<p>Termly Thematic Book Promotions and Displays</p>
+</li>
 </ul>
+<h4><strong>Photos</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library.png">
+</div>
+<p></p>
