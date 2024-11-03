@@ -37,10 +37,10 @@ them in the future.</p>
 <h4>Training Day, Time and Venue</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3:00 - 5:00 pm (Field)</p>
+<p>Tuesday 3:30 - 5:30 pm (Field)</p>
 </li>
 <li>
-<p>Thursday 3:00 - 5:00 pm (Field)</p>
+<p>Thursday 3:30 - 5:30 pm (Field)</p>
 </li>
 </ul>
 <p></p>
