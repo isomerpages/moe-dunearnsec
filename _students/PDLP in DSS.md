@@ -176,11 +176,7 @@ or leaves the school.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*GHI: Gross Household Income</em>
-</p>
-<p><em>*PCI: Per Capita Income</em>
-</p>
-<p><em>*FAS: Financial Assistance Scheme</em>
+<p><em>*GHI: Gross Household Income, *PCI: Per Capita Income, *FAS: Financial Assistance Scheme</em>
 </p>
 <p>Details of submitting orders, payments and collection of devices will
 be sent to parents via PG when and where applicable.</p>
