@@ -55,7 +55,7 @@ which operates on Chrome OS, ensures seamless compatibility with major
 learning platforms such as MOE's Singapore Learning Space (SLS) as well
 as Google's educational platform. Based on the school's pedagogical considerations,
 the Chromebook has been found to best meet our students' learning needs.</p>
-<h4>Digital Literacy and Cyber Wellness </h4>
+<h4>Digital Literacy and Cyber Wellness</h4>
 <p>The school has measures to enable a safe and conducive learning environment
 for students’ use of PLDs for teaching and learning through:</p>
 <ul data-tight="true" class="tight">
@@ -71,6 +71,14 @@ competencies</p>
 </li>
 </ul>
 <h4>Device Management Application (DMA)</h4>
+<p>All PLDs will be installed with a Device Management Application (DMA)
+to provide a safer digital environment for teaching and learning purposes.</p>
+<p>Installation of the DMA will be performed on a new device during the device
+handover to the students in school.</p>
+<p>The DMA will be uninstalled from the device when the student graduates
+or leaves the school.</p>
+<p>More details regarding DMA will be shared with parents via Parents Gateway
+(PG) when and where applicable.</p>
 <p></p>
 <p></p>
 <p></p>
