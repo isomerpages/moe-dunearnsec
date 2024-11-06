@@ -75,6 +75,101 @@ handover to the students in school.</p>
 or leaves the school.</p>
 <p>More details regarding DMA will be shared with parents via Parents Gateway
 (PG) when and where applicable.</p>
+<h4>Purchase and Payment of PLD</h4>
+<p><strong>Singapore Citizens </strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>GHI &lt;= $3000</p>
+<p>PCI &lt;= $750</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School based FAS</p>
+<p>$3001 &lt; GHI &lt;= $4400</p>
+<p>$751 &lt; PCI &lt;= $1100</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Non FAS</strong>
+</p>
+<p><strong>GHI &gt; $4400</strong>
+</p>
+<p><strong>PCI &gt; $1100</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subsidy of $350 per device</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subsidy of $200 per device</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edusave</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edusave (Top up with GIRO/ cash if necessary)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Singapore Permanent Residents/ International Students</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
