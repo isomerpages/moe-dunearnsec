@@ -176,6 +176,9 @@ or leaves the school.</p>
 </tr>
 </tbody>
 </table>
-<p>*GHI: Gross Household Income</p>
-<p>*PCI: Per Capita Income</p>
-<p>*FAS: Financial Assistance Scheme</p>
+<p><em>*GHI: Gross Household Income</em>
+</p>
+<p><em>*PCI: Per Capita Income</em>
+</p>
+<p><em>*FAS: Financial Assistance Scheme</em>
+</p>
