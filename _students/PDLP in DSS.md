@@ -8,19 +8,17 @@ description: ""
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy.</p>
-<p></p>
 <p>One of the components of the NDLP is the introduction of the Personalised
 Digital Learning Programme (PDLP) for all secondary school students, where
 every secondary school student will own a school-prescribed personal learning
-device, PLD. This microsite provides important information about how you
-can purchase the PLD for your child/ward.</p>
+device, PLD.</p>
 <h4>Choice of PLD</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Acer_Chromebook_R756TN.jpg">
 </div>
 <p></p>
 <p>The school uses the <strong>Acer Chromebook Spin R756TN</strong>.</p>
-<p><strong>Bundle total cost with GST: $573.30</strong>
+<p>Bundle total cost with GST:<strong> $573.30</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,12 +37,10 @@ can purchase the PLD for your child/ward.</p>
 <p>Processor Intel N100</p>
 </li>
 <li>
-<p><strong>8GB RAM upgraded</strong>
-</p>
+<p>8GB RAM upgraded</p>
 </li>
 <li>
-<p><strong>Combination USB Slot Lock Cable</strong>
-</p>
+<p>Combination USB Slot Lock Cable</p>
 </li>
 <li>
 <p>3 year warranty and insurance</p>
