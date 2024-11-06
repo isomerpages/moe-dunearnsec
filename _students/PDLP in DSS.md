@@ -4,3 +4,73 @@ permalink: /pdlp-in-dss/
 variant: tiptap
 description: ""
 ---
+<h4>What is PDLP?</h4>
+<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
+Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher
+Learning to help students strengthen their digital literacy.</p>
+<p></p>
+<p>One of the components of the NDLP is the introduction of the Personalised
+Digital Learning Programme (PDLP) for all secondary school students, where
+every secondary school student will own a school-prescribed personal learning
+device, PLD. This microsite provides important information about how you
+can purchase the PLD for your child/ward.</p>
+<h4>Choice of PLD</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Acer_Chromebook_R756TN.jpg">
+</div>
+<p></p>
+<p>The school uses the <strong>Acer Chromebook Spin R756TN</strong>.</p>
+<p><strong>Bundle total cost with GST: $573.30</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>11.6” touchscreen</p>
+</li>
+<li>
+<p>Precision stylus</p>
+</li>
+<li>
+<p>Foldable into tablet style</p>
+</li>
+<li>
+<p>Chrome Operating System</p>
+</li>
+<li>
+<p>Processor Intel N100</p>
+</li>
+<li>
+<p><strong>8GB RAM upgraded</strong>
+</p>
+</li>
+<li>
+<p><strong>Combination USB Slot Lock Cable</strong>
+</p>
+</li>
+<li>
+<p>3 year warranty and insurance</p>
+</li>
+</ul>
+<p>Since the primary focus of the personal device is on learning, the Chromebook
+which operates on Chrome OS, ensures seamless compatibility with major
+learning platforms such as MOE's Singapore Learning Space (SLS) as well
+as Google's educational platform. Based on the school's pedagogical considerations,
+the Chromebook has been found to best meet our students' learning needs.</p>
+<h4>Digital Literacy and Cyber Wellness </h4>
+<p>The school has measures to enable a safe and conducive learning environment
+for students’ use of PLDs for teaching and learning through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>classroom management and device use routines</p>
+</li>
+<li>
+<p>curriculum lesson designs that support students to be equipped with digital
+competencies</p>
+</li>
+<li>
+<p>installation of Device Management Application (DMA) in all PLDs</p>
+</li>
+</ul>
+<h4>Device Management Application (DMA)</h4>
+<p></p>
+<p></p>
+<p></p>
