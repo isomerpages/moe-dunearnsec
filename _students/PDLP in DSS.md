@@ -191,4 +191,3 @@ be sent to parents via PG when and where applicable.</p>
 <h4>Enquiries and Assistance</h4>
 <p>Please email <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a> for
 enquiry or assistance.</p>
-<p></p>
