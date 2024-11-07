@@ -17,15 +17,15 @@ device, PLD.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Acer_Chromebook_R756TN.jpg">
 </div>
 <p></p>
-<p>The school uses the <strong>Acer Chromebook Spin R756TN</strong>.</p>
-<p>Bundle total cost with GST:<strong> $573.30</strong>
+<p>With effect from 2025, the school uses the <strong>Acer Chromebook Spin R857TN</strong>.</p>
+<p>Bundle total cost with GST:<strong> $649.60</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>11.6” touchscreen</p>
+<p>12.2” convertible with touchscreen</p>
 </li>
 <li>
-<p>Precision stylus</p>
+<p>Active Stylus Pen (docked into device)</p>
 </li>
 <li>
 <p>Foldable into tablet style</p>
@@ -34,18 +34,26 @@ device, PLD.</p>
 <p>Chrome Operating System</p>
 </li>
 <li>
-<p>Processor Intel N100</p>
+<p>Processor Intel N250</p>
 </li>
 <li>
 <p>8GB RAM upgraded</p>
 </li>
 <li>
-<p>Combination USB Slot Lock Cable</p>
+<p>128GB storage upgraded</p>
+</li>
+<li>
+<p>USB Type-C earpiece with mic</p>
+</li>
+<li>
+<p>Kensington combination cable lock</p>
 </li>
 <li>
 <p>3 year warranty and insurance</p>
 </li>
 </ul>
+<p>Please click on <a href="/files/PLD__Acer_Chromebook_R857TN_Specifications.pdf" rel="noopener nofollow" target="_blank">Acer Chromebook R857TN Catalogue</a> for
+the full specifications.</p>
 <p>Since the primary focus of the personal device is on learning, the Chromebook
 which operates on Chrome OS, ensures seamless compatibility with major
 learning platforms such as MOE's Singapore Learning Space (SLS) as well
@@ -183,4 +191,3 @@ be sent to parents via PG when and where applicable.</p>
 <h4>Enquiries and Assistance</h4>
 <p>Please email <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a> for
 enquiry or assistance.</p>
-<p></p>
