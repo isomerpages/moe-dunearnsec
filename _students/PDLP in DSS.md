@@ -17,15 +17,15 @@ device, PLD.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Acer_Chromebook_R756TN.jpg">
 </div>
 <p></p>
-<p>The school uses the <strong>Acer Chromebook Spin R756TN</strong>.</p>
-<p>Bundle total cost with GST:<strong> $573.30</strong>
+<p>With effect from 2025, the school uses the <strong>Acer Chromebook Spin R857TN</strong>.</p>
+<p>Bundle total cost with GST:<strong> $649.60</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>11.6” touchscreen</p>
+<p>12.2” convertible with touchscreen</p>
 </li>
 <li>
-<p>Precision stylus</p>
+<p>Active Stylus Pen (docked into device)</p>
 </li>
 <li>
 <p>Foldable into tablet style</p>
@@ -34,13 +34,19 @@ device, PLD.</p>
 <p>Chrome Operating System</p>
 </li>
 <li>
-<p>Processor Intel N100</p>
+<p>Processor Intel N250</p>
 </li>
 <li>
 <p>8GB RAM upgraded</p>
 </li>
 <li>
-<p>Combination USB Slot Lock Cable</p>
+<p>128GB storage upgraded</p>
+</li>
+<li>
+<p>USB Type-C earpiece with mic</p>
+</li>
+<li>
+<p>Kensington combination cable lock</p>
 </li>
 <li>
 <p>3 year warranty and insurance</p>
