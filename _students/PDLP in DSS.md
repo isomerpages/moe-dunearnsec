@@ -52,6 +52,8 @@ device, PLD.</p>
 <p>3 year warranty and insurance</p>
 </li>
 </ul>
+<p>Please click on <a href="/files/PLD__Acer_Chromebook_R857TN_Specifications.pdf" rel="noopener nofollow" target="_blank">Acer Chromebook R857TN Catalogue</a> for
+the full specifications.</p>
 <p>Since the primary focus of the personal device is on learning, the Chromebook
 which operates on Chrome OS, ensures seamless compatibility with major
 learning platforms such as MOE's Singapore Learning Space (SLS) as well
