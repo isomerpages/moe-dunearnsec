@@ -17,7 +17,6 @@ variant: markdown
 <li>Ms Lwa Heng Qian</li>
 <li>Mr Lo Tin Chee</li>
 <li style="list-style-type: none;">&nbsp;</li>
-</ul>
 	<p>Vendors: Immersive Media Programme by Make the Change (AY 2024)</p>
 <h4>Training Day, Time and Venue</h4>
 <ul>
@@ -37,4 +36,4 @@ variant: markdown
 <h4>CCA Leaders</h4>
 <p>President: Adlyn Binte Yani (3TP)</p>
 <p>Vice-President: Chua Kai Xuan Nyll (3EM)</p>
-<h4>Photo/ Photos/ Video </h4>
+</ul>
