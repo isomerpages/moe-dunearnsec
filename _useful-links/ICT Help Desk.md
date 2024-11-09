@@ -11,7 +11,7 @@ the <strong>ICT Form A1</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv
 <h2>For Students</h2>
 <h4><strong>Help Request Form B (for Students)</strong></h4>
 <p>If required, students can submit for help request via the <strong>ICT Form B</strong> 
-<a href="https://forms.moe.edu.sg/forms/JAnG8o" rel="noopener noreferrer nofollow" target="_blank">here</a>for Student ICON (MIMS) issues, SLS locked account issues or PLD
+<a href="https://forms.moe.edu.sg/forms/JAnG8o" rel="noopener nofollow" target="_blank">here</a>for Student ICON (MIMS) issues, SLS locked account issues or PLD
 Chromebook issues.</p>
 <p>Students, please read the following before submitting for help request.</p>
 <h4><strong>Student ICON (MIMS) Issues</strong></h4>
