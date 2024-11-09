@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>For Staff</h2>
-<h4><strong>Help Request Form A1 </strong></h4>
+<h4><strong>Help Request Form A1</strong></h4>
 <p>If required, <strong>staff</strong> can request assistance and support for <strong>ICT matters</strong> via
 the <strong>ICT Form A1</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h2>For Students/Parents</h2>
-<h4><strong>Help Request Form B </strong></h4>
+<h4><strong>Help Request Form B</strong></h4>
 <p>If required, <strong>students</strong> or <strong>parents</strong> on behalf
 can submit for help request via the <strong>ICT Form B</strong>  <a href="https://forms.moe.edu.sg/forms/JAnG8o" rel="noopener nofollow" target="_blank">here</a> for
 Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook
@@ -28,4 +28,3 @@ as LOCKED.</p>
 <h4><strong>PLD Chromebook Issues</strong></h4>
 <p>If you experience hardware issues with your Chromebook, you may proceed
 to submit for help request.</p>
-<p></p>
