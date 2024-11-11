@@ -45,8 +45,9 @@ third_nav_title: English and Literature
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Meet_our_team_p4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Meet_our_team_p6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Meet_our_team_p6_edited.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Meet_our_team_p7.png">
 </div>
