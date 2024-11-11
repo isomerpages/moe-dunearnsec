@@ -31,6 +31,15 @@ and caring environment. The school received Academic Value-Added Award
 (Bronze) for the Express stream in 2007 and the Normal (Academic) stream
 in 2009. In addition, the school received the Sustained Achievement Award
 for Uniformed Groups in 2009 and 2010.</p>
+<p></p>
+<blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20240208_075959__1_.jpg">
+</div>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240417_113656.jpg">
+</div>
 <p>In 2018, the school upgraded its campus. An indoor sports hall and a new
 admin and teaching block were added. In 2024, the school welcomed its first
 batch of Full-SBB cohort students.</p>
