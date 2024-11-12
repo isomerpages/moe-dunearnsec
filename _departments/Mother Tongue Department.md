@@ -187,9 +187,6 @@ by creating an engaging environment.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>愿景 ：在21世纪持有灵活，高效运用母语的能力</strong></h4>
-<h4><strong>使命 ：通过创造一个有利于学习和互动的环境，培养学生对母语和文化的热爱</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTCL.jpg">
 </div>
