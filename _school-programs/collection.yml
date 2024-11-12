@@ -2,6 +2,7 @@ collections:
   school-programs:
     output: true
     order:
+      - Applied Learning Modules (ApLM).md
       - Community Youth Leadership (LLP).md
       - Food Science and Technology (Applied Learning Programme – ALP).md
       - Cyber Wellness in Dunearn/.keep
