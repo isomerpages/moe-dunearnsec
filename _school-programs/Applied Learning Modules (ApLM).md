@@ -57,7 +57,7 @@ and technology shape the future of food production.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SP_Food_innovation_2024.jpg">
 </div>
-<p><em>“I learnt about the types of packaging and how different ingredients may affect the final product.  I learnt how to work effectively and efficiently in groups. I enjoyed the hands-on experience with the guidance from the lecturers. I am greatly appreciative with the opportunity to join this module.” - Kaeden Chong</em>
+<p><em>“I learnt about the types of packaging and how different ingredients may affect the final product. I learnt how to work effectively and efficiently in groups. I enjoyed the hands-on experience with the guidance from the lecturers. I am greatly appreciative with the opportunity to join this module.” - Kaeden Chong</em>
 </p>
 <p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp; Fashion Design</strong>
 </p>
@@ -124,7 +124,7 @@ the software Adobe Photoshop and Adobe InDesign.</p>
 in a creative team, software tools, and develop pre-press production skills
 and processes in order to create an interactive digital publication using
 typography, images, and graphical elements.</p>
-<p><strong>7)  Unleash Your Sonic Potential – Sound Design for Digital Media</strong>
+<p><strong>7) Unleash Your Sonic Potential – Sound Design for Digital Media @ Republic Poly</strong>
 </p>
 <p>This module is perfect for aspiring digital media content creators, filmmakers,
 YouTubers, podcasters, animators, and anyone looking to enhance their digital
@@ -135,7 +135,7 @@ impact on your audience with the magic of sound!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/unleash_your_sonic_potential_at_RP.jpg">
 </div>
-<p><strong>8) User Experience Design and Physical Prototyping </strong>
+<p><strong>8) User Experience Design and Physical Prototyping @ Republic Poly</strong>
 </p>
 <p>This module puts you into the role of a designer, where you will explore
 ideas through sketching and apply physical prototyping techniques to create
