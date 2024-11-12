@@ -23,6 +23,18 @@ variant: tiptap
 <li>
 <p>Bus Stop at Bt Batok Road: 160, 180, 947</p>
 </li>
+<li>
+<p>Bus Stop at Bt Batok West Ave 8 (Blk 432A): 993</p>
+</li>
+</ol>
+<p>Nearest MRT stations:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bukit Gombak MRT Station</p>
+</li>
+<li>
+<p>Bukit Batok MRT Station</p>
+</li>
 </ol>
 <h4>Email</h4>
 <p>General Enquiries and Feedback :&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">dunearn_ss@moe.edu.sg</a>
