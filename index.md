@@ -14,7 +14,7 @@ sections:
         - title: Food Science Technology
           description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
-      background: /images/DSS_Open_Hse_Banner.png
+      background: /images/DSS_Publicity_Website_Banner_2024_testing.jpg
       variant: image
   - resources:
       subtitle: Latest Announcements
