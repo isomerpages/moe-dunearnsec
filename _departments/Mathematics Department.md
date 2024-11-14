@@ -13,13 +13,8 @@ key Big Ideas in Mathematics we foster <strong>Critical, Adaptive, and Inventive
 ensuring students are <strong>prepared for real-world challenges.</strong> Our
 programmes are designed to develop<strong> self-directed learners, critical thinkers, and collaborators.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMF4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21CC_Framework__correct_size__002_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_framework_and_21_cc.jpg">
 </div>
 <h3><strong><sub>Real-World Applications</sub></strong></h3>
 <p>Mathematics might seem abstract, but it's everywhere! From designing the
@@ -71,7 +66,7 @@ critical skills that will serve them in any career.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engaging_Prog_for_Sec_1__002_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +77,7 @@ these interactive activities, students are given opportunities to <strong>apply 
 learning both practical and fun.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engaging_Prog_for_Sec_2jpg__002_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 </td>
 </tr>
