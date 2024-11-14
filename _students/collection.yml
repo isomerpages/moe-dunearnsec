@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Inspirational Stories/.keep
       - PDLP in DSS.md
       - Character Citizenship Edn(CCE)/.keep
       - Character Citizenship Edn(CCE)/Edusave Character Award (ECHA).md
