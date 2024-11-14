@@ -2,6 +2,8 @@ collections:
   students:
     output: true
     order:
+      - Inspirational Stories/Jonathan Wong.md
+      - Inspirational Stories/.keep
       - PDLP in DSS.md
       - Character Citizenship Edn(CCE)/.keep
       - Character Citizenship Edn(CCE)/Edusave Character Award (ECHA).md
@@ -17,6 +19,5 @@ collections:
       - Student Management/.keep
       - Student Management/Rules and Regulations.md
       - Student Management/Student Health Advisor.md
-      - Inspirational Stories.md
       - Financial Assistance Scheme.md
       - Sports Safety.md
