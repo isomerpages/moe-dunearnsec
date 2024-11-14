@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
       background: /images/DSS_Publicity_Website_Banner_2024_testing.jpg
-      variant: center
+      variant: image
   - resources:
       subtitle: Latest Announcements
       button: More
