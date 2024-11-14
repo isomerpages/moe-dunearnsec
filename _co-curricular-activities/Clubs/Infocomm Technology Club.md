@@ -30,9 +30,7 @@ and project management.</p>
 </li>
 <li>
 <p>Mr Lo Tin Chee</p>
-</li>
-<li>
-<p>&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>Vendors: Immersive Media Programme by Make the Change (AY 2024)</p>
