@@ -18,7 +18,7 @@ device, PLD.</p>
 </div>
 <p></p>
 <p>With effect from 2025, the school uses the <strong>Acer Chromebook Spin R857TN</strong>.</p>
-<p>Bundle total cost with GST:<strong> $649.60 (subject to changes)</strong>
+<p>Bundle total cost with GST:<strong> $630 (subject to changes)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,9 +44,6 @@ device, PLD.</p>
 </li>
 <li>
 <p>USB Type-C earpiece with mic</p>
-</li>
-<li>
-<p>Kensington combination cable lock</p>
 </li>
 <li>
 <p>3 year warranty and insurance</p>
