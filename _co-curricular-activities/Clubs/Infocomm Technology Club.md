@@ -63,8 +63,6 @@ awareness</p>
 </li>
 <li>
 <p>Finalists for Amazon Web Services Bootcamp 2021</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
