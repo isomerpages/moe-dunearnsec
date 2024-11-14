@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Inspirational Stories/Inspirational Stories.md
+      - Inspirational Stories/Jonathan Wong.md
       - Inspirational Stories/.keep
       - PDLP in DSS.md
       - Character Citizenship Edn(CCE)/.keep
