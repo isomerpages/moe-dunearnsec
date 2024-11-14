@@ -9,6 +9,10 @@ variant: tiptap
 ---
 <h4><strong>SECONDARY TWO STUDENTS’ IMMERSION AND EXCHANGE PROGRAMME TO</strong></h4>
 <h4><strong>HONG KONG (4 to 8 NOVEMBER 2024)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_04_at_15_48_09.jpg">
+</div>
 <p>From November 4th to November 8th, a group of selected Secondary Two students
 embarked on an unforgettable school trip to Hong Kong. This journey offered
 not only a break from the usual classroom setting but also unique educational
