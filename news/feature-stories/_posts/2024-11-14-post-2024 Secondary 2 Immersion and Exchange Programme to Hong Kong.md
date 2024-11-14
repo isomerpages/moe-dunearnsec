@@ -37,6 +37,10 @@ culture in Hong Kong.</p>
 <p>The students were able to observe classes through a tour of the school
 and engage in various collaborative activities. This experience opened
 their eyes to different learning styles and perspectives of another country.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/disneyland1.jpg">
+</div>
 <p>Another highlight was the educational program at Disneyland Hong Kong.
 This unique opportunity combined entertainment with learning, making it
 a memorable and impactful experience. The program focused on behind-the-scenes
@@ -47,7 +51,7 @@ to see how Disneyland Hong Kong selects its staff and what it is like to
 work there.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/farming.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/farming.jpg">
 </div>
 <p>The fourth day of the trip included a visit to an organic farm on the
 outskirts of Hong Kong, where students were involved in hands-on agricultural
@@ -64,7 +68,7 @@ tote bags which showcased vibrant colors and unique patterns, created by
 folding, tying, and dyeing techniques that personalize each bag.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/the_mill.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/the_mill.jpg">
 </div>
 <p>Another interesting activity on the itinerary was a visit to two refurbished
 historical buildings, The Mill and Tai Kwun where students learned about
@@ -86,7 +90,7 @@ students not only expanded their knowledge but also gained a broader perspective
 on global issues and the importance of cultural diversity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tie_dye.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/tie_dye.jpg">
 </div>
 <p>In summary, this immersion and exchange programme trip provided Secondary
 Two students with valuable insights, both academically and personally.
