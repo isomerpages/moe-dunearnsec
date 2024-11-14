@@ -83,4 +83,71 @@ learning both practical and fun.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Secondary 3 Computational Thinking Workshops</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Through these workshops, students are given opportunities to apply mathematical
+concepts to create and innovate solutions to tackle challenges beyond solving
+equations, such as robotic car racing and projectile motion. In 2024, students
+were given additional opportunities through collaborations, such as with
+Temasek Polytechnic Makerspace, to apply what they learnt in creative ways.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coding Session</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hands-on Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Robot Testing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students learnt coding during a session of the Computational Thinking
+workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students engaged in hands-on learning activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students tested out their robots during a session of the Computational
+Thinking workshop</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
