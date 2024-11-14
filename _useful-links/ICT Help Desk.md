@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>For Staff</h2>
-<h4><strong>Help Request Form A1</strong></h4>
+<h4><strong>Help Request Form A</strong></h4>
 <p>If required, <strong>staff</strong> can request assistance and support for <strong>ICT matters</strong> via
-the <strong>ICT Form A1</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+the <strong>ICT Form A</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h2>For Students/Parents</h2>
 <h4><strong>Help Request Form B</strong></h4>
 <p>If required, <strong>students</strong> or <strong>parents</strong> on behalf
