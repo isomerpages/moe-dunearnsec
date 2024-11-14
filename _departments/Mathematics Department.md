@@ -265,6 +265,18 @@ and awards in both national and international platforms.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -277,25 +289,25 @@ and awards in both national and international platforms.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design_Thinking_w_Robotics_and_Comp_Thinking_Int_Comp.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Comp_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Comp_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_Sg_Math_Comp_for_Normal_Course_Students.png">
 </div>
 </td>
 </tr>
