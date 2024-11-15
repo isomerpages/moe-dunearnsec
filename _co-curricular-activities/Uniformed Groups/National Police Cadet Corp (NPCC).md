@@ -78,6 +78,36 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <br>- SGT (NPCC) Khaleel Ahmed Afiya Mariam</p>
 <p>Publicity In-Charge:
 <br>- SGT (NPCC) Ng Shi Yi</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/46.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/27.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CVTI0856.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>The NPCC Training Framework</h4>
 <p><u>The 6As of NPCC Learning Path</u>
 </p>
@@ -352,4 +382,11 @@ changing contexts.</p>
 <p><strong>2005</strong>: Bronze
 <br><strong>2006</strong>: Silver
 <br><strong>2007 - 2023</strong>: Gold</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
+</div>
 <p></p>

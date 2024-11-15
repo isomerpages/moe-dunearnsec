@@ -16,6 +16,35 @@ programmes are designed to develop<strong> self-directed learners, critical thin
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_framework_and_21_cc.jpg">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_12.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_13.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_14.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong><sub>Real-World Applications</sub></strong></h3>
 <p>Mathematics might seem abstract, but it's everywhere! From designing the
 latest app to managing your personal finances, mathematics play a key role
@@ -212,7 +241,7 @@ and awards in both national and international platforms.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Bronz, 4 Honourable Mentions</p>
+<p>1 Bronze, 4 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -265,18 +294,6 @@ and awards in both national and international platforms.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -289,25 +306,25 @@ and awards in both national and international platforms.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design_Thinking_w_Robotics_and_Comp_Thinking_Int_Comp.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Comp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Comp_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_Sg_Math_Comp_for_Normal_Course_Students.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
 </td>
 </tr>
@@ -365,7 +382,7 @@ for examinations, but for life.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics.jpg">
 </div>
 <p>Have a question in Math related matters? Do not hesitate to email any
 one of the Mathematics teachers or call the school at 65653692 during office
