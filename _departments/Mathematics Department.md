@@ -16,6 +16,35 @@ programmes are designed to develop<strong> self-directed learners, critical thin
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_framework_and_21_cc.jpg">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_12.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_13.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_14.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong><sub>Real-World Applications</sub></strong></h3>
 <p>Mathematics might seem abstract, but it's everywhere! From designing the
 latest app to managing your personal finances, mathematics play a key role
