@@ -9,11 +9,10 @@ variant: tiptap
 ---
 <h4><strong><u>School Green Awards 2024</u></strong></h4>
 <p>The School Green Awards (SGA) is organised by the Singapore Environment
-Council. The SGA</p>
-<p>is a voluntary environmental programme for schools based in Singapore,
-which serves as a platform for students to develop and showcase their environmental
-efforts, through customised activities which will help them gain better
-understanding of the environment.</p>
+Council. The SGA is a voluntary environmental programme for schools based
+in Singapore, which serves as a platform for students to develop and showcase
+their environmental efforts, through customised activities which will help
+them gain better understanding of the environment.</p>
 <p>Every year, submissions come from preschools, primary schools, secondary
 schools, junior colleges, international schools, and schools for students
 with special needs.&nbsp;</p>
