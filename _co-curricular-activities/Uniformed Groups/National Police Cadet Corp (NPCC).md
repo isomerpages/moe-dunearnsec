@@ -85,15 +85,14 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CVTI0856.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/4.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CVTI0856.jpg">
+</div>
+<p></p>
 </th>
 </tr>
 <tr>
