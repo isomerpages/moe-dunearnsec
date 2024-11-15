@@ -2,9 +2,8 @@ collections:
   students:
     output: true
     order:
-      - Inspirational Stories/Jonathan Wong.md
       - Inspirational Stories/.keep
-      - Personalised Digital Learning Programme (PDLP) in DSS.md
+      - Inspirational Stories/Jonathan Wong.md
       - Character Citizenship Edn(CCE)/.keep
       - Character Citizenship Edn(CCE)/Edusave Character Award (ECHA).md
       - Character Citizenship Edn(CCE)/Sexuality Education.md
@@ -19,5 +18,6 @@ collections:
       - Student Management/.keep
       - Student Management/Rules and Regulations.md
       - Student Management/Student Health Advisor.md
+      - Personalised Digital Learning Programme (PDLP) in DSS.md
       - Financial Assistance Scheme.md
       - Sports Safety.md
