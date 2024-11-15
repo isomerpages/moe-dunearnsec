@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Inspirational Stories/Benjamin Wong.md
       - Inspirational Stories/.keep
       - Inspirational Stories/Jonathan Wong.md
       - Character Citizenship Edn(CCE)/.keep
