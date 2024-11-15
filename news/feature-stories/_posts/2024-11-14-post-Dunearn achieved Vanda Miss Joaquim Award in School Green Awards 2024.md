@@ -23,3 +23,7 @@ Green Awards framework. We are among the 13 secondary schools that achieved
 the Vanda Miss Joaquim Award. More information regarding SGA is available
 at this website <a rel="noopener noreferrer nofollow" target="_blank">https://web.sec.org.sg/sga/</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_15_at_16_54_05.jpg">
+</div>
+<p></p>
