@@ -45,21 +45,6 @@ programmes are designed to develop<strong> self-directed learners, critical thin
 </tr>
 </tbody>
 </table>
-<h3><strong><sub>Real-World Applications</sub></strong></h3>
-<p>Mathematics might seem abstract, but it's everywhere! From designing the
-latest app to managing your personal finances, mathematics play a key role
-in our everyday tasks. Our teaching focuses on turning complex mathematical
-ideas into hands-on learning experiences that show students how mathematics
-can power the world.</p>
-<h3><strong><sub>Big Ideas of Mathematics</sub></strong></h3>
-<p>We emphasize <strong>Big Ideas</strong> like <strong>Equivalence, Proportionality, and Functions</strong>,
-which show students how different concepts are connected. Through relatable
-examples, we make math relevant and exciting.</p>
-<h3><strong><sub>Information and Communications Technology (ICT) and Gamification</sub></strong></h3>
-<p>Our commitment to <strong>ICT and Gamification</strong> ensures lessons
-are interactive and engaging, incorporating both e-pedagogy and technology-driven
-strategies, in line with our department's vision to foster <strong>Joy of Learning</strong> in
-the Mathematics Classroom.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
