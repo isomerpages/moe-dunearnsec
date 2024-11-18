@@ -15,7 +15,7 @@ sections:
           description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
       background: /images/000Artboard 1.jpg
-      variant: image
+      variant: center
   - resources:
       subtitle: Latest Announcements
       button: More
