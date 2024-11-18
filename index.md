@@ -14,10 +14,8 @@ sections:
         - title: Food Science Technology
           description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
-      background: /images/DSS_Publicity_Website_Banner__1920X720_.png
+      background: /images/000Artboard 1.jpg
       variant: image
-      title: Open House
-      subtitle: Saturday 16
   - resources:
       subtitle: Latest Announcements
       button: More
