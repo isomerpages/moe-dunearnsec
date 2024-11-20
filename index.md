@@ -16,7 +16,7 @@ sections:
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
         - title: The Dunearn Experience
           description: ""
-          url: ""
+          url: /students/inspirational-stories/
       background: /images/000Artboard 1.jpg
       variant: center
   - resources:
