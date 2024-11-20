@@ -14,6 +14,9 @@ sections:
         - title: Food Science Technology
           description: ""
           url: /school-programs/food-science-and-technology-applied-learning-programme-alp
+        - title: The Dunearn Experience
+          description: ""
+          url: ""
       background: /images/000Artboard 1.jpg
       variant: center
   - resources:
