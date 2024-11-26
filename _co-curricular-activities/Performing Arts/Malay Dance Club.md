@@ -58,7 +58,9 @@ other.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday &amp; Wednesday: 3:30pm – 5:30pm</p>
+<p>Wednesday（Hall）&amp;
+<br>Thursday（Library）:
+<br>3:30pm – 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday, Wednesday: 9:00am – 12:30pm</p>
