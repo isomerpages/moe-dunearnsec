@@ -148,7 +148,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm
+<p>Wed 3:15pm - 5:30pm
 <br>Fri
 <br>（1:30pm - 5:30pm）/（2:30pm - 5:30pm）</p>
 </td>
