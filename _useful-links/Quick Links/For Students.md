@@ -17,54 +17,56 @@ third_nav_title: Quick Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Booklist 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_1_G1_G2_G3_w_stationery_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_Exp.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_3_Exp.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_3_NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_EXP.pdf" rel="noopener nofollow" target="_blank">Sec 4 EXP Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_3_NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_4_EXP.pdf" rel="noopener nofollow" target="_blank">Sec 4 EXP Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT Booklist 2025</a>
+<p><a href="/files/Textbook List 2025/Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA Booklist 2025</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 5 NA Booklist 2025</p>
+<p><a href="/files/Textbook List 2025/Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT Booklist 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Textbook List 2025/Sec_5_NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA Booklist 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
