@@ -22,5 +22,4 @@ sections:
   - resources:
       subtitle: Latest Announcements
       button: More
-      title: Results of 2024 GCE N-LEVEL EXAMINATIONS
 ---
