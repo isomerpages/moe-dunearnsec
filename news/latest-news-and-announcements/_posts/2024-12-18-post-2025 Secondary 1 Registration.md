@@ -15,9 +15,10 @@ need to report to their posted secondary schools physically upon receiving
 their Sec 1 Posting Results. An SMS will be sent through your child’s/ward’s
 primary school.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students and parents can
-refer to the websites of their posted schools for further information,
-such as reporting details, booklists, and instructions for purchasing books
-and uniforms.</p>
+click <a href="https://www.dunearnsec.moe.edu.sg/useful-links/quick-links/for-students/" rel="noopener nofollow" target="_blank">here</a> for
+the Sec 1 (2025) booklist. Instructions for purchasing books and uniforms
+will be sent to parents via Parents Gateway on Wednesday, 18 Dec 2024 from
+5 p.m. onward.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of the incoming Sec
 1 cohort who are on Parents Gateway (PG) may receive instructions from
 the posted schools to submit their e-registration on Wednesday, 18 Dec
