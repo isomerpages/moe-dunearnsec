@@ -9,8 +9,7 @@ variant: tiptap
 ---
 <h4><strong>Release of Secondary 1 Posting Results</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Sec 1 Posting Results
-will be released on the date stated in the MOE Press Release and on the
-MOE website (18 to 20 Dec, tentatively).</p>
+will be released on Wednesday, 18 Dec 2024.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students and parents do not
 need to report to their posted secondary schools physically upon receiving
 their Sec 1 Posting Results. An SMS will be sent through your child’s/ward’s
@@ -21,8 +20,8 @@ such as reporting details, booklists, and instructions for purchasing books
 and uniforms.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of the incoming Sec
 1 cohort who are on Parents Gateway (PG) may receive instructions from
-the posted schools starting from the afternoon the Sec 1 Posting Results
-are released.</p>
+the posted schools to submit their e-registration on Wednesday, 18 Dec
+2024 from 5 p.m. onward.</p>
 <h4><strong>Medical Appeal Exercise (MAE) - For Serious Medical Conditions or Severe Physical Impairments</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The MAE is reserved for students
 who require a school transfer due to serious medical conditions or severe
