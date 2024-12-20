@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>LOWER SEC YEAR HEAD: MR TANG CHEE KUAN </strong>
-<br><strong>LOWER SEC ASSISTANT YEAR HEAD: MS WONG YIN MEI</strong>
+<br><strong>LOWER SEC ASSISTANT YEAR HEAD: </strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -629,7 +629,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Diana&nbsp;Jailani</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -637,7 +637,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Si-Yi Sarah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -645,7 +645,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Lo Tin Chee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -671,7 +671,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bai Yirang (CAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -679,7 +679,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eliz Ng (CAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -703,7 +703,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Annie Ng Lai Keen (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -719,7 +719,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeong Hoi Wai (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -775,7 +775,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Ong Seow Choong (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -809,7 +809,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan May Fung (Adjunct School Counsellor)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
