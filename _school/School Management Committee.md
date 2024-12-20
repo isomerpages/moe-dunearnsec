@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Miao Ling</p>
+<p>Mdm Soh Beng Mui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD PE and CCA (Internal)</p>
@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yin Mei</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)&nbsp;</p>
