@@ -4,7 +4,12 @@ permalink: /school/administrative-staff/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -110,7 +115,7 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cherine Lee</p>
+<p>Mr Rohim Bin Saat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TSO</p>
@@ -121,7 +126,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Khwan</p>
+<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TSO</p>
@@ -132,28 +137,6 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rohim Bin Saat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Seah Zhifan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Selvarani d/o Miandy</p>
@@ -173,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lek Siew Li</p>
@@ -184,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oh Mahamudha Hajamaideen</p>
@@ -195,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kock Chuay Wai</p>
@@ -206,7 +189,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gayathri Krishnan</p>
