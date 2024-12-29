@@ -124,10 +124,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Hisham</p>
+<p>Ms Dewi Marlina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD Humanities (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alvin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD PE and CCA (Internal)</p>
@@ -167,7 +167,7 @@ variant: tiptap
 <p>Ms Leong Sweet Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Internal)</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ variant: tiptap
 <p>Mrs Rajanmi Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher&nbsp;</p>
+<p>Lead Teacher&nbsp;(English)</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yasmeen Aysha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)&nbsp;</p>
@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Gek Hoon</p>
+<p>Mrs Seah-Chua Gek Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Mathematics</p>
@@ -232,22 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Dewi Marlina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alvin Ho Wei Kwok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +255,7 @@ variant: tiptap
 <p>Mr Vu Tien Dat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH ICT (Internal)</p>
+<p>SH ICT</p>
 </td>
 </tr>
 </tbody>
