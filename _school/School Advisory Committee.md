@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Preetwant Singh</p>
+<p>Mr&nbsp;Preetwant Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
