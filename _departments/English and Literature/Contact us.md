@@ -113,18 +113,6 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Chan Si Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sarah_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_chan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Khoo Mei Imm Faith</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,42 +120,6 @@ third_nav_title: English and Literature
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_mei_imm_faith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_mei_imm_faith@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Hazwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_hazwan_b_sapari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hazwan_b_sapari@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Emily Low Qian Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="low_qian_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_qian_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gayle Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="gayle_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayle_tay@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -209,13 +161,25 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Lyana Binti Mohamad Zaky</p>
+<p>Ms Melissa Lim Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (UT)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_lyana_mohamad_zaky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_lyana_mohamad_zaky@moe.edu.sg</a>
+<p><a href="lim_li_li_melissa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_li_li_melissa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hee Lim Gee Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="hee_lim_gee_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">hee_lim_gee_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
