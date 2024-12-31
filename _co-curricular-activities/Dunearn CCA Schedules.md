@@ -12,8 +12,7 @@ with the opportunity to pursue their interests and acquire knowledge and
 skills. It is also a common space for students of diverse backgrounds to
 socialise, to forge close friendship as students' journey through their
 experiences together for 4 to 5 years in Dunearn.</p>
-<p></p>
-<h4><strong>CCA Schedules</strong><br></h4>
+<h4><strong>CCA Schedules</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -133,17 +132,6 @@ experiences together for 4 to 5 years in Dunearn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside Scouts Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
