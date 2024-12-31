@@ -38,14 +38,10 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (Girls)</p>
-<p>3.30 pm - 5.30 pm</p>
-<p>Tues (Boys)</p>
-<p>3:30 pm - 5:30 pm</p>
-<p>Thurs (Boys)</p>
-<p>3:30 pm - 5:30 pm</p>
-<p>Fri (Girls)</p>
-<p>3.30 pm - 5.30 pm</p>
+<p>Mon (Girls) 3.30 pm - 5.30 pm</p>
+<p>Tues (Boys) 3:30 pm - 5:30 pm</p>
+<p>Thurs (Boys) 3:30 pm - 5:30 pm</p>
+<p>Fri (Girls) 3.30 pm - 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4</p>
@@ -81,10 +77,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues</p>
-<p>3:00pm - 5:00pm
-<br>Thurs</p>
-<p>3:00pm - 5:00pm</p>
+<p>Tues 3:00pm - 5:00pm
+<br>Thurs 3:00pm - 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field
@@ -97,10 +91,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues</p>
-<p>3:30pm - 5:30pm
-<br>Thurs</p>
-<p>3:30pm - 5:30pm</p>
+<p>Tues 3:30pm - 5:30pm
+<br>Thurs 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -112,8 +104,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
-<p>1:30pm - 4:30pm</p>
+<p>Fri 1:30pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside NCC Room</p>
@@ -125,8 +116,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
-<p>2:30pm - 5:30pm</p>
+<p>Fri 2:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside NPCC Room</p>
@@ -138,8 +128,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
-<p>2:30pm - 5:30pm</p>
+<p>Fri 2:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside Scouts Room</p>
@@ -162,8 +151,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
-<p>2:30pm - 5:30pm</p>
+<p>Fri 2:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside SJB Room</p>
@@ -175,10 +163,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:15pm - 5:45pm
-<br>Fri</p>
-<p>1:30pm - 5:30pm</p>
+<p>Wed 3:15pm - 5:45pm
+<br>Fri 1:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
@@ -192,10 +178,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues</p>
-<p>3:30pm - 5:30pm
-<br>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Tues 3:30pm - 5:30pm Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Black Box
@@ -210,10 +193,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm
-<br>Thurs</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm Thurs 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Black Box</p>
@@ -226,9 +206,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed</p>
-<p>3:15pm - 5:30pm
-<br>Thurs</p>
-<p>3:15pm - 5:30pm</p>
+<p>3:15pm - 5:30pm Thurs 3:15pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Humanities Room</p>
@@ -240,10 +218,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm
-<br>Thurs</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm Thurs 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall
@@ -257,10 +232,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm
-<br>Thurs</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm Thurs 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Foyer
@@ -274,8 +246,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sound &amp; Light Control Rm &amp;</p>
@@ -288,8 +259,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab 1</p>
@@ -301,8 +271,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab 3</p>
@@ -314,8 +283,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Library</p>
@@ -327,8 +295,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ITR 1</p>
