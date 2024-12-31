@@ -499,32 +499,6 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Chin</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">louis_chin_cheong_long@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sandy Tan</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_fang_hui_sandy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Low Chui Ling</p>
 <p>&nbsp;</p>
 </td>
@@ -590,6 +564,17 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Melissa Lim Li Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lily Lee</p>
 <p>&nbsp;</p>
 </td>
@@ -598,19 +583,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_lily_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shernise Chew</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shernise_chew_dan_rou@moe.edu.sg</a>
 </p>
 </td>
 </tr>
