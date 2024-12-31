@@ -1017,7 +1017,7 @@ variant: tiptap
 <p>Mr P Ng Keat Siong (School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>p_ng_keat_siong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
