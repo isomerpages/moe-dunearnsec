@@ -20,7 +20,12 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </div>
 <hr>
 <h4><strong>Staffing</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,7 +65,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Ping</p>
+<p>Mr Ng Hock Ping (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
@@ -82,29 +87,29 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sandy Tan</p>
+<p>Ms Esther Zheng Jiahui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_fang_hui_sandy@moe.edu.sg</p>
+<p>zheng_jiahui_esther@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eliz Ng Si Qi (CAJT)</p>
+<p>Ms Nada Ng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_si_qi_eliz@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Sweet Lee (HOD ICT internal)</p>
+<p>Ms Leong Sweet Lee (HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
@@ -122,6 +127,17 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </td>
 <td rowspan="1" colspan="1">
 <p>nazrul_hadi_jamali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yasmeen Aysha (AYH (Lower Sec))</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yasmeen_aysha@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -148,17 +164,6 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chau Pearlwe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry, Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chau_pearlwe@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Fiona Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,28 +171,6 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_shu_hua_fiona@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lwa Heng Qian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lwa_heng_qian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Cek Sin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_cek_sin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -243,17 +226,6 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_whye_lin_yvonne@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Yi Qiao (AYH, Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_yi_qiao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
