@@ -107,13 +107,13 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shernise Chew Dan Rou (UT)</p>
+<p>Mr Sim Gim Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shernise_chew_dan_rou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shernise_chew_dan_rou@moe.edu.sg</a>
+<p><a href="sim_gim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_gim_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -167,20 +167,32 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lwa Heng Qian</p>
+<p>Ms Esther Zheng Jiahui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lwa_heng_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lwa_heng_qian@moe.edu.sg</a>
+<p><a href="lwa_heng_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_jiahui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Radiah Mahdi (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_radiah_mahdi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_radiah_mahdi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Vu Tien Dat</p>
-<p>SH (ICT) (Internal)</p>
+<p>SH (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Teacher</p>
@@ -192,7 +204,7 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanise Yap (FAJT)</p>
+<p>Ms Cindy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Teacher</p>
@@ -206,7 +218,7 @@ collaborative and creative problem-solvers.</p>
 <p>Mr Rohim Saat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T Instructor</p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rohim_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">rohim_saat@moe.edu.sg</a>
@@ -215,13 +227,13 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Khwan</p>
+<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D&amp;T instructor</p>
+<p>STEM instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_eng_khwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_eng_khwan@moe.edu.sg</a>
+<p><a href="muhammad_naufal_mohamed_Ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_naufal_mohamed_Ibrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -44,16 +44,16 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Hisham</p>
+<p>Ms Dewi Marlina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD Humanities (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History, Social Studies</p>
+<p>Geography, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_hisham_b_amat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hisham_b_amat@moe.edu.sg</a>
+<p><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_marlina_putri_chumali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,21 +84,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lailtha_savathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lailtha_savathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Yin Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History, Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yin_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yin_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -152,28 +137,13 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Ms Leong Sweet Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Internal)</p>
+<p>HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elements of Business Skills (EBS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_sweet_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sweet_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Dewi Marlina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography, Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dewi_marlina_putri_chumali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_marlina_putri_chumali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -189,21 +159,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soon_suan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soon_suan_boon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lo Tin Chee Alex</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography, Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lo_tin_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lo_tin_chee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -269,48 +224,46 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Lyana Binti Mohamad Zaky</p>
+<p>Ms Hee Lim Gee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (UT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nur_lyana_mohamad_zaky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_lyana_mohamad_zaky@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bai Yi Rang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (CAJT)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.dunearnsec.moe.edu.sg/departments/humanities-department/bai_yi_rang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bai_yi_rang@moe.edu.sg</a>
+<p><a href="hee_lim_gee_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">hee_lim_gee_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Annie Ng Lai Keen</p>
+<p>Mr Anthony Teo Yi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (FAJT)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principles of</p>
-<p>Accounting (POA)</p>
+<p>History, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lai_keen_annie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_keen_annie@moe.edu.sg</a>
+<p><a href="yi_jie_anthony_teo@moe.edu.sg" rel="noopener nofollow" target="_blank">yi_jie_anthony_teo@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
