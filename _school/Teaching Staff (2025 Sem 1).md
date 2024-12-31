@@ -135,7 +135,7 @@ variant: tiptap
 <p>1P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_li_li_melissa@moe.edu.sg</p>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>1S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama</p>
+<p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hee_lim_gee_kheng@moe.edu.sg</p>
@@ -261,7 +261,7 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SJB</p>
+<p>Photography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>see_gim_hwee@moe.edu.sg</p>
@@ -568,7 +568,7 @@ variant: tiptap
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA</p>
+<p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zheng_jiahui_esther@moe.edu.sg</p>
@@ -596,7 +596,7 @@ variant: tiptap
 <p>3S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng</p>
+<p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yi_jie_anthony_teo@moe.edu.sg</p>
