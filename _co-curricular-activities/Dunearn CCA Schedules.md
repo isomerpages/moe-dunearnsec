@@ -40,7 +40,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <p>Mon (Girls)
 <br>3.30pm - 5.30pm
 <br>Tues (Boys)
-<br>3.30pm - 5.30pm Thurs (Boys) 3.30pm - 5.30pm
+<br>3.30pm - 5.30pm
 <br>Fri (Girls)
 <br>3.30pm - 5.30pm</p>
 </td>
