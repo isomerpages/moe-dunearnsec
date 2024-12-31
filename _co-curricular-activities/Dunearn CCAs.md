@@ -38,14 +38,19 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 3.30om - 5.30 pm (Girls)</p>
-<p>Tues 3:30pm - 5:30pm (All)</p>
-<p>Thurs 3:30pm - 5:30pm (All)</p>
+<p>Mon</p>
+<p>Girls</p>
+<p>3.30pm - 5.30 pm</p>
+<p>Tues Boys</p>
+<p>3:30pm - 5:30pm</p>
+<p>Thurs</p>
+<p>Boys</p>
+<p>3:30pm - 5:30pm</p>
 <p>Fri</p>
-<p>3.30 pm - 5.30 pm (Girls)</p>
+<p>Girls</p>
+<p>3.30 pm - 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Lvl 1</p>
 <p>ISH Lvl 4</p>
 </td>
 </tr>
@@ -55,18 +60,20 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed
-<br>3.30pm - 5.30pm (All)
-<br>Fri <strong>(Girls)</strong>
+<p>Wed</p>
+<p>Boys and Girls
+<br>3.30pm - 5.30pm
+<br>Fri</p>
+<p>Girls
 <br>1.30pm - 3.30pm
-<br><strong>(Boys)</strong>
+<br>Boys
 <br>2.30pm - 4.30pm
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4 and
-<br>Hall</p>
+<br>Hall (Fri - Boys)</p>
 </td>
 </tr>
 <tr>
