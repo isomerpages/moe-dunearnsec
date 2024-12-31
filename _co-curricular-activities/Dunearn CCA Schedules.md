@@ -12,7 +12,7 @@ with the opportunity to pursue their interests and acquire knowledge and
 skills. It is also a common space for students of diverse backgrounds to
 socialise, to forge close friendship as students' journey through their
 experiences together for 4 to 5 years in Dunearn.</p>
-<h4><strong>CCA Schedules</strong></h4>
+<h4><strong>CCA Schedules (with effect from 2 Jan 2025)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
