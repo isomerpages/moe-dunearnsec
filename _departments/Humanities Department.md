@@ -245,7 +245,7 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hostory, Social Studies</p>
+<p>History, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="yi_jie_anthony_teo@moe.edu.sg" rel="noopener nofollow" target="_blank">yi_jie_anthony_teo@moe.edu.sg</a>
