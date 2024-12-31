@@ -421,31 +421,11 @@ variant: tiptap
 <p>tan_gek_kuan_a@moe.edu.sg</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
-<br><strong>UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Class</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email Address</p>
+<td rowspan="1" colspan="4">
+<p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
+<br><strong>UPPER SEC ASSISTANT YEAR HEAD: MS LEE YI QIAO</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1000,7 +980,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hazel Liew (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1026,7 +1006,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rashedah_khan_pate_khan@moe.edu.sg</p>
-<p></p>
 </td>
 </tr>
 <tr>
