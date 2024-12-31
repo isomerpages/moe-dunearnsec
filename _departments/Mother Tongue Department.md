@@ -185,6 +185,30 @@ by creating an engaging environment.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Luan Jianlin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="luan_jianlin@moe.edu.sg" rel="noopener nofollow" target="_blank">luan_jianlin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhao Xuemang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zhao_xuemang@moe.edu.sg" rel="noopener nofollow" target="_blank">zhao_xuemang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
