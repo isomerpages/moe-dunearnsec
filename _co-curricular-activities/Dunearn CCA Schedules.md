@@ -42,7 +42,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Tues (Boys)
 <br>3.30pm - 5.30pm
 <br>Thurs (Boys)
-<br>3.30pm - 5.30pm Fri( Girls) 3.30pm - 5.30pm</p>
+<br>3.30pm - 5.30pm Fri(Girls) 3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4</p>
