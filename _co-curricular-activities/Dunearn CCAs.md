@@ -38,10 +38,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (Girls) 3.30 pm - 5.30 pm</p>
-<p>Tues (Boys) 3:30 pm - 5:30 pm</p>
-<p>Thurs (Boys) 3:30 pm - 5:30 pm</p>
-<p>Fri (Girls) 3.30 pm - 5.30 pm</p>
+<p>Mon (Girls) 3.30 pm - 5.30 pm Tues (Boys) 3:30 pm - 5:30 pm Thurs (Boys)
+3:30 pm - 5:30 pm Fri (Girls) 3.30 pm - 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4</p>
@@ -58,9 +56,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Fri (Girls)
 <br>1.30pm - 3.30pm
 <br>Fri (Boys)
-<br>2.30pm - 4.30pm
-<br>
-</p>
+<br>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4
@@ -178,7 +174,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues 3:30pm - 5:30pm Wed 3:30pm - 5:30pm</p>
+<p>Tues 3:30pm - 5:30pm</p>
+<p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Black Box
@@ -205,8 +202,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
-<p>3:15pm - 5:30pm Thurs 3:15pm - 5:30pm</p>
+<p>Wed 3:15pm - 5:30pm Thurs 3:15pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Humanities Room</p>
