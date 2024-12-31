@@ -424,7 +424,7 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>UPPER SEC YEAR HEAD: MR NICK LEE</strong> 
-<br><strong>UPPER SEC ASSISTANT YEAR HEAD (Internal): MS LEE YI QIAO</strong>
+<br><strong>UPPER SEC ASSISTANT YEAR HEAD: MS LEE YI QIAO</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
