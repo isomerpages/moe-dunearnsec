@@ -5,15 +5,16 @@ description: ""
 third_nav_title: Student Management
 variant: tiptap
 ---
-<h4>Rules and Regulations 2024</h4>
+<h4>Rules and Regulations 2025</h4>
 <p><strong>1. Pledge-taking and singing of National Anthem</strong>
 </p>
 <p>All students are to assemble at the school hall with their respective
-classes by 0725 hr from Tuesday to Thursday and in the classrooms on Mondays
-and Fridays. Students who are not with their respective classes by 0730
-hr are deemed late. Students who are Singapore citizens must sing the National
-Anthem and take the Pledge. Students will take the Pledge with the right
-fist over the heart. Foreign students must stand to attention.</p>
+classes daily by 0725 hr except Mondays (odd week) and Monday, Friday (even
+week) where they are to be in the classrooms instead. Students who are
+not with their respective classes by 0730 hr are deemed late. Students
+who are Singapore citizens must sing the National Anthem and take the Pledge.
+Students will take the Pledge with the right fist over the heart. Foreign
+students must stand to attention.</p>
 <p><strong>2. School Uniform</strong>
 </p>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -150,14 +151,19 @@ permission. Permission must be obtained from the Student Management Department.<
 <ul data-tight="true" class="tight">
 <li>
 <p>Other than learning, assignments and assessment, mobile electronic devices
-(e.g.phones, tablets, laptops) may only be used within the canteen area.
-It must not be seen or heard anywhere outside the canteen area. In class,
-the devices should be kept and not visibly seen (i.e. not to be placed
-on the table, charging, etc.).</p>
+(e.g.phones, tablets, laptops) may only be used within the canteen area
+after school hours. It must not be seen or heard anywhere outside the canteen
+area. Before class starts, the devices should be kept in lockers and not
+visibly seen (i.e. not to be placed on the table, charging, etc.). It should
+not be accessed during curriculum hours.</p>
 </li>
 <li>
 <p>For classroom use, these devices are only allowed with permission from
 the teacher for teaching and learning purposes only.</p>
+</li>
+<li>
+<p>Playing of games (non-curriculum related/ assigned) are not permitted
+on any electronic devices ar all times.</p>
 </li>
 <li>
 <p>Unauthorized use of the devices may result in the referral to the school’s
@@ -213,9 +219,9 @@ consequences, which are non-exhaustive are:</p>
 </li>
 <li>
 <p>During curriculum time, all mobile electronic devices (e.g. mobile phones,
-iPods, iPads, Tablets or Laptops) usage is restricted to the school canteen.
-Mobile electronic devices are not to be taken out during lessons and are
-not to be charged in school.</p>
+iPods, iPads, Tablets or Laptops) usage is restricted to the school canteen
+after school hours. Mobile electronic devices are not to be taken out during
+lessons and are not to be charged in school.</p>
 </li>
 <li>
 <p>(Curriculum hours commences at 7.30am and end once the student has finished
@@ -278,6 +284,9 @@ and tobacco product</p>
 <p>Out-of-class suspension</p>
 </li>
 <li>
+<p>Confiscation of items (for unauthorized use)</p>
+</li>
+<li>
 <p>Late-coming
 <br>- Home involvement
 <br>- “Fair” conduct grade will be given to pupils who have been late for
@@ -296,7 +305,7 @@ They will have to rectify it by the following week.
 <p>“Fair” or “Poor” conduct grade</p>
 </li>
 <li>
-<p>Referral to the Authorities (Police, CNB, Health Science Authority, MCYS)</p>
+<p>Referral to the Authorities (Police, CNB, Health Science Authority, MSF)</p>
 </li>
 <li>
 <p>Caning (Parents will be informed of the caning thereafter)</p>
