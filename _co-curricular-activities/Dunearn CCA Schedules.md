@@ -13,7 +13,7 @@ skills. It is also a common space for students of diverse backgrounds to
 socialise, to forge close friendship as students' journey through their
 experiences together for 4 to 5 years in Dunearn.</p>
 <p></p>
-<h4><strong>CCA Schedule</strong><br></h4>
+<h4><strong>CCA Schedules</strong><br></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -38,10 +38,13 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (Girls) 3.30 pm - 5.30 pm</p>
-<p>Tues (Boys) 3:30 pm - 5:30 pm</p>
-<p>Thurs (Boys) 3:30 pm - 5:30 pm</p>
-<p>Fri (Girls) 3.30 pm - 5.30 pm</p>
+<p>Mon (Girls)
+<br>3.30pm - 5.30pm
+<br>Tues (Boys)
+<br>3.30pm - 5.30pm Thurs (Boys)
+<br>3.30pm - 5.30pm
+<br>Fri (Girls)
+<br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4</p>
