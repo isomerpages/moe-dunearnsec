@@ -421,19 +421,6 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Khaidir (HOD Student Management)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_khaidir_abdul_rahm@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yvonne Tan (SH Physics)</p>
 <p>&nbsp;</p>
 </td>
