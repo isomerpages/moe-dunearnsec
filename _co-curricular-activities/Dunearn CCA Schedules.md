@@ -46,9 +46,6 @@ experiences together for 4 to 5 years in Dunearn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Lvl 4</p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
