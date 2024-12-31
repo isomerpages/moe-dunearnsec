@@ -570,7 +570,8 @@ hours.</p>
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lim_li_li_melissa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_li_li_melissa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
