@@ -244,8 +244,7 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <p>Wed 3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sound &amp; Light Control Rm &amp;</p>
-<p>ITR 2</p>
+<p>Sound &amp; Light Control Rm &amp; ITR 2</p>
 </td>
 </tr>
 <tr>
