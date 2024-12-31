@@ -135,7 +135,7 @@ variant: tiptap
 <p>1P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_li_li_melissa@moe.edu.sg</p>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>1S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama</p>
+<p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hee_lim_gee_kheng@moe.edu.sg</p>
@@ -261,7 +261,7 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SJB</p>
+<p>Photography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>see_gim_hwee@moe.edu.sg</p>
@@ -568,7 +568,7 @@ variant: tiptap
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA</p>
+<p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>zheng_jiahui_esther@moe.edu.sg</p>
@@ -596,7 +596,7 @@ variant: tiptap
 <p>3S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng</p>
+<p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yi_jie_anthony_teo@moe.edu.sg</p>
@@ -915,7 +915,7 @@ variant: tiptap
 <p>Mr Ow Gan Pin (CAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ow_gan_pin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -923,7 +923,7 @@ variant: tiptap
 <p>Mr Ng Hock Ping (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_hock_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -939,7 +939,7 @@ variant: tiptap
 <p>Ms Kurusamy Govindammal (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kurusamy_govindammal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -947,7 +947,7 @@ variant: tiptap
 <p>Mdm Lee Eng Hong (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_eng_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -955,7 +955,7 @@ variant: tiptap
 <p>Mdm Zhao Xuemang (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>zhao_xuemang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -963,15 +963,15 @@ variant: tiptap
 <p>Mdm Lily Lee (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_lily_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Heong Teck (FAJT)</p>
+<p>eong Teck (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yap_heong_teck@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -979,7 +979,7 @@ variant: tiptap
 <p>Ms Siti Radiah Mahdi (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_radiah_mahdi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -987,7 +987,7 @@ variant: tiptap
 <p>Ms Chia Magdelene&nbsp;(FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>magdalene_chia_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -995,7 +995,7 @@ variant: tiptap
 <p>Ms Vansie Yap (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vanise_yap_shi_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1017,15 +1017,7 @@ variant: tiptap
 <p>Mr P Ng Keat Siong (School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Amin Bin Morni (ECG Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>p_ng_keat_siong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1033,6 +1025,7 @@ variant: tiptap
 <p>Mdm Rashedah Khan (Student Welfare Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>rashedah_khan_pate_khan@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -1041,7 +1034,7 @@ variant: tiptap
 <p>Mdm Lim Sai Joo (SNO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_sai_joo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
