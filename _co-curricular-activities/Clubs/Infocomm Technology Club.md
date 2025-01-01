@@ -26,10 +26,7 @@ and project management.</p>
 <p>Ms Nur Fatimah Shafiee</p>
 </li>
 <li>
-<p>Ms Lwa Heng Qian</p>
-</li>
-<li>
-<p>Mr Lo Tin Chee</p>
+<p>Ms Low Chui Ling</p>
 <p></p>
 </li>
 <li>
@@ -37,7 +34,7 @@ and project management.</p>
 <h4>Training Day, Time and Venue</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday, 3.30pm to 5.30pm (Computer Labs 2 and 3)</p>
+<p>Wednesday, 3.30pm to 5.30pm (Computer Lab 3)</p>
 </li>
 <li>
 <p>Additional training days when required e.g. preparation for competition</p>
