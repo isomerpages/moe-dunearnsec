@@ -26,9 +26,6 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <p>Mr Ang Chin Chuan (Officer-In- Charge)</p>
 </li>
 <li>
-<p>Ms Tan Fang Hui, Sandy (Deputy Officer-In-Charge)</p>
-</li>
-<li>
 <p>Mdm Deng Kaihua (Training Officer)</p>
 </li>
 </ul>
@@ -57,7 +54,7 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 </li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p>Thursday, 3:30pm to 6pm, School</p>
+<p>Friday, 2:30pm to 5:30pm, School</p>
 <h4>Cadet Leaders Structure 2024</h4>
 <p><strong><u>Training Department</u><br></strong>Training Head:
 <br>- SGT (NPCC) Mohamed Asyraaf Bin Mohamed Johannes</p>
