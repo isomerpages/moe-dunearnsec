@@ -66,14 +66,6 @@ other.</p>
 <p>Tuesday, Wednesday: 9:00am – 12:30pm</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Awards</h4>
