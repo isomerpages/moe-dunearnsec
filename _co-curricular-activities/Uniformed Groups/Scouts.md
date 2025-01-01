@@ -41,13 +41,10 @@ planet, respect for nature and ruggedness in the outdoors</p>
 <h4>Teachers-in-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Low Qian Ling</p>
+<p>Ms Nurfarhana Kamal</p>
 </li>
 <li>
 <p>Ms Selena Chan</p>
-</li>
-<li>
-<p>Ms Nurfarhana Kamal</p>
 </li>
 </ul>
 <h4>Coach / Conductor / Trainer / Adult volunteer</h4>
@@ -69,7 +66,7 @@ planet, respect for nature and ruggedness in the outdoors</p>
 </li>
 </ul>
 <h4>Training Date, Time and Venue</h4>
-<p>Thursday, 3.30pm – 6.00pm</p>
+<p>Friday, 2.30pm – 5:30pm</p>
 <h4>Committee members</h4>
 <ul data-tight="true" class="tight">
 <li>
