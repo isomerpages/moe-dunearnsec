@@ -44,6 +44,9 @@ possess ability to overcome adversity</p>
 <p>Mdm Lee Cheng Leng</p>
 </li>
 <li>
+<p>Mrs Hee Lim Gee Kheng</p>
+</li>
+<li>
 <p>Mr Lee Eng Cheong (Coach)</p>
 </li>
 <li>
