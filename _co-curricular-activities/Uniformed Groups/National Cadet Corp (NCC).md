@@ -64,9 +64,6 @@ will gain greater awareness and appreciation of Singapore’s defence capabiliti
 <p>Mr Foo Sheng Hao</p>
 </li>
 <li>
-<p>Mr Hazwan</p>
-</li>
-<li>
 <p>Ms Fiona Ng</p>
 </li>
 </ul>
