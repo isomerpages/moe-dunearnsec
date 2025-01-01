@@ -14,9 +14,6 @@ latest developments in the arts scene in Singapore.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Gayle Tay</p>
-</li>
-<li>
 <p>Ms Naznin Rehana Begum</p>
 </li>
 <li>
