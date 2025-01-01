@@ -1010,6 +1010,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhd Amin Bin Morni (ECG Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_amin_morni@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lim Sai Joo (SNO)</p>
 </td>
 <td rowspan="1" colspan="1">
