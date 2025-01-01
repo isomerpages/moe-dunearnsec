@@ -30,7 +30,7 @@ of vibrant life in Dunearn Secondary School</p>
 <p>Ms Anna Tay (I/C)</p>
 </li>
 <li>
-<p>Ms Sarah Chan</p>
+<p>Mr See Gim Hwee</p>
 </li>
 </ul>
 <h4><strong>CCA Leaders</strong></h4>
