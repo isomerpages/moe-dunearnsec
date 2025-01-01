@@ -107,7 +107,7 @@ XI</p>
 </tbody>
 </table>
 <h4>Training Day, Time and Venue</h4>
-<p>Thursday, 3:30pm to 5:30pm, School Compound</p>
+<p>Friday, 1:30pm to 4:30pm, School Compound</p>
 <h4>Achievements</h4>
 <p>41<sup>ST</sup>ORIENTATION COMPETITION 2023 – 1ST RUNNER-UP</p>
 <p>UNIT RECOGNITION 2023 – DISTINCTION
