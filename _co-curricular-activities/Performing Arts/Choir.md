@@ -13,13 +13,10 @@ dancing</p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chen Pei Lien</p>
+<p>Ms Chen Pei Lien</p>
 </li>
 <li>
-<p>Louis Chin</p>
-</li>
-<li>
-<p>Low Chui Ling</p>
+<p>Ms Cindy Goh</p>
 </li>
 </ul>
 <h4>Instructors</h4>
@@ -34,10 +31,10 @@ dancing</p>
 <h4>Training Day, Time and Venue</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday: 3:15pm to 5:30pm, (Black Box)</p>
+<p>Tuesday: 3:30pm to 5:30pm, (Black Box)</p>
 </li>
 <li>
-<p>Wednesday: 3:15pm to 5:30pm, (ISH Lvl 1)</p>
+<p>Wednesday: 3:30pm to 5:30pm, (Hall)</p>
 </li>
 </ul>
 <h4>Highlights &amp; Achievements</h4>
