@@ -37,9 +37,6 @@ when pitching their business plans&nbsp;</p>
 <li>
 <p>Ms Lailtha</p>
 </li>
-<li>
-<p>Mr Pearlwe Chau</p>
-</li>
 </ul>
 <h4>The Entrepreneurship Committee Members (2024)</h4>
 <table style="minWidth: 75px">
