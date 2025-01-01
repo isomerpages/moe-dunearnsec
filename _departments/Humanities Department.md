@@ -224,7 +224,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hee Lim Gee Kheng</p>
+<p>Mrs Hee Lim Gee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
