@@ -38,9 +38,6 @@ healthcare professionals.</p>
 <li>
 <p>Soh Cek Sin (2 I/C)</p>
 </li>
-<li>
-<p>Mr See Gim Hwee (Training)</p>
-</li>
 </ul>
 <h4><strong>SJB Adult Member</strong></h4>
 <p><strong><u>Corp Superintendent</u></strong>
@@ -82,7 +79,7 @@ healthcare professionals.</p>
 </li>
 </ul>
 <h4><strong>Training Day, Time and Venue</strong></h4>
-<p>Thursday, 3:30pm to 6:00pm, School Compound</p>
+<p>Friday, 2:30pm to 5:30pm, School Compound</p>
 <h4><strong>SJB Leaders<br>(2023/2024)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
