@@ -25,10 +25,7 @@ introducing their peers to a wide array of new literary works.</p>
 <p>Mdm Nursyaza (I/C)</p>
 </li>
 <li>
-<p>Mrs Soh Li Yan</p>
-</li>
-<li>
-<p>Mr Siraj Ansari</p>
+<p>Mrs Ng Li Yan</p>
 </li>
 </ul>
 <h4><strong>Committee Members</strong></h4>
