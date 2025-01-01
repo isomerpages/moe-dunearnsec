@@ -203,7 +203,7 @@ to learn core values, social and emotional competencies and the emerging
 <h4><strong>CCA Training Day &amp; Time</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every Wednesday, 3.15pm to 5.45 pm</p>
+<p>Every Wednesday, 3.15pm to 5.45pm</p>
 </li>
 <li>
 <p>Every Friday, 1.30pm to 5.30pm</p>

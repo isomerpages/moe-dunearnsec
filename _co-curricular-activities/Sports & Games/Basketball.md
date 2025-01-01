@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h4><strong>CCA Objectives</strong></h4>
-<p><strong>Aims:</strong> 
+<p><strong>Aims:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,6 +32,9 @@ and challenges during training and competition.</p>
 <li>
 <p>Ms Francina</p>
 </li>
+<li>
+<p>Ms Esther Zheng</p>
+</li>
 </ul>
 <h4><strong>Coaches</strong></h4>
 <ul data-tight="true" class="tight">
@@ -43,18 +46,14 @@ and challenges during training and competition.</p>
 </li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holidays – Selected Weeks</p>
 </td>
 </tr>
 <tr>
@@ -63,10 +62,10 @@ and challenges during training and competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3:30pm to 5:30pm (ISH Level 1)</p>
+<p>Monday 3:30pm to 5:30pm (ISH Level 4)</p>
 </li>
 <li>
-<p>Thursday 3:30pm to 5:30pm (ISH Level 4)</p>
+<p>Friday 3:30pm to 5:30pm (ISH Level 4)</p>
 </li>
 </ul>
 <p><strong>Boys</strong>
@@ -76,17 +75,7 @@ and challenges during training and competition.</p>
 <p>Tuesday 3:30pm to 5:30pm (ISH Level 4)</p>
 </li>
 <li>
-<p>Thursday 3:30pm to 5:30pm (ISH Level 1)</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Boys &amp; Girls</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday, Wednesday, Friday 9:00am to 12:00pm (ISH Level 1 or 4)</p>
+<p>Thursday 3:30pm to 5:30pm (ISH Level 4)</p>
 </li>
 </ul>
 <p>&nbsp;</p>

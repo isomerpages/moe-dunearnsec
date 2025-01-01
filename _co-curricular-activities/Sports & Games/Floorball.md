@@ -1,5 +1,5 @@
 ---
-title: Floorball (New)
+title: Floorball
 permalink: /ccas/sports-n-games/floorball/
 variant: tiptap
 description: ""
@@ -27,10 +27,13 @@ and guide their peers toward shared goals.</p>
 <p>Mr. Sohail Basiron</p>
 </li>
 <li>
-<p>Mr. Ho Wei Kwok Alvin</p>
+<p>Mr. Tang Chee Onn</p>
 </li>
 <li>
-<p>Mr. Tang Chee Onn</p>
+<p>Mr Anthony Teo Yi Jie</p>
+</li>
+<li>
+<p>Ms Melissa Lim Li Li</p>
 </li>
 </ul>
 <h4>Coaches</h4>
@@ -47,20 +50,20 @@ and guide their peers toward shared goals.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesda: 3:30pm - 5:30pm (ISH Level 4)</p>
+<p>Wednesday: 3:30pm - 5:30pm (ISH Level 4)</p>
 </li>
 <li>
-<p>Friday: 2:30pm - 4:30pm (ISH Level 4)</p>
+<p>Friday: 2:30pm - 4:30pm (Hall)</p>
 </li>
 </ul>
 <p><strong>Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday: 3:30pm - 5:30pm (Hall)</p>
+<p>Wednesday: 3:30pm - 5:30pm (ISH Level 4)</p>
 </li>
 <li>
-<p>Friday: 1:30pm - 3:30pm (Hall)</p>
+<p>Friday: 1:30pm - 3:30pm (ISH Level 4)</p>
 </li>
 </ul>
 <p></p>

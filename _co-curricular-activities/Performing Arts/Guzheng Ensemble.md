@@ -39,16 +39,13 @@ teamwork, and responsibility.</p>
 <p>Mdm Chen Mei Fan</p>
 </li>
 <li>
-<p>Ms Ng Ying Fang</p>
-</li>
-<li>
-<p>Mdm Zhao Xue Mang</p>
+<p>Mdm Luan Jianlin</p>
 </li>
 </ul>
 <h4><strong>Trainer</strong></h4>
 <p>Mdm Cui Jing Yi</p>
 <h4><strong>Training Days, Time and Venue</strong></h4>
-<p>Wednesday and Thursday, 3.30pm – 5.30pm</p>
+<p>Wednesday and Thursday, 3.15pm – 5.30pm</p>
 <p>(Humanities Room)</p>
 <h4><strong>Highlights &amp; Achievements</strong></h4>
 <p><strong>Highlights</strong>

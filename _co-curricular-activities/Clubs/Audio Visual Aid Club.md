@@ -28,7 +28,7 @@ diligently for all events.</p>
 <p>Daily morning assembly</p>
 </li>
 <li>
-<p>Monthly meetings on Wednesday from 3:30pm to 5pm</p>
+<p>Wednesday from 3:30pm to 5:30pm</p>
 </li>
 </ul>
 <h4><strong>Main Learning Areas</strong></h4>
