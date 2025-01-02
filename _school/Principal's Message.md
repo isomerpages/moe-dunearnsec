@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p>I am delighted to be appointed by the Ministry of Education as the Principal
-of Dunearn Secondary School with effect from 15 December 2024. As the 16th
-Principal of Dunearn Secondary, I would like to express my heartfelt appreciation
+of Dunearn Secondary School with effect from 15 December 2024. As the 16<sup>th</sup> Principal
+of Dunearn Secondary, I would like to express my heartfelt appreciation
 to the past principals, as well as many generations of staff, students,
 alumni and parents in bringing the school to its good standing in the community
 today.</p>
@@ -28,18 +28,18 @@ strengths and interests.</p>
 and life, we envision every Dunearnite to be a gracious life-long learner
 with good character, who is ever-ready to pivot and learn new skills to
 navigate the complexities and ambiguities of the 21st Century.</p>
-<p>Our mission is “Nurturing students to be future ready - Learn with Passion
-&amp; Lead with Purpose”. At Dunearn Secondary, we design curriculum and
-co-curriculum that will nurture our students into critical thinkers, leverage
-learning experiences to ignite and foster the joy of learning as well as
-develop values-driven programmes to build strength of character, cultivate
-attitudes, competencies and skills to enable students to become productive
-citizens of society in their future. We understand that the more the world
-shifts and tilts, the greater the need to anchor our students on a set
-of strong core values and moral principles. Our school’s〖 R〗^3 ICH values
-are the signposts which guide every action and are encouraged in all facets
-of the lives of our students and staff. These values form the bedrock of
-the school’s commitment to delivering a holistic education for your child.</p>
+<p>Our mission is “<em>Nurturing students to be future ready - Learn with Passion &amp; Lead with Purpose</em>”.
+At Dunearn Secondary, we design curriculum and co-curriculum that will
+nurture our students into critical thinkers, leverage learning experiences
+to ignite and foster the joy of learning as well as develop values-driven
+programmes to build strength of character, cultivate attitudes, competencies
+and skills to enable students to become productive citizens of society
+in their future. We understand that the more the world shifts and tilts,
+the greater the need to anchor our students on a set of strong core values
+and moral principles. Our school’s R<sup>3</sup>ICH values are the signposts
+which guide every action and are encouraged in all facets of the lives
+of our students and staff. These values form the bedrock of the school’s
+commitment to delivering a holistic education for your child.</p>
 <p>There are educators and there are the daily unsung classroom heroes: those
 beacons of inspiration that directly touch and transform lives, stir souls
 and instill the confidence and faith that many students are lacking. Every
@@ -53,5 +53,5 @@ century learners. Working in collaboration with my staff, students and
 stakeholders, I hope that we will be able to create a vibrant and forward-looking
 school - the cradle where gracious life-long learners with strong character
 are nurtured.</p>
-<p><strong>Mdm Soh Beng Mui </strong>
+<p><strong>Mdm Soh Beng Mui</strong>
 </p>
