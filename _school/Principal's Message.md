@@ -4,11 +4,6 @@ permalink: /school/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/message_from_mdm_soh_beng_mui.jpg">
-</div>
-<p></p>
 <p>I am delighted to be appointed by the Ministry of Education as the Principal
 of Dunearn Secondary School with effect from 15 December 2024. As the 16<sup>th</sup> Principal
 of Dunearn Secondary, I would like to express my heartfelt appreciation
@@ -59,6 +54,6 @@ century learners. Working in collaboration with my staff, students and
 stakeholders, I hope that we will be able to create a vibrant and forward-looking
 school - the cradle where gracious life-long learners with strong character
 are nurtured.</p>
-<p><strong>Mdm Soh Beng Mui </strong>
+<p><strong>Mdm Soh Beng Mui</strong>
 </p>
 <p></p>
