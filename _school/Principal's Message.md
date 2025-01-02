@@ -4,6 +4,10 @@ permalink: /school/principals-message/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mdm_soh_beng_mui_.jpg">
+</div>
 <p>I am delighted to be appointed by the Ministry of Education as the Principal
 of Dunearn Secondary School with effect from 15 December 2024. As the 16<sup>th</sup> Principal
 of Dunearn Secondary, I would like to express my heartfelt appreciation
@@ -15,7 +19,7 @@ we continue to put our students first. We believe that our students must
 be at the heart of choices and decisions we make, as Dunearn Secondary
 is more than just a school to our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mdm_Soh_Beng_Mui.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Mdm_Soh_Beng_Mui.jpg">
 </div>
 <p>We are an extension of our students’ families and lives and we are a caring
 community where students' needs are a priority. We take pride in our culture
