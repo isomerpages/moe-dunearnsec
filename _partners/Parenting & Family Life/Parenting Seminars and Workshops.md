@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Parenting & Family Life
 variant: tiptap
 ---
-<p>Dear Parents,</p>
-<p>We will share with you about Fei Yue’s upcoming Family Life Education
-talk in 2025 when the information are made available.</p>
-<p>Thank you.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Transition_Parenting_Talk.jpg">
+</div>
+<p></p>
