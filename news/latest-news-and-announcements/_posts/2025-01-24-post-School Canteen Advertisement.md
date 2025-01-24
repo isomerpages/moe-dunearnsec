@@ -46,7 +46,7 @@ Avenue 2, S(659204)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telephone: (65) 6565 3692</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating Hours: Monday to
 Friday, 0730hrs to 1730hrs</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:&nbsp;<a href="dunearn_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">dunearn_ss@moe.edu.sg</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:&nbsp;<a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">dunearn_ss@moe.edu.sg</a>
 </p>
 <p><strong>How to get there?</strong>
 </p>
