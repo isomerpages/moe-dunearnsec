@@ -44,7 +44,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
-<h4><strong>Sexuality Education Lessons:</strong></h4>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
+</p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
