@@ -50,7 +50,7 @@ collaborative and creative problem-solvers.</p>
 <p>Mdm Fatimah Sawifi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Craft and Technology</p>
+<p>HOD Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fatimah_sawifi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fatimah_sawifi@moe.edu.sg</a>
