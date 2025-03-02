@@ -170,7 +170,7 @@ variant: tiptap
 <p>Mdm Fatimah Sawifi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Craft &amp; Tech</p>
+<p>HOD Aesthetic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fatimah_sawifi@moe.edu.sg</p>
