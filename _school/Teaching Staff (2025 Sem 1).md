@@ -481,7 +481,7 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>cindy_goh_kiah_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -640,20 +640,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Raudhah Binte Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table Tennis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_raudhah_salleh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Low Chui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -762,20 +748,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurfarhana_kamalruzaman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Mei Ferng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Entrepreneurship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_mei_ferng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
