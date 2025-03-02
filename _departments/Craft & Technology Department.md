@@ -50,7 +50,7 @@ collaborative and creative problem-solvers.</p>
 <p>Mdm Fatimah Sawifi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Craft and Technology</p>
+<p>HOD Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fatimah_sawifi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fatimah_sawifi@moe.edu.sg</a>
@@ -210,18 +210,7 @@ collaborative and creative problem-solvers.</p>
 <p>Music Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rohim Saat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rohim_saat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">rohim_saat@moe.edu.sg</a>
+<p><a href="cindy_goh_kiah_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_goh_kiah_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -234,6 +223,18 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="muhammad_naufal_mohamed_Ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_naufal_mohamed_Ibrahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Khwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_eng_khwan@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_eng_khwan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
