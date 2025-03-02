@@ -916,6 +916,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Eileen Ang Yen Ling (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Kurusamy Govindammal (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -948,7 +956,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eong Teck (FAJT)</p>
+<p>Mr Yap Heong Teck (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_heong_teck@moe.edu.sg</p>
@@ -998,6 +1006,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>p_ng_keat_siong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Hwee Teng (School Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_hwee_teng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
