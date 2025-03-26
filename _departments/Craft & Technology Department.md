@@ -50,7 +50,7 @@ collaborative and creative problem-solvers.</p>
 <p>Mdm Fatimah Sawifi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetic</p>
+<p>HOD Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fatimah_sawifi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fatimah_sawifi@moe.edu.sg</a>
@@ -107,7 +107,7 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Gim Hwee</p>
+<p>Mr See Gim Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>

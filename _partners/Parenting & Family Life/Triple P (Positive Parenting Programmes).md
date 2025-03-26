@@ -19,6 +19,6 @@ Bukit Batok region.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L2_Sec_Chi_Feb25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Triple_P_Parenting.jpg">
 </div>
 <p></p>
