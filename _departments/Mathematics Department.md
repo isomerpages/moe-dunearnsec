@@ -587,6 +587,18 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Louis Chin Cheong Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:louis_chin_cheong_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">louis_chin_cheong_long@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sobana D/O Panneer Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
