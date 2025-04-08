@@ -96,7 +96,7 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>li_yanmei@moe.edu.sg</p>
+<p>li_yan_mei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
