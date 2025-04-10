@@ -8,14 +8,12 @@ variant: tiptap
 <h4><strong>Help Request Form A</strong></h4>
 <p>If required, <strong>staff</strong> can request assistance and support for <strong>ICT matters</strong> via
 the <strong>ICT Form A</strong>  <a href="https://forms.moe.edu.sg/forms/Jb1xwv" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h2>For Students/Parents</h2>
+<h2>For Students</h2>
 <h4><strong>Help Request Form B</strong></h4>
-<p>If required, <strong>students</strong> or <strong>parents</strong> on behalf
-can submit for help request via the <strong>ICT Form B</strong>  <a href="https://forms.moe.edu.sg/forms/JAnG8o" rel="noopener nofollow" target="_blank">here</a> for
-Student ICON (MIMS) issues, SLS locked account issues or PLD Chromebook
-issues.</p>
-<p>Students and parents, please read the following before submitting for
-help request.</p>
+<p>If required, <strong>students</strong> can submit for help request via the <strong>ICT Form B</strong> 
+<a href="https://forms.moe.edu.sg/forms/JAnG8o" rel="noopener nofollow" target="_blank">here</a>for Student ICON (MIMS) issues, SLS locked account issues or PLD
+Chromebook issues.</p>
+<p>Please read the following before submitting for help request.</p>
 <h4><strong>Student ICON (MIMS) Issues</strong></h4>
 <p>Note that you should reset your Student ICON (MIMS) password yourself
 by answering the MIMS challenge questions that you have set.</p>
