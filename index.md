@@ -17,7 +17,7 @@ sections:
         - title: The Dunearn Experience
           description: ""
           url: /students/inspirational-stories/
-      background: /images/web_banner_gif_202501.gif
+      background: /images/Yellow_background_banner.gif
       variant: center
   - resources:
       subtitle: Latest Announcements
