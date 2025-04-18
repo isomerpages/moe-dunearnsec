@@ -47,74 +47,8 @@ planet, respect for nature and ruggedness in the outdoors</p>
 <p>Ms Selena Chan</p>
 </li>
 </ul>
-<h4>Coach / Conductor / Trainer / Adult volunteer</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Mohamad Shafri Amat Noh</p>
-</li>
-<li>
-<p>Mr Liu Jin Tong</p>
-</li>
-<li>
-<p>Ms Nur Adriana Batrisyia</p>
-</li>
-<li>
-<p>Mr Masy’Aril</p>
-</li>
-<li>
-<p>Mr Aason Chua</p>
-</li>
-</ul>
 <h4>Training Date, Time and Venue</h4>
 <p>Friday, 2.30pm – 5:30pm</p>
-<h4>Committee members</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Albert Chen Hong Jun (Patrol Leader)</p>
-</li>
-<li>
-<p>Tang Zheng Hang&nbsp; (Patrol Leader)</p>
-</li>
-<li>
-<p>Tu Jia Hao (Patrol Leader)</p>
-</li>
-<li>
-<p>Ari Khairil Bin Gazali (Quarter Master)</p>
-</li>
-<li>
-<p>Png Yi Chen (Scribe)</p>
-</li>
-<li>
-<p>Jian Go (Patrol Leader)</p>
-</li>
-<li>
-<p>Chris Tan Yi Xin (Scribe)</p>
-</li>
-<li>
-<p>Seng Chee Meng (Assistant Scribe)</p>
-</li>
-<li>
-<p>Tu Jia Fu (Assistant Scribe)</p>
-</li>
-<li>
-<p>Saha Borshon Kumar (Assistant Quarter Master)</p>
-</li>
-<li>
-<p>Justin Lin Han Xuan (Assistant Quarter Master)</p>
-</li>
-<li>
-<p>Chew Jia Han (Assistant Patrol Leader)</p>
-</li>
-<li>
-<p>Danh Khanh Quy (Assistant Patrol Leader)</p>
-</li>
-<li>
-<p>Jordon Yip Shi Yu (Assistant Patrol Leader)</p>
-</li>
-<li>
-<p>Mohammad Izz Haziq Bin Hendra (Assistant Patrol Leader)</p>
-</li>
-</ul>
 <h4>Key Programme / Event</h4>
 <ul data-tight="true" class="tight">
 <li>
