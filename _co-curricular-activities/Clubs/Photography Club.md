@@ -77,7 +77,8 @@ June 2012</p>
 <p>Our School, Our Stories Photo Contest Participation (2018 - 2023)</p>
 </li>
 </ul>
-<p>Dunearn Photography Club Photo Gallery</p>
+<p><strong>Dunearn Photography Club Photo Gallery</strong>
+</p>
 <p><a href="https://www.flickr.com/photos/dssphotographyclub/albums" rel="noopener noreferrer" target="_blank">Click to look at our Photography Club's photos!</a>
 </p>
 <p></p>
