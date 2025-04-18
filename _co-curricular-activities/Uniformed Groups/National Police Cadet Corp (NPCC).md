@@ -28,53 +28,12 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <li>
 <p>Mdm Deng Kaihua (Training Officer)</p>
 </li>
-</ul>
-<h4>Cadet Inspectors</h4>
-<ul data-tight="true" class="tight">
 <li>
-<p>HO (NPCC) Brendyn Lee</p>
-</li>
-<li>
-<p>HO (NPCC) Jermin Hoo Xin Ni</p>
-</li>
-<li>
-<p>SCI (NPCC) Lim Rui Siang Darren</p>
-</li>
-<li>
-<p>SCI (NPCC) Lynette Wong Lin Hui</p>
-</li>
-<li>
-<p>CI (NPCC) Eka Andinie</p>
-</li>
-<li>
-<p>CI (NPCC) Chloe DO Visvam</p>
-</li>
-<li>
-<p>CI (NPCC) Rani Qurratul'aisyah</p>
+<p>Ms Sobana</p>
 </li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
 <p>Friday, 2:30pm to 5:30pm, School</p>
-<h4>Cadet Leaders Structure 2024</h4>
-<p><strong><u>Training Department</u><br></strong>Training Head:
-<br>- SGT (NPCC) Mohamed Asyraaf Bin Mohamed Johannes</p>
-<p>Secondary 1 Squad Overall-In-Charge:
-<br>- SGT (NPCC) Muhammad Zarif Bin Shahul Hameed</p>
-<p>- SGT (NPCC) Lim Jing Ling Emily</p>
-<p>Secondary 2 Squad Overall-In-Charge:
-<br>- SGT (NPCC) Yeo Anwell</p>
-<p>- SGT (NPCC) Nur Qistina Binte Harmansalime</p>
-<p>Physical / Recreational Training-In-Charge:
-<br>- SGT (NPCC) Muhammad Aiman Bin Haszeli</p>
-<p>Logistic-In-Charge:
-<br>- SGT (NPCC) Natra Binte Norhisham</p>
-<p>Welfare-In-Charge:
-<br>- SGT (NPCC) Iain Choo Shi Jie
-<br>
-<br><strong><u>Administrative Department</u><br></strong>Administrative Head:
-<br>- SGT (NPCC) Khaleel Ahmed Afiya Mariam</p>
-<p>Publicity In-Charge:
-<br>- SGT (NPCC) Ng Shi Yi</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
