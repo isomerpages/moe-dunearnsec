@@ -104,6 +104,9 @@ their social, physical and character developments</p>
 <p>Sec 1 Adventure Camp</p>
 </li>
 <li>
+<p>Sec 3 OBS Camp (by OBS Instructors)</p>
+</li>
+<li>
 <p>DSS Run - Yearly run for the whole school</p>
 </li>
 <li>
