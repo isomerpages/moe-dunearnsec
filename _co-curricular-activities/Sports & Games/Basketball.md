@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Foster reseilience, teamwork &amp; sportsmanship among members</p>
+<p>Foster resilience, teamwork &amp; sportsmanship among members</p>
 </li>
 <li>
 <p>Equip members with essential basketball skills, deepen their understanding
