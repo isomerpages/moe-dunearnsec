@@ -54,29 +54,6 @@ great enthusiasm and energy.</p>
 <p>Aerial Yoga at Starz Aerial Dance School</p>
 </li>
 </ul>
-<p><strong>Positions held by EXCO members :</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>President: CHENG KEN WIN</p>
-</li>
-<li>
-<p>Vice-President: LOKE JIA LING</p>
-</li>
-<li>
-<p>Operation Managers: JOCASTA KOH, BRISHTI TALUKDAR</p>
-</li>
-<li>
-<p>Techniques ICs: CYNRAE CHONG, SOH XIN YU JOEY, MICHELLE LIM, TAN YI XIN</p>
-</li>
-<li>
-<p>Costumes &amp; Props Managers: DAANIA QISTINA, SOH YI YUN GABRIELLE, CHARLENE
-NEO</p>
-</li>
-<li>
-<p>Admin and Publicity Managers:, KHONG SI TENG, YAP ENXI HEIDI</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern_Dance_2.jpg">
 </div>
