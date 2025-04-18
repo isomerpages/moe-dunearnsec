@@ -37,72 +37,10 @@ when pitching their business plans&nbsp;</p>
 <li>
 <p>Ms Lailtha</p>
 </li>
+<li>
+<p>Mr Ow Yeong Yook Kit</p>
+</li>
 </ul>
-<h4>The Entrepreneurship Committee Members (2024)</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FADZIL BIN HARITH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Pearl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ANG JIAXIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Opal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOI SHENG KANG JAYDEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Amber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Event Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LUCAS TAN ZHI XIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Sapphire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Logistic Manager</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Training Day, Time and Venue</h4>
 <p>Wednesdays, 3:30 – 5:30pm, Computer Lab 1</p>
 <h4>Highlights</h4>
@@ -143,7 +81,6 @@ serving mocktails at reception</p>
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -190,13 +127,11 @@ and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic
 <p>Entrepreneurship Club members went to Project Dignity to learn about social
 entrepreneurship and practice sign language when ordering beverages. Members
 also helped in packing and distributing bento to elderly in need.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_3.jpg">
 </div>
 <p>Entrepreneurship Club members organized Essential Workers Appreciation
 Day to show their appreciation towards school cleaners.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
 </div>
