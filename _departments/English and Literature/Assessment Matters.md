@@ -16,9 +16,9 @@ third_nav_title: English and Literature
 </p>
 <p><a href="/files/2025_S2_G2G3_EL_Assessment_Outline.pdf" rel="noopener nofollow" target="_blank">2025 S2 G2G3 EL Assessment Outline</a>
 </p>
-<p><a href="/files/2025_S3_G1_EL_Assessment_Outline.pdf" rel="noopener nofollow" target="_blank">2025 S3 G1 EL Assessment Outline</a>
+<p><a href="/files/2025_s3_normal_technical_el_assessment_outline.pdf" rel="noopener nofollow" target="_blank">2025 S3 Normal Technical EL Assessment Outline</a>
 </p>
-<p><a href="/files/2025_S3_G2G3_EL_Assessment_Outline.pdf" rel="noopener nofollow" target="_blank">2025 S3 G2G3 EL Assessment Outline</a>
+<p><a href="/files/2025_s3_express &amp; normal academic_el_assessment_outline.pdf" rel="noopener nofollow" target="_blank">2025 S3 Express &amp; Normal Academic EL Assessment Outline</a>
 </p>
 <p><a href="/files/2025_S4_Express_EL_Assessment_Outline.pdf" rel="noopener nofollow" target="_blank">2025 S4 Express EL Assessment Outline</a>
 </p>

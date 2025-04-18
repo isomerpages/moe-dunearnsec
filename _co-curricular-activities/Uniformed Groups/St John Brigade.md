@@ -33,28 +33,13 @@ healthcare professionals.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Siti Arnie Mohd Affandi (Overall I/C)</p>
+<p>Ms Siti Arnie Mohd Affandi (Overall I/C)</p>
 </li>
 <li>
-<p>Soh Cek Sin (2 I/C)</p>
-</li>
-</ul>
-<h4><strong>SJB Adult Member</strong></h4>
-<p><strong><u>Corp Superintendent</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>AS Chioh Pei Shi</p>
-</li>
-</ul>
-<p><strong><u>Corp Liaison Officer</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2OFFR Lee Shi Jie</p>
+<p>Mr Soh Cek Sin (2 I/C)</p>
 </li>
 <li>
-<p>3OFFR Javis Tay</p>
+<p>Mr Pow Zhi Xiang</p>
 </li>
 </ul>
 <h4><strong>Our core activities</strong></h4>
@@ -80,27 +65,6 @@ healthcare professionals.</p>
 </ul>
 <h4><strong>Training Day, Time and Venue</strong></h4>
 <p>Friday, 2:30pm to 5:30pm, School Compound</p>
-<h4><strong>SJB Leaders<br>(2023/2024)</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Constance Chu (3AM)</p>
-</li>
-<li>
-<p>Noralysa (3AM)</p>
-</li>
-<li>
-<p>Katelyn Ye (3EM)</p>
-</li>
-<li>
-<p>Lim Jia Yi (3OP)</p>
-</li>
-<li>
-<p>Zhao Yifei (3OP)</p>
-</li>
-<li>
-<p>Bryan Lim (3OP)</p>
-</li>
-</ul>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Main Activities</strong>&nbsp;: The main activities of the SJB
 included Foot Drill, First Aid&nbsp;training programmes, Cadet Proficiency
@@ -114,17 +78,20 @@ for cross country as well as&nbsp;national competitions for sports CCA.</p>
 <li>
 <p>2023 (Gold Award)</p>
 </li>
+<li>
+<p>Chief Commissioner’s Award (highest award for year 4 individual cadet)</p>
+</li>
 </ul>
 <p><strong><u>Competition</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>National 1<sup>st</sup> Aid Competition</strong> 
+<p><strong>2024 National 1<sup>st</sup> Aid Competition</strong> 
 <br>- Ambulance Cadet 4th position</p>
 </li>
 <li>
-<p><strong>District</strong>  <strong>1<sup>st</sup> Aid Competition</strong>
-<br><strong>- </strong>Nursing Adult: 1st Runner Up
+<p><strong>2025 Northwest District</strong>  <strong>1<sup>st</sup> Aid and Home Nursing Competition</strong>
+<br>- Home<strong> </strong>Nursing: Champion
 <br>- Ambulance Cadet: 1st Runner Up</p>
 </li>
 </ul>

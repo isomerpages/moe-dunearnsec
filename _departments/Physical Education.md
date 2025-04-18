@@ -80,7 +80,8 @@ their social, physical and character developments</p>
 <p>PE Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="liew_hei_sean@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_hei_sean@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,14 +104,17 @@ their social, physical and character developments</p>
 <p>Sec 1 Adventure Camp</p>
 </li>
 <li>
+<p>Sec 3 OBS Camp (by OBS Instructors)</p>
+</li>
+<li>
 <p>DSS Run - Yearly run for the whole school</p>
 </li>
 <li>
 <p>NAPFA Test - Physical fitness test for all levels</p>
 </li>
 <li>
-<p>Learning For Life (Sports Fiesta) - An initiative by the PE Dept which
-includes modified sports and team games</p>
+<p>Sports Fiesta - An initiative by the PE Dept which includes modified sports
+and team games</p>
 </li>
 <li>
 <p>Inter-Class Games - Various games for all to participate</p>

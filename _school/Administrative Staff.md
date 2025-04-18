@@ -60,10 +60,10 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juraiza Binte Sapiee</p>
+<p>Mr Erwin Soo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Badriah Binte Hairy&nbsp;</p>
+<p>Mdm Juraiza Binte Sapiee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
@@ -82,59 +82,15 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hasnah Limat</p>
+<p>Mdm Nur Badriah Binte Hairy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSO</p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ho Peck Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norliza Yahya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rohim Bin Saat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seah Zhifan</p>
@@ -145,7 +101,95 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hasnah Limat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliza Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Atiqah bte Elmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mun Li Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Khwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Firdaus Bin Jenal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Betty Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kitchen Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Selvarani d/o Miandy</p>
@@ -156,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lek Siew Li</p>
@@ -167,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oh Mahamudha Hajamaideen</p>
@@ -178,7 +222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kock Chuay Wai</p>
@@ -189,13 +233,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gayathri Krishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eileen Ang Guat Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joshi Hari Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
 </td>
 </tr>
 </tbody>

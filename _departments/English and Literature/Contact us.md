@@ -185,13 +185,25 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kurusamy Govindammal</p>
+<p>Mr John Ng Cheng Earn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (FAJT)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="kurusamy_govindammal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kurusamy_govindammal@moe.edu.sg</a>
+<p><a href="john_ng_cheng_earn@moe.edu.sg" rel="noopener nofollow" target="_blank">john_ng_cheng_earn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Betsy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="betsy_tan_jia_min@moe.edu.sg" rel="noopener nofollow" target="_blank">betsy_tan_jia_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -204,18 +216,6 @@ third_nav_title: English and Literature
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_eng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_eng_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Magdelene&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="magdalene_chia_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_chia_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

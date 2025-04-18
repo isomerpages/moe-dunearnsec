@@ -65,17 +65,6 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Ping (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hock_ping@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Hanani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,13 +87,46 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ow Yeong Yook Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ow_yeong_yook_kit@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Khaizuran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khaizuran_adlie_mohammad_kheddzir@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nada Ng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_swee_keow_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng May Ling (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_may_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +145,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 <p>Mr Nazrul (HOD CCE internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry</p>
+<p>Chemistry, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nazrul_hadi_jamali@moe.edu.sg</p>
@@ -182,6 +204,28 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </td>
 <td rowspan="1" colspan="1">
 <p>nor_aisha_mazlan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sobana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sobana_panneer_selvam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Ang (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eileen_ang_yen_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

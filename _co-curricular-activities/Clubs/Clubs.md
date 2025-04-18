@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/ccas/clubs/infocomm-club-cyber-wellness" rel="noopener noreferrer nofollow" target="">Infocomm Technology Club</a>
+<p><a href="/ccas/clubs/infocomm-technology-club" rel="noopener noreferrer nofollow" target="">Infocomm Technology Club</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">

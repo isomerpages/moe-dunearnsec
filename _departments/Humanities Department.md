@@ -212,7 +212,7 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Ms Tan Wan Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (BT)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principles of Accounts, Elements of Business Skills (EBS)</p>
@@ -263,7 +263,68 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="cindy_goh_kiah_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_goh_kiah_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr John Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="john_ng_cheng_earn@moe.edu.sg" rel="noopener nofollow" target="_blank">john_ng_cheng_earn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eugene Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History, Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_chen_jun_eugene@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_chen_jun_eugene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Betsy Tan Jia Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="betsy_tan_jia_min@moe.edu.sg" rel="noopener nofollow" target="_blank">betsy_tan_jia_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Balqis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History, Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_balqis_masroni_a@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_balqis_masroni_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

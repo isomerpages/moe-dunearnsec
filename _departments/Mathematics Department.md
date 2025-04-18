@@ -218,15 +218,35 @@ and awards in both national and international platforms.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Bebras Competition</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 1 Bronze, 8 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Bronze, 4 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore International Mathematics Challenge</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
@@ -248,18 +268,6 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore International Mathematics Challenge</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
@@ -518,7 +526,8 @@ hours.</p>
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_yuni@moe.edu.sg</p>
+<p><a href="ong_yuni@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_yuni@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +614,8 @@ hours.</p>
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sobana_panneer_selvam@moe.edu.sg</p>
+<p><a href="sobana_panneer_selvam@moe.edu.sg" rel="noopener nofollow" target="_blank">sobana_panneer_selvam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -616,7 +626,8 @@ hours.</p>
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pow_zhi_xiang@moe.edu.sg</p>
+<p><a href="pow_zhi_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">pow_zhi_xiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

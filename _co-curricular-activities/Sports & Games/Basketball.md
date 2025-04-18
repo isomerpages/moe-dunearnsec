@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Foster reseilience, teamwork &amp; sportsmanship among members</p>
+<p>Foster resilience, teamwork &amp; sportsmanship among members</p>
 </li>
 <li>
 <p>Equip members with essential basketball skills, deepen their understanding
@@ -88,6 +88,10 @@ and challenges during training and competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>West Zone B Division Inter-School Basketball Championships 2025 4<sup>th</sup>
+</p>
+</li>
+<li>
 <p>West Zone B Division Inter-School Basketball Championships 2019 4<sup>th</sup>
 </p>
 </li>
@@ -96,11 +100,9 @@ and challenges during training and competition.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone C Division Inter-School Basketball Championships 2016 4<sup>th</sup>
-</p>
+<p>West Zone C Division Inter-School Basketball Championships 2016 4<sup>th</sup>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball 2.jpg">
 </div>
