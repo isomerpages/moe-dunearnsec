@@ -28,63 +28,6 @@ introducing their peers to a wide array of new literary works.</p>
 <p>Mrs Ng Li Yan</p>
 </li>
 </ul>
-<h4><strong>Committee Members</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Position</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MUHAMAD RAEIHAN BIN ALIFEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Amber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYAZALI BIN SARULNIZAM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Amber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHEOW LI JUN, CHLOE (ZHAO LIJUN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Emerald</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper Sec CCA Exco Member</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Key Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
