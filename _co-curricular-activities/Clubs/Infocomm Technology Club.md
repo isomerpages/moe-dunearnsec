@@ -61,12 +61,8 @@ awareness</p>
 <p></p>
 </li>
 </ul>
-<h4>CCA Leaders</h4>
-<p>President: Adlyn Binte Yani (3TP)</p>
-<p>Vice-President: Chua Kai Xuan Nyll (3EM)</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_Photo_1.jpg">
 </div>
