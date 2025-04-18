@@ -36,7 +36,7 @@ their hotline or email.</p>
 <p>Hotline: 1800 6123 123&nbsp;(Mon - Fri, 9am - 6pm)</p>
 <p>Email: <a href="mailto:hello@help123.sg" rel="noopener noreferrer nofollow" target="_blank">hello@help123.sg</a>
 </p>
-<p>Website:&nbsp;<a href="hello@help123.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.help123.sg</a>
+<p>Website:&nbsp;<a href="https://www.help123.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.help123.sg</a>
 </p>
 <h4><strong><u>Resources for Students</u></strong></h4>
 <p>Want to learn more about cyber wellness and how we can build digital wellness?
