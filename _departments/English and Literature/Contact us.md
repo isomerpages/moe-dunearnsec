@@ -185,6 +185,18 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr John Ng Cheng Earn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="john_ng_cheng_earn@moe.edu.sg" rel="noopener nofollow" target="_blank">john_ng_cheng_earn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Betsy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
