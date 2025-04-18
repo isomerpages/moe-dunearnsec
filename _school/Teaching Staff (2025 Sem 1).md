@@ -984,10 +984,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hock Ping (FAJT)</p>
+<p>Ms Ng May Ling (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_hock_ping@moe.edu.sg</p>
+<p>ng_may_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -995,7 +995,7 @@ variant: tiptap
 <p>Ms Nada Ng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_swee_keow_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1003,15 +1003,7 @@ variant: tiptap
 <p>Ms Eileen Ang Yen Ling (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kurusamy Govindammal (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kurusamy_govindammal@moe.edu.sg</p>
+<p>eileen_ang_yen_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1040,6 +1032,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Louis Chin (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>louis_chin_cheong_long@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Yap Heong Teck (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1056,14 +1056,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Magdelene&nbsp;(FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>magdalene_chia_lee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Vansie Yap (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1075,7 +1067,15 @@ variant: tiptap
 <p>Ms Hazel Liew (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liew_hei_sean@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Balqis (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_balqis_masroni_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1129,7 +1129,7 @@ variant: tiptap
 <p>Mr Tan Zhen Han Andy (UT SNO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_zhen_han_andy@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
