@@ -71,13 +71,6 @@ teamwork, and responsibility.</p>
 <p>2019 – Certificate of Accomplishment (Silver)</p>
 <p>2021 – Certificate of Distinction (Gold)</p>
 <p>2023 – Certificate of Distinction (Accomplishment)</p>
-<h4><strong>CCA leaders</strong></h4>
-<p><strong>Committee Members</strong>
-</p>
-<p>President:
-<br>- Regina Tan Yu Han (3OP)</p>
-<p>Vice-President:
-<br>- Zhang Zi Yi (3RB)</p>
 <h4>Membership</h4>
 <p><strong>All students are welcome.</strong>
 </p>
