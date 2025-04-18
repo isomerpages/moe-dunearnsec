@@ -21,42 +21,7 @@ latest developments in the arts scene in Singapore.</p>
 </li>
 </ul>
 <h4><strong>Trainer</strong></h4>
-<p>Mr. A. Elyas\</p>
-<h4><strong>CCA Leaders</strong></h4>
-<p><strong>President:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NOOR QURRATUL'AIN BINTE MOHAMAD AZMI (3TP)</p>
-</li>
-</ul>
-<p><strong>Vice-President:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>YEO XIN YI JOYCE (3SP)</p>
-</li>
-<li>
-<p>MAAIZAH D/O AHAMED KAMALUDIN (3PR)</p>
-</li>
-</ul>
-<p><strong>Stage Manager:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SOH HUILI ASHLYN (3TP)</p>
-</li>
-</ul>
-<p><strong>Technical Managers:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>[Lights] HOW HUI JIE (3SP)</p>
-</li>
-<li>
-<p>[Sound] LIM XIN YU (3SP)</p>
-</li>
-</ul>
+<p>Mr. A. Elyas</p>
 <h4><strong>Training Day, Time and Venue</strong></h4>
 <ul>
 <li>
