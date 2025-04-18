@@ -33,60 +33,6 @@ of vibrant life in Dunearn Secondary School</p>
 <p>Mr See Gim Hwee</p>
 </li>
 </ul>
-<h4><strong>CCA Leaders</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Positions</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GOH JIE LIN JAYLYN (WU JIELIN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 RUBY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head Photographer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NAYLI ERIANNA BINTE MOHD SAIFUL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 RUBY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Head Photographer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VALENE TAY KAI YUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 OPAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Head Photographer</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Training Day, Time and Venue</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -131,6 +77,7 @@ June 2012</p>
 <p>Our School, Our Stories Photo Contest Participation (2018 - 2023)</p>
 </li>
 </ul>
-<h4>Dunearn Photography Club Photo Gallery</h4>
-<h4><a href="https://www.flickr.com/photos/dssphotographyclub/albums" rel="noopener noreferrer" target="_blank">Click to look at our Photography Club's photos!</a></h4>
+<p>Dunearn Photography Club Photo Gallery</p>
+<p><a href="https://www.flickr.com/photos/dssphotographyclub/albums" rel="noopener noreferrer" target="_blank">Click to look at our Photography Club's photos!</a>
+</p>
 <p></p>
