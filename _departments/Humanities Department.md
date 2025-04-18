@@ -312,6 +312,21 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Balqis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History, Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_balqis_masroni_a@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_balqis_masroni_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Key Programmes</h4>
