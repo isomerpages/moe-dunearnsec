@@ -33,28 +33,13 @@ healthcare professionals.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Siti Arnie Mohd Affandi (Overall I/C)</p>
+<p>Ms Siti Arnie Mohd Affandi (Overall I/C)</p>
 </li>
 <li>
-<p>Soh Cek Sin (2 I/C)</p>
-</li>
-</ul>
-<h4><strong>SJB Adult Member</strong></h4>
-<p><strong><u>Corp Superintendent</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>AS Chioh Pei Shi</p>
-</li>
-</ul>
-<p><strong><u>Corp Liaison Officer</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2OFFR Lee Shi Jie</p>
+<p>Mr Soh Cek Sin (2 I/C)</p>
 </li>
 <li>
-<p>3OFFR Javis Tay</p>
+<p>Mr Pow Zhi Xiang</p>
 </li>
 </ul>
 <h4><strong>Our core activities</strong></h4>
