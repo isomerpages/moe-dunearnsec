@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Education & Career Guidance
 variant: tiptap
 ---
-<p><strong>Entry requirements for Junior Colleges / Centralised Institute / Polytechnics / Institutes of Technical Education</strong>
-</p>
+<h4><strong>Entry requirements for Junior Colleges / Centralised Institute / Polytechnics / Institutes of Technical Education</strong></h4>
 <h4>Admission into Junior Colleges (2-years ‘A’ level course)</h4>
 <p>An aggregate score between 6 to 20 is required, computed with the grades
 obtained for 6 subjects (L1R5)</p>
