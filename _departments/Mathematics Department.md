@@ -526,7 +526,8 @@ hours.</p>
 <p>E Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_yuni@moe.edu.sg</p>
+<p><a href="ong_yuni@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_yuni@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
