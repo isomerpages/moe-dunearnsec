@@ -66,46 +66,10 @@ will gain greater awareness and appreciation of Singapore’s defence capabiliti
 <li>
 <p>Ms Fiona Ng</p>
 </li>
+<li>
+<p>Mr Khaizuran</p>
+</li>
 </ul>
-<h4>Coach / Trainer / Instructors</h4>
-<p><strong>Unit Sergeant Major (USM)</strong> MSG&nbsp; MUHAMMAD IRWANSYAH
-BIN ROSLI
-<br><strong>ASSISTANT SERGEANT MAJOR (ASM):</strong> MSG&nbsp;TRISTAN SOH JUN
-XI</p>
-<p><strong><u>SENIOR CADET LEADERS:</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SSG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JOHNNY KANG JUN HONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3SG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OH YAN MENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3SG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CADEN CHEW WEI HAN</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Training Day, Time and Venue</h4>
 <p>Friday, 1:30pm to 4:30pm, School Compound</p>
 <h4>Achievements</h4>
