@@ -4,6 +4,47 @@ permalink: /partners/accomplishments-of-alumni/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Singapore Poly Graduating Class Award Winners in 2025</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name of Alumnus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Wei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Maritime Business</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>PACC Ship Managers Silver Medal</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Diploma with Merit in Maritime Business</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Ngee Ann Poly Graduating Class Award Winners in 2024</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
