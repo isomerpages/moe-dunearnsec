@@ -118,7 +118,7 @@ variant: tiptap
 <p>Mdm Norliza Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -126,10 +126,10 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Atiqah bte Elmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -137,10 +137,10 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mun Li Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Mr Muhd Naufal bin Mohd Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -162,12 +162,34 @@ variant: tiptap
 <p>Mr Tan Eng Khwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Firdaus Bin Jenal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Betty Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kitchen Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Selvarani d/o Miandy</p>
@@ -178,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lek Siew Li</p>
@@ -189,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oh Mahamudha Hajamaideen</p>
@@ -200,7 +222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kock Chuay Wai</p>
@@ -211,7 +233,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gayathri Krishnan</p>
@@ -222,24 +244,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Eileen Ang Guat Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Receptionist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Joshi Hari Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Librarian</p>
 </td>
 </tr>
 </tbody>
