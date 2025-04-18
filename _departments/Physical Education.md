@@ -80,7 +80,8 @@ their social, physical and character developments</p>
 <p>PE Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="liew_hei_sean@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_hei_sean@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
