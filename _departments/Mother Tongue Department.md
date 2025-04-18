@@ -199,6 +199,18 @@ by creating an engaging environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Chai Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_chai_pei@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_chai_pei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Zhao Xuemang</p>
 </td>
 <td rowspan="1" colspan="1">
