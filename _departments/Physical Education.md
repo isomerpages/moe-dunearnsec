@@ -110,8 +110,8 @@ their social, physical and character developments</p>
 <p>NAPFA Test - Physical fitness test for all levels</p>
 </li>
 <li>
-<p>Learning For Life (Sports Fiesta) - An initiative by the PE Dept which
-includes modified sports and team games</p>
+<p>Sports Fiesta - An initiative by the PE Dept which includes modified sports
+and team games</p>
 </li>
 <li>
 <p>Inter-Class Games - Various games for all to participate</p>
