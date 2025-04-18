@@ -145,7 +145,7 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 <p>Mr Nazrul (HOD CCE internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry</p>
+<p>Chemistry, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nazrul_hadi_jamali@moe.edu.sg</p>
