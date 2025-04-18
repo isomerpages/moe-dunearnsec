@@ -38,10 +38,10 @@ to learn core values, social and emotional competencies and the emerging
 <p>Ms Ong Yu Ni</p>
 </li>
 <li>
-<p>Ms Tan Gek Kuan</p>
+<p>Mrs Tan Wan Chin</p>
 </li>
 <li>
-<p>Mrs Tan Wan Chin</p>
+<p>Mr Eugene Ng</p>
 </li>
 </ul>
 <h4>Band Instructors</h4>
@@ -53,122 +53,6 @@ to learn core values, social and emotional competencies and the emerging
 <p>Mr. Mohammad Khairul Azman</p>
 </li>
 </ul>
-<h4>Positions held by Band EXCO members:</h4>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Leaders for 2024 - 2025</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Position</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Band Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Yi Jun Alyssa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3OP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Band Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Haikel Azraqi Bin Suhaimy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2OP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drum Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ding Wen Hao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3OP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Drum Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jose Ferdinand Wijaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2SP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Conductor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Zi Luo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3OP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Student Conductor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phua Kian An</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2AM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kuah Rui Yan Sophie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3OP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>San Thi Ta Gu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2PR</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Achievements:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -183,7 +67,7 @@ to learn core values, social and emotional competencies and the emerging
 <p>Singapore Youth Festival Arts Presentation for Concert Band</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Certificate of Accomplishment (2023, 2019, 2017, 2015, 2013)</p>
+<p>Certificate of Accomplishment (2025, 2023, 2019, 2017, 2015, 2013)</p>
 </li>
 <li>
 <p>Certificate of Commendation (2021)</p>
@@ -199,8 +83,8 @@ to learn core values, social and emotional competencies and the emerging
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
-<h4><strong>CCA Training Day &amp; Time</strong></h4>
+<p>&nbsp;<strong>CCA Training Day &amp; Time</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every Wednesday, 3.15pm to 5.45pm</p>
