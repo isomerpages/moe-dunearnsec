@@ -185,6 +185,18 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Betsy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="betsy_tan_jia_min@moe.edu.sg" rel="noopener nofollow" target="_blank">betsy_tan_jia_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lee Eng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
