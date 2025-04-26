@@ -23,12 +23,6 @@ third_nav_title: Quick Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://appraiser.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">Appraisal Tool for writing SGC</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://incompetech.com/graphpaper/multiwidth/" rel="noopener noreferrer nofollow" target="_blank">Graph paper generator</a>
 </p>
 </td>
