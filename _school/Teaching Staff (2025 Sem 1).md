@@ -465,7 +465,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Chai Pei</p>
+<p>Ms Goh Chia Pei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2S</p>
@@ -474,7 +474,7 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_chai_pei@moe.edu.sg</p>
+<p>goh_chia_pei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
