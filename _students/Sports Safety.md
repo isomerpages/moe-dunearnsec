@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p>Sports safety is an important area in schools. The school adheres to guidelines
 laid out by MOE as well as the Singapore Sports Council.&nbsp;</p>
-<p>For more information, please refer to&nbsp;<a href="https://www.sportsingapore.gov.sg/sport-education" rel="noopener noreferrer nofollow" target="_blank">Sports education</a>&nbsp;</p>
+<p>For more information, please refer to&nbsp;<a href="https://www.sportsingapore.gov.sg/sport-education" rel="noopener noreferrer nofollow" target="_blank">Sport education</a>&nbsp;</p>
 <h4>ADVISORY NOTE: CYCLING TO SCHOOL</h4>
 <p>Cycling is a lifestyle choice; MOE does not consider cycling as a core
 life skill that schools need to teach to students. While MOE promotes programmes
