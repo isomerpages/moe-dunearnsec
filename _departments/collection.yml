@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English and Literature/ELL Week 2025.md
       - English and Literature/.keep
       - English and Literature/English & Literature Department.md
       - English and Literature/The Department.md
