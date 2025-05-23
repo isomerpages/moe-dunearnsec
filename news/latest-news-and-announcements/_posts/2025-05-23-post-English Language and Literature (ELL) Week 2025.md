@@ -11,4 +11,7 @@ description: Our students took flight during ELL Week 2025 as they journeyed
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>Our students took flight during ELL Week 2025 as they journeyed across
+the world through language and literature! Under the exciting theme <em>"Where English Meets the World,"</em> Dunearnites
+explored new cultures, created superheroes, crafted haiku masterpieces,
+and showcased their linguistic talents. For more information, please visit</p>
