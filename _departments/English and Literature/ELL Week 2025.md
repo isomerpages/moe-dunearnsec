@@ -22,4 +22,13 @@ third_nav_title: English and Literature
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_ELL.jpg">
 </div>
+<p><a href="https://www.youtube.com/watch?v=DyulSuTQf-k" rel="noopener nofollow" target="_blank">ELL Week Video</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_ELL.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_ELL.jpg">
+</div>
 <p></p>
