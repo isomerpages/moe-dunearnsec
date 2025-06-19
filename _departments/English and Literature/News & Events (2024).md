@@ -1,5 +1,5 @@
 ---
-title: News & Events
+title: News & Events (2024)
 permalink: /news-events/
 variant: tiptap
 description: ""
