@@ -583,6 +583,18 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tee Jie Kai Calvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math / A Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tee_jie_kai_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">tee_jie_kai_calvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lily Lee</p>
 <p>&nbsp;</p>
 </td>

@@ -47,7 +47,7 @@ yet, able to stay rooted within the society with sound values.</p>
 <p>Ms Dewi Marlina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities (Internal)</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography, Social Studies</p>
@@ -134,21 +134,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Sweet Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elements of Business Skills (EBS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_sweet_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sweet_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Soon Suan Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,21 +174,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_fatimah_mohamed_shafiee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_mohamed_shafiee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Francina Ranjitha Fernado</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies, History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.dunearnsec.moe.edu.sg/departments/humanities-department/francina_ranjitha_fernando@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">francina_ranjitha_fernando@moe.edu.sg</a>
 </p>
 </td>
 </tr>
