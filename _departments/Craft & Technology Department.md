@@ -83,6 +83,18 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Thng Guan Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="thng_guan_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">thng_guan_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chen Pei Lien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,18 +126,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sim_gim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_gim_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yap Heong Teck (FAJT）</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_heong_teck@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yap_heong_teck@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -192,10 +192,9 @@ collaborative and creative problem-solvers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Vu Tien Dat</p>
-<p>SH (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Teacher</p>
+<p>SH ICT / Music Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vu_tien_dat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">vu_tien_dat@moe.edu.sg</a>
