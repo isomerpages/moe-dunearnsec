@@ -115,16 +115,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Supandi Bin Djoeraemi</p>
+<p>Mr Thng Guan Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Dance</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>supandi_b_djoeraemi@moe.edu.sg</p>
+<p>thng_guan_heng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -185,20 +185,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yasmeen Aysha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1R</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yasmeen_aysha@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chen Pei Lien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,6 +195,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_pei_lien@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Supandi Bin Djoeraemi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>supandi_b_djoeraemi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Onn (ST English Language)</p>
+<p>Mr Tang Chee Onn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2S</p>
@@ -612,6 +612,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Calvin Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3P</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tee_jie_kai_calvin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Siraj Ansari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,20 +724,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Francina Ranjitha Fernando</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>francina_ranjitha_fernando@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Fiona Ng Shu Hua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -748,6 +748,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ow_yeong_yook_kit@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Mei Ferng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entrepreneurship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_mei_ferng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
