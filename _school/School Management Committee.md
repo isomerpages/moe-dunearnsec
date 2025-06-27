@@ -181,7 +181,7 @@ variant: tiptap
 <p>Ms Dewi Marlina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities (Internal)</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>dewi_marlina_putri_chumali@moe.edu.sg</p>
@@ -229,17 +229,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_wei_kwok_alvin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Leong Sweet Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_sweet_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -361,6 +350,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>vu_tien_dat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thng Guan Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Design &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thng_guan_heng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
