@@ -120,24 +120,13 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng May Ling (FAJT)</p>
+<p>Ms Ng May Ling (ST SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_may_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Leong Sweet Lee (HOD ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_sweet_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -270,6 +259,17 @@ for students to innovate and pursue STEM for <strong>future learning and work</s
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_whye_lin_yvonne@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tee Jie Kai Calvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tee_jie_kai_calvin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
