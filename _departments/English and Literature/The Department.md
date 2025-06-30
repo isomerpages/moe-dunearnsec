@@ -32,7 +32,8 @@ third_nav_title: English and Literature
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Betsy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_T32025.png">
 </div>
 <p></p>
