@@ -59,7 +59,7 @@ share experience and advice with younger parents too.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 PSG EXCO Committee Structure</strong>
+<p><strong>2025 PSG EXCO Committee Structure</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,16 +80,8 @@ share experience and advice with younger parents too.&nbsp;</p>
 <p>Vice Chairpersons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jessie Tan</p>
-<p>Cai He Xuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lin Feng</p>
+<p>Felicia Ng Bee Lan</p>
+<p>Juliana Mohamad</p>
 </td>
 </tr>
 <tr>
@@ -97,26 +89,9 @@ share experience and advice with younger parents too.&nbsp;</p>
 <p>Committee Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Katherine Mah, Jenny Lee (Zenn), Ranjini, Janice Chua, Jessica Lee, Adelene
-Lek, Cheah Sin Mei, June Lim, Juliana, Coco Pan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Let Us Chat Committee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Josephine Ng (leader)</p>
-<p>He Xuan, Jessie Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dads for Life Committee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alvin Peck (leader)</p>
-<p></p>
+<p>He Xuan, Jessie Tan, Katherine Mah, Ranjini, Janice Chua, June Lim, Coco
+Pan, Yap Lin Feng, Rayner, Laura, Shahidah, Mavis, Katherine Yeo, Pearline
+Cher</p>
 </td>
 </tr>
 </tbody>
