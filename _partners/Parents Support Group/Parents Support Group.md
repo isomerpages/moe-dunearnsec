@@ -80,8 +80,7 @@ share experience and advice with younger parents too.&nbsp;</p>
 <p>Vice Chairpersons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Felicia Ng Bee Lan</p>
-<p>Juliana Mohamad</p>
+<p>Felicia Ng Bee Lan, Juliana Mohamad</p>
 </td>
 </tr>
 <tr>
