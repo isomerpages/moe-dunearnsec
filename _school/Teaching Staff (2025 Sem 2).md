@@ -499,7 +499,7 @@ variant: tiptap
 <p>2T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_gek_kuan_a@moe.edu.sg</p>
