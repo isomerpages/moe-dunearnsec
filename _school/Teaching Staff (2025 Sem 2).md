@@ -297,7 +297,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soon Suan Boon</p>
+<p>Mdm Ng May Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A</p>
@@ -306,7 +306,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon_suan_boon@moe.edu.sg</p>
+<p>ng_may_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
