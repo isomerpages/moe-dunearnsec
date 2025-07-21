@@ -311,6 +311,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Dani Aqil Bin Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dani_aqil_azman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr See Gim Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,6 +552,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_hanani_jaafar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Yu Zhe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_yu_zhe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
