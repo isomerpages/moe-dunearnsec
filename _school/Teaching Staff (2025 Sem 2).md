@@ -297,7 +297,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng May Ling</p>
+<p>Mdm Ng May Ling (ST SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A</p>
@@ -1022,14 +1022,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ow_gan_pin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng May Ling (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_may_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
