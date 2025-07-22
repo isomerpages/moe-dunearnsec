@@ -1074,14 +1074,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Heong Teck (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_heong_teck@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Radiah Mahdi (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1110,6 +1102,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_balqis_masroni_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kurusamy (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kurusamy_gavindammal_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
