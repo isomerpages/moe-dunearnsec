@@ -4,6 +4,24 @@ permalink: /departments/staff-accomplishments/
 variant: tiptap
 description: ""
 ---
+<h4>National Day Award 2025</h4>
+<p><strong><u>Commendation Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Hazel Lee</p>
+</li>
+</ul>
+<p><strong><u>Long Service Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tang Chee Onn</p>
+</li>
+<li>
+<p>Mr See Gim Hwee</p>
+</li>
+</ul>
 <h4>National Day Award 2024</h4>
 <p><strong><u>Commendation Medal</u></strong>
 </p>
