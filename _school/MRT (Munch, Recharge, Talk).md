@@ -9,11 +9,28 @@ image: /images/Happy_Station.jpg
 <p>In June 2025, we renovated the canteen and named it as <strong>MRT (Munch, Recharge and Talk).</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRT.jpg">
+</div>
 <p>It is designed to be a hub for students to develop a better sense of belonging
 in Dunearn and for students and teachers to connect.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/playing_reversi.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/playing_carrom_.jpg">
+</div>
 <p>There are board games, claw machine, carrom board, foosball table, guitars
 and piano provided for students and staff to interact and bond during the
 school hours.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/board_games.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happy_Station.jpg">
+</div>
 <p>The school has also brought in microwave ovens and vending machines selling
 microwaveable meals to cater to the needs of staff and students.</p>
 <h4><strong>Details of Canteen Stalls</strong></h4>
