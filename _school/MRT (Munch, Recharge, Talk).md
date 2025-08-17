@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 image: /images/Happy_Station.jpg
 ---
-<h4><strong>Welcome to our newly renovated canteen</strong> </h4>
-<p>In June 2025, we renovated the canteen and named it as <strong>MRT (Munch, Recharge and Talk).  </strong>
+<h4><strong>Welcome to our newly renovated canteen</strong></h4>
+<p>In June 2025, we renovated the canteen and named it as <strong>MRT (Munch, Recharge and Talk).</strong>
 </p>
 <p></p>
 <p>It is designed to be a hub for students to develop a better sense of belonging
