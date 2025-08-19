@@ -11,5 +11,10 @@ variant: tiptap
 <p>We wish to inform you that we will be conducting the Sec 1-3 End-of-Year
 Examinations from 26 Sep to 8 Oct 2025.</p>
 <p>A hardcopy of the schedule has been issued to your child/ward. You may
-also download the letter to parents and exam schedules <a href="/files/Sec_1_to_3_EOY_2024_letter__schedule.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>Thank you.</p>
+also download the letter to parents and exam schedules.</p>
+<p><a href="/files/Sec_1_G1G2G3_EOY_2025_letter_schedule.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 End Of Year Exam Schedules</a>
+</p>
+<p><a href="/files/Sec_2_G1G2G3_EOY_2025_letter_schedule.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 End of Year Exam Schedules</a>
+</p>
+<p><a href="/files/Sec_3_ENANT_EOY_2025_letter_schedule.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 End of Year Exam Schedules</a>
+</p>
