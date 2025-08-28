@@ -73,7 +73,7 @@ will gain greater awareness and appreciation of Singapore’s defence capabiliti
 <h4>Training Day, Time and Venue</h4>
 <p>Friday, 1:30pm to 4:30pm, School Compound</p>
 <p></p>
-<p><a href="/files/NCC.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more about NCC from our Dunearnite's perspective. </a>
+<p><a href="/files/NCC.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more about NCC from our Dunearnite's perspective.</a>
 </p>
 <p></p>
 <h4>Achievements</h4>
