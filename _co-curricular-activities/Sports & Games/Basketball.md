@@ -30,9 +30,6 @@ and challenges during training and competition.</p>
 <p>Mr Jeremiah Lim (I/C Boys)</p>
 </li>
 <li>
-<p>Ms Francina</p>
-</li>
-<li>
 <p>Ms Esther Zheng</p>
 </li>
 </ul>
