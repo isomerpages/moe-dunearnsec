@@ -60,7 +60,6 @@ dancing</p>
 </div>
 <p><strong>From Practice to Pride: CCA Reflections</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Show_Choir___Reaching_for_the_Stars.png">
 </div>
