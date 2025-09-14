@@ -138,3 +138,9 @@ Day to show their appreciation towards school cleaners.</p>
 <p>Entrepreneurship Club members visited Dialogue in the Dark to enable them
 to develop skills such as empathy and inclusion, better communications
 and leadership.</p>
+<p><strong>From Practice to Pride: CCA Reflection</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entrepreneurship_Club___Fulfilling_Real_world_Experiences.png">
+</div>
+<p></p>
