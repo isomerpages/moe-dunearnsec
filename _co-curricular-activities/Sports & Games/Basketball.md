@@ -109,4 +109,13 @@ and challenges during training and competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball.jpg">
 </div>
+<p><strong>From Practice to Pride: CCA Reflections</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball___Growing_Through_the_Game.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball___Shining_Beyond_the_Classroom.jpg">
+</div>
 <p></p>
