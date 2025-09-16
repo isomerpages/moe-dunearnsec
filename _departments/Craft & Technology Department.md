@@ -227,13 +227,13 @@ collaborative and creative problem-solvers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Khwan</p>
+<p>Mr Suwandi Daani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_eng_khwan@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_eng_khwan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">suwandi_daani_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
