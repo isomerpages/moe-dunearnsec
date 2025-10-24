@@ -8,80 +8,88 @@ third_nav_title: Sports & Games
 <h4>CCA Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Build Strong Character</strong>: Cultivate resilience, discipline,
-and responsibility in students through regular training and competition.</p>
+<p>Build strong character through resilience, discipline, and responsibility.</p>
 </li>
 <li>
-<p><strong>Instill Core Values</strong>: Promote sportsmanship, respect,
-and integrity both on and off the floorball court.</p>
+<p>Instill core values of sportsmanship, respect, and integrity.</p>
 </li>
 <li>
-<p><strong>Enhance Teamwork and Leadership</strong>: Develop cooperation,
-communication, and leadership skills by encouraging students to take initiative
-and guide their peers toward shared goals.</p>
+<p>Enhance teamwork and leadership through cooperation and communication.</p>
 </li>
 </ul>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>Mr. Sohail Basiron</p>
-</li>
-<li>
-<p>Mr. Tang Chee Onn</p>
-</li>
 <li>
 <p>Mr Anthony Teo Yi Jie</p>
 </li>
 <li>
 <p>Ms Melissa Lim Li Li</p>
 </li>
+<li>
+<p>Mr. Tang Chee Onn</p>
+</li>
 </ul>
 <h4>Coaches</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Boys - Coach Lucas</p>
+<p>Boys - TBC</p>
 </li>
 <li>
 <p>Girls - Coach Hui Yan</p>
 </li>
 </ul>
 <h4>Training Day, Time and Venue</h4>
-<p><strong>Boys</strong>
+<p><strong>Friday (ISH Level 4)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday: 3:30pm - 5:30pm (ISH Level 4)</p>
+<p>Girls: 1.30pm-4.30pm</p>
 </li>
 <li>
-<p>Friday: 2:30pm - 4:30pm (Hall)</p>
+<p>Boys: 2.30pm-5.30pm</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Girls</strong>
+<p><strong>Highlights/ Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday: 3:30pm - 5:30pm (ISH Level 4)</p>
-</li>
-<li>
-<p>Friday: 1:30pm - 3:30pm (ISH Level 4)</p>
+<p>Boys’ team achieved 4th place in League 3 at the National School Games
+(NSG) Floorball Championship, the CCA’s first-ever medal in just its second
+year.</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Photographs</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Floorball_1_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Floorball.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Floorball_2_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Floorball_.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_3_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Floorball_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Floorball_.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_4_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Floorball_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Floorball_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Floorball_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_Floorball_.jpg">
 </div>
 <p></p>
