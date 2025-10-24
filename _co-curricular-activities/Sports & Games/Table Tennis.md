@@ -32,7 +32,7 @@ thinking.</p>
 –‘C’ Division Boys 4<sup>th</sup> placing</p>
 </li>
 </ul>
-<h4><strong>Training </strong></h4>
+<h4><strong>Training</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
