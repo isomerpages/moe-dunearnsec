@@ -4,8 +4,14 @@ permalink: /co-curricular-activities/aims-of-cca/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Co-Curricular Activities (CCAs) offered by Dunearn</strong></h4>
-<table>
+<h4><strong>Co-Curricular Activities (CCAs) offered by Dunearn in 2026</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,13 +35,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>NCC</p>
+<p>NCC (Land)</p>
 </li>
 <li>
 <p>NPCC</p>
-</li>
-<li>
-<p>Scouts</p>
 </li>
 <li>
 <p>St.John Brigade</p>
@@ -52,51 +55,39 @@ variant: tiptap
 <br>(Boys &amp; Girls</p>
 </li>
 <li>
-<p>Football (Boys)</p>
+<p>Table Tennis (Boys &amp; Girls)</p>
 </li>
 <li>
-<p>Table Tennis (Boys &amp; Girls)</p>
+<p>Softball (Boys &amp; Girls)</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
-<li>
-<p>Modern Dance</p>
-</li>
 <li>
 <p>Choir</p>
 </li>
 <li>
-<p>Guzheng Ensemble</p>
+<p>Concert Band</p>
 </li>
 <li>
-<p>Malay Dance</p>
+<p>English Drama</p>
 </li>
 <li>
-<p>Band</p>
-</li>
-<li>
-<p>Drama</p>
+<p>International Dance</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>AVA Club</p>
-</li>
-<li>
-<p>Infocomm Club</p>
-</li>
-<li>
-<p>Library Club</p>
+<p>Media Resource Library Club</p>
 </li>
 <li>
 <p>Entrepreneurship Club</p>
 </li>
 <li>
-<p>Photography Club</p>
+<p>New Media Club</p>
 </li>
 </ol>
 </td>
@@ -106,7 +97,7 @@ variant: tiptap
 <h4><strong>Aims of CCAs</strong></h4>
 <p>CCAs and Character Development Programme form part of the holistic education
 provided by the school. The school’s co-curricular programme aims to develop
-pupils in the following areas:</p>
+students in the following areas:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>skills relevant to each CCA</p>
@@ -125,11 +116,12 @@ pupils in the following areas:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>As participation in CCA is an integral part of our education system, every
-pupil must be involved in at least one CCA.</p>
+student must be involved in <strong>one </strong>CCA.</p>
 </li>
 <li>
-<p>At least 75% attendance is required for a pupil to qualify for certified
-participation. Participation must continue from Sec 1 to Sec 4 or 5.</p>
+<p>At least <strong>75% attendance</strong> is required for a student to qualify
+for certified participation. Participation must continue from Sec 1 to
+Sec 4 or 5.</p>
 </li>
 </ol>
 <h4><strong>Recognition of Students' Co-Curricular Attainment</strong></h4>
@@ -137,7 +129,11 @@ participation. Participation must continue from Sec 1 to Sec 4 or 5.</p>
 will be recognised according to the table below. The co-curricular attainment
 will be translated to bonus point(s) which can be used for admission to
 Junior Colleges / Polytechnics / Institutes of Technical Education (JC/Poly/ITE).</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
