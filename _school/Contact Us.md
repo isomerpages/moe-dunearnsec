@@ -21,7 +21,7 @@ variant: tiptap
 <p>Bus Stop at Bt Batok West Ave 4 : 187, 188, 945, 947, 985</p>
 </li>
 <li>
-<p>Bus Stop at Bt Batok Road: 160, 180, 947</p>
+<p>Bus Stop at Bt Batok Road: 160, 180, 947, 984</p>
 </li>
 <li>
 <p>Bus Stop at Bt Batok West Ave 8 (Blk 432A): 993</p>
