@@ -43,7 +43,8 @@ them in the future.</p>
 <p>Thursday 3:00 - 5:00 pm (Field &amp; Outdoor court)</p>
 </li>
 </ul>
-<p></p>
+<p><em>*This CCA is not available to 2026 Sec 1 cohort.  </em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NSG photo 1" src="/images/Football_1.jpg">
 </div>
