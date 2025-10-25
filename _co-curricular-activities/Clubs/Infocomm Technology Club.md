@@ -20,6 +20,10 @@ ICT users in cyberspace.</p>
 and project management.</p>
 </li>
 </ol>
+<h4>Announcement</h4>
+<p>This CCA will be merged with Audio-Visual Aid Club and Photography Club
+in 2026 and renamed as New Media Club. Please refer to New Media Club page
+for updates from early November onwards.</p>
 <h4>CCA Teachers-in-Charge</h4>
 <ul>
 <li>
