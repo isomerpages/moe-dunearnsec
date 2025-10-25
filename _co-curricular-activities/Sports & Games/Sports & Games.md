@@ -37,7 +37,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Softball</p>
+<p><a href="https://dunearnsec.moe.edu.sg/softball/" rel="noopener nofollow" target="_blank">Softball</a>
+</p>
 </th>
 </tr>
 </tbody>
