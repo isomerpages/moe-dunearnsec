@@ -49,6 +49,8 @@ planet, respect for nature and ruggedness in the outdoors</p>
 </ul>
 <h4>Training Date, Time and Venue</h4>
 <p>Friday, 2.30pm – 5:30pm</p>
+<p><em>*This CCA is not available for 2026 Sec 1 cohort.  </em>
+</p>
 <h4>Key Programme / Event</h4>
 <ul data-tight="true" class="tight">
 <li>
