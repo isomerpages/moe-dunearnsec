@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<h4><strong>Announcement</strong></h4>
+<p>Guzheng will not be available as a CCA in 2026. The school would like
+to thank the members who have contributed in the past and to continue their
+interest and learning of the instruments in other platform and opportunities.
+This page will be unavailable from 2026 onwards.</p>
 <h4><strong>About Us</strong></h4>
 <p>Guzheng ensemble is a traditional Chinese instrument and has a history
 of more than 30 years in Dunearn Secondary School. This traditional Chinse
@@ -17,7 +22,7 @@ experience through participating in the SYF arts presentation next year.
 <br>They have not only obtained a commendable result during the presentation,
 but further horning their skills with the instrument. Through consistent
 and rigorous training, they have developed self-leadership and resilience.</p>
-<h4><br><strong>CCA Objectives</strong>&nbsp;</h4>
+<h4><strong>CCA Objectives</strong>&nbsp;</h4>
 <p><strong>The development of every player’s talent and the moulding of his/her character</strong>
 </p>
 <ol data-tight="true" class="tight">
