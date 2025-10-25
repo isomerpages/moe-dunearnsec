@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<h4><strong>Announcement</strong></h4>
+<p>This CCA will be merged with Infocomm Technology Club and Audio-Visual
+Aid Club in 2026 and renamed as New Media Club. Please refer to New Media
+Club page for updates from early November onwards.</p>
 <h4><strong>CCA Objectives</strong></h4>
 <p>The Photography Club strives to value-add and to link back to authentic
 real-world applications for Dunearn Secondary School students. The Photography
