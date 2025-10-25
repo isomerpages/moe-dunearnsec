@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<p><strong>Announcement</strong>
+</p>
+<p>Modern Dance will be merging with Malay Dance and renamed as International
+Dance in 2026. For more information, do refer to the International Dance
+page which will be available in early November.</p>
 <p><strong>Vision/ Mission</strong>
 </p>
 <p>At D’zest, we bring passion, creativity, and teamwork to life through
