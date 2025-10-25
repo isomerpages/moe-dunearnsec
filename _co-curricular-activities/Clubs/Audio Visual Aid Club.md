@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<h4><strong>Announcement</strong></h4>
+<p>This CCA will be merged with Infocomm Technology Club and Photography
+Club in 2026 and renamed as New Media Club. Please refer to New Media Club
+page for updates from early Novmember onwards.</p>
 <h4><strong>CCA Objectives</strong></h4>
 <p>The Audio-Visual Aid Club provides audio and visual support to all school
 daily activities and special events such as Speech Day and National Day
