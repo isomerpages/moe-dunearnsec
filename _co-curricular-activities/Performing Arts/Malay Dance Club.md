@@ -21,6 +21,10 @@ by providing platforms for stronger friendship to form among members of
 different levels. Lastly, Malay Dance Club encourages its members&nbsp;to
 internalise the culture, develop talents and make great memories with each
 other.</p>
+<h4>Announcement</h4>
+<p>Malay Dance will be merging with Modern Dance and renamed as International
+Dance in 2026. For more information, do refer to the International Dance
+page which will be available in early November.</p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
