@@ -41,7 +41,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://dunearnsec.moe.edu.sg/new-media-club/" rel="noopener nofollow" target="_blank">New Media Club</a>
+<p><a href="/ccas/clubs/new-media-club/" rel="noopener nofollow" target="_blank">New Media Club</a>
 </p>
 </th>
 </tr>
