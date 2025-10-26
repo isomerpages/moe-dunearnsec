@@ -1,6 +1,6 @@
 ---
 title: Softball
-permalink: /softball/
+permalink: /ccas/sports-n-games/softball/
 variant: tiptap
 description: ""
 third_nav_title: Sports & Games
