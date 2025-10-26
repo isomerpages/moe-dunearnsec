@@ -20,11 +20,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/ccas/clubs/Entrepreneurship-club" rel="noopener nofollow" target="_blank">Entrepreneurship Club</a>
+<p><a href="/ccas/clubs/entrepreneurship-club/" rel="noopener nofollow" target="_blank">Entrepreneurship Club</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/ccas/clubs/media_resource_library" rel="noopener nofollow" target="_blank">Media Resource Library Club</a>
+<p><a href="/ccas/clubs/library-club/" rel="noopener nofollow" target="_blank">Media Resource Library Club</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
