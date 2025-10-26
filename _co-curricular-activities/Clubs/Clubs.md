@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/ccas/clubs/media_resource_library" rel="noopener nofollow" target="_blank">Media Resource Library</a>
+<p><a href="/ccas/clubs/media_resource_library" rel="noopener nofollow" target="_blank">Media Resource Library Club</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
