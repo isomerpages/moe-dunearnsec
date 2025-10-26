@@ -17,12 +17,6 @@ third_nav_title: Quick Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist 2026</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist 2026</a>
 </p>
 </td>
