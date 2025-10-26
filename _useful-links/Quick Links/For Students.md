@@ -12,7 +12,7 @@ third_nav_title: Quick Links
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Booklists 2025</p>
+<p>Booklists 2026</p>
 </th>
 </tr>
 <tr>
@@ -29,25 +29,25 @@ third_nav_title: Quick Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec3EXP.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP Booklist 2026</a>
+<p><a href="/files/Textbook 2026/2026_dunearn_sec_sec3g3.pdf" rel="noopener nofollow" target="_blank">Sec 3 G3 Booklist 2026</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec3NA.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA Booklist 2026</a>
+<p><a href="/files/Textbook 2026/2026_dunearn_sec_sec3g2.pdf" rel="noopener nofollow" target="_blank">Sec 3 G2 Booklist 2026</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec3NT.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT Booklist 2026</a>
+<p><a href="/files/Textbook 2026/2026_dunearn_sec_sec3g1.pdf" rel="noopener nofollow" target="_blank">Sec 3 G1 Booklist 2026</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec4EXP.pdf" rel="noopener nofollow" target="_blank">Sec 4 EXP Booklist 2026</a>
+<p><a href="/files/Textbook 2026/2026_Dunearn_Sec_Sec4EXP.pdf" rel="noopener nofollow" target="_blank">Sec 4 EX Booklist 2026</a>
 </p>
 </td>
 </tr>
