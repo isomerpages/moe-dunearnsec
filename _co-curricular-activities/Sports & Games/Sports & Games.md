@@ -31,9 +31,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/ccas/sports-n-games/table-tennis" rel="noopener noreferrer nofollow" target="">Table Ten</a>
-</p>
-<p><a href="/ccas/sports-n-games/table-tennis" rel="noopener noreferrer nofollow" target="">nis</a>
+<p><a href="/ccas/sports-n-games/table-tennis" rel="noopener noreferrer nofollow" target="">Table Tennis</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
