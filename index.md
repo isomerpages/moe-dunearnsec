@@ -2,7 +2,7 @@
 layout: homepage
 title: Dunearn Secondary School
 description: Dunearn Secondary School, MOE
-image: /images/logo2.jpeg
+image: /images/Sch_Website_Promo_2_3000_by_1125_pixels_.jpg
 permalink: /
 notification: ""
 sections:
@@ -17,7 +17,7 @@ sections:
         - title: The Dunearn Experience
           description: ""
           url: /students/inspirational-stories/
-      background: /images/Sch_Website_Promo__3000_by_1125_pixels___3000_x_1125_px_.jpg
+      background: /images/Sch_Website_Promo_2_3000_by_1125_pixels_.jpg
       variant: center
   - resources:
       subtitle: Latest Announcements
