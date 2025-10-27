@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3rbbmu1rulquo.amplifyapp.com
 prod: https://master.d3rbbmu1rulquo.amplifyapp.com
-shareicon: /images/logo2.jpeg
+shareicon: /images/Sch_Website_Promo_2_3000_by_1125_pixels_.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
