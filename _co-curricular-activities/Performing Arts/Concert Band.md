@@ -88,16 +88,28 @@ personal and collective goals and celebrating achievements together.</p>
 <p>Dunearn Secondary School Open House performance</p>
 </li>
 </ul>
-<h4>&nbsp;CCA Training Day &amp; Time</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Every Wednesday, 3.15pm to 5.45pm</p>
-</li>
-<li>
-<p>Every Friday, 1.30pm to 5.30pm</p>
-</li>
-<li>
-<p>Music / Band Room</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Band.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Band.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Band.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Band_JPG.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Band.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Band.jpg">
+</div>
 <p></p>
