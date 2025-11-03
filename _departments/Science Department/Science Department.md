@@ -252,7 +252,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h4>Key Programmes</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -272,61 +271,61 @@ Week, participating in enrichment workshops by the Singapore Science Centre
 and industry partners, and representing the school in national STEM competitions,
 Science Ambassadors deepen their scientific knowledge, hone their communication
 skills, and share their passion for Science with the wider school community.</p>
-<hr>
 <h4>Our Achievements</h4>
 <p><strong><u>Health and Food Science Competitions</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd runner-up (2025)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Champion (2024)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st runner-up (2022, 2021)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2nd runner-up (2025)</p>
+</li>
+<li>
+<p>Champion (2024)</p>
+</li>
+<li>
+<p>1st runner-up (2022, 2021)</p>
+</li>
+</ul>
 <p>Our team of students did the school proud by emerging within the top three
 positions in the annual Health and Food Science Competitions organised
 by Science Centre Singapore and Republic Polytechnic.</p>
-<h4></h4>
-<hr>
-<h4><strong><u>Dunearn achieves the "Vanda Miss Joaquim Sustained Achievement Award in 2022</u></strong></h4>
-<p>&nbsp;Dunearn Secondary School is proud to announce that we have achieved
-the "Vanda Miss Joaquim Sustained Achievement Award" in 2022 due to our
-continuous green efforts!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022_SAA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dunearn_Sec_Sch___Team___P1.jpg">
 </div>
-<p>The School Green Awards (SGA) is a voluntary environmental programme which
-serves as a platform for students to develop and showcase their environmental
-efforts, through customized activities which will help them gain better
-understanding of the environment. Every year, submissions come from preschools,
-primary schools, secondary schools, junior colleges, international schools,
-schools for students with special needs, and from schools overseas.</p>
-<p>Our school environmental programmes and school-wide activities aim to
-nurture our students as Environment Champions to form good environmental
-habits and involve the wider community and school stakeholders in environmental
-efforts.&nbsp;The "Vanda Miss Joaquim Sustained Achievement Award" is the
-highest tier award for schools that achieve three consecutive “Vanda Miss
-Joaquim” Awards.&nbsp;Well done!</p>
-<hr>
-<h4><strong><u>Dunearn achieves 3 Stars in the Green Schools @ South West for two consecutive years</u></strong></h4>
-<p>Our school was awarded 3 Stars in the Green Schools @ South West 2022
-and 2023 programme. Held by the South West CDC, this programme recognises
-the school’s efforts in educating and instilling public responsibility
-for our environment in children and youth throughout each year.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dunearn_Sec_2nd_runner_up_award_1.jpg">
+</div>
+<p></p>
+<p><strong><u>School Green Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vanda Miss Joaquim Award&nbsp;(2024)</p>
+</li>
+<li>
+<p>Vanda Miss Joaquim Sustained Achievement Award (2022)</p>
+</li>
+</ul>
+<p>In recognition of our ongoing commitment to environmental sustainability,
+our school was honoured with the above awards presented by the Singapore
+Environment Council. This award is given to schools that achieve an overall
+score above 90% based on the School Green Awards framework.</p>
+<p><strong><u>Green Schools @ South West</u></strong>
+</p>
+<p>3 Stars Awards (2022 to 2024)</p>
+<p>Organized annually by the South West CDC, this programme recognizes the
+school’s continued efforts to nurture environmental stewardship among students.
+Through projects and community initiatives, our students actively raise
+awareness about environmental challenges and demonstrate a strong sense
+of responsibility towards protecting our planet.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/green_school_award_South_west_cdc_2024.jpg">
 </div>
 <p><em>Presentation of the Green School Award to Vice-Principal (Admin) Mr Yap, by Vice-Chairman of South West CDC and Adviser to Chua Chu Kang GRC GROs (Keat Hong) Mr Zhulkarnain Abdul Rahim</em>
 </p>
-<p>Throughout the year, our students participated actively in activities
-such as the termly recycling drive, Essential Workers Appreciation Day
-and the Junior Environment Ambassador (JEA) workshop and became more aware
-of our impact on the environment. Through these activities, our school
-aim to inculcate good habits among the students, and for them to be ambassadors
-of our environment.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2023_t3_recycling_poster.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2023_essiential_workers_appreciation_day.png">
-</div>
-<p><em>2023 Term 3 Recycling drive and Essential Worker’s Appreciation Day</em>
-</p>
+<p></p>
+<p></p>
+<p></p>
