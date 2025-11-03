@@ -4,7 +4,16 @@ permalink: /departments/humanities-department/
 description: ""
 variant: tiptap
 ---
-<h4>Objectives</h4>
+<h4><strong>Our Vision</strong></h4>
+<p>Lifelong learners who stay relevant in a fast-changing, digitally connected,
+globalised world, yet staying rooted with values within the society.</p>
+<h4><strong>Our Mission</strong></h4>
+<p>To develop Dunearnites to be effective self-directed and collaborative
+learners, who are able to make meaning and learn from past experiences,
+making informed decisions in the present and to be responsible for their
+future, through a multi-disciplinary approach and technology enabled learning
+environment.</p>
+<h4><strong>Overview</strong></h4>
 <p>The Humanities department aims to provide a rich, multi-disciplinary learning
 experience for students. The department, with its diversely different,
 yet complementing subjects, has a special role to play in developing students’
