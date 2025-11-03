@@ -428,5 +428,22 @@ in Bukit Batok Town. ​</p>
 <p>Sec 4 EBS Learning Journey @ Westgate: Business Investigation</p>
 </li>
 </ul>
+<h4>External Competition / Events / Programme</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>A team of Secondary 3 students participated in the 2025 EBS competition
+organised by Holy Innocents High. The competition used interactive online
+games on SLS to teach students about the travel, retail, and hospitality
+industries. The event aimed to develop their understanding of operations,
+customer service, and the marketing mix, while having them apply critical
+thinking and teamwork to real-world scenarios.</p>
+</li>
+<li>
+<p>Two of our Secondary 3 students were invited to attend A Day In A Court
+(AIDC) student seminar. At the end of the seminar, students learnt more
+about the role of the Singapore Courts in the Singapore legal system, and
+how the Courts manage certain types of cases.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
