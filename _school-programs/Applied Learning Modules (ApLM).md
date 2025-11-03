@@ -82,7 +82,24 @@ creativity, and problem-solving skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/APLM.jpg">
 </div>
 <p></p>
+<p><em>“I enjoyed learning about Python and gained a deeper understanding of Artificial Intelligence and its history. Through this module, I learned various coding skills, such as giving instructions and commands for Python to execute. It was a valuable experience and a great opportunity that gave me a head start towards achieving my goals.”- Wafiq Salihin</em>
+</p>
+<p><strong>3) Game Character Concept Design</strong>
+</p>
+<p>Students were introduced to the fundamentals of game character concept
+design and animation through the ApLM. They learned digital painting techniques
+using Wacom Cintiq tablets and Adobe Photoshop. Through hands-on projects,
+they developed skills in design thinking, problem-solving, communication,
+and resilience, culminating in a series of original character designs for
+their portfolios.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Game_design_2.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Game_design.jpg">
+</div>
+<p><em>“I enjoyed expressing my creativity while creating a character with my group mates and developing its background story, as I love writing stories. I also learned useful drawing and colouring techniques. It was a very fruitful workshop that allowed me to explore my interests and gain a clearer idea of the type of course I might want to pursue in the future through the ApLM experience.” - Pradoshini</em>
+</p>
 <p></p>
