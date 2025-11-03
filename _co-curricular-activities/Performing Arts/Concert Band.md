@@ -37,7 +37,7 @@ personal and collective goals and celebrating achievements together.</p>
 <p>Ms Ong Yu Ni</p>
 </li>
 <li>
-<p>Mrs Tan Wan Chin</p>
+<p>Ms Tan Wan Chin</p>
 </li>
 <li>
 <p>Mr Eugene Ng</p>
