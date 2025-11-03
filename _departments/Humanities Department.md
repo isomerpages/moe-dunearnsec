@@ -446,4 +446,20 @@ how the Courts manage certain types of cases.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Courts.jpg">
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our Secondary 3 POA &amp; EBS students participated in the Fly Competition
+organised by Republic Polytechnic. The competition exposes students to
+financial literacy concepts through participation of FLY competition organized
+by RP. One of our team emerged as 2<sup>nd</sup> Runner-Up! Congratulations!</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Humanities.jpg">
+</div>
 <p></p>
