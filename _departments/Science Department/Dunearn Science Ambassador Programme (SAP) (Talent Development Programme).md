@@ -2,7 +2,7 @@
 title: Dunearn Science Ambassador Programme (SAP) (Talent Development Programme)
 permalink: /science-department/dunearn-science-ambassador-programme-sap-talent-development-programme/
 description: ""
-third_nav_title: Science
+third_nav_title: Science Department
 variant: tiptap
 ---
 <h3><strong>Dunearn Science Ambassador Programme (SAP) (Talent Development Programme)</strong></h3>

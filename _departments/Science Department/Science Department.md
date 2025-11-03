@@ -2,7 +2,7 @@
 title: Science Department
 permalink: /departments/science-department/
 description: ""
-third_nav_title: Science
+third_nav_title: Science Department
 variant: tiptap
 ---
 <h4><strong>Departmental Mission</strong></h4>
