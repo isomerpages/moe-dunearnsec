@@ -45,12 +45,14 @@ cultural and musical heritage through meaningful and inclusive performances.</p>
 <p>Voices of Singapore</p>
 <p><strong>Achievements:</strong>
 </p>
+<p>SYF 2025 - Certificate of Commendation</p>
 <p>SYF 2023 – Certificate of Commendation</p>
 <p>Bdazzled 2023 – Platinum</p>
 <h4>Photo/Video</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Choir NDP Performance" src="/images/Choir_NDP.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DSS Speech Day @ NP" src="/images/Choir_Speech_day.jpg">
 </div>
