@@ -14,9 +14,8 @@ variant: tiptap
 <p>Nurturing pupils to have a love for Mother Tongue Languages and Cultures
 by creating an engaging environment.</p>
 <h4><strong>Our Teachers</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -29,10 +28,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Mother Tongue Languages</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tai_li_jen_sharon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,10 +38,6 @@ by creating an engaging environment.</p>
 <p>Subject Head,</p>
 <p>Chinese Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_ying_fang@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,10 +45,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">supandi_b_djoeraemi@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -67,10 +54,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_raudhah_salleh@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,10 +61,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurul_ain_muzlan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +70,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">syakira_zainudin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,10 +78,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nursyaza_mohamed_rashid@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,10 +85,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurfarhana_kamalruzaman@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +95,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_meifan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,10 +103,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">deng_kaihua@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +113,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_yin_ru_esther@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -166,10 +121,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pang_jia_shin@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -180,10 +131,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">li_yanmei@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -191,10 +138,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="luan_jianlin@moe.edu.sg" rel="noopener nofollow" target="_blank">luan_jianlin@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -204,10 +147,6 @@ by creating an engaging environment.</p>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="goh_chai_pei@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_chia_pei@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -215,10 +154,6 @@ by creating an engaging environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="zhao_xuemang@moe.edu.sg" rel="noopener nofollow" target="_blank">zhao_xuemang@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
