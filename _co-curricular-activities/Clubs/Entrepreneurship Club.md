@@ -71,15 +71,17 @@ reception</p>
 the Change</p>
 </li>
 </ul>
-<p></p>
 <h4>Participation</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>ignITE Skills Challenge 2024</strong>- CW Influencer Showdown</p>
+<p>ignITE Skills Challenge 2024- CW Influencer Showdown, ignITE Skills Challenge
+2025- Influencer Showdown, The Business Enterprise Challenge</p>
 </li>
 <li>
-<p><strong>Republic Polytechnic Entrepreneurship&nbsp;Bootcamp 2024</strong>
-</p>
+<p>Republic Polytechnic Entrepreneurship&nbsp;Bootcamp 2024</p>
+</li>
+<li>
+<p>Republic Polytechnic iTourism Compeition 2025</p>
 </li>
 </ul>
 <h4>Achievements</h4>
