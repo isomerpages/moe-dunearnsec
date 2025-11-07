@@ -22,7 +22,7 @@ their leadership and communication skills.</p>
 healthcare professionals.</p>
 </li>
 </ul>
-<h4><strong>Teachers-in-Charge</strong></h4>
+<h4>Teachers-in-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Siti Arnie Mohd Affandi (Overall I/C)</p>
@@ -34,67 +34,30 @@ healthcare professionals.</p>
 <p>Mr Pow Zhi Xiang</p>
 </li>
 </ul>
-<h4><strong>Our core activities</strong></h4>
+<h4>SJB Cadet Program</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>First Aid and Life Support,</p>
+<p>Leadership training: Cadets build resilience, confidence, and communication
+skills through various leadership courses.</p>
 </li>
 <li>
-<p>Home Nursing,</p>
+<p>Achievements: Cadets participate in meaningful activities to earn proficiency
+badges and work towards the prestigious Chief Commissioner’s Badge.</p>
 </li>
 <li>
-<p>Foot Drills,</p>
+<p>Core competencies: Through engaging and hands-on activities, cadets learn
+essential first aid, lifesaving and healthcare skills. Selected cadets
+also have the opportunity to experience real-world healthcare settings
+through the Hospital Attachment Programme.</p>
 </li>
 <li>
-<p>Cadet Proficiency Badge Scheme,</p>
-</li>
-<li>
-<p>Leadership Courses, and</p>
-</li>
-<li>
-<p>Community Service Programs.</p>
+<p>Community Service: Cadets actively serve the community by taking part
+in national events such as the Chingay Parade, National Day Parade, and
+the Formula 1 Singapore Grand Prix.</p>
 </li>
 </ul>
-<h4><strong>Training Day, Time and Venue</strong></h4>
+<h4>Training Day, Time and Venue</h4>
 <p>Friday, 2:30pm to 5:30pm, School Compound</p>
-<h4><strong>Key Programmes</strong></h4>
-<p><strong>Main Activities</strong>&nbsp;: The main activities of the SJB
-included Foot Drill, First Aid&nbsp;training programmes, Cadet Proficiency
-Badge Scheme (CPBS) and Games.</p>
-<p><strong>First Aid Services</strong>&nbsp;: We rendered first aid services
-for cross country as well as&nbsp;national competitions for sports CCA.</p>
-<h4><strong>Highlights and Achievements</strong></h4>
-<p><strong><u>Corp Achievement Award (CAA)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2023 (Gold Award)</p>
-</li>
-<li>
-<p>Chief Commissioner’s Award (highest award for year 4 individual cadet)</p>
-</li>
-</ul>
-<p><strong><u>Competition</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>2024 National 1<sup>st</sup> Aid Competition</strong> 
-<br>- Ambulance Cadet 4th position</p>
-</li>
-<li>
-<p><strong>2025 Northwest District</strong>  <strong>1<sup>st</sup> Aid and Home Nursing Competition</strong>
-<br>- Home<strong> </strong>Nursing: Champion
-<br>- Ambulance Cadet: 1st Runner Up</p>
-</li>
-</ul>
-<h4><strong>Leadership courses and Progression in cadet ranks</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participation as first-aider at national events like
-<br>- Chingay, National Day Parade and Istana Open House</p>
-</li>
-<li>
-<p>Opportunities for Hospital Attachments and Volunteering Programmes</p>
-</li>
-</ul>
+<h4></h4>
+<p></p>
 <p></p>
