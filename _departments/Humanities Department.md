@@ -26,7 +26,7 @@ This is to prepare them to excel in a fast changing, globalized world and
 yet, able to stay rooted within the society with sound values.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Humanities.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Humanities.png">
 </div>
 <p></p>
 <table style="minWidth: 100px">
