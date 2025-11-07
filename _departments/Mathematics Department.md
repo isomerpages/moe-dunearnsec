@@ -323,7 +323,9 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/All_Sg_Math_Comp_for_Normal_Course_Students_Yi_Le_V1__002_.png">
+</div>
 </td>
 </tr>
 <tr>
