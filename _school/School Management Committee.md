@@ -167,7 +167,7 @@ variant: tiptap
 <p>Mr Alvin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE and CCA (Internal)</p>
+<p>HOD PE and CCA (Covering)</p>
 </td>
 </tr>
 <tr>
