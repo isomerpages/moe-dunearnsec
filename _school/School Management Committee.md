@@ -321,17 +321,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Siraj Ansari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Special Projects&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siraj_ansari@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wayne Tan</p>
 </td>
 <td rowspan="1" colspan="1">

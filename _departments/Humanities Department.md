@@ -26,7 +26,7 @@ This is to prepare them to excel in a fast changing, globalized world and
 yet, able to stay rooted within the society with sound values.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Humanities.png">
 </div>
 <p></p>
 <table style="minWidth: 100px">
@@ -391,7 +391,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Humanities.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2_Humanities.jpg">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -402,7 +402,7 @@ quality around ​Dunearn Secondary School?</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Humanities.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/4_Humanities.jpg">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -412,7 +412,7 @@ quality around ​Dunearn Secondary School?</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Humanities.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/3_Humanities.jpg">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -447,7 +447,7 @@ how the Courts manage certain types of cases.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Courts.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SG_Courts.jpg">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -460,6 +460,6 @@ by RP. One of our team emerged as 2<sup>nd</sup> Runner-Up! Congratulations!</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Humanities.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1_Humanities.jpg">
 </div>
 <p></p>

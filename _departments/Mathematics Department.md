@@ -79,7 +79,9 @@ These experiences deepen understanding of how <strong>technology </strong>shapes
 life and build <strong>critical thinking and problem solving skills </strong>which
 are vital for success in the digital future.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Code_For_Fun_2025.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understanding how to manage money is crucial in today's world. By learning
@@ -90,10 +92,8 @@ learning both practical and fun.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Financial_LIteracy_2025.png">
 </div>
 </td>
 </tr>
@@ -116,19 +116,19 @@ Temasek Polytechnic Makerspace, to apply what they learnt in creative ways.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Computational_Thinking_Workshop.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
 </div>
 </td>
 </tr>
@@ -164,6 +164,10 @@ Thinking workshop</p>
 <h4><strong>Supporting Every Learner</strong></h4>
 <p>We are dedicated to supporting our students in their learning journey,
 as we aim to make mathematics accessible and enjoyable for every student.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1_math.jpg">
+</div>
 <p><strong>Improving Confidence and Achievement in Numeracy (ICAN) Programme</strong> -designed
 to provide additional learning support through personalised coaching in
 bridging students’ learning gaps.</p>
@@ -181,17 +185,18 @@ students who demonstrate self-directedness and resilience in their learning,
 as well as students who achieved significant improvement in their academic
 performance for mathematics.</p>
 <h4><strong>Fostering Talent and Critical Thinking</strong></h4>
-<p>Our Talent Development Programme (TDP) is designed to nurture students
-with advanced mathematical skills and to develop them into confident problem-solvers
-who are ready to meet the demands of the future. These students are introduced
-to more challenging topics through programs like Basic Coding (Secondary
-1), Python Programming (Secondary 2) and Special Projects and Mathematics
-Competitions (Secondary 3).</p>
-<p>These programmes create opportunities for students to excel in both mathematics
-and in coding, developing them into <strong>Critical, Adaptive, and Inventive Thinkers.</strong>
-</p>
+<p>Our <strong>Talent Development Programme (TDP)</strong> is designed to nurture
+students with advanced mathematical skills and to develop them into confident
+problem-solvers who are ready to meet the demands of the future. These
+students are introduced to more challenging topics through programs like <strong>Basic Coding / Robotics Workshops (Secondary 1)</strong>, <strong>AI Training &amp;</strong>  <strong>Coding Workshops (Secondary 2)</strong>,
+and <strong>Special Projects (Secondary 3)</strong>.</p>
+<p>In addition, students from Sec 1 to Sec 3 are encouraged to participate
+in Mathematics Competitions organized by various professional organisations.
+These programmes create opportunities for students to excel in both mathematics
+and in coding, supporting their development to become better <strong>Critical, Adaptive, and Inventive Thinkers</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/coding.png">
 </div>
 <h4><strong>Competitions and Recognition</strong></h4>
 <p>We pride ourselves on nurturing not only academic excellence but also
@@ -221,7 +226,7 @@ and awards in both national and international platforms.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Bebras Competition</p>
+<p>Bebras - International Challenge on Informatics and Computational Thinking</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +312,7 @@ and awards in both national and international platforms.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Joan_Chew_Shing_HWEE_2AM_Bebras_2025_Bronze.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,7 +324,7 @@ and awards in both national and international platforms.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/All_Sg_Math_Comp_for_Normal_Course_Students_Yi_Le_V1__002_.png">
 </div>
 </td>
 </tr>
@@ -329,7 +334,7 @@ and awards in both national and international platforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SIMCC Winners</strong>
+<p><strong>Bebras Competition Winner</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,7 +352,8 @@ and awards in both national and international platforms.</p>
 (DrCT) Competition (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award winners for Singapore International Mathematics Challenge 2.0 (2023)</p>
+<p>Award winner for the Bebras-International Challenge on Informatics and
+&nbsp;&nbsp;Computational Thinking (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students presenting at the Singapore International Mathematics Challenge
@@ -355,12 +361,12 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate and prize presentation for 11<sup>th</sup> position in the
-All Singapore Math Competition for Normal Course Students (ASMC)</p>
+All Singapore Math Competition for Normal Course Students (ASMC) (2023)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Looking Ahead: 2024 and Beyond</strong></h4>
+<h4><strong>Looking Ahead: 2025 and Beyond</strong></h4>
 <p>Our 2024 workplan highlights our commitment to <strong>building confident communicators</strong> and <strong>effective collaborators.</strong> By
 integrating opportunities for students to take leadership roles within
 their classes and groups, such as appointing a <strong>Mathematics Representative</strong> in
@@ -620,30 +626,8 @@ hours.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sobana D/O Panneer Selvam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sobana_panneer_selvam@moe.edu.sg" rel="noopener nofollow" target="_blank">sobana_panneer_selvam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pow Zhi Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="pow_zhi_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">pow_zhi_xiang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
