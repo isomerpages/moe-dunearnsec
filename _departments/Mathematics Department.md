@@ -361,7 +361,7 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate and prize presentation for 11<sup>th</sup> position in the
-All Singapore Math Competition for Normal Course Students (ASMC)</p>
+All Singapore Math Competition for Normal Course Students (ASMC) (2023)</p>
 </td>
 </tr>
 </tbody>
