@@ -225,6 +225,28 @@ and awards in both national and international platforms.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>National Junior Informatics Olympiad (NJIO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 6 Bronze, 2 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NIE Mathematics Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Distinctions and 7 Credits</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Bebras - International Challenge on Informatics and Computational Thinking</p>
 <p>&nbsp;</p>
