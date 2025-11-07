@@ -91,6 +91,26 @@ Istana Open House</p>
 cadets</p>
 </li>
 </ul>
+<p><u>Competition</u>
+</p>
+<p>2025 Northwest District First Aid and Home Nursing Competition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Champion (Nursing Adult Category)</p>
+</li>
+<li>
+<p>1st Runner-up (Ambulance Cadet Category)</p>
+</li>
+</ul>
+<p>2024 Northwest District First Aid and Home Nursing Competition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Runner-up (Nursing Adult Category)</p>
+</li>
+<li>
+<p>1st Runner-up (Ambulance Cadet Category)</p>
+</li>
+</ul>
 <p><strong>Training Day, Time and Venue</strong>
 </p>
 <p>Friday, 2:30pm to 5:30pm, School Compound</p>
