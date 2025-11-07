@@ -118,9 +118,11 @@ and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_2.jpg">
 </div>
-<p>Entrepreneurship Club members went to Project Dignity to learn about social
-entrepreneurship and practice sign language when ordering beverages. Members
-also helped in packing and distributing bento to elderly in need.</p>
+<p>Entrepreneurship Club members visited Project Dignity to learn about social
+entrepreneurship and to practise sign language while ordering beverages.
+They also participated in packing and distributing bento meals to elderly
+residents in need, gaining valuable insights into empathy, service, and
+community engagement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_3.jpg">
 </div>
