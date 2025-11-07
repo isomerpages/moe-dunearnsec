@@ -61,27 +61,25 @@ programmes are designed to develop<strong> self-directed learners, critical thin
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 Code for Fun</strong>
+<p><strong>Code for Fun</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 2 Financial Literacy</strong>
+<p><strong>Financial Literacy</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students dive into the world of coding and learn how to use mathematics
-and logic to solve problems. Whether designing algorathims or exploring
-how mathematics applies to <strong>food science</strong>, they're building
-critical skills that will serve them in any career.</p>
+<p>Students dive into <strong>coding</strong>, applying <strong>mathematics and logical thinking</strong> to
+solve <strong>real-world problems</strong>. Through <strong>algorithm design</strong> and
+exploration of <strong>emerging</strong>  <strong>technologies</strong>  <strong>like AI and robotics</strong>,
+they engage in <strong>hands-on</strong>, <strong>project-based learning</strong>.
+These experiences deepen understanding of how <strong>technology </strong>shapes
+life and build <strong>critical thinking and problem solving skills </strong>which
+are vital for success in the digital future.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understanding how to manage money is crucial in today's world. By learning
@@ -89,6 +87,10 @@ the <strong>basics of budgeting, saving, and investing,</strong> students
 are empowered to make smart financial decisions from a young age. Through
 these interactive activities, students are given opportunities to <strong>apply mathematical concepts to real-world financial scenarios, </strong>making
 learning both practical and fun.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
