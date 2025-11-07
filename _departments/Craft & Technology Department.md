@@ -24,9 +24,8 @@ them.</p>
 we aim to nurture our students and staff into compassionate, optimistic,
 collaborative and creative problem-solvers.</p>
 <h4>Staffing</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -40,10 +39,6 @@ collaborative and creative problem-solvers.</p>
 <p><strong>Designation</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,10 +46,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fatimah_sawifi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">fatimah_sawifi@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -64,10 +55,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>Art Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anna_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="">anna_tay@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -75,10 +62,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mohamed_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_abu_bakar@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +71,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>SH D&amp;T</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="thng_guan_heng@moe.edu.sg" rel="noopener nofollow" target="_blank">thng_guan_heng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,10 +78,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_pei_lien@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chen_pei_lien@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -112,10 +87,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_sheng_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="">foo_sheng_hao@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,10 +94,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>D&amp;T Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sim_gim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_gim_hwee@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -136,10 +103,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mei_ferng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_mei_ferng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -147,10 +110,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_arnie_mohd_affandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="">siti_arnie_mohd_affandi@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -160,10 +119,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_diana_jailani@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_diana_jailani@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,10 +126,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lwa_heng_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_jiahui@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -184,10 +135,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>NFS Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="siti_radiah_mahdi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_radiah_mahdi@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,10 +142,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH ICT / Music Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vu_tien_dat@moe.edu.sg" rel="noopener noreferrer nofollow" target="">vu_tien_dat@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -208,10 +151,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>Music Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="cindy_goh_kiah_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_goh_kiah_ling@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -220,10 +159,6 @@ collaborative and creative problem-solvers.</p>
 <td rowspan="1" colspan="1">
 <p>STEM instructor</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="muhammad_naufal_mohamed_Ibrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_naufal_mohamed_Ibrahim@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -231,10 +166,6 @@ collaborative and creative problem-solvers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">suwandi_daani_a@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
