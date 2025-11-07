@@ -311,9 +311,7 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -323,9 +321,6 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -334,7 +329,7 @@ and awards in both national and international platforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SIMCC Winners</strong>
+<p><strong>Bebras Competition Winner</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -352,7 +347,8 @@ and awards in both national and international platforms.</p>
 (DrCT) Competition (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award winners for Singapore International Mathematics Challenge 2.0 (2023)</p>
+<p>Award winner for the Bebras-International Challenge on Informatics and
+&nbsp;&nbsp;Computational Thinking (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students presenting at the Singapore International Mathematics Challenge
