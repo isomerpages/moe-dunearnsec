@@ -25,9 +25,8 @@ STEM for <strong>future learning and work</strong>.</p>
 </div>
 <hr>
 <h4>Staffing</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -41,10 +40,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <p><strong>Subject</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,10 +47,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zilin_aileen@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +56,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_li_yan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,10 +63,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hanani_jaafar@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -89,10 +72,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zheng_jiahui_esther@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,21 +80,13 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Biology</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_may_ling@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Nazrul (HOD CCE internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chem,Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nazrul_hadi_jamali@moe.edu.sg</a>
-</p>
+<p>Chemistry and Physics</p>
 </td>
 </tr>
 <tr>
@@ -125,10 +96,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yasmeen_aysha@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,10 +103,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yuni@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +112,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_cheng_leng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -160,10 +119,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shu_hua_fiona@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -173,10 +128,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nor_aisha_mazlan@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -184,10 +135,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_kong_huat@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -197,10 +144,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yong_chong_lawrence@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -208,10 +151,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_khaidir_abdul_rahm@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -221,10 +160,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_whye_lin_yvonne@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -233,10 +168,6 @@ STEM for <strong>future learning and work</strong>.</p>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tee_jie_kai_calvin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -244,10 +175,6 @@ STEM for <strong>future learning and work</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ow_gan_pin@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>

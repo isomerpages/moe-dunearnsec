@@ -403,16 +403,11 @@ developing creative problem-solvers.</p>
 for examinations, but for life.</p>
 <p><strong>Our Dynamic Mathematics Teachers</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics.jpg">
-</div>
 <p>Have a question in Math related matters? Do not hesitate to email any
 one of the Mathematics teachers or call the school at 65653692 during office
 hours.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -426,10 +421,6 @@ hours.</p>
 <p><strong>Subject</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>E-mail</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -438,10 +429,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rajasekaran_sockalingam@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -452,10 +439,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_gek_hoon@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -464,10 +447,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_whye_lin_yvonne@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -478,10 +457,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yi_qiao@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -490,10 +465,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_chin_chuan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -504,10 +475,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_sze_ming@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -516,10 +483,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_hui_ping@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -530,10 +493,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_chui_ling@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -543,10 +502,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shu_hua_fiona@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -554,10 +509,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ong_yuni@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_yuni@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -568,10 +519,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_jeremiah@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -580,10 +527,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">M_Thiruckumaran@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -594,10 +537,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_cek_sin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -606,10 +545,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="lim_li_li_melissa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_li_li_melissa@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -617,10 +552,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tee_jie_kai_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">tee_jie_kai_calvin@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -631,10 +562,6 @@ hours.</p>
 <td rowspan="1" colspan="1">
 <p>E Math / A Math</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_lily_a@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -642,10 +569,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:louis_chin_cheong_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">louis_chin_cheong_long@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
