@@ -29,9 +29,8 @@ yet, able to stay rooted within the society with sound values.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Humanities.png">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -50,10 +49,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Subject</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,10 +61,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography, Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">dewi_marlina_putri_chumali@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -86,10 +77,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Geography</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">lam_shy_wei_veronica@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -102,10 +89,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography, Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">lailtha_savathan@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -122,10 +105,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>History, Elements of Business Skills</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">hazel_hong_wen_ee@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,10 +117,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>History, Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">tang_chee_kuan@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -158,10 +133,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Geography</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">soon_suan_boon@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,10 +145,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">sohail_basiron@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -194,10 +161,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Geography, Social Studies</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_mohamed_shafiee@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -210,10 +173,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>History</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">hee_lim_gee_kheng@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -230,10 +189,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>History, Social Studies</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">yi_jie_anthony_teo@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -246,10 +201,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>History</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">john_ng_cheng_earn@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -266,10 +217,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>History, Social Studies</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">ng_chen_jun_eugene@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -282,10 +229,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>History, Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">siraj_ansari@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -302,10 +245,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>History, Social Studies</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">siti_balqis_masroni_a@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -318,12 +257,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>History, Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">neo_yu_zhe@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -340,10 +273,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Principles of Accounts, Elements of Business Skills (EBS)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">tan_wan_chin_a@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -358,10 +287,6 @@ yet, able to stay rooted within the society with sound values.</p>
 <p><strong>Principles of Accounts</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">cindy_goh_kiah_ling@moe.edu.sg</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -374,10 +299,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">betsy_tan_jia_min@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
