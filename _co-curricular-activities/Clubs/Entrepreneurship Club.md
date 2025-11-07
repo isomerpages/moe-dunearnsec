@@ -132,9 +132,16 @@ experiential learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dining_etiquette__002_.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
+<p>The Entrepreneurship Club participated in a Dining Etiquette Workshop
+to refine their table manners, enhance social skills, and build confidence
+in formal dining settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Gratitude_Tea_Ceremony__002_.jpg">
+</div>
+<p>The Entrepreneurship Club organised a Gratitude Tea Ceremony to express
+their heartfelt appreciation to the school’s dedicated support staff for
+their unwavering commitment and invaluable contributions in keeping the
+school environment safe and welcoming.</p>
 <p><strong>From Practice to Pride: CCA Reflections</strong>
 </p>
 <div class="isomer-image-wrapper">
