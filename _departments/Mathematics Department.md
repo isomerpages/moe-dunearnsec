@@ -366,7 +366,7 @@ All Singapore Math Competition for Normal Course Students (ASMC) (2023)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Looking Ahead: 2024 and Beyond</strong></h4>
+<h4><strong>Looking Ahead: 2025 and Beyond</strong></h4>
 <p>Our 2024 workplan highlights our commitment to <strong>building confident communicators</strong> and <strong>effective collaborators.</strong> By
 integrating opportunities for students to take leadership roles within
 their classes and groups, such as appointing a <strong>Mathematics Representative</strong> in
