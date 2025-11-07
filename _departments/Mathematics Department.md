@@ -79,7 +79,9 @@ These experiences deepen understanding of how <strong>technology </strong>shapes
 life and build <strong>critical thinking and problem solving skills </strong>which
 are vital for success in the digital future.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Code_For_Fun_2025.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understanding how to manage money is crucial in today's world. By learning
@@ -90,11 +92,11 @@ learning both practical and fun.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Financial_LIteracy_2025.png">
 </div>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
