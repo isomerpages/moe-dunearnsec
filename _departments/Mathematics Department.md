@@ -185,17 +185,18 @@ students who demonstrate self-directedness and resilience in their learning,
 as well as students who achieved significant improvement in their academic
 performance for mathematics.</p>
 <h4><strong>Fostering Talent and Critical Thinking</strong></h4>
-<p>Our Talent Development Programme (TDP) is designed to nurture students
-with advanced mathematical skills and to develop them into confident problem-solvers
-who are ready to meet the demands of the future. These students are introduced
-to more challenging topics through programs like Basic Coding (Secondary
-1), Python Programming (Secondary 2) and Special Projects and Mathematics
-Competitions (Secondary 3).</p>
-<p>These programmes create opportunities for students to excel in both mathematics
-and in coding, developing them into <strong>Critical, Adaptive, and Inventive Thinkers.</strong>
-</p>
+<p>Our <strong>Talent Development Programme (TDP)</strong> is designed to nurture
+students with advanced mathematical skills and to develop them into confident
+problem-solvers who are ready to meet the demands of the future. These
+students are introduced to more challenging topics through programs like <strong>Basic Coding / Robotics Workshops (Secondary 1)</strong>, <strong>AI Training &amp;</strong>  <strong>Coding Workshops (Secondary 2)</strong>,
+and <strong>Special Projects (Secondary 3)</strong>.</p>
+<p>In addition, students from Sec 1 to Sec 3 are encouraged to participate
+in Mathematics Competitions organized by various professional organisations.
+These programmes create opportunities for students to excel in both mathematics
+and in coding, supporting their development to become better <strong>Critical, Adaptive, and Inventive Thinkers</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/coding.png">
 </div>
 <h4><strong>Competitions and Recognition</strong></h4>
 <p>We pride ourselves on nurturing not only academic excellence but also
