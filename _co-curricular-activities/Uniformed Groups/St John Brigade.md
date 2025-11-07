@@ -5,21 +5,13 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sjab1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sjab2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sjab3.jpg">
-</div>
-<h4><strong>CCA Objectives</strong></h4>
-<p><strong>"Tough Times Don’t Last, Tough Man Do.”</strong>
-<br><sub>A quote Dunearn SJB members carry</sub>
-</p>
-<p><strong><u>Our goal:</u></strong>
-</p>
+<h4>Vision</h4>
+<p>To be a leading charitable organisation and to serve mankind by relieving
+pain and suffering.</p>
+<h4>Mission</h4>
+<p>To serve mankind through training in life saving and health care skills
+in schools, homes, organisations and the workplace in Singapore.</p>
+<h4>Our goal:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To nurture our cadets into resilient and compassionate leaders while enhancing
