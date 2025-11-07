@@ -275,9 +275,8 @@ to achieve the level outcomes.</p>
 </table>
 <p><strong>ECG Committee</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -291,10 +290,6 @@ to achieve the level outcomes.</p>
 <p><strong>Designation</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -302,10 +297,6 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hazel_hong_wen_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazel_hong_wen_ee@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -315,10 +306,6 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mei_ferng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mei_ferng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -326,10 +313,6 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_diana_jailani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diana_jailani@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -339,10 +322,6 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pang_jia_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_jia_shin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -350,10 +329,6 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_amin_morni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_morni@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
