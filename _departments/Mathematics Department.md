@@ -311,7 +311,9 @@ and awards in both national and international platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Joan_Chew_Shing_HWEE_2AM_Bebras_2025_Bronze.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -320,6 +322,7 @@ and awards in both national and international platforms.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -647,4 +650,6 @@ hours.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
