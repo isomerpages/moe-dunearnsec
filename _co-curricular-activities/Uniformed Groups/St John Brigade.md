@@ -78,7 +78,19 @@ the Formula 1 Singapore Grand Prix.</p>
 Istana Open House</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Highlights and Achievements</strong>
+</p>
+<p><u>Corps Achievement Award (CAA)</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2021 - 2024 ( Gold Award )</p>
+</li>
+<li>
+<p>Chief Commissioner’s Award – Highest individual award for Secondary 4
+cadets</p>
+</li>
+</ul>
 <p><strong>Training Day, Time and Venue</strong>
 </p>
 <p>Friday, 2:30pm to 5:30pm, School Compound</p>
