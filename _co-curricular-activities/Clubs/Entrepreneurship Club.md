@@ -124,17 +124,14 @@ They also participated in packing and distributing bento meals to elderly
 residents in need, gaining valuable insights into empathy, service, and
 community engagement.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_3.jpg">
-</div>
-<p>Entrepreneurship Club members organized Essential Workers Appreciation
-Day to show their appreciation towards school cleaners.</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
 </div>
 <p>Entrepreneurship Club members visited Dialogue in the Dark to enable them
 to develop skills such as empathy and inclusion, better communications
 and leadership.</p>
-<p><strong>From Practice to Pride: CCA Reflection</strong>
+<p></p>
+<p></p>
+<p><strong>From Practice to Pride: CCA Reflections</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entrepreneurship_Club___Fulfilling_Real_world_Experiences.png">
