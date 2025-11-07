@@ -626,30 +626,6 @@ hours.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sobana D/O Panneer Selvam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sobana_panneer_selvam@moe.edu.sg" rel="noopener nofollow" target="_blank">sobana_panneer_selvam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pow Zhi Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="pow_zhi_xiang@moe.edu.sg" rel="noopener nofollow" target="_blank">pow_zhi_xiang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
