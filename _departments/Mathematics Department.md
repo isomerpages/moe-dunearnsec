@@ -164,6 +164,10 @@ Thinking workshop</p>
 <h4><strong>Supporting Every Learner</strong></h4>
 <p>We are dedicated to supporting our students in their learning journey,
 as we aim to make mathematics accessible and enjoyable for every student.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1_math.jpg">
+</div>
 <p><strong>Improving Confidence and Achievement in Numeracy (ICAN) Programme</strong> -designed
 to provide additional learning support through personalised coaching in
 bridging students’ learning gaps.</p>
