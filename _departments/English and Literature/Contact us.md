@@ -56,22 +56,6 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Kuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tang Chee Onn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST (EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Naznin Rehana Begum</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,6 +65,14 @@ third_nav_title: English and Literature
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Mei Imm Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Chee Onn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -120,7 +112,7 @@ third_nav_title: English and Literature
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hee Lim Gee Kheng</p>
+<p>Mrs Hee Lim Gee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -139,7 +131,7 @@ third_nav_title: English and Literature
 <p>Ms Betsy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Teacher (UT)</p>
 </td>
 </tr>
 <tr>
