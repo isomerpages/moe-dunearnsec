@@ -6,11 +6,13 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h4>CCA Objectives</h4>
-<p>Through the Entrepreneurship Club, the students learn about entrepreneurship
-skills, as well as event management and planning. Entrepreneurship Club
-also provides opportunities for the members to give back to the school
-through their Values-in-Action project-Essential Workers' Appreciation
-Day.&nbsp;</p>
+<p>In the Entrepreneurship Club, students acquire essential entrepreneurial
+competencies and develop skills in event management and planning. The club
+also offers members opportunities to contribute meaningfully to the school
+community through Values-in-Action initiatives, such as the Gratitude Tea
+Ceremony, organised to express appreciation for the school’s support staff,
+and the Karaoke Session, held to convey thanks to teachers for their dedication
+and guidance.</p>
 <p>Entrepreneurship Club activities aim to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
