@@ -49,31 +49,29 @@ business ideas.</p>
 <h4>Highlights</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>CCA Values-In-Action</strong>: Essential Workers’ Appreciation
-Day</p>
+<p>CCA Values-In-Action: Essential Workers’ Appreciation Day, Gratitude Tea
+Ceremony for School Support Staff 2025</p>
 </li>
 <li>
-<p><strong>Speech Day</strong> 2017 – 2019, 2022-2024: Serving the guests
-at dinner reception, preparing goodie bags for 60<sup>th</sup> Anniversary,
-serving mocktails at reception</p>
+<p>Speech Day&nbsp;2022-2024: Serving the guests at dinner reception, preparing
+goodie bags for 60<sup>th</sup>&nbsp;Anniversary, serving mocktails at
+reception</p>
 </li>
 <li>
-<p><strong>National Day Celebration</strong> 2018: Traditional Snacks Pushcart</p>
+<p>Mastermix&nbsp;2022</p>
 </li>
 <li>
-<p><strong>Mastermix</strong> 2019 &amp; 2022</p>
+<p>DunearnOK!&nbsp;2023- 2025</p>
 </li>
 <li>
-<p><strong>DunearnOK!</strong> 2023 &amp; 2024</p>
+<p>Teachers’ Day Carnival&nbsp;2024, Teachers’ Day Karaoke 2025</p>
 </li>
 <li>
-<p><strong>Teachers’ Day Carnival</strong> 2024</p>
-</li>
-<li>
-<p><strong>Work attachment </strong>at <strong>SNCF</strong>, <strong>Far East Flora Thomson</strong> and <strong>Make the Change</strong>
-</p>
+<p>Work attachment&nbsp;at&nbsp;SNCF,&nbsp;Far East Flora Thomson&nbsp;and&nbsp;Make
+the Change</p>
 </li>
 </ul>
+<p></p>
 <h4>Participation</h4>
 <ul data-tight="true" class="tight">
 <li>
