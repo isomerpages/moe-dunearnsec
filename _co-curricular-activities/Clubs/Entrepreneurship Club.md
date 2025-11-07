@@ -94,17 +94,19 @@ Polytechnic - 1st Runner-up</p>
 <h4>Learning journey</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Latte Art Appreciation Workshop </strong>- Oct 2022</p>
+<p>Latte Art Appreciation Workshop&nbsp;- Oct 2022</p>
 </li>
 <li>
-<p><strong>Enabling Village &amp; Tech Able </strong>- May 2023</p>
+<p>Enabling Village &amp; Tech Able&nbsp;- May 2023</p>
 </li>
 <li>
-<p><strong>Dignity Kitchen with packing and distribution of bento </strong>-
-Oct 2023</p>
+<p>Dignity Kitchen with packing and distribution of bento&nbsp;- Oct 2023</p>
 </li>
 <li>
-<p><strong>Dialogue in the Dark </strong>- May 2024</p>
+<p>Dialogue in the Dark&nbsp;- May 2024</p>
+</li>
+<li>
+<p>Dining Etiquette – Oct 2025</p>
 </li>
 </ul>
 <h4>Photos</h4>
