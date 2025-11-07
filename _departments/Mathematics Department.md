@@ -80,7 +80,7 @@ life and build <strong>critical thinking and problem solving skills </strong>whi
 are vital for success in the digital future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Code_For_Fun_2025.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Code_For_Fun_2025.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
