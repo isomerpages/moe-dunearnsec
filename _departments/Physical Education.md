@@ -17,9 +17,8 @@ their social, physical and character developments</p>
 </li>
 <li>
 <p>Staffing</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -29,11 +28,7 @@ their social, physical and character developments</p>
 <p>Mr Alvin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wei_kwok_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ho_wei_kwok_alvin@moe.edu.sg</a>
-</p>
+<p>HOD PE &amp; CCA (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -43,10 +38,6 @@ their social, physical and character developments</p>
 <td rowspan="1" colspan="1">
 <p>ST PE</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tham_kin_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tham_kin_loong@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,10 +45,6 @@ their social, physical and character developments</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soon_suan_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="">soon_suan_boon@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -67,10 +54,6 @@ their social, physical and character developments</p>
 <td rowspan="1" colspan="1">
 <p>PE Teacher&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sohail_basiron@moe.edu.sg" rel="noopener noreferrer nofollow" target="">sohail_basiron@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -79,10 +62,6 @@ their social, physical and character developments</p>
 <td rowspan="1" colspan="1">
 <p>PE Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="liew_hei_sean@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_hei_sean@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,10 +69,6 @@ their social, physical and character developments</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_badriah_hairy@moe.edu.sg" rel="noopener noreferrer nofollow" target="">nur_badriah_hairy@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
