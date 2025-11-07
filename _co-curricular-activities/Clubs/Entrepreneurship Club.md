@@ -111,12 +111,12 @@ Polytechnic - 1st Runner-up</p>
 </ul>
 <h4>Photos</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ENT_Pic_1.jpg">
 </div>
 <p>Nabihah and Seraphine (3 Ruby) managed to clinch First Runner-up in Food
 and Beverage Entrepreneurship Competition 2023 organized by Republic Polytechnic.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENT_Pic_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ENT_Pic_2.jpg">
 </div>
 <p>Entrepreneurship Club members visited Project Dignity to learn about social
 entrepreneurship and to practise sign language while ordering beverages.
@@ -124,16 +124,20 @@ They also participated in packing and distributing bento meals to elderly
 residents in need, gaining valuable insights into empathy, service, and
 community engagement.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Dialogue in the Dark: Enable members to develop 21st CC &amp; Leadership skills" src="/images/ENT4.jpg">
 </div>
-<p>Entrepreneurship Club members visited Dialogue in the Dark to enable them
-to develop skills such as empathy and inclusion, better communications
-and leadership.</p>
+<p>Entrepreneurship Club members visited Dialogue in the Dark to develop
+skills in empathy, inclusion, effective communication, and leadership through
+experiential learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dining_etiquette__002_.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>From Practice to Pride: CCA Reflections</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entrepreneurship_Club___Fulfilling_Real_world_Experiences.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Entrepreneurship_Club___Fulfilling_Real_world_Experiences.png">
 </div>
 <p></p>
