@@ -4,9 +4,8 @@ permalink: /school/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,9 +17,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Designation</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Email Address</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -28,9 +24,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_beng_mui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -40,9 +33,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>jimmy_lee@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -50,9 +40,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yap_kwee_chye@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -62,9 +49,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>norlizah_yamaludin@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,9 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_wai_fatt_steven@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -84,9 +65,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>jayakumar_chitharasu@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,9 +72,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yong_chong_lawrence@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,9 +81,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>lee_kong_huat@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,9 +88,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tang_chee_kuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,9 +97,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD (English &amp; Literature)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>angela_ng_shi_qi@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,9 +104,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tai_li_jen_sharon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -150,9 +113,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tan_zilin_aileen@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -160,9 +120,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rajasekaran_sockalingam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -172,9 +129,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD Aesthetic</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>fatimah_sawifi@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,9 +136,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dewi_marlina_putri_chumali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -194,9 +145,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD Educational Support</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>hazel_hong_wen_ee@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -204,9 +152,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Management&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_khaidir_abdul_rahm@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -216,9 +161,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD CCE (Internal)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>nazrul_hadi_jamali@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -226,9 +168,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD PE and CCA (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_wei_kwok_alvin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -238,9 +177,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Lead Teacher&nbsp;(English)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Rajanmi_Fernandez@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -248,9 +184,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_yi_qiao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -260,9 +193,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Sec)&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>yasmeen_aysha@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,9 +200,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_ying_fang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -282,9 +209,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SH Physics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>tan_whye_lin_yvonne@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -292,9 +216,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soon_suan_boon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -304,9 +225,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SH Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>chua_gek_hoon@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -314,9 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lam_shy_wei_veronica@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -326,9 +241,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SH English</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>wayne_tan_yin_ta@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -337,9 +249,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SH ICT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>vu_tien_dat@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -347,9 +256,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thng_guan_heng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
