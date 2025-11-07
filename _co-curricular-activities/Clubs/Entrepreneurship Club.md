@@ -16,21 +16,22 @@ and guidance.</p>
 <p>Entrepreneurship Club activities aim to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Equip students with entrepreneurial mind-set and spirit&nbsp;</p>
+<p>Nurture students with an entrepreneurial mindset and spirit.</p>
 </li>
 <li>
-<p>Enable students to understand how business practices are adopted in the
-real world&nbsp;</p>
+<p>Enable students to understand how business practices are applied in real-world
+contexts.</p>
 </li>
 <li>
-<p>Enable students to apply enterprise skills in operating the pushcart and
-events&nbsp;</p>
+<p>Provide opportunities for students to apply enterprise skills through
+operating the sales booth and organising events.</p>
 </li>
 <li>
-<p>Enable students to be equipped with presentation skills and confidence
-when pitching their business plans&nbsp;</p>
+<p>Develop students’ presentation skills and confidence when pitching their
+business ideas.</p>
 </li>
 </ul>
+<p></p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
