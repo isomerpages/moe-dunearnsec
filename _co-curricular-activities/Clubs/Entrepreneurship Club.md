@@ -84,22 +84,11 @@ the Change</p>
 <p>Republic Polytechnic iTourism Compeition 2025</p>
 </li>
 </ul>
-<h4>Achievements</h4>
+<h4>Achievement</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>National Pushcart Challenge 2016</strong> by Republic Polytechnic-
-Gold Award</p>
-</li>
-<li>
-<p><strong>ignITE Skills Challenge 2017</strong>- Get Rich $ In ASEAN Finalist</p>
-</li>
-<li>
-<p><strong>Network for Teaching Entrepreneurship Challenge 2017</strong> -
-4th position</p>
-</li>
-<li>
-<p><strong>Food &amp; Beverage Entrepreneurship Competition 2023</strong> by
-Republic Polytechnic - 1st Runner-up</p>
+<p>Food &amp; Beverage Entrepreneurship Competition 2023&nbsp;by Republic
+Polytechnic - 1st Runner-up</p>
 </li>
 </ul>
 <h4>Learning journey</h4>
