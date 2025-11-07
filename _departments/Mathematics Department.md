@@ -226,7 +226,7 @@ and awards in both national and international platforms.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Bebras Competition</p>
+<p>Bebras - International Challenge on Informatics and Computational Thinking</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
