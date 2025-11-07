@@ -22,7 +22,8 @@ their leadership and communication skills.</p>
 healthcare professionals.</p>
 </li>
 </ul>
-<h4>Teachers-in-Charge</h4>
+<p><strong>Teachers-in-Charge</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Siti Arnie Mohd Affandi (Overall I/C)</p>
@@ -34,7 +35,8 @@ healthcare professionals.</p>
 <p>Mr Pow Zhi Xiang</p>
 </li>
 </ul>
-<h4>SJB Cadet Program</h4>
+<p><strong>SJB Cadet Program</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Leadership training: Cadets build resilience, confidence, and communication
@@ -56,7 +58,29 @@ in national events such as the Chingay Parade, National Day Parade, and
 the Formula 1 Singapore Grand Prix.</p>
 </li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
+<p><strong>Key Programme/Event</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leadership Courses and Cadet Rank Progression</p>
+</li>
+<li>
+<p>Hospital Attachment Programme (for Secondary 3 cadets)</p>
+</li>
+<li>
+<p>Non-Commissioned Officer (NCO) Course</p>
+</li>
+<li>
+<p>National Day Parade Marching Contingent</p>
+</li>
+<li>
+<p>Public Duties at National Events like Chingay, National Day Parade and
+Istana Open House</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Training Day, Time and Venue</strong>
+</p>
 <p>Friday, 2:30pm to 5:30pm, School Compound</p>
 <h4></h4>
 <p></p>
