@@ -148,3 +148,7 @@ school environment safe and welcoming.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Entrepreneurship_Club___Fulfilling_Real_world_Experiences.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Yuxuan_reflection__002_.jpg">
+</div>
+<p></p>
