@@ -220,6 +220,18 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Siraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">siraj_ansari_mohamed_shariff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Hanani</p>
 </td>
 <td rowspan="1" colspan="1">
