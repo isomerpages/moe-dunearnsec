@@ -318,8 +318,9 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </table>
 <p><strong>ECG Committee</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -333,6 +334,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 <p><strong>Designation</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -340,6 +345,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hazel_hong_wen_ee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -349,6 +358,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_mei_ferng@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -356,6 +369,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_diana_jailani@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,6 +382,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">pang_jia_shin@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -372,6 +393,10 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_amin_morni@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
