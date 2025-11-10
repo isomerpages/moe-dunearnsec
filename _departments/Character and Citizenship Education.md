@@ -4,7 +4,7 @@ permalink: /departments/character-and-citizenship-education/
 description: ""
 variant: tiptap
 ---
-<h3>OBJECTIVES</h3>
+<h4>OBJECTIVES</h4>
 <p>CCE Vision: People of Good Character and Responsible Citizens</p>
 <p>Every Dunearnite to be grounded in core values, as demonstrated through
 their attitude, behaviour and competencies, thus achieving the Desired
