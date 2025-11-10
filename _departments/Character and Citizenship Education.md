@@ -408,7 +408,6 @@ areas such as Sexuality Education, Mental Health, Education &amp; Career
 Guidance (ECG), Cyber Wellness, Family Education, Peer Support and Relationship
 and National Education. Our teachers use a variety of facilitation strategies
 and educational technology to engage our students in discussions and sense-making.</p>
-<p></p>
 <p>Besides the core CCE lessons, CCE has also been infused into classroom
 lessons across a variety of subjects and school-wide programmes such as
 Values in Action (VIA). &nbsp;Our VIA programme is designed to be differentiated
@@ -417,10 +416,15 @@ Sec 2, appreciating the elderly; Sec 3, serving needy families and Sec
 4/5, role-modeling service in the community (student-initiated). Some of
 the partners the school has worked with include SWCDC, Bukit Batok Home
 for the Aged, REACH Youth Powerhouse etc.</p>
-<p></p>
-<p></p>
 <p><strong>Citizenship Education</strong>
 </p>
+<p>Developing a strong national identity among students has always been the
+focus of our National Education (NE) Programmes. The school’s NE framework
+is implemented through the infusion of NE into the curriculum and the commemoration
+of major events like Total Defence Day, Racial Harmony Day, International
+Friendship Day and National Day. Students are also given opportunities
+to attend enriching learning journeys to historical and heritage sites
+such as the National Museum of Singapore.</p>
 <p></p>
 <h4></h4>
 <h4></h4>
