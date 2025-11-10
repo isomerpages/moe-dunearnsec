@@ -403,7 +403,20 @@ on their experience, learn from it, and apply the lessons in everyday life.</p>
 </table>
 <h4>Key Programmes and Processes</h4>
 <p><strong>Character Education</strong>&nbsp;</p>
+<p>All students participate in core CCE lessons which cover a range of content
+areas such as Sexuality Education, Mental Health, Education &amp; Career
+Guidance (ECG), Cyber Wellness, Family Education, Peer Support and Relationship
+and National Education. Our teachers use a variety of facilitation strategies
+and educational technology to engage our students in discussions and sense-making.</p>
 <p></p>
+<p>Besides the core CCE lessons, CCE has also been infused into classroom
+lessons across a variety of subjects and school-wide programmes such as
+Values in Action (VIA). &nbsp;Our VIA programme is designed to be differentiated
+with the Sec 1 students doing activities related to the school or environment;
+Sec 2, appreciating the elderly; Sec 3, serving needy families and Sec
+4/5, role-modeling service in the community (student-initiated). Some of
+the partners the school has worked with include SWCDC, Bukit Batok Home
+for the Aged, REACH Youth Powerhouse etc.</p>
 <p></p>
 <p></p>
 <p><strong>Citizenship Education</strong>
