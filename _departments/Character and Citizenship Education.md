@@ -427,7 +427,4 @@ to attend enriching learning journeys to historical and heritage sites
 such as the National Museum of Singapore.</p>
 <p></p>
 <h4></h4>
-<h4></h4>
-<p></p>
-<p></p>
 <p></p>
