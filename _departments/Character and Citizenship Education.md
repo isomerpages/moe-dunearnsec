@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>OBJECTIVES</h3>
-<h4>CCE Vision: People of Good Character and Responsible Citizens</h4>
+<p>CCE Vision: People of Good Character and Responsible Citizens</p>
 <p>Every Dunearnite to be grounded in core values, as demonstrated through
 their attitude, behaviour and competencies, thus achieving the Desired
 Outcomes of Education in the 21st Century.</p>
