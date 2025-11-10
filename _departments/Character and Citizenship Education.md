@@ -438,5 +438,23 @@ Friendship Day and National Day. Students are also given opportunities
 to attend enriching learning journeys to historical and heritage sites
 such as the National Museum of Singapore.</p>
 <p></p>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_LJ.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSR_lesson__002_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RHD__002_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ND_tree_planting.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_Lesson__002_.jpg">
+</div>
 <p></p>
