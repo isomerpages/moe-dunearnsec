@@ -98,29 +98,12 @@ not forgetting our roots and tradition.</p>
 and citizenship development and reflection is the Experiential Learning
 Approach, based on Kolb’s Experiential Learning Model. Students will reflect
 on their experience, learn from it, and apply the lessons in everyday life.</p>
-<p>We achieve our goals by removing all barriers to learning, building strong
-character and citizenship, and provide clear guidance in education and
-career.</p>
-<p>Undergirding all our actions are our core beliefs.
-<br>Our Calling: Belief in Oneself - Every Teacher a CCE Teacher; to Lead,
-Care and Inspire. Our Future: Belief in Being Part of Something Larger
-- Student and National Outcomes; Shaping Success of Singapore.
-<br>Our Culture: Belief in One's Students. Belief in One Another - Culture
-of Care.</p>
-<p>Last but not least, the triangular support structure represents the close
-partnership we want to establish with the key stakeholders - the parents
-and community - to ensure the well-being of every child in this school,
-thereby having a Student-centric, Values-Driven education.</p>
-<p>The figures below show how we design our CCE programmes and processes
-to achieve the level outcomes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce2.jpg">
-</div>
 <h4>Staffing</h4>
 <p><strong>CCE Committee</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -134,6 +117,10 @@ to achieve the level outcomes.</p>
 <p><strong>Designation</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -141,6 +128,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD CCE (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nazrul_hadi_jamali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,6 +141,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>HOD Educational Support</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hazel_hong_wen_ee@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,6 +152,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tang_chee_kuan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -166,6 +165,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">p_ng_keat_siong@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -173,6 +176,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_sai_joo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,6 +189,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">rashedah_khan_pate_khan@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -189,6 +200,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">norlizah_yamaludin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -198,13 +213,9 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Siraj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Special Projects</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lailtha_savathan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -214,6 +225,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_hanani_jaafar@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -221,6 +236,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_arnie_mohd_affandi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -230,6 +249,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">li_yan_mei@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -237,6 +260,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">anna_tay@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,6 +273,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>SH English</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wayne_tan_yan_da@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -253,6 +284,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ow_gan_pin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -262,6 +297,10 @@ to achieve the level outcomes.</p>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hee_lim_gee_kheng@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -269,6 +308,10 @@ to achieve the level outcomes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">zheng_jiahui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
