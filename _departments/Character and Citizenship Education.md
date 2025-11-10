@@ -74,7 +74,7 @@ the world through global leadership</p>
 </table>
 <h4>CCE Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce1.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/cce1.jpg">
 </div>
 <p>The Dunearn CCE Framework is a structure providing us clear directions
 and alignment on why we do what we do and how we do it. In Dunearn, students
