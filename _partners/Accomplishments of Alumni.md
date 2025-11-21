@@ -4,6 +4,8 @@ permalink: /partners/accomplishments-of-alumni/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Young Talents under the Girls in Tech category of the SG 100 Women in Tech (SG100WIT) 2025</strong></h4>
+<p>Charlene Ng - Diploma in Infocomm Security Management @ Republic Poly</p>
 <h4><strong>Singapore Poly Graduating Class Award Winners in 2025</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
