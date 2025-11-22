@@ -35,3 +35,11 @@ for cultures beyond Singapore.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P3_VIA_HK.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P4_airport.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5_school_visit2.jpg">
+</div>
+<p></p>
