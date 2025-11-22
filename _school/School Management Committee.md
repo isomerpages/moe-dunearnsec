@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vikneswari Rajenthiran</p>
+<p>Ms Vikneswari Rajenthiran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
