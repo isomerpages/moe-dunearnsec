@@ -12,7 +12,7 @@ as one of the 25 young talents under the Girls in Tech category of the <strong>S
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250926_WA0024.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/IMG_20250926_WA0024.jpg">
 </div>
 <p>
 <br>Charlene has recently completed her Diploma in Infocomm Security Management
