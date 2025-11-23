@@ -12,7 +12,7 @@ updates with our wider community.</p>
 <p>Links to follow and share:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Instagram</strong>  <a href="https://www.instagram.com/dunearnsecsch/?igsh=MWdkZW8zOW9hMHl1dw%3D%3D#" rel="noopener noreferrer nofollow" target="_blank">Dunearn Secondary School (@dunearnsecsch) • Instagram photos and videos</a>
+<p><strong>Instagram</strong>  <a href="https://www.instagram.com/dunearnsecondaryschool?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw%3D%3D" rel="noopener noreferrer nofollow" target="_blank">Dunearn Secondary School (@dunearnsecsch) • Instagram photos and videos</a>
 </p>
 </li>
 <li>
