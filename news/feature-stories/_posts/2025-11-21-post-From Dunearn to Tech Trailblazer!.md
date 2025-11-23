@@ -10,6 +10,11 @@ variant: tiptap
 <p>We are proud of our alumna <strong>Charlene Ng </strong>who has been named
 as one of the 25 young talents under the Girls in Tech category of the <strong>SG 100 Women in Tech (SG100WIT)</strong> list.
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250926_WA0024.jpg">
+</div>
+<p>
 <br>Charlene has recently completed her Diploma in Infocomm Security Management
 at Republic Polytechnic and is currently pursuing a degree in Computer
 Science (Digital Systems Security and Cyber Security) at SIM-UOWSC.
