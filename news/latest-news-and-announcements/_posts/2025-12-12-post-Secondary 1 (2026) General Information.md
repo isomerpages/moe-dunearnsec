@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h4><u>General Information</u></h4>
-<p>The S1 Posting Results will be released on 19th December 2025. The posting
-results can be accessed through any of the following channels:</p>
+<p>The S1 Posting Results will be released on <strong>19th December 2025 at 9 am</strong>.
+The posting results can be accessed through any of the following channels:</p>
 <p>• S1 Portal (accessible through <a href="http://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>)
 using parents’ Singpass;</p>
 <p>• Short Message Service (SMS) via a local mobile number (if provided by
