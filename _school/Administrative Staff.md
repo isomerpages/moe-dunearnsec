@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mr Low WF Steven @Rafiq Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr Jayakumar s/o Chitharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 2</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atiqah bte Elmi</p>
+<p>Ms Mun Li Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mun Li Hui</p>
+<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Naufal bin Mohd Ibrahim</p>
+<p>Mr Suwandi bin Daani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
@@ -159,10 +159,10 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Khwan</p>
+<p>Mr Firdaus Bin Jenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>DE</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Firdaus Bin Jenal</p>
+<p>Ms Nur Eriqa Bte Mohammad Nazmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DE</p>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kock Chuay Wai</p>
+<p>Mr Ng Hock Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
@@ -236,7 +236,7 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gayathri Krishnan</p>
+<p>Mdm Siti Sabariah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
@@ -247,6 +247,17 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Gayathri Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Eileen Ang Guat Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joshi Hari Devi</p>

@@ -63,7 +63,7 @@ variant: tiptap
 <p>Mr Steven Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Mr Jayakumar s/o Chitharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 2</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ variant: tiptap
 <p>Ms Angela Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (English &amp; Literature)</p>
+<p>HOD English &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aileen Tan</p>
+<p>Ms Chin Yi Mei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -164,18 +164,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nazrul Hadi</p>
+<p>Mr Goh Wei Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE (Internal)</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Ho</p>
+<p>Mr Koh Chit Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE and CCA (Covering)</p>
+<p>HOD PE and CCA</p>
 </td>
 </tr>
 <tr>
@@ -212,10 +212,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan</p>
+<p>Mr Nazrul Hadi Bin Jamali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Physics</p>
+<p>SH Student Well-being</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ variant: tiptap
 <p>Mr Soon Suan Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
+<p>SH CCE</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,15 @@ variant: tiptap
 <p>Mrs Seah-Chua Gek Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Mathematics</p>
+<p>SH Mathematics 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yvonne Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics 2</p>
 </td>
 </tr>
 <tr>
@@ -264,6 +272,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Design &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elydia Binte Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
 </td>
 </tr>
 </tbody>
