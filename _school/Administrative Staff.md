@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mr Low WF Steven @Rafiq Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr Jayakumar s/o Chitharasu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 2</p>
 </td>
 </tr>
 <tr>
@@ -123,17 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Atiqah bte Elmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +148,7 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Khwan</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
@@ -174,6 +163,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>DE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kock Chuay Wai</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
