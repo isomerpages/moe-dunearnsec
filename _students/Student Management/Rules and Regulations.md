@@ -5,22 +5,19 @@ description: ""
 third_nav_title: Student Management
 variant: tiptap
 ---
-<h4>Rules and Regulations 2025</h4>
-<p></p>
+<h3>Rules and Regulations 2025</h3>
 <h3><strong>1. </strong>School Uniform</h3>
-<p></p>
 <p>Students are to wear the prescribed school uniform, and any modification
 to the uniform is not allowed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<h3>For female students</h3>
+<h4>For female students</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark blue skirts must just
 touch the knees.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coloured undergarments are
 not allowed.</p>
-<p></p>
-<h3>For male students</h3>
+<h4>For male students</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark blue shorts for Lower
 Secondary.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark blue long pants for Upper
@@ -31,7 +28,6 @@ is allowed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/152026.jpg">
 </div>
-<p></p>
 <h3>For male and female students</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Short- sleeved white blouse
 (pointed collar) with pocket on the left.</p>
@@ -47,29 +43,23 @@ shoes are to be worn.</p>
 to be worn during assembly. Should it be used, (e.g. in air-conditioned
 rooms/medical grounds), only plain ones (e.g. black, blue, white) are allowed
 (without loud logo or markings).</p>
-<p></p>
 <h3>How to tie a Windsor Knot</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3152026.jpg">
 </div>
-<p></p>
 <h3><strong>2. </strong>Personal Grooming</h3>
 <p>Dyeing, tinting or highlighting of hair and tattoos are not allowed. In
 addition, all students must observe the following:</p>
-<h3>For female students</h3>
-<p></p>
+<h4>For female students</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture4152026.jpg">
 </div>
-<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Long hair (below shoulder) should be plaited
 or tied back neatly with a black or dark blue ribbon. Only black or dark-blue
 hair bands and clips should be used where necessary.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Fringes should not touch the eyebrows. Long
 fringes must be pinned up.</p>
-<p></p>
-<h3>For male students</h3>
+<h4>For male students</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture5152026.jpg">
 </div>
@@ -79,10 +69,8 @@ fringes must be pinned up.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Hair must not touch the collar and ears.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Sideburns and facial air are not allowed.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Any outlandish hairstyles are not allowed.</p>
-<p></p>
 <p>*The school management reserves the right to reject any new hairstyle
 it deems inappropriate for school.</p>
-<p></p>
 <h3><strong>3.&nbsp;&nbsp; </strong>Other Aspects of Personal Grooming</h3>
 <p>The following are strictly prohibited:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jewellery such as chains,
@@ -95,14 +83,12 @@ staining or tattoo (permanent or temporary).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ear-sticks / nose-studs /
 eye-lid studs / tongue studs. However, girls are permitted to wear a pair
 of plain ear-studs at the earlobes.</p>
-<p></p>
 <h3><strong>4.&nbsp;&nbsp; </strong>Pledge-taking and Singing of National Anthem</h3>
 <p>All students are to assemble at the Multi-purpose Hall / classroom with
 their respective classes by 0725hrs from Mondays to Fridays. Students who
 are not in the hall / classroom by 0730hrs are deemed to be late. Students
 who are Singapore citizens must sing the National Anthem and take the Pledge
 with the right fist over the heart. Foreign students must stand at attention.</p>
-<p></p>
 <h3><strong>5.&nbsp;&nbsp; </strong>Attendance and Punctuality</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attendance in school is compulsory.
 Form Teachers will check and confirm the daily attendance of students before
@@ -133,7 +119,6 @@ a valid reason must be provided.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to
 leave classrooms during lessons without the teacher’s permission. A Student
 Movement Pass must be obtained and shown upon request by any teacher.</p>
-<p></p>
 <h3><strong>6.&nbsp;&nbsp; </strong>Classroom Conduct</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must stand up
 and greet the teacher when he or she enters or leaves the classroom.</p>
@@ -145,7 +130,6 @@ neatly on the floor beside the desk. Students are not to place bags on
 their laps or hug them during lessons.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All fans and lights must be
 switched off when leaving the classroom.</p>
-<p></p>
 <h3>7.&nbsp;&nbsp;&nbsp; Use of Mobile Electronic Devices</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All mobile devices (e.g. phones,
 tablets, etc.), other than school-approved laptops, must be kept in designated
@@ -162,7 +146,6 @@ a reflection before the devices are returned.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Security and safety of all
 mobile electronic devices is the sole responsibility of the student, and
 the school is not accountable for any loss of such items.</p>
-<p></p>
 <h3>8.&nbsp;&nbsp;&nbsp;&nbsp; Prohibition of possession of weapon / weapon-like items</h3>
 <p>All students are not allowed to have any weapons in their possessions.
 They are also not allowed to bring any weapon-like item which can be used
@@ -179,7 +162,6 @@ imposed by the Health Sciences Authority (HSA), Police and the Courts.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students found selling or trafficking
 e-vaporisers will face enhanced school consequences, which may include
 expulsion</p>
-<p></p>
 <h3>10.&nbsp;&nbsp; Offences and Consequences</h3>
 <p>Students who fail to comply with the School Rules and Regulations will
 be subject to disciplinary action.</p>
@@ -227,7 +209,6 @@ be subject to disciplinary action.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Possible Consequences (Generic)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
@@ -298,7 +279,6 @@ lighters and tobacco products</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Possible Consequences (Generic)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
@@ -313,11 +293,9 @@ thereafter)</p>
 reason is considered as truancy</p>
 <p><strong>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</strong>
 </p>
-<p></p>
 <h3>11.&nbsp;&nbsp; Conduct Grade</h3>
 <p>A student’s conduct grade is determined based on his/her overall conduct
 for the semester. The general descriptors are as follows.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
