@@ -6,7 +6,7 @@ third_nav_title: Student Management
 variant: tiptap
 ---
 <h2>Rules and Regulations 2025</h2>
-<h3><strong>1. </strong>School Uniform</h3>
+<h3>1. School Uniform</h3>
 <p>Students are to wear the prescribed school uniform, and any modification
 to the uniform is not allowed.</p>
 <div class="isomer-image-wrapper">
@@ -47,7 +47,7 @@ rooms/medical grounds), only plain ones (e.g. black, blue, white) are allowed
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3152026.jpg">
 </div>
-<h3><strong>2. </strong>Personal Grooming</h3>
+<h3>2. Personal Grooming</h3>
 <p>Dyeing, tinting or highlighting of hair and tattoos are not allowed. In
 addition, all students must observe the following:</p>
 <h4>For female students</h4>
@@ -71,7 +71,7 @@ fringes must be pinned up.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Any outlandish hairstyles are not allowed.</p>
 <p>*The school management reserves the right to reject any new hairstyle
 it deems inappropriate for school.</p>
-<h3><strong>3.&nbsp;&nbsp; </strong>Other Aspects of Personal Grooming</h3>
+<h3>3.&nbsp;&nbsp; Other Aspects of Personal Grooming</h3>
 <p>The following are strictly prohibited:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jewellery such as chains,
 necklaces, rings or bracelets (e.g. leather bangles, friendship band and
@@ -83,13 +83,13 @@ staining or tattoo (permanent or temporary).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ear-sticks / nose-studs /
 eye-lid studs / tongue studs. However, girls are permitted to wear a pair
 of plain ear-studs at the earlobes.</p>
-<h3><strong>4.&nbsp;&nbsp; </strong>Pledge-taking and Singing of National Anthem</h3>
+<h3>4.&nbsp;&nbsp; Pledge-taking and Singing of National Anthem</h3>
 <p>All students are to assemble at the Multi-purpose Hall / classroom with
 their respective classes by 0725hrs from Mondays to Fridays. Students who
 are not in the hall / classroom by 0730hrs are deemed to be late. Students
 who are Singapore citizens must sing the National Anthem and take the Pledge
 with the right fist over the heart. Foreign students must stand at attention.</p>
-<h3><strong>5.&nbsp;&nbsp; </strong>Attendance and Punctuality</h3>
+<h3>5.&nbsp;&nbsp; Attendance and Punctuality</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attendance in school is compulsory.
 Form Teachers will check and confirm the daily attendance of students before
 the flag-raising ceremony.</p>
@@ -119,7 +119,7 @@ a valid reason must be provided.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to
 leave classrooms during lessons without the teacher’s permission. A Student
 Movement Pass must be obtained and shown upon request by any teacher.</p>
-<h3><strong>6.&nbsp;&nbsp; </strong>Classroom Conduct</h3>
+<h3>6.&nbsp;&nbsp; Classroom Conduct</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must stand up
 and greet the teacher when he or she enters or leaves the classroom.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to rest their
@@ -165,8 +165,7 @@ expulsion</p>
 <h3>10.&nbsp;&nbsp; Offences and Consequences</h3>
 <p>Students who fail to comply with the School Rules and Regulations will
 be subject to disciplinary action.</p>
-<p><strong>A. Minor Offences</strong>
-</p>
+<p>A. Minor Offences</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -209,8 +208,7 @@ be subject to disciplinary action.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Possible Consequences (Generic)</strong>
-</p>
+<p>Possible Consequences (Generic)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
 Counselling, Detention</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repeated minor offence would
@@ -223,8 +221,7 @@ within the stipulated time. Repeated offenders may be treated as a major
 offence.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised used of devices
 may result in confiscation&nbsp;</p>
-<p><strong>B. Major Offences</strong>
-</p>
+<p>B. Major Offences</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -279,8 +276,7 @@ lighters and tobacco products</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Possible Consequences (Generic)</strong>
-</p>
+<p>Possible Consequences (Generic)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
 Counselling, Detention, Out-of-Class suspension and/or Out-of-School suspension.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Fair” or “Poor” conduct grade</p>
@@ -291,8 +287,8 @@ thereafter)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expulsion</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence from CCA without valid
 reason is considered as truancy</p>
-<p><strong>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</strong>
-</p>
+<p>The school reserves the right to decide on the appropriate consequences
+that will lead to the best learning outcome for the student.</p>
 <h3>11.&nbsp;&nbsp; Conduct Grade</h3>
 <p>A student’s conduct grade is determined based on his/her overall conduct
 for the semester. The general descriptors are as follows.</p>
@@ -304,18 +300,15 @@ for the semester. The general descriptors are as follows.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Grade</strong>
-</p>
+<p>Grade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Descriptors</strong>
-</p>
+<p>Descriptors</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Excellent / Very Good</strong>
-</p>
+<p>Excellent / Very Good</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The student consistently demonstrates strong personal discipline and school
@@ -326,8 +319,7 @@ actively in class and completes all assigned work diligently and responsibly.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Good</strong>
-</p>
+<p>Good</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The student generally displays appropriate conduct and positive attitudes.
@@ -337,8 +329,7 @@ respect to others and completes school work with minimal reminders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fair</strong>
-</p>
+<p>Fair</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The student shows inconsistent conduct and requires frequent reminders
@@ -348,8 +339,7 @@ or responsibility, and limited effort is shown to improve despite guidance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Poor</strong>
-</p>
+<p>Poor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The student displays persistent conduct concerns and demonstrates disregard
@@ -360,9 +350,9 @@ interventions.</p>
 </tr>
 </tbody>
 </table>
-<p>In particular, a student may be awarded a <strong>Fair</strong> or <strong>Poor</strong> conduct
-grade if there are significant concerns in areas such as low overall school
-attendance, poor CCA attendance (<strong>&lt;75%</strong>), high frequency
-of late-coming (&gt;5), and/or involvement in a serious offence. The school
-reserves the right to award the final grade based on overall inputs.</p>
+<p>In particular, a student may be awarded a Fair or Poor conduct grade if
+there are significant concerns in areas such as low overall school attendance,
+poor CCA attendance (&lt;75%), high frequency of late-coming (&gt;5), and/or
+involvement in a serious offence. The school reserves the right to award
+the final grade based on overall inputs.</p>
 <p></p>
