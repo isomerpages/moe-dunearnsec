@@ -185,27 +185,51 @@ expulsion</p>
 be subject to disciplinary action.</p>
 <p><strong>A. Minor Offences</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Minor Offences</strong>
-</p>
+<p>Late-coming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Possible Consequences (Generic) / Remarks</strong>
-</p>
+<p>Modification of school uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unauthorised use of devices</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late-coming</p>
+<p>Inappropriate attire / grooming</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Disruptive behaviour in class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Possible Consequences (Generic)</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
 Counselling, Detention</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repeated minor offence would
@@ -217,55 +241,66 @@ First-time offenders will receive a warning and be required to rectify
 within the stipulated time. Repeated offenders may be treated as a major
 offence.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised used of devices
-may result in confiscation</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inappropriate attire / grooming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modification of school uniform</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Disruptive behaviour in class</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unauthorised use of devices</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+may result in confiscation&nbsp;</p>
 <p><strong>B. Major Offences</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Major Offences</p>
+<p>Defiance and rudeness to school staff or student counsellors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Possible Consequences (Generic) / Remarks</strong>
-</p>
+<p>Use of vulgar / obscene / abusive / threatening words&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skipping lessons</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Defiance and rudeness to school staff or student counsellors</p>
+<p>Leaving school without permission</p>
 </td>
-<td rowspan="12" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Bullying / Cyberbullying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Truancy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Smoking / Vaping or possession of cigarettes (including e‑cigarettes),
+lighters and tobacco products</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheating during tests / examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fighting / Assault / Rioting / Voluntarily Causing Hurt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vandalism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Substance / Drug abuse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other serious offences</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Possible Consequences (Generic)</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
 Counselling, Detention, Out-of-Class suspension and/or Out-of-School suspension.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Fair” or “Poor” conduct grade</p>
@@ -276,67 +311,80 @@ thereafter)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expulsion</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence from CCA without valid
 reason is considered as truancy</p>
-<p>&nbsp;</p>
+<p><strong>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</strong>
+</p>
+<p></p>
+<h3>11.&nbsp;&nbsp; Conduct Grade</h3>
+<p>A student’s conduct grade is determined based on his/her overall conduct
+for the semester. The general descriptors are as follows.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Descriptors</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Use of vulgar / obscene / abusive / threatening words&nbsp;&nbsp;</p>
+<p><strong>Excellent / Very Good</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The student consistently demonstrates strong personal discipline and school
+values. He/She maintains good attendance and punctuality, presents himself/herself
+appropriately, shows positive attitudes, respects others, participates
+actively in class and completes all assigned work diligently and responsibly.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Skipping lessons</p>
+<p><strong>Good</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The student generally displays appropriate conduct and positive attitudes.
+He/She attends school regularly, follows rules most of the time, shows
+respect to others and completes school work with minimal reminders.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leaving school without permission</p>
+<p><strong>Fair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The student shows inconsistent conduct and requires frequent reminders
+to meet expectations. There are observable lapses in attitude, behaviour
+or responsibility, and limited effort is shown to improve despite guidance.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bullying / Cyberbullying</p>
+<p><strong>Poor</strong>
+</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Truancy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Smoking / Vaping or possession of cigarettes (including e‑cigarettes),
-lighters and tobacco products</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheating during tests / examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fighting / Assault / Rioting / Voluntarily Causing Hurt</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vandalism</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Substance / Drug abuse</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Other serious offences</p>
+<p>The student displays persistent conduct concerns and demonstrates disregard
+for school rules and expectations. Behaviour negatively impacts learning
+and relationships, with minimal effort made to improve despite repeated
+interventions.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</strong>
-</p>
+<p>In particular, a student may be awarded a <strong>Fair</strong> or <strong>Poor</strong> conduct
+grade if there are significant concerns in areas such as low overall school
+attendance, poor CCA attendance (<strong>&lt;75%</strong>), high frequency
+of late-coming (&gt;5), and/or involvement in a serious offence. The school
+reserves the right to award the final grade based on overall inputs.</p>
 <p></p>
