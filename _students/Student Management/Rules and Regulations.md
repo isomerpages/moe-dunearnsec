@@ -6,21 +6,13 @@ third_nav_title: Student Management
 variant: tiptap
 ---
 <h4>Rules and Regulations 2025</h4>
-<p><strong>1. Pledge-taking and singing of National Anthem</strong>
+<p></p>
+<p><strong>1. School Uniform</strong>
 </p>
-<p>All students are to assemble at the school hall with their respective
-classes daily by 0725 hr except Mondays (odd week) and Monday, Friday (even
-week) where they are to be in the classrooms instead. Students who are
-not with their respective classes by 0730 hr are deemed late. Students
-who are Singapore citizens must sing the National Anthem and take the Pledge.
-Students will take the Pledge with the right fist over the heart. Foreign
-students must stand to attention.</p>
-<p><strong>2. School Uniform</strong>
-</p>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed.</p>
+<p>Students are to wear the prescribed school uniform, and any modification
+to the uniform is not allowed.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rnr1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <p><strong>For female students</strong>
 </p>
