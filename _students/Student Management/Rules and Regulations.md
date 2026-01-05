@@ -165,7 +165,8 @@ expulsion</p>
 <h3>10.&nbsp;&nbsp; Offences and Consequences</h3>
 <p>Students who fail to comply with the School Rules and Regulations will
 be subject to disciplinary action.</p>
-<p>A. Minor Offences</p>
+<p><strong>A. Minor Offences</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -221,7 +222,8 @@ within the stipulated time. Repeated offenders may be treated as a major
 offence.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised used of devices
 may result in confiscation&nbsp;</p>
-<p>B. Major Offences</p>
+<p><strong>B. Major Offences</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
