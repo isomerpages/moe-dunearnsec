@@ -86,7 +86,8 @@ it deems inappropriate for school.</p>
 <h3><strong>3.&nbsp;&nbsp; </strong>Other Aspects of Personal Grooming</h3>
 <p>The following are strictly prohibited:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jewellery such as chains,
-necklaces, rings or bracelets (e.g. leather bangles, friendship <a rel="noopener noreferrer nofollow" target="_blank">bands</a> and rainbow looms).</p>
+necklaces, rings or bracelets (e.g. leather bangles, friendship band and
+rainbow looms).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coloured / big-eye contact
 lenses, cosmetics, foundation/ sunscreen (of different skin tone), long
 nails, fake nails, nail polish, coloured pimple patches/plasters, henna
@@ -100,11 +101,9 @@ of plain ear-studs at the earlobes.</p>
 their respective classes by 0725hrs from Mondays to Fridays. Students who
 are not in the hall / classroom by 0730hrs are deemed to be late. Students
 who are Singapore citizens must sing the National Anthem and take the Pledge
-with the right fist over the heart. Foreign students must <a rel="noopener noreferrer nofollow" target="_blank">stand at</a> attention.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Attendance and Punctuality</strong>
-</p>
+with the right fist over the heart. Foreign students must stand at attention.</p>
+<p></p>
+<h3><strong>5.&nbsp;&nbsp; </strong>Attendance and Punctuality</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attendance in school is compulsory.
 Form Teachers will check and confirm the daily attendance of students before
 the flag-raising ceremony.</p>
@@ -134,9 +133,8 @@ a valid reason must be provided.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to
 leave classrooms during lessons without the teacher’s permission. A Student
 Movement Pass must be obtained and shown upon request by any teacher.</p>
-<p>&nbsp;</p>
-<p><strong>6.&nbsp;&nbsp; Classroom Conduct</strong>
-</p>
+<p></p>
+<h3><strong>6.&nbsp;&nbsp; </strong>Classroom Conduct</h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students must stand up
 and greet the teacher when he or she enters or leaves the classroom.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to rest their
@@ -148,6 +146,197 @@ their laps or hug them during lessons.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All fans and lights must be
 switched off when leaving the classroom.</p>
 <p></p>
+<h3>7.&nbsp;&nbsp;&nbsp; Use of Mobile Electronic Devices</h3>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All mobile devices (e.g. phones,
+tablets, etc.), other than school-approved laptops, must be kept in designated
+handphone lockers from the start of school lesson hours (7.30 am) till
+the end of lesson hours (based on individual timetable). This would include
+all timetabled periods such as recess.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile devices may only be
+retrieved from handphone lockers after the last lesson.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorized possession and
+use of mobile devices may result in a referral to the school’s Disciplinary
+Committee for follow-up action and subsequent confiscation of the devices.
+Parents will be notified, and students are to report after school to complete
+a reflection before the devices are returned.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Security and safety of all
+mobile electronic devices is the sole responsibility of the student, and
+the school is not accountable for any loss of such items.</p>
 <p></p>
+<h3>8.&nbsp;&nbsp;&nbsp;&nbsp; Prohibition of possession of weapon / weapon-like items</h3>
+<p>All students are not allowed to have any weapons in their possessions.
+They are also not allowed to bring any weapon-like item which can be used
+or intended to be used to cause harm to others.</p>
+<h3>9 .&nbsp;&nbsp; Possession and Use of Electronic Cigarettes (Vaping Devices)</h3>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students are strictly prohibited from
+possessing, using, selling, or distributing any electronic cigarettes,
+vaporisers, or related components within or outside the school premises.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students found in possession or use of
+such devices will face school-based disciplinary actions — which may include
+in-school suspension, out-of-school suspension, caning, and an adjustment
+of conduct grade to “Fair” or “Poor” — in addition to any national penalties
+imposed by the Health Sciences Authority (HSA), Police and the Courts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students found selling or trafficking
+e-vaporisers will face enhanced school consequences, which may include
+expulsion</p>
 <p></p>
+<h3>10.&nbsp;&nbsp; Offences and Consequences</h3>
+<p>Students who fail to comply with the School Rules and Regulations will
+be subject to disciplinary action.</p>
+<p><strong>A. Minor Offences</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Minor Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Consequences (Generic) / Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late-coming</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
+Counselling, Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repeated minor offence would
+result in major offence&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late-coming (5 times or more):
+A “Fair” conduct grade may be given and parents/guardians may be informed.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inappropriate attire / grooming:
+First-time offenders will receive a warning and be required to rectify
+within the stipulated time. Repeated offenders may be treated as a major
+offence.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised used of devices
+may result in confiscation</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inappropriate attire / grooming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modification of school uniform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disruptive behaviour in class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unauthorised use of devices</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>B. Major Offences</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Major Offences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Consequences (Generic) / Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Defiance and rudeness to school staff or student counsellors</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning, Informing of parents/guardians,
+Counselling, Detention, Out-of-Class suspension and/or Out-of-School suspension.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Fair” or “Poor” conduct grade</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referral to relevant Authorities
+(Police, CNB, Health Sciences Authority, MCYS)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning (Parents will be informed
+thereafter)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expulsion</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence from CCA without valid
+reason is considered as truancy</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Use of vulgar / obscene / abusive / threatening words&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skipping lessons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leaving school without permission</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bullying / Cyberbullying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Truancy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Smoking / Vaping or possession of cigarettes (including e‑cigarettes),
+lighters and tobacco products</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheating during tests / examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fighting / Assault / Rioting / Voluntarily Causing Hurt</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vandalism</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Substance / Drug abuse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other serious offences</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>The school reserves the right to decide on the appropriate consequences that will lead to the best learning outcome for the student.</strong>
+</p>
 <p></p>
