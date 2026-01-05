@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Management
 variant: tiptap
 ---
-<h3>Rules and Regulations 2025</h3>
+<h2>Rules and Regulations 2025</h2>
 <h3><strong>1. </strong>School Uniform</h3>
 <p>Students are to wear the prescribed school uniform, and any modification
 to the uniform is not allowed.</p>
