@@ -17,12 +17,10 @@ range of activities, including book discussions and research projects.</p>
 <p>Furthermore, the club endeavours to cultivate a passion for reading and
 lifelong learning among the student body through book reviews, thereby
 introducing their peers to a wide array of new literary works.</p>
-<h4><strong>CCA Timing &amp; Venue</strong></h4>
-<p>Wednesday 3:30pm - 5:30pm (School Library)</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Nursyaza (I/C)</p>
+<p>Mdm Nursyaza</p>
 </li>
 <li>
 <p>Mrs Ng Li Yan</p>
