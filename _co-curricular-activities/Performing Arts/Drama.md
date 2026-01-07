@@ -14,21 +14,13 @@ latest developments in the arts scene in Singapore.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Ms Andrea Lau</p>
+</li>
+<li>
 <p>Ms Naznin Rehana Begum</p>
 </li>
 <li>
 <p>Ms Nor Aisha Bte Mazlan</p>
-</li>
-</ul>
-<h4><strong>Trainer</strong></h4>
-<p>Mr. A. Elyas</p>
-<h4><strong>Training Day, Time and Venue</strong></h4>
-<ul>
-<li>
-<p>Wednesdays&nbsp;3:30pm to 5:30pm (Black Box)</p>
-</li>
-<li>
-<p>Thursdays&nbsp;3:30pm to 5:30pm (Black Box)</p>
 </li>
 </ul>
 <h4><strong>Highlights</strong></h4>

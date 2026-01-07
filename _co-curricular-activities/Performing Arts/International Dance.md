@@ -1,5 +1,5 @@
 ---
-title: Modern Dance
+title: International Dance
 permalink: /ccas/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
@@ -32,8 +32,10 @@ together, and dances with heart.</p>
 <p>Ms Ain Muzlan</p>
 </li>
 <li>
-<p>Ms Pang Jia Shin</p>
-<p></p>
+<p>Mr Mohamed</p>
+</li>
+<li>
+<p>Ms Syakira</p>
 </li>
 </ul>
 <p><strong>Achievements</strong>
