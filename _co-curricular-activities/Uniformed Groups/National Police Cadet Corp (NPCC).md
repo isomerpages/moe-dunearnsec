@@ -23,17 +23,19 @@ duty and service, to seek to excel and to face up&nbsp;to challenge.</p>
 <h4>Teachers-in-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ang Chin Chuan (Officer-In- Charge)</p>
+<p>Mr Ang Chin Chuan</p>
 </li>
 <li>
-<p>Mdm Deng Kaihua (Training Officer)</p>
+<p>Mdm Deng Kaihua</p>
 </li>
 <li>
-<p>Ms Sobana</p>
+<p>Mr Calvin Tee</p>
+</li>
+<li>
+<p>Ms Lam Hiu Yan</p>
 </li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
-<p>Friday, 2:30pm to 5:30pm, School</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
