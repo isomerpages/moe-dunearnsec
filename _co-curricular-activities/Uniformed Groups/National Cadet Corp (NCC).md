@@ -64,14 +64,15 @@ will gain greater awareness and appreciation of Singapore’s defence capabiliti
 <p>Mr Foo Sheng Hao</p>
 </li>
 <li>
-<p>Ms Fiona Ng</p>
+<p>Mr Ow Yeong Yook Kit</p>
 </li>
 <li>
-<p>Mr Khaizuran</p>
+<p>Mr Eugene Ng</p>
+</li>
+<li>
+<p>Ms LIm Jia Ying</p>
 </li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
-<p>Friday, 1:30pm to 4:30pm, School Compound</p>
 <p></p>
 <p><a href="/files/NCC.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more about NCC from our Dunearnite's perspective.</a>
 </p>
