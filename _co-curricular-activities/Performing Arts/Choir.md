@@ -33,7 +33,7 @@ cultural and musical heritage through meaningful and inclusive performances.</p>
 <p>Ms Cindy Goh Kiah Ling</p>
 </li>
 <li>
-<p>Ms Goh Chai Pei</p>
+<p>Ms Low Chui Ling</p>
 </li>
 </ul>
 <h4>Highlights &amp; Achievements</h4>
