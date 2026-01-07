@@ -13,7 +13,7 @@ thinking.</p>
 <h4><strong>Teachers I/Cs and Coaches</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Siti Raudhah (I/C)</p>
+<p>Mdm Siti Raudhah</p>
 </li>
 <li>
 <p>Ms Lim Yin Ru, Esther</p>
@@ -22,7 +22,7 @@ thinking.</p>
 <p>Mdm Lee Cheng Leng</p>
 </li>
 <li>
-<p>Mrs Hee Lim Gee Kheng</p>
+<p>Ms Ng May Ling</p>
 </li>
 </ul>
 <h4><strong>Achievement</strong></h4>
@@ -32,46 +32,6 @@ thinking.</p>
 –‘C’ Division Boys 4<sup>th</sup> placing</p>
 </li>
 </ul>
-<h4><strong>Training</strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Table Tennis Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.30 - 4.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Every Friday</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venue: School Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Table Tennis Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Every Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venue: School Hall</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Key Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
