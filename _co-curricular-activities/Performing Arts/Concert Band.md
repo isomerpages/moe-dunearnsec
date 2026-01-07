@@ -40,7 +40,10 @@ personal and collective goals and celebrating achievements together.</p>
 <p>Ms Tan Wan Chin</p>
 </li>
 <li>
-<p>Mr Eugene Ng</p>
+<p>Ms Chen Mei Fan</p>
+</li>
+<li>
+<p>Mrs Hee Lim Gee Kheng</p>
 </li>
 </ul>
 <h4>Achievements:</h4>
