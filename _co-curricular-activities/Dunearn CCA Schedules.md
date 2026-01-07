@@ -12,7 +12,7 @@ with the opportunity to pursue their interests and acquire knowledge and
 skills. It is also a common space for students of diverse backgrounds to
 socialise, to forge close friendship as students' journey through their
 experiences together for 4 to 5 years in Dunearn.</p>
-<h4><strong>CCA Schedules (with effect from 2 Jan 2025)</strong></h4>
+<h4><strong>CCA Schedules (with effect from 7 Jan 2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -37,16 +37,12 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (Girls)
-<br>3.30pm - 5.30pm
-<br>Tues (Boys)
-<br>3.30pm - 5.30pm
-<br>Thurs (Boys)
-<br>3.30pm - 5.30pm Fri(Girls)
-<br>3.30pm - 5.30pm</p>
+<p>Friday</p>
+<p>Girls (1.30pm - 4.30pm)</p>
+<p>Boys (2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Lvl 4</p>
+<p>ISH Level 1</p>
 </td>
 </tr>
 <tr>
@@ -55,30 +51,26 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed (Boys and Girls)
-<br>3.30pm - 5.30pm
-<br>Fri (Girls)
-<br>1.30pm - 3.30pm
-<br>Fri (Boys)
-<br>2.30pm - 4.30pm</p>
+<p>Friday</p>
+<p>Girls (1.30pm - 4.30pm)</p>
+<p>Boys (2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Lvl 4
+<p>ISH Level 4
 <br>
 </p>
 <p></p>
-<p></p>
-<p>Hall (Fri - Boys)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Football</strong> 
-<br>Boys</p>
+<p><strong>Softtball</strong> 
+<br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues 3:00pm - 5:00pm
-<br>Thurs 3:00pm - 5:00pm</p>
+<p>Friday</p>
+<p>Girls (2.30pm - 5.30pm)</p>
+<p>Boys (2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field
@@ -91,8 +83,9 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues 3:30pm - 5:30pm
-<br>Thurs 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>Girls (1.30pm - 4.30pm)</p>
+<p>Boys (2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -104,7 +97,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 1:30pm - 4:30pm</p>
+<p>Friday</p>
+<p>(1.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside NCC Room</p>
@@ -116,22 +110,11 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 2:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside NPCC Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Scouts </strong>
-<br>Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri 2:30pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outside Scouts Room</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +123,8 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 2:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(1.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outside SJB Room</p>
@@ -149,14 +133,15 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Concert Band</strong>
-<br>Boys &amp; Girls</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:15pm - 5:45pm
-<br>Fri 1:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(1.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room</p>
+<p>Band Arena</p>
 <p></p>
 <p></p>
 </td>
@@ -164,27 +149,26 @@ experiences together for 4 to 5 years in Dunearn.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Choir</strong>
-<br>Boys &amp; Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tues 3:30pm - 5:30pm</p>
-<p>Wed 3:30pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Black Box
 <br>
 </p>
-<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+<p>(2.30pm - 5.30pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPR 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EL Drama</strong>
-<br>Boys &amp; Girls</p>
+<p><strong>English Drama</strong>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
-<p>Thurs 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(2.00pm - 5.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Black Box</p>
@@ -192,66 +176,43 @@ experiences together for 4 to 5 years in Dunearn.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GuZheng</strong>
-<br>Boys &amp; Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed 3:15pm - 5:30pm</p>
-<p>Thurs 3:15pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Humanities Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Malay Dance</strong>
-<br>Boys &amp; Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
-<p>Thurs 3:30pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall
+<p><strong>International Dance</strong>
 <br>
-<br>Library</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Modern Dance</strong>
-<br>Boys &amp; Girls</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
-<p>Thurs 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(2.30pm - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foyer
+<p>Music Room
 <br>
-<br>Hall</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Audio Visual Aid Club<br>(AVA)</strong>
-<br>Boys &amp; Girls</p>
+<p><strong>New Media Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(2.30pm - 5.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sound &amp; Light Control Rm &amp; ITR 2</p>
+<p>ITR</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Entrepreneurship Club</strong>
-<br>Boys &amp; Girls</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(2.30pm - 5.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab 1</p>
@@ -259,38 +220,16 @@ experiences together for 4 to 5 years in Dunearn.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Infocomm Technology Club</strong>
-<br>Boys &amp; Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Library Club</strong>
-<br>Boys &amp; Girls</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
+<p>Friday</p>
+<p>(1.30pm - 4.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Library</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Photography Club</strong>
-<br>Boys &amp; Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed 3:30pm - 5:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ITR 1</p>
 </td>
 </tr>
 </tbody>
