@@ -35,17 +35,15 @@ business ideas.</p>
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Ng Mei Ferng</p>
-</li>
-<li>
 <p>Ms Lailtha</p>
 </li>
 <li>
-<p>Mr Ow Yeong Yook Kit</p>
+<p>Ms Nur Fatimah</p>
+</li>
+<li>
+<p>Ms Nur Hanani</p>
 </li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
-<p>Wednesdays, 3:30 – 5:30pm, Computer Lab 1</p>
 <h4>Highlights</h4>
 <ul data-tight="true" class="tight">
 <li>
