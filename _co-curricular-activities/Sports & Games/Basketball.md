@@ -24,62 +24,18 @@ and challenges during training and competition.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lee Yan Mei (I/C Girls)</p>
+<p>Ms Lee Yan Mei</p>
 </li>
 <li>
-<p>Mr Jeremiah Lim (I/C Boys)</p>
+<p>Mr Jeremiah Lim</p>
 </li>
 <li>
 <p>Ms Esther Zheng</p>
 </li>
-</ul>
-<h4><strong>Coaches</strong></h4>
-<ul data-tight="true" class="tight">
 <li>
-<p>Mr Ng Loo Kuang (Girls)</p>
-</li>
-<li>
-<p>Mr Tan Jun Liang (Boys)</p>
+<p>Mr Han Xian Yao</p>
 </li>
 </ul>
-<h4>Training Day, Time and Venue</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Term</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Girls</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday 3:30pm to 5:30pm (ISH Level 4)</p>
-</li>
-<li>
-<p>Friday 3:30pm to 5:30pm (ISH Level 4)</p>
-</li>
-</ul>
-<p><strong>Boys</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday 3:30pm to 5:30pm (ISH Level 4)</p>
-</li>
-<li>
-<p>Thursday 3:30pm to 5:30pm (ISH Level 4)</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Highlights &amp; Achievements</h4>
 <p><strong>Girls</strong>
 </p>
