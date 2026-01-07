@@ -26,13 +26,14 @@ healthcare professionals.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Siti Arnie Mohd Affandi (Overall I/C)</p>
+<p>Ms Siti Arnie Mohd Affandi</p>
 </li>
 <li>
-<p>Mr Soh Cek Sin (2 I/C)</p>
+<p>Ms Goh Chia Pei</p>
 </li>
 <li>
-<p>Mr Pow Zhi Xiang</p>
+<p>Mr M. Thiruckrishnan</p>
+<p></p>
 </li>
 </ul>
 <p><strong>SJB Cadet Program</strong>
