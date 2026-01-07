@@ -20,6 +20,9 @@ third_nav_title: Sports & Games
 <h4>Teachers-In-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Mr Ho Wei Kwok Alvin</p>
+</li>
+<li>
 <p>Mr Anthony Teo Yi Jie</p>
 </li>
 <li>
@@ -29,27 +32,7 @@ third_nav_title: Sports & Games
 <p>Mr. Tang Chee Onn</p>
 </li>
 </ul>
-<h4>Coaches</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Boys - TBC</p>
-</li>
-<li>
-<p>Girls - Coach Hui Yan</p>
-</li>
-</ul>
-<h4>Training Day, Time and Venue</h4>
-<p><strong>Friday (ISH Level 4)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Girls: 1.30pm-4.30pm</p>
-</li>
-<li>
-<p>Boys: 2.30pm-5.30pm</p>
 <p></p>
-</li>
-</ul>
 <p><strong>Highlights/ Achievements</strong>
 </p>
 <ul data-tight="true" class="tight">
