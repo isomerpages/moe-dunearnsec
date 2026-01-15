@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>LOWER SEC YEAR HEAD: MR TANG CHEE KUAN </strong>
-<br><strong>LOWER SEC ASSISTANT YEAR HEAD: MS YASMEEN  </strong>
+<br><strong>LOWER SEC ASSISTANT YEAR HEAD: MS YASMEEN</strong>
 </p>
 <p><strong>UPPER SEC YEAR HEAD: MR NICK LEE </strong>
 <br><strong>UPPER SEC ASSISTANT YEAR HEAD: MS LEE YI QIAO</strong>
@@ -598,6 +598,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>School Counsellor, Student Welfare Officer, SNO, ECG Counsellor</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng May Ling (Senior Teacher SEN)</p>
 </td>
 </tr>
 <tr>
