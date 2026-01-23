@@ -6,7 +6,9 @@ variant: tiptap
 third_nav_title: Character Citizenship Edn(CCE)
 ---
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
-<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -16,19 +18,24 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The <strong>Goals </strong>of Sexuality Education are to:</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
+<p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
+on sexuality matters.</p>
+<p>(c)&nbsp;Help students develop a moral compass and respect for themselves
+and others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
+</li>
+</ol>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
+<p>(c)&nbsp;Make responsible decisions for yourself, your family and society;
 and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
@@ -563,59 +570,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 5</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Unit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This is Where I Draw the Line</p>
-<p>(60 mins)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Understand that we strengthen our character when we commit to sound values-based
-viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h4><strong><em>eTeens </em>Programme:</strong></h4>
 <p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
@@ -627,60 +582,7 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Dunearn Secondary School, the <em>eTeens </em>programme will be implemented as follows in 2025:</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-<p>(e.g. Term 3 Week 9)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
-</td>
-</tr>
-</tbody>
-</table>
+Abstinence and upholding family values are th8</p>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
