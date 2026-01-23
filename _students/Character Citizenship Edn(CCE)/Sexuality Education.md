@@ -44,17 +44,24 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <h4><strong>OVERVIEW OF DUNEARN SECONDARY SCHOOLS’ SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<p>6. The values and attitudes of our youth towards sexuality are increasingly
+</li>
+<li>
+<p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
 his or her own identity and often struggles with new social relationships.
@@ -68,6 +75,8 @@ ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
+</li>
+</ol>
 <p>7. Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
