@@ -29,18 +29,20 @@ on sexuality matters.</p>
 and others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
-</ol>
-<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
-<p>(c)&nbsp;Make responsible decisions for yourself, your family and society;
+<p>(c) Make responsible decisions for yourself, your family and society;
 and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+</li>
+</ol>
 <h4><strong>OVERVIEW OF DUNEARN SECONDARY SCHOOLS’ SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
