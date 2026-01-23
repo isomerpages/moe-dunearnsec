@@ -484,8 +484,9 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
+<p>Term 1 Week 10 (4N)</p>
+<p></p>
+<p>Term 2 Week 2 (4E)</p>
 </td>
 </tr>
 <tr>
