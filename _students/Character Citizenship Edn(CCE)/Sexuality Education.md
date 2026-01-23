@@ -135,7 +135,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>Recognise the importance and understand what builds healthy and supportive
+<p>Recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -296,7 +296,7 @@ both online and offline</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender</p>
+to members of the opposite sex</p>
 </li>
 <li>
 <p>Recognise one’s vulnerability to risky situations and the importance of
