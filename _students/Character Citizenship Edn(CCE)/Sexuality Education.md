@@ -76,12 +76,15 @@ from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
 </li>
-</ol>
-<p>7. Through the Sexuality Education lessons, secondary students will have
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u></strong>:</p>
+<p></p>
+<p><strong>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u></strong>:</p>
+</li>
+</ol>
 <p><strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 100px">
