@@ -146,7 +146,7 @@ in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 4</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -257,7 +257,7 @@ as a male or female</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -368,8 +368,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
