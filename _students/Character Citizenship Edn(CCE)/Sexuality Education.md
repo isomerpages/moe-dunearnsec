@@ -728,11 +728,11 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Annex_A___SEd_Parents_Optout_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by <strong>31/01/2025</strong>.</p>
+at the start of the year and is also available <a href="/files/Annex_A___SEd_Parents_Optout_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens </em>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Annex_B___eTeens_Parents_Optout_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by <strong>31/01/2025</strong>.</p>
+form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>13. Parents can contact the school at 65653692 or <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
