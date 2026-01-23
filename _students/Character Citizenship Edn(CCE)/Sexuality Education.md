@@ -693,10 +693,12 @@ avenues for help-seeking.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 10</p>
@@ -704,14 +706,6 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <h4><strong><em>eTeens </em>Programme:</strong></h4>
 <p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
