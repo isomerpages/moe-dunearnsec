@@ -18,7 +18,6 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p></p>
 </li>
 <li>
 <p>The <strong>Goals </strong>of Sexuality Education are to:</p>
