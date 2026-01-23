@@ -586,7 +586,58 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;<strong>Secondary 5</strong>
+</p>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This is Where I Draw the Line</p>
+<p>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 Week 10</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><em>eTeens </em>Programme:</strong></h4>
 <p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
