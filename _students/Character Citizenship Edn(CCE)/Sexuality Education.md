@@ -640,6 +640,17 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong><em>eTeens </em>Programme:</strong></h4>
 <p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
@@ -655,7 +666,7 @@ transmitted infectious diseases.</p>
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are th8</p>
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
