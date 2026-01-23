@@ -522,8 +522,9 @@ relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
-<p>(1 hour)</p>
+<p>Term 2 Week 2 (4N)</p>
+<p></p>
+<p>Term 2 Week 4 (4E)</p>
 </td>
 </tr>
 <tr>
