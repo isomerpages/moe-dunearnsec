@@ -6,7 +6,9 @@ variant: tiptap
 third_nav_title: Character Citizenship Edn(CCE)
 ---
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
-<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -16,15 +18,19 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The <strong>Goals </strong>of Sexuality Education are to:</p>
+</li>
+<li>
+<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
+<p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
+on sexuality matters.</p>
+<p>(c)&nbsp;Help students develop a moral compass and respect for themselves
+and others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
+</li>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -35,18 +41,27 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>OVERVIEW OF DUNEARN SECONDARY SCHOOLS’ SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
+</li>
+</ol>
+<h4><strong>OVERVIEW OF DUNEARN SECONDARY SCHOOLS’ SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<p>6. The values and attitudes of our youth towards sexuality are increasingly
+</li>
+<li>
+<p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
 his or her own identity and often struggles with new social relationships.
@@ -60,11 +75,16 @@ ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p>7. Through the Sexuality Education lessons, secondary students will have
+</li>
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u></strong>:</p>
+<p></p>
+<p><strong>At Dunearn Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u></strong>:</p>
+</li>
+</ol>
 <p><strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 100px">
@@ -115,7 +135,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>Recognise the importance and understand what builds healthy and supportive
+<p>Recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -126,7 +146,7 @@ in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -149,7 +169,7 @@ self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 4</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,7 +198,7 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -237,7 +257,7 @@ as a male or female</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -260,7 +280,7 @@ both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -276,7 +296,7 @@ both online and offline</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender</p>
+to members of the opposite sex</p>
 </li>
 <li>
 <p>Recognise one’s vulnerability to risky situations and the importance of
@@ -287,7 +307,7 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
-<p>(1 hour)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -348,8 +368,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -381,8 +400,8 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
-<p>(1 hour)</p>
+<p>Term 2 Week 6</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -409,8 +428,8 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
-<p>(1 hour)</p>
+<p>Term 3 Week 8</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -465,8 +484,9 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
+<p>Term 1 Week 10 (4N)</p>
+<p></p>
+<p>Term 2 Week 2 (4E)</p>
 </td>
 </tr>
 <tr>
@@ -502,8 +522,9 @@ relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
-<p>(1 hour)</p>
+<p>Term 2 Week 2 (4N)</p>
+<p></p>
+<p>Term 2 Week 4 (4E)</p>
 </td>
 </tr>
 <tr>
@@ -534,8 +555,9 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
-<p>(1 hour)</p>
+<p>Term 2 Week 4 (4N)</p>
+<p></p>
+<p>Term 2 Week 6 (4E)</p>
 </td>
 </tr>
 <tr>
@@ -557,14 +579,16 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
-<p>(1 hour)</p>
+<p>Term 2 Week 6 (4N)</p>
+<p></p>
+<p>Term 2 Week 8 (4E)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 5</strong>
+<p>&nbsp;<strong>Secondary 5</strong>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -589,6 +613,8 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -598,7 +624,6 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p>This is Where I Draw the Line</p>
 <p>(60 mins)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -610,8 +635,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-<p>(1 hour)</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -620,15 +644,19 @@ alignment with our beliefs</p>
 <p>8. <em>eTeens </em>is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
-perspective. eTeens is conducted in two segments – a mass talk segment
-and a classroom-based programme. The desired outcome of the eTeens programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA's Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens </em>programme is that students are empowered to make
+wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Dunearn Secondary School, the <em>eTeens </em>programme will be implemented as follows in 2025:</strong>
+<p><strong>At Dunearn Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -638,33 +666,41 @@ Abstinence and upholding family values are the key messages.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Topics/Lessons</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programme Learning Objectives</p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period</p>
-<p>(e.g. Term 3 Week 9)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>(b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>(c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
-<p></p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -672,11 +708,15 @@ and consistent condom use).</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Learn to negotiate their way out of a risky situation by applying skills
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -688,13 +728,11 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Annex_A___SEd_Parents_Optout_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by <strong>31/01/2025</strong>.</p>
+at the start of the year and is also available <a href="/files/Annex_A___SEd_Parents_Optout_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens </em>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Annex_B___eTeens_Parents_Optout_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by <strong>31/01/2025</strong>.</p>
+form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>13. Parents can contact the school at 65653692 or <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programme.
-<br>
-</p>
+or to seek clarification about the school’s Sexuality Education programme.</p>
