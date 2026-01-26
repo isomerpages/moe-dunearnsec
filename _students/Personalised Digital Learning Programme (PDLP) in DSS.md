@@ -17,8 +17,8 @@ device, PLD.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Acer_Chromebook_R756TN.jpg">
 </div>
 <p></p>
-<p>With effect from 2025, the school uses the <strong>Acer Chromebook Spin R857TN</strong>.</p>
-<p>Bundle total cost with GST:<strong> $630 (subject to changes)</strong>
+<p>With effect from 2026, the school uses the <strong>Acer Chromebook Spin R857TN (Enhanced)</strong>.</p>
+<p>Bundle total cost with GST:<strong> $654 (subject to changes)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,19 +34,22 @@ device, PLD.</p>
 <p>Chrome Operating System</p>
 </li>
 <li>
-<p>Processor Intel N250</p>
+<p>Upgraded processor Intel N250</p>
 </li>
 <li>
-<p>8GB RAM upgraded</p>
+<p>8GB RAM</p>
+</li>
+<li>
+<p>64GB eMMC</p>
 </li>
 <li>
 <p>128GB storage upgraded</p>
 </li>
 <li>
-<p>USB Type-C earpiece with mic</p>
+<p>Security Cable Lock (Numeric)</p>
 </li>
 <li>
-<p>3 year warranty and insurance</p>
+<p>4 year warranty and insurance</p>
 </li>
 </ul>
 <p>Please click on <a href="/files/PLD__Acer_Chromebook_R857TN_Specifications.pdf" rel="noopener nofollow" target="_blank">Acer Chromebook R857TN Catalogue</a> for
