@@ -442,7 +442,7 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan (SH Physics)</p>
+<p>Ms Yvonne Tan (SH Mathematics)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,15 +469,6 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Selena Chan</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Charmaine Goh</p>
 <p>&nbsp;</p>
 </td>
@@ -496,25 +487,7 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Ng</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Yuni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Jeremiah</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
@@ -540,22 +513,6 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Lim Li Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tee Jie Kai Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lily Lee</p>
 <p>&nbsp;</p>
 </td>
@@ -565,7 +522,39 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Louis Chin Cheong Long</p>
+<p>Mr Louis Chin Cheong Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Han Xianyao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Zhang Shu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shernise Chew Dan Rou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
