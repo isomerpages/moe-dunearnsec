@@ -469,15 +469,6 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Selena Chan</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Charmaine Goh</p>
 <p>&nbsp;</p>
 </td>
@@ -496,25 +487,7 @@ hours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Ng</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Yuni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Jeremiah</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
@@ -536,22 +509,6 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Melissa Lim Li Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tee Jie Kai Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Math / A Math</p>
 </td>
 </tr>
 <tr>
