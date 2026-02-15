@@ -18,8 +18,7 @@ device, PLD.</p>
 </div>
 <p></p>
 <p>With effect from 2026, the school uses the <strong>Acer Chromebook Spin R857TN (Enhanced)</strong>.</p>
-<p>Bundle total cost with GST:<strong> $654 (subject to changes)</strong>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>12.2” convertible with touchscreen</p>
@@ -83,111 +82,12 @@ handover to the students in school.</p>
 or leaves the school.</p>
 <p>More details regarding DMA will be shared with parents via Parents Gateway
 (PG) when and where applicable.</p>
-<h4>Purchase and Payment of PLD</h4>
-<p><strong><u>Singapore Citizens</u></strong>
+<h4>File Management and Data Back-up SLS Module</h4>
+<p><a href="https://go.gov.sg/sls-dlts-8" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sls-dlts-8</a>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>GHI &lt;= $3000</p>
-<p>PCI &lt;= $750</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School based FAS</p>
-<p>$3001 &lt; GHI &lt;= $4400</p>
-<p>$751 &lt; PCI &lt;= $1100</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Non FAS</strong>
-</p>
-<p><strong>GHI &gt; $4400</strong>
-</p>
-<p><strong>PCI &gt; $1100</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subsidy of $350 per device</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subsidy of $200 per device</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Edusave</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edusave</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edusave (Top up with GIRO/ cash if necessary)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Singapore Permanent Residents/ International Students</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>PR/IS Category 1</p>
-<p>GHI &lt;= $3000</p>
-<p>PCI &lt;= $750</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>PR/IS Category 2</p>
-<p>$3001 &lt; GHI &lt;= $4400</p>
-<p>$751 &lt; PCI &lt;= $1100</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>PR/IS Category 3</p>
-<p>GHI &gt; $4400</p>
-<p>PCI &gt; $1100</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subsidy of $200 per device</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subsidy of $150 per device</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p>Full device cost pay via GIRO/cash</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Top up with GIRO/cash</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top up with GIRO/cash</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>*GHI: Gross Household Income, *PCI: Per Capita Income, *FAS: Financial Assistance Scheme</em>
-</p>
-<p>Details of submitting orders, payments and collection of devices will
-be sent to parents via PG when and where applicable.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="File Management and Data Back-up SLS Module" src="/images/File_Management_and_Data_Back_up_SLS_Module.jpg">
+</div>
 <h4>Enquiries and Assistance</h4>
 <p>Please email <a href="mailto:dunearn_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunearn_ss@moe.edu.sg</a> for
 enquiry or assistance.</p>
