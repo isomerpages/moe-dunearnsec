@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p><strong>Vacant Stall: </strong>Halal Western Stall 7</p>
-<p><strong>Requirements: </strong>
+<p><strong>Requirements:</strong>
 </p>
 <p>To cook and sell Healthy Western Stall (Halal) with Side Dishes at Dunearn
 Secondary School.&nbsp; All food sold have to follow the Healthy Meals
