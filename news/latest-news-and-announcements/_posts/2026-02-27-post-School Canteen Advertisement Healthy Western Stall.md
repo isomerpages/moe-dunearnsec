@@ -7,35 +7,15 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vacant Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Requirements</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal Western Stall 7</p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Vacant Stall: </strong>Halal Western Stall 7</p>
+<p><strong>Requirements: </strong>
+</p>
 <p>To cook and sell Healthy Western Stall (Halal) with Side Dishes at Dunearn
 Secondary School.&nbsp; All food sold have to follow the Healthy Meals
 for Schools Programme (HMSP). We have a pupil enrolment of about 960 pupils
 and staff strength of about 130 staff. Our canteen operating hours are:
 Mondays to Fridays from 7.00 am to 4.00 pm during school term.&nbsp; You
 will be required to operate during the school holidays when necessary.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Application procedures</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application form.
