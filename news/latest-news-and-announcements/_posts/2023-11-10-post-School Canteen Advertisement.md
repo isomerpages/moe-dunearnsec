@@ -11,9 +11,6 @@ variant: markdown
 
 ##### Requirements:
 
-Chinese Noodles
-
-To cook and sell Healthy Chinese Noodles with Side Dishes at Dunearn Secondary School.  All food sold have to follow the Healthy Meals for Schools Programme (HMSP). We have a pupil enrolment of about 960 pupils and staff strength of about 130 staff. Our canteen operating hours are: Mondays to Fridays from 7.00 am to 4.00 pm during school term.  You will be required to operate during the school holidays when necessary.
 
 **Application procedures:**
 
