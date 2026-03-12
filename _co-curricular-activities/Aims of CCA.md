@@ -186,7 +186,7 @@ or
 as the student has not met the minimum criteria for a Good co-curricular
 attainment.</p>
 <p></p>
-<p>For more details, please refer to this document: <a href="https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf" rel="noopener nofollow" target="_blank">LEAPS Framework</a>
+<p>For more details, please refer to this document: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener nofollow" target="_blank">LEAPS Framework</a>
 </p>
 <h4><strong>CCA Grading System</strong></h4>
 <p>The CCA Grade obtained by the pupil is taken into consideration when he/she
