@@ -8,9 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/sports.jpg">
 </div>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -24,10 +23,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p><a href="/ccas/sports-n-games/floorball" rel="noopener noreferrer nofollow" target="">Floorball</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/ccas/sports-n-games/football" rel="noopener noreferrer nofollow" target="">Football</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
