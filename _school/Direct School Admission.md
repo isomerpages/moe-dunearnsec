@@ -47,7 +47,7 @@ of at least a ‘Good’ in Primary 5 and 6.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has demonstrated good character
 as affirmed by his/her primary school.</p>
 <p><strong>Disclaimer</strong>: Please note that meeting all criteria does
-not gurantee that the student would ne shortlisted or given an offer.</p>
+not guarantee that the student would be shortlisted or given an offer.</p>
 <p><strong><u>Application Process</u></strong>
 </p>
 <p>The application for DSA-Sec will be opened from 6 May to 2 June 2026.</p>
@@ -57,7 +57,7 @@ not gurantee that the student would ne shortlisted or given an offer.</p>
 <p><strong><u>Selection Process</u></strong>
 </p>
 <p>Dunearn Secondary School will be conducting in-person selection for our
-DSA talent area for 2025 DSA-Sec.</p>
+DSA talent area for 2026 DSA-Sec.</p>
 <p>&nbsp;<strong><u>Contact Personnel</u></strong>
 </p>
 <p>For enquiries, please contact Mr Nick Lee - Year Head (Upper Sec), at
