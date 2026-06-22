@@ -144,7 +144,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Geography, Social Studies</strong>
+<p><strong>Geography, Social Studies (HEM)</strong>
 </p>
 </td>
 </tr>
