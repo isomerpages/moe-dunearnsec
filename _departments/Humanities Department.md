@@ -238,7 +238,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher </strong>
+<p><strong>Teacher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,35 +338,14 @@ yet, able to stay rooted within the society with sound values.</p>
 <h4>External Competition / Events / Programme</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>A team of Secondary 3 students participated in the 2025 EBS competition
-organised by Holy Innocents High. The competition used interactive online
-games on SLS to teach students about the travel, retail, and hospitality
-industries. The event aimed to develop their understanding of operations,
-customer service, and the marketing mix, while having them apply critical
-thinking and teamwork to real-world scenarios.</p>
-</li>
-<li>
-<p>Two of our Secondary 3 students were invited to attend A Day In A Court
-(AIDC) student seminar. At the end of the seminar, students learnt more
-about the role of the Singapore Courts in the Singapore legal system, and
-how the Courts manage certain types of cases.</p>
+<p>A team of Secondary 3 students participated in the Earth Alive Inter-School
+Challenge, a geography-themed competition organised by the Earth Observatory
+of Singapore (EOS) at NTU Singapore and Science Centre Singapore. The Challenge
+aims to expand talent development in Geography in Singapore by engaging
+youth on natural hazards and climate change.&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SG_Courts.jpg">
-</div>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our Secondary 3 POA &amp; EBS students participated in the Fly Competition
-organised by Republic Polytechnic. The competition exposes students to
-financial literacy concepts through participation of FLY competition organized
-by RP. One of our team emerged as 2<sup>nd</sup> Runner-Up! Congratulations!</p>
-</li>
-</ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1_Humanities.jpg">
-</div>
 <p></p>
