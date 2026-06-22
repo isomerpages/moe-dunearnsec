@@ -98,7 +98,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Lower Sec)</strong>
+<p><strong>Year Head (Upper Sec)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
