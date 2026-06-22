@@ -66,34 +66,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Veronica Koh</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SH Geography</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Geography</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lailtha Savathan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ST Geography</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Geography, Social Studies</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mrs Hazel Lee</strong>
 </p>
 </td>
@@ -122,11 +94,25 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Soon Suan Boon</strong>
+<p><strong>Mrs Amy Yeo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SH Student Management</strong>
+<p><strong>Year Head (Upper Sec)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Elements of Business Skills, History</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Veronica Koh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Geography</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,15 +122,29 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sohail Basiron</strong>
+<p><strong>Ms Elydia Azman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>SH Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lailtha Savathan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Geography</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geography, Social Studies (HEM)</strong>
 </p>
 </td>
 </tr>
@@ -178,6 +178,20 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Lam Hiu Yan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>History, Social Studies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Anthony Teo Yi Jie</strong>
 </p>
 </td>
@@ -200,7 +214,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>History</strong>
+<p><strong>History, English Language</strong>
 </p>
 </td>
 </tr>
@@ -220,25 +234,11 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Siraj Ansari</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>History, Social Studies</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Siti Balqis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher (FAJT)</strong>
+<p><strong>Teacher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,7 +248,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Neo Yu Zhe</strong>
+<p><strong>Mdm Cheung Zhi Xuan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>History, Social Studies</strong>
+<p><strong>Social Studies</strong>
 </p>
 </td>
 </tr>
@@ -276,29 +276,29 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Cindy Goh</strong>
+<p><strong>Ms Ong Choo Suan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>Teacher (UT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Principles of Accounts</strong>
+<p><strong>Principles of Accounts, Elements of Business Skills (EBS)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Betsy Tan Jia Min</strong>
+<p><strong>Mr Kwoh Shuen Wey</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>Teacher (UT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Social Studies</strong>
+<p><strong>Elements of Business Skills (EBS)</strong>
 </p>
 </td>
 </tr>
@@ -317,70 +317,67 @@ yet, able to stay rooted within the society with sound values.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Geographical Investigation: How do human activities affect water
-quality around ​Dunearn Secondary School?</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/4_Humanities.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 2 Historical Investigation @ Cathay Building to National Gallery Singapore</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/3_Humanities.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 2 Geographical Investigation: Using Geographic Information Systems
-(GIS) to explore and view the various amenities and facilities available
-in Bukit Batok Town. ​</p>
+<p>Sec 1 Geographical Investigation @ Sungei Buloh Wetland Reserve</p>
 </li>
 <li>
-<p>Sec 3 EBS Learning Journey @ West Mall: Business Investigation</p>
+<p>Sec 2 Historical Investigation @ Tiong Bahru Neighbourhood</p>
 </li>
 <li>
-<p>Sec 4 EBS Learning Journey @ Westgate: Business Investigation</p>
+<p>Sec 2 Geographical Investigation @ Kampong Admiralty</p>
+</li>
+<li>
+<p>Sec 3 Cohort Learning Journey @ T5 In the Making Exhibition</p>
+</li>
+<li>
+<p>Sec 3 POA Learning Journey @ Jem/Westgate</p>
+</li>
+<li>
+<p>Sec 3&amp;4 EBS Learning Journey @ Jem/Westgate: Business Investigation</p>
 </li>
 </ul>
 <h4>External Competition / Events / Programme</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>A team of Secondary 3 students participated in the 2025 EBS competition
-organised by Holy Innocents High. The competition used interactive online
-games on SLS to teach students about the travel, retail, and hospitality
-industries. The event aimed to develop their understanding of operations,
-customer service, and the marketing mix, while having them apply critical
-thinking and teamwork to real-world scenarios.</p>
+<p>A team of Secondary 3 students participated in the Earth Alive Inter-School
+Challenge, a geography-themed competition organised by the Earth Observatory
+of Singapore (EOS) at NTU Singapore and Science Centre Singapore. The Challenge
+aims to expand talent development in Geography in Singapore by engaging
+youth on natural hazards and climate change.&nbsp;</p>
 </li>
 <li>
-<p>Two of our Secondary 3 students were invited to attend A Day In A Court
+<p>Four of our Secondary 4 students participated in the NUS Geography Challenge,
+an annual competition designed to ignite the passion of secondary school
+students, inspiring them to develop a keen interest in the dynamic discipline
+of Geography. Through this challenge, participants explore world issues
+and learn how Geography can empower them to address contemporary challenges.</p>
+</li>
+<li>
+<p>Two teams of Secondary 3 students participated in the 11th National War
+and Diplomacy History Card Game Challenge organized by Bendemeer Secondary
+School. The challenge offers students meaningful learning opportunities
+to enhance their historical understanding and critical thinking. Through
+navigating historical scenarios and experiencing the pressures and dilemmas
+faced by leaders of that time, students will deepen their qualities as
+empathetic, reasoned and knowledgeable history learners.</p>
+</li>
+<li>
+<p>Five of our Secondary 3 students were invited to attend A Day In A Court
 (AIDC) student seminar. At the end of the seminar, students learnt more
 about the role of the Singapore Courts in the Singapore legal system, and
 how the Courts manage certain types of cases.</p>
 </li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SG_Courts.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Our Secondary 3 POA &amp; EBS students participated in the Fly Competition
-organised by Republic Polytechnic. The competition exposes students to
-financial literacy concepts through participation of FLY competition organized
-by RP. One of our team emerged as 2<sup>nd</sup> Runner-Up! Congratulations!</p>
+<p>A team of our Secondary 3 EBS students participated in the Elements of
+Business Skills (EBS) Competitions 2026, which is an annual competition
+organised mainly by Holy Innocents’ High School. The competition is designed
+to test students' entrepreneurial and financial literacy, the event features
+various segments, including the signature EBS Amazing Race and individual
+communication skills challenges.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1_Humanities.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>
