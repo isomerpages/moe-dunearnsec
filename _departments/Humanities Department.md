@@ -102,7 +102,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Geography</strong>
+<p><strong>Elements of Business Skills, History</strong>
 </p>
 </td>
 </tr>
