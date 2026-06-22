@@ -66,34 +66,6 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Veronica Koh</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>SH Geography</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Geography</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lailtha Savathan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ST Geography</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Geography, Social Studies</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mrs Hazel Lee</strong>
 </p>
 </td>
@@ -122,11 +94,11 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Soon Suan Boon</strong>
+<p><strong>Mrs Amy Yeo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SH Student Management</strong>
+<p><strong>Year Head (Lower Sec)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,15 +108,43 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sohail Basiron</strong>
+<p><strong>Mrs Veronica Koh</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>SH Geography</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Elydia Azman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SH Student Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geography</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lailtha Savathan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ST Geography</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geography, Social Studies</strong>
 </p>
 </td>
 </tr>
@@ -178,6 +178,20 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Lam Hiu Yan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>History, Social Studies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Anthony Teo Yi Jie</strong>
 </p>
 </td>
@@ -200,7 +214,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>History</strong>
+<p><strong>History, English Language</strong>
 </p>
 </td>
 </tr>
