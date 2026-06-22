@@ -234,25 +234,11 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Siraj Ansari</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>History, Social Studies</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Siti Balqis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher (FAJT)</strong>
+<p><strong>Teacher </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,7 +248,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Neo Yu Zhe</strong>
+<p><strong>Mdm Cheung Zhi Xuan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +256,7 @@ yet, able to stay rooted within the society with sound values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>History, Social Studies</strong>
+<p><strong>Social Studies</strong>
 </p>
 </td>
 </tr>
@@ -290,29 +276,29 @@ yet, able to stay rooted within the society with sound values.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Cindy Goh</strong>
+<p><strong>Ms Ong Choo Suan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>Teacher (UT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Principles of Accounts</strong>
+<p><strong>Principles of Accounts, Elements of Business Skills (EBS)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Betsy Tan Jia Min</strong>
+<p><strong>Mr Kwoh Shuen Wey</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
+<p><strong>Teacher (UT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Social Studies</strong>
+<p><strong>Elements of Business Skills (EBS)</strong>
 </p>
 </td>
 </tr>
@@ -331,36 +317,22 @@ yet, able to stay rooted within the society with sound values.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Geographical Investigation: How do human activities affect water
-quality around ​Dunearn Secondary School?</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/4_Humanities.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 2 Historical Investigation @ Cathay Building to National Gallery Singapore</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/3_Humanities.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 2 Geographical Investigation: Using Geographic Information Systems
-(GIS) to explore and view the various amenities and facilities available
-in Bukit Batok Town. ​</p>
+<p>Sec 1 Geographical Investigation @ Sungei Buloh Wetland Reserve</p>
 </li>
 <li>
-<p>Sec 3 EBS Learning Journey @ West Mall: Business Investigation</p>
+<p>Sec 2 Historical Investigation @ Tiong Bahru Neighbourhood</p>
 </li>
 <li>
-<p>Sec 4 EBS Learning Journey @ Westgate: Business Investigation</p>
+<p>Sec 2 Geographical Investigation @ Kampong Admiralty</p>
+</li>
+<li>
+<p>Sec 3 Cohort Learning Journey @ T5 In the Making Exhibition</p>
+</li>
+<li>
+<p>Sec 3 POA Learning Journey @ Jem/Westgate</p>
+</li>
+<li>
+<p>Sec 3&amp;4 EBS Learning Journey @ Jem/Westgate: Business Investigation</p>
 </li>
 </ul>
 <h4>External Competition / Events / Programme</h4>
