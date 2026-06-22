@@ -342,7 +342,39 @@ yet, able to stay rooted within the society with sound values.</p>
 Challenge, a geography-themed competition organised by the Earth Observatory
 of Singapore (EOS) at NTU Singapore and Science Centre Singapore. The Challenge
 aims to expand talent development in Geography in Singapore by engaging
-youth on natural hazards and climate change.&nbsp;&nbsp;</p>
+youth on natural hazards and climate change.&nbsp;</p>
+</li>
+<li>
+<p>Four of our Secondary 4 students participated in the NUS Geography Challenge,
+an annual competition designed to ignite the passion of secondary school
+students, inspiring them to develop a keen interest in the dynamic discipline
+of Geography. Through this challenge, participants explore world issues
+and learn how Geography can empower them to address contemporary challenges.</p>
+</li>
+<li>
+<p>Two teams of Secondary 3 students participated in the 11th National War
+and Diplomacy History Card Game Challenge organized by Bendemeer Secondary
+School. The challenge offers students meaningful learning opportunities
+to enhance their historical understanding and critical thinking. Through
+navigating historical scenarios and experiencing the pressures and dilemmas
+faced by leaders of that time, students will deepen their qualities as
+empathetic, reasoned and knowledgeable history learners.</p>
+</li>
+<li>
+<p>Five of our Secondary 3 students were invited to attend A Day In A Court
+(AIDC) student seminar. At the end of the seminar, students learnt more
+about the role of the Singapore Courts in the Singapore legal system, and
+how the Courts manage certain types of cases.</p>
+</li>
+<li>
+<p>A team of our Secondary 3 EBS students participated in the Elements of
+Business Skills (EBS) Competitions 2026, which is an annual competition
+organised mainly by Holy Innocents’ High School. The competition is designed
+to test students' entrepreneurial and financial literacy, the event features
+various segments, including the signature EBS Amazing Race and individual
+communication skills challenges.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </li>
 </ul>
 <p></p>
