@@ -44,6 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lee Jiah Zhung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 AMBER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Jie Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,6 +84,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Pan Wuxin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 PEARL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Syakira Binte Zainudin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Gek Kuan</p>
+<p>Ms Siti Balqis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 OPAL</p>
@@ -140,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Goh</p>
+<p>Mrs Raudhah Binte Mohammad Rizal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 TOPAZ</p>
@@ -181,6 +197,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ying Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 DIAMOND</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Hakim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 DIAMOND</p>
@@ -284,6 +308,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cheung Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 AMBER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chaimaine Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,6 +325,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 DIAMOND</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Choo Suan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 DIAMOND</p>
@@ -340,7 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Rusyaidi Bin Rasiman (UT)</p>
+<p>Ms Nur Dhaniah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 RUBY</p>
