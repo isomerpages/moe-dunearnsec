@@ -12,274 +12,274 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of staff</p>
+<p>Name of staff&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Beng Mui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
+<p>Designation&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jimmy Lee</p>
+<p>Soh Beng Mui&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vikneswari Rajenthiran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Principal&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yap Kwee Chye</p>
+<p>Vikneswari Rajenthiran&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norlizah Yamaludin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Vice Principal&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Low</p>
+<p>Yap Kwee Chye&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jayakumar s/o Chitharasu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager 2</p>
+<p>Vice Principal (Admin)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lawrence Tan Yong Chong</p>
+<p>Norlizah Bte Yamaludin&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nick Lee Kong Huat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>Administration Manager&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Chee Kuan</p>
+<p>Low Wai Fatt Steven @Rafiq Abdullah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Angela Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD English &amp; Literature</p>
+<p>Operations Manager&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Tai</p>
+<p>Jayakumar Thevar&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chin Yi Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>Operations Manager&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rajasekaran s/o Sockalingam</p>
+<p>Tan Yong Chong Lawrence&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fatimah Sawifi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Aesthetic</p>
+<p>School Staff Developer&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Marlina</p>
+<p>Lee Kong Huat, Nick&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Hazel Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Educational Support</p>
+<p>Year Head (Upper Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Khaidir</p>
+<p>Ong Siew Har, Amy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Wei Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>Year Head (Sec 3)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chit Siong</p>
+<p>Tang Chee Kuan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE and CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Rajanmi Fernandez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher&nbsp;(English)</p>
+<p>Year Head (Lower Sec)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yi Qiao</p>
+<p>Angela Ng Shi Qi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yasmeen Aysha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)&nbsp;</p>
+<p>HOD English &amp; Literature&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Ying Fang</p>
+<p>Tai Li Jen, Sharon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Nazrul Hadi Bin Jamali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Student Well-being</p>
+<p>HOD Mother Tongue&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soon Suan Boon</p>
+<p>Chin Yi Mei&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Seah-Chua Gek Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Mathematics 1</p>
+<p>HOD Science&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan</p>
+<p>Rajasekaran s/o Sockalingam&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Mathematics 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Veronica Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Geography</p>
+<p>HOD Mathematics&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wayne Tan</p>
+<p>Fatimah Bte Sawifi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vu Tien Dat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>HOD Aesthetic&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thng Guan Heng</p>
+<p>Dewi Marlina Putri Chumali&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Design &amp; Technology</p>
+<p>HOD Humanities&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elydia Binte Azman</p>
+<p>Koh Chit Siong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>HOD PE and CCA&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hazel Hong Wen Ee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Educational Support&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Khaidir Bin Abdul Rahman&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Wei Beng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Infocomm &amp; Technology&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Yi Qiao&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Sec)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yasmeen Aysha&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Sec) &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Ying Fang&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Chinese Language&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Gek Hoon&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH Lower Sec Math&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Whye Lin Yvonne&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lam Shy Wei, Veronica&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geography&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wayne Tan Yin Ta&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH English &amp; Literature&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Wei Kwok Alvin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE, Physical Education&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thng Guan Heng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Design &amp; Technology&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nazrul Hadi Bin Jamali&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Well-being&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elydia Binte Azman&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vu Tien Dat&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Infocomm &amp; Technology&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Erwin Soo Kar Whye&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Mgr, Infocomm &amp; Technology&nbsp;</p>
 </td>
 </tr>
 </tbody>
