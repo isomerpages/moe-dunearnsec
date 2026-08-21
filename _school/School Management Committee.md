@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Gek Hoon&nbsp;</p>
+<p>Seah Gek Hoon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH Lower Sec Math&nbsp;</p>
